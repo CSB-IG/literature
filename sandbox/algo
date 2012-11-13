@@ -1,0 +1,29 @@
+Emacs basics:
+
+To cut (kill) the text: C-w
+
+To copy the text: M-w
+
+To paste (yank) the text: C-y
+
+Save file buffer: C-x C-s
+
+Undo: C-x u
+
+Hola....
+
+Emacs para todos
+
+Open another window same contents as the firts one, C-x 2; C-x 3
+
+Back to one window only: C-x 1
+
+Write text to an alternate name (save-as): C-x C-w
+
+Find alternate file: C-x C-v
+
+Kill buffer: C-x 
+
+Highligt region: C-space bar
+
+Alt-x eshell
