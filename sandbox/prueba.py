@@ -2,6 +2,7 @@
 import matplotlib
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
+import pprint
 
 import pylab as pl
 import random as rd
