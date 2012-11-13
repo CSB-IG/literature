@@ -10,6 +10,7 @@ import scipy as sp
 import networkx as nx
 import math as mt
 
+##pprint anadido
 
 """Código de def_agentes, que genera y define los agentes de la población inicial en researchers (0)  y clinicians (1)."""
 
