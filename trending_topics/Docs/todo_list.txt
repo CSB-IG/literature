@@ -1,0 +1,38 @@
+Pipeline
+
+To concatenate medline files (47 files) to generate the metamedline file
+Concaternar medlines (47 archivos).
+
+Metamedline se le aplica parse_input.py
+To run parse_input.py to me
+
+Genera la red completa con años, pares de mesh-terms, id's.
+
+Hacer sort por peso del par. 
+
+Linea de trabajo 1:
+	
+	Grepear por año, hacer cuantos archivos salgan por la cantidad de años que existan en el registro de metamedline.
+	Para cada uno de estos archivos, pasar count_pairs.py
+	Linea 1.1
+		Extraer los top 1000 pares de nodos (tomando en cuenta que son los más conectados, incluyendo algunos con muy pocos nodos) -visualizar.
+	Linea 1.2 
+		Extraer una muestra aleatoria y significativa de cada archivo (visualizar)
+	Linea 1.3 
+		Analizar cada una de las redes (cada archivo por entero), sin visualización.
+
+Linea de trabajo 2:
+	A metared aplicar los análisis.
+	Linea 2.2 
+		Extraer una muestra aleatoria y significativa de cada archivo (visualizar)
+
+-----------------------------------------------------------------------------------------------------------------
+To-do
+
+Modificar count_pairs.py para no imprimir duplicados y self-loops.
+
+Indagar parámetros para regular el tamaño del canvas (matplotlib)
+
+Obtener cálculo para muestra significativa (para nodos y para vinculos)
+
+
