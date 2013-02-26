@@ -80,15 +80,22 @@ def draw():
     pl.title('t = ' + str(time))
     plt.show()
 
-
+"""These three function could become a module called fitness to be imported"""
 def ws():
-	for n in researchers:
-		for j in g.neighbors(node):
-			f=g.node[node]['ws']=g.in_degree(node)*float(1)/g.in_degree(j)
-			print [f]
+	fitness_ws=g.node[node]['ws']=[g.in_degree(node)*float(1)/g.in_degree(j) for node in researchers for j in g.neighbors(node)]
+	return fitness_ws
+a=ws()
 
-for n in net.nodes():
-	cw=[net.degree(i) for i in clinicians]
+def cw():
+	for node in net.nodes():
+		fitness_cw=g.node[node]['ws']=[net.degree(i) for i in clinicians]
+		return fitness_cw
+b=cw()
+
+def w(a, b):
+	fitness=a+b
+	return fitness
+	
 		 #cw is for clinicians fitness/ I just have made it into a list. It needs to be tested. The idea is to create a list of in_degrees for clinicians, since this is their fitness.
 
 w = ws + cw #w stands for fitness. This merges the two fitness lists that will be introduced to def fitness(options, w) 
