@@ -1,0 +1,16 @@
+1;Eugenics;Eugenics
+1;Eugenics;Genetic_Testing/psychology
+1;Eugenics;Human_Genome_Project
+1;Eugenics;Humans
+1;Genetic_Testing/psychology;Eugenics
+1;Genetic_Testing/psychology;Genetic_Testing/psychology
+1;Genetic_Testing/psychology;Human_Genome_Project
+1;Genetic_Testing/psychology;Humans
+1;Human_Genome_Project;Eugenics
+1;Human_Genome_Project;Genetic_Testing/psychology
+1;Human_Genome_Project;Human_Genome_Project
+1;Human_Genome_Project;Humans
+1;Humans;Eugenics
+1;Humans;Genetic_Testing/psychology
+1;Humans;Human_Genome_Project
+1;Humans;Humans
