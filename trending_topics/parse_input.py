@@ -1,7 +1,7 @@
 ##Busca los mesh terms en un archivo local y genera la red mesh term-PMID-mesh term
 from Bio import Medline
 import pprint
-input = open("/home/rgarcia/Trending_topics/medline/00.txt")
+input = open("/home/rgarcia/medline/00.txt")
 records = Medline.parse(input)
 for record in records:
 	for term_a in record['MH']:
