@@ -1,0 +1,22 @@
+Elixir, basado en SA
+http://elixir.ematia.de/trac/wiki/TutorialDivingIn
+
+
+Quick ORM, basado en SA, usa decoradores para expresar relaciones entre tablas
+https://pypi.python.org/pypi/quick_orm
+
+
+Storm
+Hay que declarar la tabla y además crearla en la base de datos.
+https://storm.canonical.com/Tutorial#Creating_a_database_and_the_store
+
+
+
+SQLObject
+Lo de Dynamic clases se ve interesante para integrarlo con parsediasql
+http://www.sqlobject.org/SQLObject.html#many-to-many-relationships
+
+
+Peewee
+Buen API, mal nombre
+https://github.com/coleifer/peewee
