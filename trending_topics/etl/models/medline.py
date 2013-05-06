@@ -22,6 +22,7 @@ class Citation(Entity):
     languages                   = ManyToMany('Language')
 
     def __repr__(self):
+        title = self.article_title[:35] + (self.article_title[35:] and '..')
         return '<Cit #%d %s>' % (self.pmid, self.article_title)
 
 
