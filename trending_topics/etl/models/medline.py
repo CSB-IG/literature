@@ -66,9 +66,20 @@ class Language(Entity):
     def __repr__(self):
         return '<Language #%d %s>' % (self.id, self.language)
 
-# class Meshterm(Entity):
-#     msh_id = Field(Integer, primary_key=True)
-#     term   = Field(UnicodeText)
+
+
+class TermCitation(Entity):
+    parent_id = OneToOne('TermCitation')
+    term      = OneToOne('Meshterm')
+
+class Meshterm(Entity):
+    term     = Field(UnicodeText) 
+    branches = OneToMany('Meshtree')
+
+class Meshtree(Entity):
+    branch = Field(UnicodeText)
+    term   = ManyToOne('Meshterm')
+
 #     major  = Field(Boolean)
 #     other  = Field(Boolean)
 
