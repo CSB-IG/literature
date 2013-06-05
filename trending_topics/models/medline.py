@@ -43,8 +43,8 @@ class Author(Entity):
     full_name = Field(UnicodeText) # FAU
     citations = ManyToMany('Citation')
     def __repr__(self):
-        return '<Author #%d %s>' % (self.id, self.name)
-
+        #return '<Author #%d %s>' % (self.id, self.name)
+        return '%s' % self.name
 
 class Journal(Entity):
     jid  = Field(Integer) # JID
@@ -68,17 +68,17 @@ class Language(Entity):
 
 
 
-class TermCitation(Entity):
-    parent_id = OneToOne('TermCitation')
-    term      = OneToOne('Meshterm')
+# class TermCitation(Entity):
+#     parent_id = OneToOne('TermCitation')
+#     term      = OneToOne('Meshterm')
 
-class Meshterm(Entity):
-    term     = Field(UnicodeText) 
-    branches = OneToMany('Meshtree')
+# class Meshterm(Entity):
+#     term     = Field(UnicodeText) 
+#     branches = OneToMany('Meshtree')
 
-class Meshtree(Entity):
-    branch = Field(UnicodeText)
-    term   = ManyToOne('Meshterm')
+# class Meshtree(Entity):
+#     branch = Field(UnicodeText)
+#     term   = ManyToOne('Meshterm')
 
 #     major  = Field(Boolean)
 #     other  = Field(Boolean)
