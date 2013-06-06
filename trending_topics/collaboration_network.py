@@ -15,60 +15,65 @@ import pprint
 
 
 random.seed()
-time = []
-net = nx.Graph()
+
+pos_old_net = {}
+
 
 def init():
-    global time, net, metadata, day
-
+    global metadata, net, pos_old_net, citation_calendar, dates, date
+    net = nx.Graph()
+    
     metadata.bind = 'sqlite:///medline.sqlite'
     setup_all()
 
-    # get all distinct dates from citation table
-    time = [c.date_created for c in Citation.query.all()]
-    time = set(time)
-    time = list(time)
-    time.sort(reverse=True)
-    day = time[-1]
+    citations = Citation.query.filter(Citation.article_title.ilike(u"%cancer%")).all()
 
+    # assemble calendar
+    citation_calendar = {}
+    for c in citations:
+        if len(c.authors) > 0:
+            if c.date_created in citation_calendar:
+                citation_calendar[c.date_created][c.pmid] = c.authors
+            else:
+                citation_calendar[c.date_created] = {c.pmid: c.authors} 
 
-init()
+    dates = citation_calendar.keys()
+    dates.sort(reverse=True)
+    date = dates[-1]
+    pos_old_net = nx.layout.fruchterman_reingold_layout(net)
 
-
-#nx.draw(net)
-#pl.show()
+# init()
+# nx.draw(net)
+# pl.show()
 
 
 def draw():
-    global day
+    global net,pos_old_net,date
     pl.cla()
+    pos_net = nx.layout.fruchterman_reingold_layout(net, pos=pos_old_net, iterations=11)
     nx.draw(net,
-            pos = nx.fruchterman_reingold_layout(net),
-            with_labels = True, edge_color = 'c',
-            cmap = pl.cm.RdBu,
-            vmin = 0, vmax = 1)
+            pos = pos_net,
+            node_size = [1 for n in net.nodes()],
+            with_labels = False, edge_color = 'c', )
+#            cmap = pl.cm.RdBu, )
+#            vmin = 0, vmax = 1)
     pl.axis('image')
-    pl.title('t = ' + str(day))
-    plt.show() 
+    pl.title('t = ' + str(date))
+    plt.show()
+    pos_old_net = pos_net
 
 
 def step(): 
-    global time, net, day
+    global net, citation_calendar, dates, date, pos_old_net
 
-    # one day at a time
-    day = time.pop()
-
-    # fetch citations for that day
-    for cit in Citation.query.filter_by(date_created=day).all():
-        # add authors as nodes to the network
-        for author in cit.authors:
-            net.add_node(author)
-
-        # add edges
-        for author1 in cit.authors:
-            for author2 in cit.authors:
-                net.add_edge(author1, author2)                
-            
+    date=dates.pop()
+    
+    for pmid in citation_calendar[date]:
+        for author1 in citation_calendar[date][pmid]:
+            for author2 in citation_calendar[date][pmid]:
+                net.add_edge(author1, author2, pmid=pmid)            
 
 import pycxsimulator
+pycxsimulator.GUI.timeInterval = 0
 pycxsimulator.GUI().start(func = [init, draw, step])
+
