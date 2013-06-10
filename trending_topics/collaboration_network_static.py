@@ -26,7 +26,7 @@ def init():
     metadata.bind = 'sqlite:///medline.sqlite'
     setup_all()
 
-    citations = Citation.query.filter(Citation.article_title.ilike(u"%cancer%")).all()
+    citations = Citation.query.all() # filter(Citation.article_title.ilike(u"%cancer%")).all()
 
     # assemble calendar
     citation_calendar = {}
@@ -50,12 +50,14 @@ def draw(date):
     nx.draw(net,
             pos = pos_net,
             node_size = [1 for n in net.nodes()],
-            with_labels = False, edge_color = 'c', )
+            with_labels = False, edge_color = '#336699',
+            node_color = '#000000',
+            alpha=.5,)
 #            cmap = pl.cm.RdBu, )
 #            vmin = 0, vmax = 1)
     pl.axis('image')
     pl.title(str(date))
-    plt.savefig(str(date)+'.png')
+    plt.savefig('todo/'+str(date)+'.png')
     pos_old_net = pos_net
 
 
@@ -91,5 +93,6 @@ dd = [d1 + timedelta(days=x) for x in range((d2-d1).days + 1)]
     
 
 for date in dates:
+    print date
     step(date)
     draw(date)
