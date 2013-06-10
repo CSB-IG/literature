@@ -6,7 +6,7 @@ import time, datetime
 import pprint
 from sqlalchemy.exc import IntegrityError
 
-metadata.bind = 'sqlite:///data/medline.sqlite'
+metadata.bind = 'mysql+oursql://caopsci:G@localhost/medline'
 
 setup_all()
 create_all()
