@@ -4,11 +4,11 @@ from elixir import *
 
 class Citation(Entity):
     pmid                        = Field(Integer, primary_key=True) # PMID
-    article_title               = Field(UnicodeText(65534)) # TI
-    affiliation                 = Field(UnicodeText(65534)) # AD
+    article_title               = Field(UnicodeText(5534)) # TI
+
     abstract                    = Field(UnicodeText(65534)) # AB
-    pagination                  = Field(UnicodeText(65534)) # PG
-    copyright_information       = Field(UnicodeText(65534)) # CI
+    pagination                  = Field(UnicodeText(1534)) # PG
+    copyright_information       = Field(UnicodeText(5534)) # CI
 
     # dates
     date_created                = Field(DateTime) # CRDT
@@ -21,7 +21,10 @@ class Citation(Entity):
     pub_types                   = ManyToMany('PubType')    
     authors                     = ManyToMany('Author')    
     languages                   = ManyToMany('Language')
+    affiliation                 = ManyToOne('Organization') # AD
 
+    meshterms                   = ManyToMany('TermCitation')
+    
     def country(self):
         return self.journal.country
 
@@ -30,13 +33,15 @@ class Citation(Entity):
         return '<Cit #%d %s>' % (self.pmid, self.article_title)
 
 
-    # terms                       = relationship("Meshterm",
-    #                                            secondary=citation_meshterm,
-    #                                            backref="parents")
+
+
+class Organization(Entity):
+    name      = Field(UnicodeText(2000))
+    citations = OneToMany('Citation')
 
 
 class PubType(Entity):
-    pub_type = Field(UnicodeText(65534)) # PT
+    pub_type = Field(UnicodeText(534)) # PT
     citations = ManyToMany('Citation',
                            tablename='pub_type_citation')    
 
@@ -44,29 +49,29 @@ class PubType(Entity):
         return '<PubType #%d %s>' % (self.id, self.pub_type)
 
 class Author(Entity):
-    name      = Field(UnicodeText(65534)) # AU
-    full_name = Field(UnicodeText(65534)) # FAU
+    name      = Field(UnicodeText(534)) # AU
+    full_name = Field(UnicodeText(534)) # FAU
     citations = ManyToMany('Citation')
     def __repr__(self):
         return '<Author #%d %s>' % (self.id, self.name)
-        #return '%s' % self.name
+
 
 class Journal(Entity):
-    jid  = Field(UnicodeText(65534)) # JID
-    issn = Field(UnicodeText(65534)) # IS
-    volume = Field(UnicodeText(65534)) # VI
-    issue = Field(UnicodeText(65534)) # IP
+    jid  = Field(UnicodeText(534)) # JID
+    issn = Field(UnicodeText(1534)) # IS
+    volume = Field(UnicodeText(534)) # VI
+    issue = Field(UnicodeText(534)) # IP
     pub_date = Field(DateTime) # 
-    title = Field(UnicodeText(65534)) # JT
-    iso_abbreviation = Field(UnicodeText(65534)) # TA
-    country = Field(UnicodeText(65534)) # PL
+    title = Field(UnicodeText(5534)) # JT
+    iso_abbreviation = Field(UnicodeText(534)) # TA
+    country = Field(UnicodeText(534)) # PL
     citations = OneToMany('Citation')
     def __repr__(self):
         return '<Journal #%d %s>' % (self.id, self.title)
 
 
 class Language(Entity):
-    language = Field(UnicodeText(65534)) # LA
+    language = Field(UnicodeText(534)) # LA
     citations = ManyToMany('Citation',
                            tablename='lan_cit')
     def __repr__(self):
@@ -74,25 +79,53 @@ class Language(Entity):
 
 
 
-# class TermCitation(Entity):
-#     parent_id = OneToOne('TermCitation')
-#     term      = OneToOne('Meshterm')
+class Subheading(Entity):
+    sh    = Field(UnicodeText(534))
+    cited = OneToMany('SubheadingTerm')
+    def __repr__(self):
+        return '<SH #%d %s>' % (self.id, self.sh)
 
-# class Meshterm(Entity):
-#     term     = Field(UnicodeText(65534)) 
-#     branches = OneToMany('Meshtree')
+    
+class SubheadingTerm(Entity):
+    sh = ManyToOne('Subheading')
+    termcitation = ManyToOne('TermCitation')
+    major = Field(Boolean)
+    def __repr__(self):
+        if self.major:
+            return '<SH #%d *%s @ %s>' % (self.id, self.sh.term, self.termcitation.term)
+        else:
+            return '<SH #%d %s @ %s>' % (self.id, self.sh.term, self.termcitation.term)             
 
-# class Meshtree(Entity):
-#     branch = Field(UnicodeText(65534))
-#     term   = ManyToOne('Meshterm')
 
-#     major  = Field(Boolean)
-#     other  = Field(Boolean)
+class Meshterm(Entity):
+    term     = Field(UnicodeText(534)) 
+    branches = OneToMany('Branch')
+    cited    = OneToMany('TermCitation')
+    def __repr__(self):
+        return '<MshTrm #%d %s>' % (self.id, self.term)
+
+
+class Branch(Entity):
+    branch = Field(UnicodeText(1534))
+    term   = ManyToOne('Meshterm')
+    def __repr__(self):
+        return '<branch #%d %s @ %s>' % (self.id, self.branch, self.term.term)
+
+
+class TermCitation(Entity):
+    major       = Field(Boolean)
+    term        = ManyToOne('Meshterm')
+    subheadings = OneToMany('SubheadingTerm')
+    citation    = ManyToOne('Citation')
+    def __repr__(self):
+        if self.major:
+            return '<MH #%d *%s @ %s>' % (self.id, self.term.term, self.citation.pmid)
+        else:
+            return '<MH #%d %s @ %s>' % (self.id, self.term.term, self.citation.pmid)    
 
 
 
-# class Subheading(Entity):
-#     sh_id    = Field(Integer, primary_key=True)
-#     term     = Field(UnicodeText(65534))
-#     major    = Field(Boolean)
-#     meshterm = Field(Integer, ForeignKey('meshterm.msh_id'))
+
+
+
+

@@ -26,6 +26,8 @@ def get_or_create( model, fields):
     return instance
 
 
+
+
 #
 # abrimos archivo plano
 #
@@ -39,8 +41,6 @@ for r in records:
 
         if 'TI' in r.keys():
             cit.article_title         = r['TI'] 
-        if 'AD' in r.keys():
-            cit.affiliation           = r['AD'] 
         if 'AB' in r.keys():
             cit.abstract              = r['AB'] 
         if 'PG' in r.keys():
@@ -87,6 +87,12 @@ for r in records:
                 cit.languages.append( l )
 
 
+        # affiliation
+        if 'AD' in r.keys():
+            organization    = get_or_create(Organization, { 'name': r['AD'] } )
+            cit.affiliation = organization
+
+
         # journal
         if 'JID' in r.keys():
             if 'IS' in r.keys():
@@ -112,6 +118,43 @@ for r in records:
                                                'country' : r['PL'] } )
             cit.journal = journal
 
+
+        # meshterms
+        for term in r['MH']:
+            term_subs = term.split('/')
+            if term_subs[0].startswith('*'):
+                mh = Meshterm.get_by(term=term_subs[0][1:])
+                major = True
+            else:
+                mh = Meshterm.get_by(term=term_subs[0])
+                major = False
+                
+            tc          = TermCitation()
+            tc.term     = mh
+            tc.major    = major
+            tc.citation = cit
+            tc.merge()
+            
+            session.commit()
+
+            if len(term_subs) > 1:
+                for subterm in term_subs[1:]:
+                    if subterm.startswith('*'):
+                        major = True
+                        subterm = subterm[1:]
+                    else:
+                        major = False
+                        
+                    sh = get_or_create( Subheading, {'sh': subterm} )
+                    sht = SubheadingTerm( sh           = sh,
+                                          termcitation = tc,
+                                          major        = major )
+                    sht.merge()
+                    tc.subheadings.append(sht)
+                session.commit()
+                
+            cit.meshterms.append(tc)
+
         session.commit()
     except IntegrityError as e:
         pprint.pprint(e)
@@ -120,50 +163,3 @@ for r in records:
         print
         session.rollback()
         
-    # mesh terms
-    # if 'MH' in r.keys():
-    #     for mh in r['MH']:
-    #         for i, subterm in  enumerate(mh.split('/')):
-
-    #             if subterm[0] == '*':
-    #                 major = True
-    #             else:
-    #                 major = False
-
-    #             if i == 0:
-    #                 msh = get_or_create( session, Meshterm,
-    #                                      term = subterm,
-    #                                      major = major,
-    #                                      other = False)
-    #                 session.commit()
-    #             else:
-    #                 sh = get_or_create( session, Subheading,
-    #                                     term = subterm,
-    #                                     major = major,
-    #                                     meshterm = msh.msh_id)
-
-    #     cit.terms.append(mh)
-
-    # # other terms
-    # if 'OT' in r.keys():
-    #     for mh in r['OT']:
-    #         for i, subterm in  enumerate(mh.split('/')):
-
-    #             if subterm[0] == '*':
-    #                 major = True
-    #             else:
-    #                 major = False
-
-    #             if i == 0:
-    #                 msh = get_or_create( session, Otherterm,
-    #                                      term = subterm,
-    #                                      major = major,
-    #                                      other = True)
-    #                 session.commit()
-    #             else:
-    #                 sh = get_or_create( session, Subheading,
-    #                                     term = subterm,
-    #                                     major = major,
-    #                                     meshterm = msh)
-
-
