@@ -156,10 +156,10 @@ for r in records:
             cit.meshterms.append(tc)
 
         session.commit()
+        print "loaded pmid %s" % cit.pmid
     except IntegrityError as e:
+        print "error trying to load %s" % r['PMID']
         pprint.pprint(e)
-        print r
-        print
-        print
+        pprint.pprint(r)
         session.rollback()
         
