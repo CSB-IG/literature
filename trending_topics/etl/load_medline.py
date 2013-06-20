@@ -5,6 +5,9 @@ from models.medline import *
 import time, datetime
 import pprint
 from sqlalchemy.exc import IntegrityError
+import sys
+
+medline_input = sys.argv[1]
 
 metadata.bind = 'mysql+oursql://caopsci:G@localhost/medline'
 
@@ -12,18 +15,21 @@ setup_all()
 create_all()
 
 
-def get_or_create( model, fields):
+from elixir import Entity
 
-    q = model.query.filter_by(**fields)
-    
-    if q.count():
-        instance = q.one()
-    else:
-        instance = model()
-        instance.from_dict( fields )
-        instance.merge()
+def get_by_or_init(cls, if_new_set={}, **params):
+	"""Call get_by; if no object is returned, initialize an
+	object with the same parameters.  If a new object was
+	created, set any initial values."""
+	
+	result = cls.get_by(**params)
+	if not result:
+		result = cls(**params)
+		result.set(**if_new_set)
+	return result
 
-    return instance
+Entity.get_by_or_init = classmethod(get_by_or_init)
+
 
 
 
@@ -33,7 +39,7 @@ def get_or_create( model, fields):
 #
 from Bio import Medline
 
-records = Medline.parse( open("../Data/medline.txt") )
+records = Medline.parse( open(medline_input) )
 for r in records:
     try:
         cit = Citation()
@@ -69,37 +75,34 @@ for r in records:
         # type
         if 'PT' in r.keys():
             for pub_type in r['PT']:
-                pt = get_or_create(PubType, {'pub_type': pub_type})                
+                pt = PubType.get_by_or_init(pub_type=pub_type)
                 cit.pub_types.append( pt )
 
         # authors
         if 'AU' in r.keys():
             for i, author in enumerate(r['AU']):
                 if author !=  'et al.':
-                    a = get_or_create(Author, {'name': author,
-                                               'full_name': r['FAU'][i] })
+                    a = Author.get_by_or_init(name      = author,
+                                              full_name = r['FAU'][i])
                     cit.authors.append( a )
 
         # language
         if 'LA' in r.keys():
             for lang in r['LA']:
-                l = get_or_create( Language, {'language': lang} )
+                l = Language.get_by_or_init(language= lang )
                 cit.languages.append( l )
 
 
         # affiliation
         if 'AD' in r.keys():
-            organization    = get_or_create(Organization, { 'name': r['AD'] } )
+            organization    = Organization.get_by_or_init(name = r['AD'])
             cit.affiliation = organization
 
 
         # journal
         if 'JID' in r.keys():
-            if 'IS' in r.keys():
-                issn = r['IS']
-            else:
-                issn = None
-
+            issn = r['IS'] if 'IS' in r.keys() else None
+            
             if 'VI' in r.keys():
                 volume = r['VI']
             else:
@@ -109,13 +112,13 @@ for r in records:
             else:
                 issue = None
 
-            journal = get_or_create(Journal, { 'jid': r['JID'],
-                                               'issn' : issn,
-                                               'volume' : volume,
-                                               'issue' : issue,
-                                               'title' : r['JT'],
-                                               'iso_abbreviation' : r['TA'],
-                                               'country' : r['PL'] } )
+            journal = Journal.get_by_or_init(jid              = r['JID'],
+                                             issn             = issn,
+                                             volume           = volume,
+                                             issue            = issue,
+                                             title            = r['JT'],
+                                             iso_abbreviation = r['TA'],
+                                             country          = r['PL'] )
             cit.journal = journal
 
 
@@ -145,7 +148,7 @@ for r in records:
                     else:
                         major = False
                         
-                    sh = get_or_create( Subheading, {'sh': subterm} )
+                    sh = Subheading.get_by_or_init( sh = subterm )
                     sht = SubheadingTerm( sh           = sh,
                                           termcitation = tc,
                                           major        = major )
@@ -156,7 +159,7 @@ for r in records:
             cit.meshterms.append(tc)
 
         session.commit()
-        print "loaded pmid %s" % cit.pmid
+        print cit
     except IntegrityError as e:
         print "error trying to load %s" % r['PMID']
         pprint.pprint(e)

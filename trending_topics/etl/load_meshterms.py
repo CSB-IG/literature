@@ -30,8 +30,8 @@ for l in lineas:
         msh = Meshterm()
         msh.term = mh.rstrip()
         msh.merge()
-        print "%s, %s, %s" % (msh.id, msh.term, mh.rstrip())
         session.commit()
+        print msh
 
     
 #
@@ -64,5 +64,5 @@ for l in lines:
         sh = Subheading()
         sh.sh = mh.rstrip()
         sh.merge()
-        print "%s, %s, %s" % (sh.id, sh.sh, mh.rstrip())
         session.commit()
+        print sh
