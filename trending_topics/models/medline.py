@@ -24,6 +24,9 @@ class Citation(Entity):
     affiliation                 = ManyToOne('Organization') # AD
 
     meshterms                   = ManyToMany('TermCitation')
+
+    cited_in                    = ManyToMany('Citation')
+
     
     def country(self):
         return self.journal.country
@@ -41,7 +44,7 @@ class Organization(Entity):
 
 
 class PubType(Entity):
-    pub_type = Field(UnicodeText(534)) # PT
+    pub_type = Field(UnicodeText(255)) # PT
     citations = ManyToMany('Citation',
                            tablename='pub_type_citation')    
 
@@ -62,7 +65,7 @@ class Journal(Entity):
     volume = Field(UnicodeText(534)) # VI
     issue = Field(UnicodeText(534)) # IP
     pub_date = Field(DateTime) # 
-    title = Field(UnicodeText(5534)) # JT
+    title = Field(UnicodeText(255)) # JT
     iso_abbreviation = Field(UnicodeText(534)) # TA
     country = Field(UnicodeText(534)) # PL
     citations = OneToMany('Citation')
@@ -71,7 +74,7 @@ class Journal(Entity):
 
 
 class Language(Entity):
-    language = Field(UnicodeText(534)) # LA
+    language = Field(UnicodeText(200)) # LA
     citations = ManyToMany('Citation',
                            tablename='lan_cit')
     def __repr__(self):
@@ -80,7 +83,7 @@ class Language(Entity):
 
 
 class Subheading(Entity):
-    sh    = Field(UnicodeText(534))
+    sh    = Field(UnicodeText(255))
     cited = OneToMany('SubheadingTerm')
     def __repr__(self):
         return '<SH #%d %s>' % (self.id, self.sh)
@@ -98,7 +101,7 @@ class SubheadingTerm(Entity):
 
 
 class Meshterm(Entity):
-    term     = Field(UnicodeText(534)) 
+    term     = Field(UnicodeText(255)) 
     branches = OneToMany('Branch')
     cited    = OneToMany('TermCitation')
     def __repr__(self):
@@ -129,3 +132,15 @@ class TermCitation(Entity):
 
 
 
+
+def test():
+    global session, cit1, cit2, cit3
+    
+    cit1 = Citation(pmid=1, article_title='cave canem')
+    cit2 = Citation(pmid=2, article_title='cave guajolotem')
+    cit3 = Citation(mpid=3, article_title='animalae sunt malorum')
+
+    cit2.references.append(cit1)
+    cit3.references = [ cit1, cit2 ]
+    
+    session.commit()

@@ -7,12 +7,13 @@ import pprint
 from sqlalchemy.exc import IntegrityError
 import sys
 
-medline_input = sys.argv[1]
-
 metadata.bind = 'mysql+oursql://caopsci:G@localhost/medline'
 
 setup_all()
 create_all()
+
+
+
 
 
 from elixir import Entity
@@ -34,9 +35,13 @@ Entity.get_by_or_init = classmethod(get_by_or_init)
 
 
 
+
+
 #
 # abrimos archivo plano
 #
+medline_input = sys.argv[1]
+
 from Bio import Medline
 
 records = Medline.parse( open(medline_input) )
