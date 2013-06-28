@@ -18,20 +18,20 @@ create_all()
 #
 # abrimos archivo plano de meshterms
 #
-from Bio import Medline
+# from Bio import Medline
 
-f =open("../Data/meshterms.txt", 'r')
-lineas = f.readlines()
-f.close()
+# f =open("../Data/meshterms.txt", 'r')
+# lineas = f.readlines()
+# f.close()
 
-for l in lineas:
-    if l.startswith('MH ='):
-        (tag, mh) = l.split(' = ')
-        msh = Meshterm()
-        msh.term = mh.rstrip()
-        msh.merge()
-        session.commit()
-        print msh
+# for l in lineas:
+#     if l.startswith('MH ='):
+#         (tag, mh) = l.split(' = ')
+#         msh = Meshterm()
+#         msh.term = mh.rstrip()
+#         msh.merge()
+#         session.commit()
+#         print msh
 
     
 #
@@ -44,7 +44,7 @@ for line in lines:
     (term, branch) = line.split(';')
     mh = Meshterm.get_by(term=term.rstrip())
     if mh:
-        mh.branches.append(Branch(branch=branch))
+        mh.branches.append(Branch(branch=branch.rstrip()))
         mh.merge()
     else:
         print "falta "+term
@@ -55,14 +55,14 @@ for line in lines:
 #
 # cargamos subheadings
 #
-f = open("../Data/d2013.bin", 'r')
-lines = f.readlines()
-f.close()
-for l in lines:
-    if l.startswith('MH ='):
-        (tag, mh) = l.split(' = ')
-        sh = Subheading()
-        sh.sh = mh.rstrip()
-        sh.merge()
-        session.commit()
-        print sh
+# f = open("../Data/d2013.bin", 'r')
+# lines = f.readlines()
+# f.close()
+# for l in lines:
+#     if l.startswith('MH ='):
+#         (tag, mh) = l.split(' = ')
+#         sh = Subheading()
+#         sh.sh = mh.rstrip()
+#         sh.merge()
+#         session.commit()
+#         print sh

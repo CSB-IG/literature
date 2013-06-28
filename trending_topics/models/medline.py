@@ -41,7 +41,8 @@ class Citation(Entity):
 class Organization(Entity):
     name      = Field(UnicodeText(2000))
     citations = OneToMany('Citation')
-
+    def __repr__(self):
+        return '<Org #%d %s>' % (self.id, self.name)
 
 class PubType(Entity):
     pub_type = Field(UnicodeText(255)) # PT
@@ -95,9 +96,9 @@ class SubheadingTerm(Entity):
     major = Field(Boolean)
     def __repr__(self):
         if self.major:
-            return '<SH #%d *%s @ %s>' % (self.id, self.sh.term, self.termcitation.term)
+            return '<SH #%d *%s @ %s>' % (self.id, self.sh.sh, self.termcitation)
         else:
-            return '<SH #%d %s @ %s>' % (self.id, self.sh.term, self.termcitation.term)             
+            return '<SH #%d %s @ %s>' % (self.id, self.sh.sh, self.termcitation)             
 
 
 class Meshterm(Entity):
@@ -122,9 +123,9 @@ class TermCitation(Entity):
     citation    = ManyToOne('Citation')
     def __repr__(self):
         if self.major:
-            return '<MH #%d *%s @ %s>' % (self.id, self.term.term, self.citation.pmid)
+            return '<MH #%d *%s @ %s>' % (self.term.id, self.term.term, self.citation.pmid)
         else:
-            return '<MH #%d %s @ %s>' % (self.id, self.term.term, self.citation.pmid)    
+            return '<MH #%d %s @ %s>' % (self.term.id, self.term.term, self.citation.pmid)    
 
 
 
