@@ -1,0 +1,16 @@
+chr - A A    1    2903 ylorrd-9-seq-1
+chr - B B    2904    8077 ylorrd-9-seq-2
+chr - C C    8078    19331 ylorrd-9-seq-3
+chr - D D    19332    39983 ylorrd-9-seq-4
+chr - E E    39984    44710 ylorrd-9-seq-5
+chr - F F    44711    45841 gnbu-9-seq-1
+chr - G G    45842    49210 gnbu-9-seq-2
+chr - H H    49211    49708 gnbu-9-seq-3
+chr - I I    49709    50333 gnbu-9-seq-4
+chr - J J    50334    50932 gnbu-9-seq-5
+chr - K K    50933    51149 gnbu-9-seq-6
+chr - L L    51150    51655 reds-9-seq-1
+chr - M M    51656    51901 reds-9-seq-2
+chr - N N    51902    54204 reds-9-seq-3
+chr - V V    54205    54388 reds-9-seq-4
+chr - Z Z    54389    54935 reds-9-seq-5
