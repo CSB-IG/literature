@@ -27,14 +27,15 @@ class Meshcitation(models.Model):
     major      = models.BooleanField()
 
     subheadings = models.ManyToManyField(Subheading, through='Subheadingterm')
+    
     def __unicode__(self):
-        return '%s' % self.meshterm.term
-    # def __unicode__(self):
-    #     major = '*' if self.major else ''
-    #     subheadings = []
-    #     for sh in self.subheadings.all():
-    #         subheadings.append(sh.term)
-    #     return '#%d %s%s/%s @ %s' % (self.id, major, self.meshterm.term, '/'.join(subheadings), self.citation)
+        major = '*' if self.major else ''
+        subheadings = []
+        for sh in self.subheadingterm_set.all():
+            submajor = '*' if sh.major else ''
+            subheadings.append(submajor+sh.subheading.term)
+        
+        return '#%d %s%s @ %s' % (self.id, major, '/'.join([self.meshterm.term]+subheadings), self.citation)
 
 class Subheadingterm(models.Model):
     meshcitation   = models.ForeignKey(Meshcitation)

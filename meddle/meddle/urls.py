@@ -1,25 +1,9 @@
 from django.conf.urls import patterns, include, url
-
+from meddle import settings
+from medline import views
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
 admin.autodiscover()
-
-
-# enable databrowse
-from django.contrib import databrowse
-from medline.models import *
-
-databrowse.site.register( Meshterm )
-databrowse.site.register( Branch )
-databrowse.site.register( Subheading )
-databrowse.site.register( Meshcitation )
-databrowse.site.register( Subheadingterm )
-databrowse.site.register( Journal )
-databrowse.site.register( Organization )
-databrowse.site.register( PubType )
-databrowse.site.register( Author )
-databrowse.site.register( Language )
-databrowse.site.register( Citation )
 
 
 urlpatterns = patterns('',
@@ -30,8 +14,17 @@ urlpatterns = patterns('',
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
+   url(r'^media/(?P<path>.*)$', 'django.views.static.serve', {
+           'document_root': settings.MEDIA_ROOT,
+       }),
+   url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {
+           'document_root': settings.STATIC_ROOT,
+       }),                       
+
     # Uncomment the next line to enable the admin: 
     url(r'^admin/', include(admin.site.urls)),
-
-    url(r'^databrowse/(.*)', databrowse.site.root),                       
+    url(r'^htsql/', include('htsql_django.urls')),
+    url(r'^citedin/(?P<year>\d+)/$', views.cited_in ),
+    url(r'^mesh/(?P<year_start>\d+)/(?P<year_end>\d+)$', views.mesh_network ),
+    url(r'^branches/(?P<year>\d+)/$', views.branch_network ),
 )
