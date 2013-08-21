@@ -1,0 +1,219 @@
+{
+    "nodes": [
+        {
+            "node": 0, 
+            "year": 2009, 
+            "name": "19640832", 
+            "degree": 1, 
+            "title": "Frameshift detection in prokaryotic genomic sequences."
+        }, 
+        {
+            "node": 1, 
+            "year": 2009, 
+            "name": "19258533", 
+            "degree": 1, 
+            "title": "Environmental proteomics: a paradigm shift in characterizing microbial activities at the molecular level."
+        }, 
+        {
+            "node": 2, 
+            "year": 2008, 
+            "name": "18245282", 
+            "degree": 1, 
+            "title": "\"Candidatus Cloacamonas acidaminovorans\": genome sequence reconstruction provides a first glimpse of a new bacterial division."
+        }, 
+        {
+            "node": 3, 
+            "year": 2005, 
+            "name": "15879173", 
+            "degree": 1, 
+            "title": "Community proteomics of a natural microbial biofilm."
+        }, 
+        {
+            "node": 4, 
+            "year": 2006, 
+            "name": "16406790", 
+            "degree": 1, 
+            "title": "Metaproteomics: studying functional gene expression in microbial ecosystems."
+        }, 
+        {
+            "node": 5, 
+            "year": 2012, 
+            "name": "22966151", 
+            "degree": 6, 
+            "title": "Current opportunities and challenges in microbial metagenome analysis--a bioinformatic perspective."
+        }, 
+        {
+            "node": 6, 
+            "year": 2012, 
+            "name": "22225547", 
+            "degree": 9, 
+            "title": "Exploring mixed microbial community functioning: recent advances in metaproteomics."
+        }, 
+        {
+            "node": 7, 
+            "year": 2010, 
+            "name": "20531404", 
+            "degree": 1, 
+            "title": "Ecological distribution and population physiology defined by proteomics in a natural microbial community."
+        }, 
+        {
+            "node": 8, 
+            "year": 2009, 
+            "name": "19219053", 
+            "degree": 1, 
+            "title": "Systems biology: Functional analysis of natural microbial consortia using community proteomics."
+        }, 
+        {
+            "node": 9, 
+            "year": 2012, 
+            "name": "22347999", 
+            "degree": 1, 
+            "title": "Direct comparisons of Illumina vs. Roche 454 sequencing technologies on the same microbial community DNA sample."
+        }, 
+        {
+            "node": 10, 
+            "year": 2004, 
+            "name": "15001713", 
+            "degree": 1, 
+            "title": "Environmental genome shotgun sequencing of the Sargasso Sea."
+        }, 
+        {
+            "node": 11, 
+            "year": 2012, 
+            "name": "22890259", 
+            "degree": 1, 
+            "title": "Shaking hands with the future through omics application in transfusion medicine and clinical biochemistry."
+        }, 
+        {
+            "node": 12, 
+            "year": 2012, 
+            "name": "22890261", 
+            "degree": 1, 
+            "title": "Platelet proteomics in transfusion medicine: a reality with a challenging but promising future."
+        }, 
+        {
+            "node": 13, 
+            "year": 2006, 
+            "name": "16857943", 
+            "degree": 1, 
+            "title": "Genome of Rice Cluster I archaea--the key methane producers in the rice rhizosphere."
+        }, 
+        {
+            "node": 14, 
+            "year": 2010, 
+            "name": "20133593", 
+            "degree": 1, 
+            "title": "Proteogenomic basis for ecological divergence of closely related bacteria in natural acidophilic microbial communities."
+        }, 
+        {
+            "node": 15, 
+            "year": 2004, 
+            "name": "15305919", 
+            "degree": 1, 
+            "title": "Application of tetranucleotide frequencies for the assignment of genomic fragments."
+        }, 
+        {
+            "node": 16, 
+            "year": 2008, 
+            "name": "18587409", 
+            "degree": 1, 
+            "title": "Molecular eco-systems biology: towards an understanding of community function."
+        }, 
+        {
+            "node": 17, 
+            "year": 2005, 
+            "name": "15845853", 
+            "degree": 1, 
+            "title": "Comparative metagenomics of microbial communities."
+        }, 
+        {
+            "node": 18, 
+            "year": 2007, 
+            "name": "17932063", 
+            "degree": 1, 
+            "title": "IMG/M: a data management and analysis system for metagenomes."
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 6, 
+            "weight": 4
+        }, 
+        {
+            "source": 2, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 6, 
+            "weight": 3
+        }, 
+        {
+            "source": 4, 
+            "target": 6, 
+            "weight": 3
+        }, 
+        {
+            "source": 7, 
+            "target": 6, 
+            "weight": 3
+        }, 
+        {
+            "source": 8, 
+            "target": 6, 
+            "weight": 3
+        }, 
+        {
+            "source": 9, 
+            "target": 5, 
+            "weight": 2
+        }, 
+        {
+            "source": 10, 
+            "target": 6, 
+            "weight": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 11, 
+            "weight": 2
+        }, 
+        {
+            "source": 13, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 14, 
+            "target": 6, 
+            "weight": 1
+        }, 
+        {
+            "source": 15, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 16, 
+            "target": 6, 
+            "weight": 2
+        }, 
+        {
+            "source": 17, 
+            "target": 6, 
+            "weight": 2
+        }, 
+        {
+            "source": 18, 
+            "target": 5, 
+            "weight": 2
+        }
+    ]
+}
