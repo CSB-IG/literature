@@ -27,7 +27,8 @@ class Meshcitation(models.Model):
     major      = models.BooleanField()
 
     subheadings = models.ManyToManyField(Subheading, through='Subheadingterm')
-    
+
+
     def __unicode__(self):
         major = '*' if self.major else ''
         subheadings = []
@@ -106,6 +107,10 @@ class Citation(models.Model):
     meshterms                   = models.ManyToManyField(Meshterm, through='Meshcitation')
 
     cited_in                    = models.ManyToManyField('self')
+
+    def major_terms(self):
+        return [n.meshterm for n in self.meshcitation_set.filter(major=True)]
+    
 
     def __unicode__(self):
         return '#%d %s' % (self.pmid, self.title)
