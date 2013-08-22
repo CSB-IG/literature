@@ -5,7 +5,26 @@
     <title>D3 Test</title>
     <script type="text/javascript" src="d3.v3.js"></script>
     <style>
-      
+      body {
+      font-family: 'Arial', sans-serif;
+      font-size: 12px;
+      line-height: 1.5;
+      margin: 1.5em;
+      padding: 0;
+      color: #4a4a4a;
+      background-color: #FfE;
+      text-align: justify;
+      }
+
+      a {
+      color: #0039A6;
+      text-decoration: none;
+      }
+
+      a:hover {
+      color: #69BE28;
+      }
+
       .node {
       stroke: #fff;
       stroke-width: 1.5px;
@@ -16,12 +35,72 @@
       stroke-opacity: 0.3;
       }
 
+      #chart {
+      border: 1px solid #aaa;
+      width: 800px;
+      height: 800px;
+      background-color: #Fff;
+      }
+
+      .explanation {
+      width: 600px;
+      margin-left: 1.5em;
+      margin-right: 1.5em;
+      }
     </style>
   </head>
 
 
   <body>
-    <a href="force_directed1.html"><b>trends</b></a>
-    <script src="force_directed.js"></script>
+
+    <h1>Tendencias en genómica según la literatura biomédica</h1>
+
+    <div id="chart">
+    </div>
+
+    <div class="explanation">
+    <h2>Red de referencias bibliográficas</h2>
+    <p>
+      Esta <a href="http://es.wikipedia.org/wiki/An%C3%A1lisis_de_redes">red</a>
+      ha sido creada a partir de datos extraidos de la base de
+      bibliografía
+      <a href="http://www.ncbi.nlm.nih.gov/pubmed">PubMed</a>.</p>
+    <p>Se extrajeron todos aquellos artículos marcados con la
+      <a href="http://www.ncbi.nlm.nih.gov/mesh">palabra clave</a>
+      <em>"Genomics"</em> (cerca de 50,000) y se filtraron sólo
+      aquellos que además incluyeran la palabra
+      clave <em>"trends"</em> como subtítulo.  Para filtrar aún más se
+      puede restringir a que el subtítulo <em>"trends"</em> sea
+      un <a href="http://www.nlm.nih.gov/bsd/disted/pubmedtutorial/015_030.html">tema
+      principal</a>.
+
+      
+      
+      <h3>Nodos</h3>
+    <ul>
+      <li>Los nodos representan artículos y son hipervínculos a los
+	registros correspondientes en PubMed. Posar el cursor sobre
+	ellos muestra el año de creación y el título en un tool-tip,
+	arrastrarlos les da una posición fija. </li>
+      <li>El tamaño de los nodos representa la cantidad de nodos que
+	en él convergen.</li>
+      <li>El color representa la edad del artículo: tonos más claros
+	son artículos más recientes.</li>
+    </ul>
+    <h3>Vínculos</h3>
+    <ul>
+      <li>Las aristas o vínculos se crean a partir de las referencias
+	bibliográficas en aquellos casos en los que los dos artículos
+	comparten los
+	mismos <a href="http://www.nlm.nih.gov/bsd/disted/pubmedtutorial/015_030.html">temas
+	principales</a>.</li>
+      <li>El grosor de los vínculos representa la cantidad de
+	palabras clave que dos artículos comparten.</li>
+
+    </ul>
+    </p>
+    </div>
+    <script src="force_directed1.js"></script>
+    
   </body>
 </html>
