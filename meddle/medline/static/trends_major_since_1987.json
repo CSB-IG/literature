@@ -1,0 +1,2880 @@
+{
+    "nodes": [
+        {
+            "node": 0, 
+            "year": 2009, 
+            "name": "19640832", 
+            "degree": 1, 
+            "title": "Frameshift detection in prokaryotic genomic sequences."
+        }, 
+        {
+            "node": 1, 
+            "year": 2012, 
+            "name": "22261761", 
+            "degree": 1, 
+            "title": "Offering aggregate results to participants in genomic research: opportunities and challenges."
+        }, 
+        {
+            "node": 2, 
+            "year": 2009, 
+            "name": "19175938", 
+            "degree": 1, 
+            "title": "Systematic analysis of insertions and deletions specific to nematode proteins and their proposed functional and evolutionary relevance."
+        }, 
+        {
+            "node": 3, 
+            "year": 2010, 
+            "name": "20045679", 
+            "degree": 1, 
+            "title": "Developmental gene regulation in the era of genomics."
+        }, 
+        {
+            "node": 4, 
+            "year": 2008, 
+            "name": "18497028", 
+            "degree": 1, 
+            "title": "Ovarian cancer: linking genomics to new target discovery and molecular markers--the way ahead."
+        }, 
+        {
+            "node": 5, 
+            "year": 2005, 
+            "name": "15879173", 
+            "degree": 2, 
+            "title": "Community proteomics of a natural microbial biofilm."
+        }, 
+        {
+            "node": 6, 
+            "year": 2003, 
+            "name": "12648966", 
+            "degree": 1, 
+            "title": "Genomics--a global public good?"
+        }, 
+        {
+            "node": 7, 
+            "year": 2006, 
+            "name": "16723975", 
+            "degree": 1, 
+            "title": "Interpreting the protein language using proteomics."
+        }, 
+        {
+            "node": 8, 
+            "year": 2012, 
+            "name": "22344963", 
+            "degree": 1, 
+            "title": "Age-related proteomic changes in the subventricular zone and their association with neural stem/progenitor cell proliferation."
+        }, 
+        {
+            "node": 9, 
+            "year": 2003, 
+            "name": "12519945", 
+            "degree": 1, 
+            "title": "The UCSC Genome Browser Database."
+        }, 
+        {
+            "node": 10, 
+            "year": 2009, 
+            "name": "19416074", 
+            "degree": 4, 
+            "title": "Lessons from structural genomics."
+        }, 
+        {
+            "node": 11, 
+            "year": 2010, 
+            "name": "20922379", 
+            "degree": 11, 
+            "title": "Proteomics of industrial fungi: trends and insights for biotechnology."
+        }, 
+        {
+            "node": 12, 
+            "year": 2005, 
+            "name": "16381966", 
+            "degree": 1, 
+            "title": "Gramene: a bird's eye view of cereal genomes."
+        }, 
+        {
+            "node": 13, 
+            "year": 2005, 
+            "name": "16381967", 
+            "degree": 1, 
+            "title": "Phytome: a platform for plant comparative genomics."
+        }, 
+        {
+            "node": 14, 
+            "year": 2003, 
+            "name": "12693521", 
+            "degree": 1, 
+            "title": "\"What are they going to do with the information?\" Latino/Latina and African American perspectives on the Human Genome Project."
+        }, 
+        {
+            "node": 15, 
+            "year": 2012, 
+            "name": "22436882", 
+            "degree": 1, 
+            "title": "Managing incidental findings and research results in genomic research involving biobanks and archived data sets."
+        }, 
+        {
+            "node": 16, 
+            "year": 2007, 
+            "name": "17602579", 
+            "degree": 1, 
+            "title": "Implications of strain- and species-level sequence divergence for community and isolate shotgun proteomic analysis."
+        }, 
+        {
+            "node": 17, 
+            "year": 2008, 
+            "name": "19014489", 
+            "degree": 1, 
+            "title": "The tree of genomes: an empirical comparison of genome-phylogeny reconstruction methods."
+        }, 
+        {
+            "node": 18, 
+            "year": 2002, 
+            "name": "11991895", 
+            "degree": 1, 
+            "title": "Genomics and global health."
+        }, 
+        {
+            "node": 19, 
+            "year": 2005, 
+            "name": "16251930", 
+            "degree": 1, 
+            "title": "Deeper into the genome."
+        }, 
+        {
+            "node": 20, 
+            "year": 2008, 
+            "name": "19037211", 
+            "degree": 1, 
+            "title": "Genotype-phenotype associations: modulation by diet and obesity."
+        }, 
+        {
+            "node": 21, 
+            "year": 2005, 
+            "name": "16154652", 
+            "degree": 1, 
+            "title": "The next wave in metabolome analysis."
+        }, 
+        {
+            "node": 22, 
+            "year": 2005, 
+            "name": "15980579", 
+            "degree": 1, 
+            "title": "Recent additions and improvements to the Onto-Tools."
+        }, 
+        {
+            "node": 23, 
+            "year": 2008, 
+            "name": "19054116", 
+            "degree": 1, 
+            "title": "The dynamic genetic repertoire of microbial communities."
+        }, 
+        {
+            "node": 24, 
+            "year": 2009, 
+            "name": "19942437", 
+            "degree": 1, 
+            "title": "New dimensions of the virus world discovered through metagenomics."
+        }, 
+        {
+            "node": 25, 
+            "year": 2011, 
+            "name": "21307943", 
+            "degree": 1, 
+            "title": "Genomics: Genomes in three dimensions."
+        }, 
+        {
+            "node": 26, 
+            "year": 2008, 
+            "name": "18235432", 
+            "degree": 2, 
+            "title": "Structural genomics: from genes to structures with valuable materials and many questions in between."
+        }, 
+        {
+            "node": 27, 
+            "year": 2007, 
+            "name": "17556522", 
+            "degree": 3, 
+            "title": "Genome sequencing and genome resources in model legumes."
+        }, 
+        {
+            "node": 28, 
+            "year": 2005, 
+            "name": "16211502", 
+            "degree": 1, 
+            "title": "Protein production and crystallization at the joint center for structural genomics."
+        }, 
+        {
+            "node": 29, 
+            "year": 2011, 
+            "name": "21712432", 
+            "degree": 1, 
+            "title": "Evaluating phylogenetic congruence in the post-genomic era."
+        }, 
+        {
+            "node": 30, 
+            "year": 2003, 
+            "name": "12634120", 
+            "degree": 1, 
+            "title": "Application of genomics to toxicology research."
+        }, 
+        {
+            "node": 31, 
+            "year": 2005, 
+            "name": "16083508", 
+            "degree": 1, 
+            "title": "Evolution of a microbial nitrilase gene family: a comparative and environmental genomics study."
+        }, 
+        {
+            "node": 32, 
+            "year": 2007, 
+            "name": "18020405", 
+            "degree": 1, 
+            "title": "A proteomics strategy to discover beta-glucosidases from Aspergillus fumigatus with two-dimensional page in-gel activity assay and tandem mass spectrometry."
+        }, 
+        {
+            "node": 33, 
+            "year": 1998, 
+            "name": "9760387", 
+            "degree": 1, 
+            "title": "Directions for clinical research and genomic research into the next decade: implications for informatics."
+        }, 
+        {
+            "node": 34, 
+            "year": 2008, 
+            "name": "18927114", 
+            "degree": 1, 
+            "title": "DDBJ dealing with mass data produced by the second generation sequencer."
+        }, 
+        {
+            "node": 35, 
+            "year": 2011, 
+            "name": "21923904", 
+            "degree": 1, 
+            "title": "Experimental design and statistical rigor in phylogenomics of horizontal and endosymbiotic gene transfer."
+        }, 
+        {
+            "node": 36, 
+            "year": 2005, 
+            "name": "15854658", 
+            "degree": 4, 
+            "title": "Progress of structural genomics initiatives: an analysis of solved target structures."
+        }, 
+        {
+            "node": 37, 
+            "year": 2008, 
+            "name": "18838595", 
+            "degree": 1, 
+            "title": "Proteomic and transcriptomic analysis of Aspergillus fumigatus on exposure to amphotericin B."
+        }, 
+        {
+            "node": 38, 
+            "year": 1989, 
+            "name": "2698820", 
+            "degree": 1, 
+            "title": "Computers: the best friends a human genome ever had."
+        }, 
+        {
+            "node": 39, 
+            "year": 2012, 
+            "name": "22833223", 
+            "degree": 1, 
+            "title": "Decoding plant and animal genome plasticity from differential paleo-evolutionary patterns and processes."
+        }, 
+        {
+            "node": 40, 
+            "year": 1993, 
+            "name": "8124491", 
+            "degree": 1, 
+            "title": "Ethical and practical implications of the human genome initiative for family medicine."
+        }, 
+        {
+            "node": 41, 
+            "year": 2012, 
+            "name": "23208524", 
+            "degree": 1, 
+            "title": "Molecular nutrition research: the modern way of performing nutritional science."
+        }, 
+        {
+            "node": 42, 
+            "year": 2010, 
+            "name": "20829282", 
+            "degree": 1, 
+            "title": "High level of structural polymorphism driven by mobile elements in the Hox genomic region of the Chaetognath Spadella cephaloptera."
+        }, 
+        {
+            "node": 43, 
+            "year": 2009, 
+            "name": "19817554", 
+            "degree": 1, 
+            "title": "Serum proteomics of glioma: methods and applications."
+        }, 
+        {
+            "node": 44, 
+            "year": 2011, 
+            "name": "22028815", 
+            "degree": 1, 
+            "title": "Genome wide expression profiling reveals suppression of host defence responses during colonisation by Neisseria meningitides but not N. lactamica."
+        }, 
+        {
+            "node": 45, 
+            "year": 2003, 
+            "name": "12758110", 
+            "degree": 2, 
+            "title": "Proteomics in brain research: potentials and limitations."
+        }, 
+        {
+            "node": 46, 
+            "year": 2002, 
+            "name": "12364783", 
+            "degree": 1, 
+            "title": "The Anopheles genome and comparative insect genomics."
+        }, 
+        {
+            "node": 47, 
+            "year": 2006, 
+            "name": "16525410", 
+            "degree": 1, 
+            "title": "Challenges in deriving high-confidence protein identifications from data gathered by a HUPO plasma proteome collaborative study."
+        }, 
+        {
+            "node": 48, 
+            "year": 2003, 
+            "name": "14631011", 
+            "degree": 1, 
+            "title": "Proteomics. Public projects gear up to chart the protein landscape."
+        }, 
+        {
+            "node": 49, 
+            "year": 2010, 
+            "name": "20067941", 
+            "degree": 1, 
+            "title": "Evolutionary constraint facilitates interpretation of genetic variation in resequenced human genomes."
+        }, 
+        {
+            "node": 50, 
+            "year": 2007, 
+            "name": "18056294", 
+            "degree": 1, 
+            "title": "Metagenomics: a call for bringing a new science into the classroom (while it's still new)."
+        }, 
+        {
+            "node": 51, 
+            "year": 2002, 
+            "name": "12434023", 
+            "degree": 1, 
+            "title": "Genome research. A tussle over the rules for DNA data sharing."
+        }, 
+        {
+            "node": 52, 
+            "year": 2007, 
+            "name": "18066025", 
+            "degree": 1, 
+            "title": "Bridging the knowledge gaps in vaccine design."
+        }, 
+        {
+            "node": 53, 
+            "year": 2004, 
+            "name": "15464039", 
+            "degree": 1, 
+            "title": "Advances in pharmacogenomics and individualized drug therapy: exciting challenges that lie ahead."
+        }, 
+        {
+            "node": 54, 
+            "year": 2009, 
+            "name": "19219053", 
+            "degree": 1, 
+            "title": "Systems biology: Functional analysis of natural microbial consortia using community proteomics."
+        }, 
+        {
+            "node": 55, 
+            "year": 2009, 
+            "name": "19192942", 
+            "degree": 1, 
+            "title": "STrengthening the REporting of Genetic Association Studies (STREGA): an extension of the STROBE statement."
+        }, 
+        {
+            "node": 56, 
+            "year": 2004, 
+            "name": "15001713", 
+            "degree": 3, 
+            "title": "Environmental genome shotgun sequencing of the Sargasso Sea."
+        }, 
+        {
+            "node": 57, 
+            "year": 2011, 
+            "name": "21276275", 
+            "degree": 1, 
+            "title": "MEMOSys: Bioinformatics platform for genome-scale metabolic models."
+        }, 
+        {
+            "node": 58, 
+            "year": 2009, 
+            "name": "19776630", 
+            "degree": 1, 
+            "title": "Public health genomics and genetic test evaluation: the challenge of conducting behavioural research on the utility of lifestyle-genetic tests."
+        }, 
+        {
+            "node": 59, 
+            "year": 2006, 
+            "name": "17182839", 
+            "degree": 1, 
+            "title": "Using genetic variation to optimize nutritional preemption."
+        }, 
+        {
+            "node": 60, 
+            "year": 1993, 
+            "name": "8237906", 
+            "degree": 2, 
+            "title": "Genetics: the quiet revolution in science and medicine. Implications for research on child health issues, education of health professionals, and the new preventive and curative medicine."
+        }, 
+        {
+            "node": 61, 
+            "year": 2009, 
+            "name": "19242109", 
+            "degree": 2, 
+            "title": "Towards a postmodern synthesis of evolutionary biology."
+        }, 
+        {
+            "node": 62, 
+            "year": 2005, 
+            "name": "15630462", 
+            "degree": 1, 
+            "title": "Strengthening the role of genomics in global health."
+        }, 
+        {
+            "node": 63, 
+            "year": 2004, 
+            "name": "14718377", 
+            "degree": 1, 
+            "title": "Analysis of multiple genomic sequence alignments: a web resource, online tools, and lessons learned from analysis of mammalian SCL loci."
+        }, 
+        {
+            "node": 64, 
+            "year": 2008, 
+            "name": "18846088", 
+            "degree": 2, 
+            "title": "The potential and challenges of nanopore sequencing."
+        }, 
+        {
+            "node": 65, 
+            "year": 2002, 
+            "name": "12181099", 
+            "degree": 1, 
+            "title": "Reporting, appraising, and integrating data on genotype prevalence and gene-disease associations."
+        }, 
+        {
+            "node": 66, 
+            "year": 2001, 
+            "name": "11544197", 
+            "degree": 1, 
+            "title": "Assembly of the working draft of the human genome with GigAssembler."
+        }, 
+        {
+            "node": 67, 
+            "year": 2011, 
+            "name": "21654153", 
+            "degree": 1, 
+            "title": "Motivations and perceptions of early adopters of personalized genomics: perspectives from research participants."
+        }, 
+        {
+            "node": 68, 
+            "year": 2010, 
+            "name": "21170314", 
+            "degree": 1, 
+            "title": "Phenocopy--a strategy to qualify chemical compounds during hit-to-lead and/or lead optimization."
+        }, 
+        {
+            "node": 69, 
+            "year": 2012, 
+            "name": "22225547", 
+            "degree": 11, 
+            "title": "Exploring mixed microbial community functioning: recent advances in metaproteomics."
+        }, 
+        {
+            "node": 70, 
+            "year": 2001, 
+            "name": "11233420", 
+            "degree": 1, 
+            "title": "The human genome."
+        }, 
+        {
+            "node": 71, 
+            "year": 2003, 
+            "name": "12765837", 
+            "degree": 3, 
+            "title": "Metabolic pathways in the post-genome era."
+        }, 
+        {
+            "node": 72, 
+            "year": 2001, 
+            "name": "11276431", 
+            "degree": 1, 
+            "title": "Brassica genomics: a complement to, and early beneficiary of, the Arabidopsis sequence."
+        }, 
+        {
+            "node": 73, 
+            "year": 2001, 
+            "name": "11237011", 
+            "degree": 2, 
+            "title": "Initial sequencing and analysis of the human genome."
+        }, 
+        {
+            "node": 74, 
+            "year": 2003, 
+            "name": "12748939", 
+            "degree": 1, 
+            "title": "ProteomeWeb: a web-based interface for the display and interrogation of proteomes."
+        }, 
+        {
+            "node": 75, 
+            "year": 2006, 
+            "name": "16885397", 
+            "degree": 3, 
+            "title": "Building the power house: recent advances in mitochondrial studies through proteomics and systems biology."
+        }, 
+        {
+            "node": 76, 
+            "year": 2008, 
+            "name": "18349096", 
+            "degree": 3, 
+            "title": "The genome gets personal--almost."
+        }, 
+        {
+            "node": 77, 
+            "year": 2001, 
+            "name": "11588248", 
+            "degree": 2, 
+            "title": "Harnessing genomics and biotechnology to improve global health equity."
+        }, 
+        {
+            "node": 78, 
+            "year": 2011, 
+            "name": "21555865", 
+            "degree": 1, 
+            "title": "Public perspectives on returning genetics and genomics research results."
+        }, 
+        {
+            "node": 79, 
+            "year": 2007, 
+            "name": "17431707", 
+            "degree": 1, 
+            "title": "Metaproteomics: a new approach for studying functional microbial ecology."
+        }, 
+        {
+            "node": 80, 
+            "year": 2007, 
+            "name": "17584796", 
+            "degree": 4, 
+            "title": "Onto-Tools: new additions and improvements in 2006."
+        }, 
+        {
+            "node": 81, 
+            "year": 1992, 
+            "name": "1517727", 
+            "degree": 1, 
+            "title": "The implications of the Human Genome Project for family practice."
+        }, 
+        {
+            "node": 82, 
+            "year": 2011, 
+            "name": "21407210", 
+            "degree": 1, 
+            "title": "Toward molecular trait-based ecology through integration of biogeochemical, geographical and metagenomic data."
+        }, 
+        {
+            "node": 83, 
+            "year": 2008, 
+            "name": "18245282", 
+            "degree": 1, 
+            "title": "\"Candidatus Cloacamonas acidaminovorans\": genome sequence reconstruction provides a first glimpse of a new bacterial division."
+        }, 
+        {
+            "node": 84, 
+            "year": 2004, 
+            "name": "15380644", 
+            "degree": 1, 
+            "title": "Biotechnology and vaccines: application of functional genomics to Neisseria meningitidis and other bacterial pathogens."
+        }, 
+        {
+            "node": 85, 
+            "year": 2009, 
+            "name": "19258533", 
+            "degree": 12, 
+            "title": "Environmental proteomics: a paradigm shift in characterizing microbial activities at the molecular level."
+        }, 
+        {
+            "node": 86, 
+            "year": 2009, 
+            "name": "20001958", 
+            "degree": 1, 
+            "title": "'Unknown' proteins and 'orphan' enzymes: the missing half of the engineering parts list--and how to find it."
+        }, 
+        {
+            "node": 87, 
+            "year": 2003, 
+            "name": "12963016", 
+            "degree": 1, 
+            "title": "Recent advances in computational promoter analysis in understanding the transcriptional regulatory network."
+        }, 
+        {
+            "node": 88, 
+            "year": 2007, 
+            "name": "17363641", 
+            "degree": 1, 
+            "title": "Metagenomics. Ocean study yields a tidal wave of microbial DNA."
+        }, 
+        {
+            "node": 89, 
+            "year": 2012, 
+            "name": "22332091", 
+            "degree": 1, 
+            "title": "Recent advances in understanding the role of nutrition in human genome evolution."
+        }, 
+        {
+            "node": 90, 
+            "year": 2004, 
+            "name": "15305919", 
+            "degree": 1, 
+            "title": "Application of tetranucleotide frequencies for the assignment of genomic fragments."
+        }, 
+        {
+            "node": 91, 
+            "year": 2008, 
+            "name": "18974823", 
+            "degree": 1, 
+            "title": "Genome-scale reconstruction and analysis of the Pseudomonas putida KT2440 metabolic network facilitates applications in biotechnology."
+        }, 
+        {
+            "node": 92, 
+            "year": 2009, 
+            "name": "19241155", 
+            "degree": 1, 
+            "title": "Quantitative proteomic analysis of mitochondria in aging PS-1 transgenic mice."
+        }, 
+        {
+            "node": 93, 
+            "year": 2006, 
+            "name": "17016516", 
+            "degree": 1, 
+            "title": "Integration of metabolome data with metabolic networks reveals reporter reactions."
+        }, 
+        {
+            "node": 94, 
+            "year": 2001, 
+            "name": "11518180", 
+            "degree": 1, 
+            "title": "Functional genomics and proteomics applied to the study of nutritional metabolism."
+        }, 
+        {
+            "node": 95, 
+            "year": 2007, 
+            "name": "17699526", 
+            "degree": 1, 
+            "title": "Assessing the social meaning, value and implications of research in genomics."
+        }, 
+        {
+            "node": 96, 
+            "year": 2002, 
+            "name": "11935009", 
+            "degree": 1, 
+            "title": "The rice genome. Opening the door to comparative plant biology."
+        }, 
+        {
+            "node": 97, 
+            "year": 2008, 
+            "name": "18987720", 
+            "degree": 1, 
+            "title": "Personal genomes: Misdirected precaution."
+        }, 
+        {
+            "node": 98, 
+            "year": 2005, 
+            "name": "16099532", 
+            "degree": 1, 
+            "title": "Comparative genomics of nematodes."
+        }, 
+        {
+            "node": 99, 
+            "year": 2006, 
+            "name": "17005258", 
+            "degree": 1, 
+            "title": "Can personalized drug therapy be achieved? A closer look at pharmaco-metabonomics."
+        }, 
+        {
+            "node": 100, 
+            "year": 2012, 
+            "name": "23082187", 
+            "degree": 1, 
+            "title": "Hybrid sequencing approach applied to human fecal metagenomic clone libraries revealed clones with potential biotechnological applications."
+        }, 
+        {
+            "node": 101, 
+            "year": 2010, 
+            "name": "20531404", 
+            "degree": 2, 
+            "title": "Ecological distribution and population physiology defined by proteomics in a natural microbial community."
+        }, 
+        {
+            "node": 102, 
+            "year": 2010, 
+            "name": "20567245", 
+            "degree": 1, 
+            "title": "Genome-wide allele-specific analysis: insights into regulatory variation."
+        }, 
+        {
+            "node": 103, 
+            "year": 2006, 
+            "name": "16962765", 
+            "degree": 1, 
+            "title": "Evolutionary systems biology: links between gene evolution and function."
+        }, 
+        {
+            "node": 104, 
+            "year": 2006, 
+            "name": "16899448", 
+            "degree": 1, 
+            "title": "Information-theoretic identification of predictive SNPs and supervised visualization of genome-wide association studies."
+        }, 
+        {
+            "node": 105, 
+            "year": 2008, 
+            "name": "18621652", 
+            "degree": 1, 
+            "title": "Evolution. Modernizing the modern synthesis."
+        }, 
+        {
+            "node": 106, 
+            "year": 2002, 
+            "name": "12466850", 
+            "degree": 1, 
+            "title": "Initial sequencing and comparative analysis of the mouse genome."
+        }, 
+        {
+            "node": 107, 
+            "year": 2010, 
+            "name": "20133593", 
+            "degree": 1, 
+            "title": "Proteogenomic basis for ecological divergence of closely related bacteria in natural acidophilic microbial communities."
+        }, 
+        {
+            "node": 108, 
+            "year": 2009, 
+            "name": "19899611", 
+            "degree": 1, 
+            "title": "Identification and molecular modeling of a novel lipase from an Antarctic soil metagenomic library."
+        }, 
+        {
+            "node": 109, 
+            "year": 2005, 
+            "name": "16100779", 
+            "degree": 1, 
+            "title": "The map-based sequence of the rice genome."
+        }, 
+        {
+            "node": 110, 
+            "year": 2008, 
+            "name": "18319070", 
+            "degree": 1, 
+            "title": "A critical appraisal of the scientific basis of commercial genomic profiles used to assess health risks and personalize health interventions."
+        }, 
+        {
+            "node": 111, 
+            "year": 2012, 
+            "name": "22347999", 
+            "degree": 1, 
+            "title": "Direct comparisons of Illumina vs. Roche 454 sequencing technologies on the same microbial community DNA sample."
+        }, 
+        {
+            "node": 112, 
+            "year": 2008, 
+            "name": "18606304", 
+            "degree": 1, 
+            "title": "Personalized genetics: a responsible approach."
+        }, 
+        {
+            "node": 113, 
+            "year": 2006, 
+            "name": "17119969", 
+            "degree": 1, 
+            "title": "Proteome mapping of the Trichoderma reesei 20S proteasome."
+        }, 
+        {
+            "node": 114, 
+            "year": 2003, 
+            "name": "12819149", 
+            "degree": 1, 
+            "title": "GeneLynx mouse: integrated portal to the mouse genome."
+        }, 
+        {
+            "node": 115, 
+            "year": 2004, 
+            "name": "15027428", 
+            "degree": 4, 
+            "title": "Environmental genomics, the big picture?"
+        }, 
+        {
+            "node": 116, 
+            "year": 2008, 
+            "name": "18473189", 
+            "degree": 1, 
+            "title": "Domain-specific data sharing in neuroscience: what do we have to learn from each other?"
+        }, 
+        {
+            "node": 117, 
+            "year": 2006, 
+            "name": "16670439", 
+            "degree": 3, 
+            "title": "Comparative sequencing of plant genomes: choices to make."
+        }, 
+        {
+            "node": 118, 
+            "year": 2010, 
+            "name": "20388903", 
+            "degree": 1, 
+            "title": "Extensive synteny conservation of holocentric chromosomes in Lepidoptera despite high rates of local genome rearrangements."
+        }, 
+        {
+            "node": 119, 
+            "year": 2007, 
+            "name": "17804669", 
+            "degree": 1, 
+            "title": "Genomics of Actinobacteria: tracing the evolutionary history of an ancient phylum."
+        }, 
+        {
+            "node": 120, 
+            "year": 2011, 
+            "name": "21311016", 
+            "degree": 1, 
+            "title": "On the future of genomic data."
+        }, 
+        {
+            "node": 121, 
+            "year": 2008, 
+            "name": "18264818", 
+            "degree": 5, 
+            "title": "Hydrophilic interaction liquid chromatography (HILIC) in proteomics."
+        }, 
+        {
+            "node": 122, 
+            "year": 2008, 
+            "name": "18795887", 
+            "degree": 2, 
+            "title": "Machine learning for in silico virtual screening and chemical genomics: new strategies."
+        }, 
+        {
+            "node": 123, 
+            "year": 2009, 
+            "name": "19259127", 
+            "degree": 2, 
+            "title": "Personal genomics services: whose genomes?"
+        }, 
+        {
+            "node": 124, 
+            "year": 2005, 
+            "name": "15955910", 
+            "degree": 3, 
+            "title": "Comparative plant genomics. Frontiers and prospects."
+        }, 
+        {
+            "node": 125, 
+            "year": 2006, 
+            "name": "17146617", 
+            "degree": 1, 
+            "title": "Coverage of whole proteome by structural genomics observed through protein homology modeling database."
+        }, 
+        {
+            "node": 126, 
+            "year": 2010, 
+            "name": "20954874", 
+            "degree": 1, 
+            "title": "The wonder world of microbial viruses."
+        }, 
+        {
+            "node": 127, 
+            "year": 2002, 
+            "name": "11976443", 
+            "degree": 1, 
+            "title": "Balancing life-style and genomics research for disease prevention."
+        }, 
+        {
+            "node": 128, 
+            "year": 2011, 
+            "name": "21862141", 
+            "degree": 1, 
+            "title": "Systems genetics for drug target discovery."
+        }, 
+        {
+            "node": 129, 
+            "year": 2002, 
+            "name": "12084683", 
+            "degree": 1, 
+            "title": "The impact of genomics on global health."
+        }, 
+        {
+            "node": 130, 
+            "year": 2003, 
+            "name": "12529621", 
+            "degree": 1, 
+            "title": "Microbial phylogenomics: Branching out."
+        }, 
+        {
+            "node": 131, 
+            "year": 2012, 
+            "name": "22353664", 
+            "degree": 1, 
+            "title": "Targeting the epigenome with bioactive food components for cancer prevention."
+        }, 
+        {
+            "node": 132, 
+            "year": 2001, 
+            "name": "11159339", 
+            "degree": 2, 
+            "title": "The place of farm animal species in the new genomics world of reproductive biology."
+        }, 
+        {
+            "node": 133, 
+            "year": 2006, 
+            "name": "16406790", 
+            "degree": 2, 
+            "title": "Metaproteomics: studying functional gene expression in microbial ecosystems."
+        }, 
+        {
+            "node": 134, 
+            "year": 2007, 
+            "name": "18095367", 
+            "degree": 1, 
+            "title": "Frontiers in glycomics: bioinformatics and biomarkers in disease. An NIH white paper prepared from discussions by the focus groups at a workshop on the NIH campus, Bethesda MD (September 11-13, 2006)."
+        }, 
+        {
+            "node": 135, 
+            "year": 2007, 
+            "name": "17848587", 
+            "degree": 1, 
+            "title": "Isotope-labeled protein standards: toward absolute quantitative proteomics."
+        }, 
+        {
+            "node": 136, 
+            "year": 2001, 
+            "name": "11325749", 
+            "degree": 1, 
+            "title": "Genetics and developing countries."
+        }, 
+        {
+            "node": 137, 
+            "year": 2008, 
+            "name": "18587409", 
+            "degree": 4, 
+            "title": "Molecular eco-systems biology: towards an understanding of community function."
+        }, 
+        {
+            "node": 138, 
+            "year": 2012, 
+            "name": "22890259", 
+            "degree": 1, 
+            "title": "Shaking hands with the future through omics application in transfusion medicine and clinical biochemistry."
+        }, 
+        {
+            "node": 139, 
+            "year": 2010, 
+            "name": "21169428", 
+            "degree": 4, 
+            "title": "Metagenomic analyses: past and future trends."
+        }, 
+        {
+            "node": 140, 
+            "year": 2012, 
+            "name": "22890261", 
+            "degree": 1, 
+            "title": "Platelet proteomics in transfusion medicine: a reality with a challenging but promising future."
+        }, 
+        {
+            "node": 141, 
+            "year": 2003, 
+            "name": "14652694", 
+            "degree": 1, 
+            "title": "Fungal proteomics: mapping the mitochondrial proteins of a Trichoderma harzianum strain applied for biological control."
+        }, 
+        {
+            "node": 142, 
+            "year": 2010, 
+            "name": "20358423", 
+            "degree": 1, 
+            "title": "Antibody array-based technologies for cancer protein profiling and functional proteomic analyses using serum and tissue specimens."
+        }, 
+        {
+            "node": 143, 
+            "year": 2007, 
+            "name": "18034456", 
+            "degree": 1, 
+            "title": "Highly robust, automated, and sensitive online TiO2-based phosphoproteomics applied to study endogenous phosphorylation in Drosophila melanogaster."
+        }, 
+        {
+            "node": 144, 
+            "year": 2007, 
+            "name": "17945371", 
+            "degree": 1, 
+            "title": "Livestock genomics: bridging the gap between mice and men."
+        }, 
+        {
+            "node": 145, 
+            "year": 2007, 
+            "name": "17384732", 
+            "degree": 1, 
+            "title": "Swine genome science comes of age."
+        }, 
+        {
+            "node": 146, 
+            "year": 2002, 
+            "name": "12011482", 
+            "degree": 1, 
+            "title": "Prediction of compound signature using high density gene expression profiling."
+        }, 
+        {
+            "node": 147, 
+            "year": 2007, 
+            "name": "17932063", 
+            "degree": 1, 
+            "title": "IMG/M: a data management and analysis system for metagenomes."
+        }, 
+        {
+            "node": 148, 
+            "year": 2011, 
+            "name": "22082336", 
+            "degree": 1, 
+            "title": "Global assessment of genomic variation in cattle by genome resequencing and high-throughput genotyping."
+        }, 
+        {
+            "node": 149, 
+            "year": 2007, 
+            "name": "17384737", 
+            "degree": 7, 
+            "title": "Identifying the future needs for long-term USDA efforts in agricultural animal genomics."
+        }, 
+        {
+            "node": 150, 
+            "year": 2004, 
+            "name": "15608283", 
+            "degree": 1, 
+            "title": "The Legume Information System (LIS): an integrated information resource for comparative legume biology."
+        }, 
+        {
+            "node": 151, 
+            "year": 2008, 
+            "name": "18846086", 
+            "degree": 1, 
+            "title": "What would you do if you could sequence everything?"
+        }, 
+        {
+            "node": 152, 
+            "year": 2012, 
+            "name": "22432038", 
+            "degree": 1, 
+            "title": "Assessing the diversity and specificity of two freshwater viral communities through metagenomics."
+        }, 
+        {
+            "node": 153, 
+            "year": 2003, 
+            "name": "14561328", 
+            "degree": 5, 
+            "title": "Human nutrition and food research: opportunities and challenges in the post-genomic era."
+        }, 
+        {
+            "node": 154, 
+            "year": 2002, 
+            "name": "11935017", 
+            "degree": 2, 
+            "title": "A draft sequence of the rice genome (Oryza sativa L. ssp. indica)."
+        }, 
+        {
+            "node": 155, 
+            "year": 2002, 
+            "name": "11935018", 
+            "degree": 2, 
+            "title": "A draft sequence of the rice genome (Oryza sativa L. ssp. japonica)."
+        }, 
+        {
+            "node": 156, 
+            "year": 2008, 
+            "name": "18846087", 
+            "degree": 2, 
+            "title": "Next-generation DNA sequencing."
+        }, 
+        {
+            "node": 157, 
+            "year": 2004, 
+            "name": "15113096", 
+            "degree": 1, 
+            "title": "Clinical proteomics: revolutionizing disease detection and patient tailoring therapy."
+        }, 
+        {
+            "node": 158, 
+            "year": 2010, 
+            "name": "21158707", 
+            "degree": 1, 
+            "title": "Cancer chemoprevention by targeting the epigenome."
+        }, 
+        {
+            "node": 159, 
+            "year": 2003, 
+            "name": "12775220", 
+            "degree": 2, 
+            "title": "Information extraction from full text scientific articles: where are the keywords?"
+        }, 
+        {
+            "node": 160, 
+            "year": 2010, 
+            "name": "20589365", 
+            "degree": 1, 
+            "title": "Discovery of nucleotide polymorphisms in the Musa gene pool by Ecotilling."
+        }, 
+        {
+            "node": 161, 
+            "year": 2008, 
+            "name": "18367290", 
+            "degree": 4, 
+            "title": "The prokaryotic tree of life: past, present... and future?"
+        }, 
+        {
+            "node": 162, 
+            "year": 2007, 
+            "name": "17687356", 
+            "degree": 1, 
+            "title": "Novel leverage of structural genomics."
+        }, 
+        {
+            "node": 163, 
+            "year": 2006, 
+            "name": "17179453", 
+            "degree": 1, 
+            "title": "The incidentalome."
+        }, 
+        {
+            "node": 164, 
+            "year": 2007, 
+            "name": "17444671", 
+            "degree": 1, 
+            "title": "Large-scale identification of N-terminal peptides in the halophilic archaea Halobacterium salinarum and Natronomonas pharaonis."
+        }, 
+        {
+            "node": 165, 
+            "year": 2003, 
+            "name": "12620096", 
+            "degree": 1, 
+            "title": "Beenomes to Bombyx: future directions in applied insect genomics."
+        }, 
+        {
+            "node": 166, 
+            "year": 2011, 
+            "name": "21219649", 
+            "degree": 1, 
+            "title": "1,000 structures and more from the MCSG."
+        }, 
+        {
+            "node": 167, 
+            "year": 2006, 
+            "name": "16906050", 
+            "degree": 1, 
+            "title": "Genomics and proteomics in epidemiology: treasure trove or \"high-tech stamp collecting\"?"
+        }, 
+        {
+            "node": 168, 
+            "year": 2008, 
+            "name": "18385731", 
+            "degree": 1, 
+            "title": "Mining the plasma proteome for cancer biomarkers."
+        }, 
+        {
+            "node": 169, 
+            "year": 2008, 
+            "name": "18443588", 
+            "degree": 1, 
+            "title": "Progress and prospects in rat genetics: a community view."
+        }, 
+        {
+            "node": 170, 
+            "year": 2005, 
+            "name": "16098630", 
+            "degree": 1, 
+            "title": "The evolution of noncoding DNA: how much junk, how much func?"
+        }, 
+        {
+            "node": 171, 
+            "year": 2010, 
+            "name": "20953416", 
+            "degree": 1, 
+            "title": "Marine microbial genomics in Europe: current status and perspectives."
+        }, 
+        {
+            "node": 172, 
+            "year": 2010, 
+            "name": "20953417", 
+            "degree": 1, 
+            "title": "Marine genomics: at the interface of marine microbial ecology and biodiscovery."
+        }, 
+        {
+            "node": 173, 
+            "year": 2009, 
+            "name": "19965774", 
+            "degree": 1, 
+            "title": "Archiving next generation sequencing data."
+        }, 
+        {
+            "node": 174, 
+            "year": 2005, 
+            "name": "16151375", 
+            "degree": 1, 
+            "title": "Synergy between sequence and size in large-scale genomics."
+        }, 
+        {
+            "node": 175, 
+            "year": 2005, 
+            "name": "16162640", 
+            "degree": 1, 
+            "title": "Interactome: gateway into systems biology."
+        }, 
+        {
+            "node": 176, 
+            "year": 2007, 
+            "name": "17559889", 
+            "degree": 1, 
+            "title": "Complexity of type 2 diabetes mellitus data sets emerging from nutrigenomic research: a case for dimensionality reduction?"
+        }, 
+        {
+            "node": 177, 
+            "year": 2002, 
+            "name": "12357458", 
+            "degree": 1, 
+            "title": "Comparative analysis of comparative genomic hybridization microarray technologies: report of a workshop sponsored by the Wellcome Trust."
+        }, 
+        {
+            "node": 178, 
+            "year": 2010, 
+            "name": "21075795", 
+            "degree": 1, 
+            "title": "AgBase: supporting functional modeling in agricultural organisms."
+        }, 
+        {
+            "node": 179, 
+            "year": 2011, 
+            "name": "22155605", 
+            "degree": 1, 
+            "title": "Human genetics and genomics a decade after the release of the draft sequence of the human genome."
+        }, 
+        {
+            "node": 180, 
+            "year": 2006, 
+            "name": "16857943", 
+            "degree": 1, 
+            "title": "Genome of Rice Cluster I archaea--the key methane producers in the rice rhizosphere."
+        }, 
+        {
+            "node": 181, 
+            "year": 2011, 
+            "name": "21878105", 
+            "degree": 1, 
+            "title": "CloVR: a virtual machine for automated and portable sequence analysis from the desktop using cloud computing."
+        }, 
+        {
+            "node": 182, 
+            "year": 2010, 
+            "name": "20830554", 
+            "degree": 1, 
+            "title": "Construction of small-insert and large-insert metagenomic libraries."
+        }, 
+        {
+            "node": 183, 
+            "year": 2002, 
+            "name": "12149135", 
+            "degree": 2, 
+            "title": "Visualizing the genome: techniques for presenting human genome data and annotations."
+        }, 
+        {
+            "node": 184, 
+            "year": 2007, 
+            "name": "17941818", 
+            "degree": 1, 
+            "title": "Laser capture sampling and analytical issues in proteomics."
+        }, 
+        {
+            "node": 185, 
+            "year": 2008, 
+            "name": "18515841", 
+            "degree": 1, 
+            "title": "Babelomics: advanced functional profiling of transcriptomics, proteomics and genomics experiments."
+        }, 
+        {
+            "node": 186, 
+            "year": 2006, 
+            "name": "16835427", 
+            "degree": 2, 
+            "title": "The incidentalome: a threat to genomic medicine."
+        }, 
+        {
+            "node": 187, 
+            "year": 2003, 
+            "name": "12659729", 
+            "degree": 1, 
+            "title": "Multi-dimensional liquid phase based separations in proteomics."
+        }, 
+        {
+            "node": 188, 
+            "year": 2007, 
+            "name": "17923431", 
+            "degree": 1, 
+            "title": "Prokaryotic taxonomy and phylogeny in the genomic era: advancements and challenges ahead."
+        }, 
+        {
+            "node": 189, 
+            "year": 2012, 
+            "name": "22427497", 
+            "degree": 1, 
+            "title": "Metagenomic analysis of Streptomyces lividans reveals host-dependent functional expression."
+        }, 
+        {
+            "node": 190, 
+            "year": 2005, 
+            "name": "16151403", 
+            "degree": 1, 
+            "title": "From XML to RDF: how semantic web technologies will change the design of 'omic' standards."
+        }, 
+        {
+            "node": 191, 
+            "year": 2007, 
+            "name": "17272687", 
+            "degree": 1, 
+            "title": "Quantitative phylogenetic assessment of microbial communities in diverse environments."
+        }, 
+        {
+            "node": 192, 
+            "year": 2009, 
+            "name": "19279218", 
+            "degree": 1, 
+            "title": "An embryonic stem cell chromatin remodeling complex, esBAF, is an essential component of the core pluripotency transcriptional network."
+        }, 
+        {
+            "node": 193, 
+            "year": 2006, 
+            "name": "17174899", 
+            "degree": 1, 
+            "title": "Quantitative proteomics analysis of the secretory pathway."
+        }, 
+        {
+            "node": 194, 
+            "year": 2010, 
+            "name": "21189494", 
+            "degree": 1, 
+            "title": "Extending the reach of public health genomics: what should be the agenda for public health in an era of genome-based and \"personalized\" medicine?"
+        }, 
+        {
+            "node": 195, 
+            "year": 2005, 
+            "name": "15958392", 
+            "degree": 1, 
+            "title": "Exponentially modified protein abundance index (emPAI) for estimation of absolute protein amount in proteomics by the number of sequenced peptides per protein."
+        }, 
+        {
+            "node": 196, 
+            "year": 2003, 
+            "name": "14654843", 
+            "degree": 1, 
+            "title": "Proteomic characterization of the human centrosome by protein correlation profiling."
+        }, 
+        {
+            "node": 197, 
+            "year": 2008, 
+            "name": "18941418", 
+            "degree": 1, 
+            "title": "The on-line promotion and sale of nutrigenomic services."
+        }, 
+        {
+            "node": 198, 
+            "year": 2004, 
+            "name": "14961025", 
+            "degree": 1, 
+            "title": "Community structure and metabolism through reconstruction of microbial genomes from the environment."
+        }, 
+        {
+            "node": 199, 
+            "year": 2010, 
+            "name": "20808229", 
+            "degree": 1, 
+            "title": "A formal risk-benefit framework for genomic tests: facilitating the appropriate translation of genomics into clinical practice."
+        }, 
+        {
+            "node": 200, 
+            "year": 2007, 
+            "name": "17761667", 
+            "degree": 1, 
+            "title": "Proteomics reveals N-linked glycoprotein diversity in Caenorhabditis elegans and suggests an atypical translocation mechanism for integral membrane proteins."
+        }, 
+        {
+            "node": 201, 
+            "year": 2008, 
+            "name": "18946950", 
+            "degree": 1, 
+            "title": "Proteomics and transfusion medicine."
+        }, 
+        {
+            "node": 202, 
+            "year": 2012, 
+            "name": "22966151", 
+            "degree": 6, 
+            "title": "Current opportunities and challenges in microbial metagenome analysis--a bioinformatic perspective."
+        }, 
+        {
+            "node": 203, 
+            "year": 2008, 
+            "name": "18691976", 
+            "degree": 1, 
+            "title": "Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle."
+        }, 
+        {
+            "node": 204, 
+            "year": 2009, 
+            "name": "19681675", 
+            "degree": 1, 
+            "title": "Tissue proteomics in atherosclerosis: elucidating the molecular mechanisms of cardiovascular diseases."
+        }, 
+        {
+            "node": 205, 
+            "year": 2012, 
+            "name": "22488463", 
+            "degree": 1, 
+            "title": "Implications of Internet availability of genomic information for public health practice."
+        }, 
+        {
+            "node": 206, 
+            "year": 2007, 
+            "name": "17925520", 
+            "degree": 3, 
+            "title": "Personalized medicine in the era of genomics."
+        }, 
+        {
+            "node": 207, 
+            "year": 2009, 
+            "name": "20022680", 
+            "degree": 1, 
+            "title": "Negotiating the boundary between medicine and consumer culture: online marketing of nutrigenetic tests."
+        }, 
+        {
+            "node": 208, 
+            "year": 2008, 
+            "name": "18192407", 
+            "degree": 3, 
+            "title": "Metagenomics: read length matters."
+        }, 
+        {
+            "node": 209, 
+            "year": 2011, 
+            "name": "21834136", 
+            "degree": 1, 
+            "title": "Pluripotent stem cell heterogeneity and the evolving role of proteomic technologies in stem cell biology."
+        }, 
+        {
+            "node": 210, 
+            "year": 2001, 
+            "name": "11178283", 
+            "degree": 1, 
+            "title": "Arabidopsis genome sequence as a tool for functional genomics in tomato."
+        }, 
+        {
+            "node": 211, 
+            "year": 2001, 
+            "name": "11739887", 
+            "degree": 1, 
+            "title": "Research needs for human nutrition in the post-genome-sequencing era."
+        }, 
+        {
+            "node": 212, 
+            "year": 2009, 
+            "name": "19931039", 
+            "degree": 2, 
+            "title": "Using lifetime risk estimates in personal genomic profiles: estimation of uncertainty."
+        }, 
+        {
+            "node": 213, 
+            "year": 2001, 
+            "name": "11721632", 
+            "degree": 1, 
+            "title": "Laser capture microdissection and proteomics: possibilities and limitation."
+        }, 
+        {
+            "node": 214, 
+            "year": 2010, 
+            "name": "21190561", 
+            "degree": 1, 
+            "title": "Evolution of gene regulation of pluripotency--the case for wiki tracks at genome browsers."
+        }, 
+        {
+            "node": 215, 
+            "year": 2009, 
+            "name": "20018595", 
+            "degree": 1, 
+            "title": "Gene expression analysis, proteomics, and network discovery."
+        }, 
+        {
+            "node": 216, 
+            "year": 2003, 
+            "name": "14519205", 
+            "degree": 1, 
+            "title": "Identifying biological themes within lists of genes with EASE."
+        }, 
+        {
+            "node": 217, 
+            "year": 2007, 
+            "name": "17766312", 
+            "degree": 1, 
+            "title": "Domestication, genomics and the future for banana."
+        }, 
+        {
+            "node": 218, 
+            "year": 2009, 
+            "name": "19208617", 
+            "degree": 1, 
+            "title": "MitoMiner, an integrated database for the storage and analysis of mitochondrial proteomics data."
+        }, 
+        {
+            "node": 219, 
+            "year": 2004, 
+            "name": "14747694", 
+            "degree": 1, 
+            "title": "HUPO initiatives relevant to clinical proteomics."
+        }, 
+        {
+            "node": 220, 
+            "year": 2008, 
+            "name": "18440977", 
+            "degree": 1, 
+            "title": "ISPIDER Central: an integrated database web-server for proteomics."
+        }, 
+        {
+            "node": 221, 
+            "year": 2008, 
+            "name": "18936753", 
+            "degree": 2, 
+            "title": "Network pharmacology: the next paradigm in drug discovery."
+        }, 
+        {
+            "node": 222, 
+            "year": 2007, 
+            "name": "17349043", 
+            "degree": 1, 
+            "title": "Towards a comprehensive structural coverage of completed genomes: a structural genomics viewpoint."
+        }, 
+        {
+            "node": 223, 
+            "year": 2012, 
+            "name": "23259572", 
+            "degree": 1, 
+            "title": "Defining bacterial species in the genomic era: insights from the genus Acinetobacter."
+        }, 
+        {
+            "node": 224, 
+            "year": 2011, 
+            "name": "22156726", 
+            "degree": 2, 
+            "title": "Advances in omics and bioinformatics tools for systems analyses of plant functions."
+        }, 
+        {
+            "node": 225, 
+            "year": 2004, 
+            "name": "14730057", 
+            "degree": 1, 
+            "title": "Automated array-based genomic profiling in chronic lymphocytic leukemia: development of a clinical tool and discovery of recurrent genomic alterations."
+        }, 
+        {
+            "node": 226, 
+            "year": 2009, 
+            "name": "19775929", 
+            "degree": 1, 
+            "title": "Glycomics and disease markers."
+        }, 
+        {
+            "node": 227, 
+            "year": 2010, 
+            "name": "20195258", 
+            "degree": 1, 
+            "title": "Visualization of omics data for systems biology."
+        }, 
+        {
+            "node": 228, 
+            "year": 2001, 
+            "name": "11733442", 
+            "degree": 5, 
+            "title": "Genomic medicine: the sorcerer's new broom? The limitations of the human genome project."
+        }, 
+        {
+            "node": 229, 
+            "year": 2009, 
+            "name": "20018669", 
+            "degree": 1, 
+            "title": "Whole-proteome phylogeny of prokaryotes by feature frequency profiles: An alignment-free method with optimal feature resolution."
+        }, 
+        {
+            "node": 230, 
+            "year": 2004, 
+            "name": "14970822", 
+            "degree": 1, 
+            "title": "Domestic-animal genomics: deciphering the genetics of complex traits."
+        }, 
+        {
+            "node": 231, 
+            "year": 2013, 
+            "name": "23329697", 
+            "degree": 1, 
+            "title": "Rat mir-155 generated from the lncRNA Bic is 'hidden' in the alternate genomic assembly and reveals the existence of novel mammalian miRNAs and clusters."
+        }, 
+        {
+            "node": 232, 
+            "year": 2012, 
+            "name": "22893000", 
+            "degree": 1, 
+            "title": "Quantitative measurement of allele-specific protein expression in a diploid yeast hybrid by LC-MS."
+        }, 
+        {
+            "node": 233, 
+            "year": 2009, 
+            "name": "19309514", 
+            "degree": 1, 
+            "title": "A national clinical decision support infrastructure to enable the widespread and consistent practice of genomic and personalized medicine."
+        }, 
+        {
+            "node": 234, 
+            "year": 2009, 
+            "name": "19706359", 
+            "degree": 2, 
+            "title": "Given the complexity of the human genome, can 'personalised medicine' or 'individualised drug therapy' ever be achieved?"
+        }, 
+        {
+            "node": 235, 
+            "year": 2010, 
+            "name": "20065954", 
+            "degree": 1, 
+            "title": "Personalized genomic information: preparing for the future of genetic medicine."
+        }, 
+        {
+            "node": 236, 
+            "year": 2009, 
+            "name": "19855822", 
+            "degree": 1, 
+            "title": "The key role of genomics in modern vaccine and drug design for emerging infectious diseases."
+        }, 
+        {
+            "node": 237, 
+            "year": 1993, 
+            "name": "8124493", 
+            "degree": 1, 
+            "title": "Primary care and the human genome project. Into the breach."
+        }, 
+        {
+            "node": 238, 
+            "year": 2011, 
+            "name": "21280208", 
+            "degree": 1, 
+            "title": "Nutrigenomics in human intervention studies: current status, lessons learned and future perspectives."
+        }, 
+        {
+            "node": 239, 
+            "year": 2007, 
+            "name": "18036242", 
+            "degree": 1, 
+            "title": "The new biology: beyond the Modern Synthesis."
+        }, 
+        {
+            "node": 240, 
+            "year": 2004, 
+            "name": "15592404", 
+            "degree": 1, 
+            "title": "Sequence and comparative analysis of the chicken genome provide unique perspectives on vertebrate evolution."
+        }, 
+        {
+            "node": 241, 
+            "year": 2004, 
+            "name": "15592405", 
+            "degree": 1, 
+            "title": "A genetic variation map for chicken with 2.8 million single-nucleotide polymorphisms."
+        }, 
+        {
+            "node": 242, 
+            "year": 2005, 
+            "name": "15980504", 
+            "degree": 1, 
+            "title": "POCO: discovery of regulatory patterns from promoters of oppositely expressed gene sets."
+        }, 
+        {
+            "node": 243, 
+            "year": 2006, 
+            "name": "16615898", 
+            "degree": 1, 
+            "title": "Global survey of organ and organelle protein expression in mouse: combined proteomic and transcriptomic profiling."
+        }, 
+        {
+            "node": 244, 
+            "year": 2006, 
+            "name": "16615899", 
+            "degree": 1, 
+            "title": "A mammalian organelle map by protein correlation profiling."
+        }, 
+        {
+            "node": 245, 
+            "year": 2010, 
+            "name": "20373666", 
+            "degree": 1, 
+            "title": "Personal genomes in progress: from the human genome project to the personal genome project."
+        }, 
+        {
+            "node": 246, 
+            "year": 2005, 
+            "name": "15845853", 
+            "degree": 2, 
+            "title": "Comparative metagenomics of microbial communities."
+        }, 
+        {
+            "node": 247, 
+            "year": 2004, 
+            "name": "14970847", 
+            "degree": 1, 
+            "title": "SNPs in cancer research and treatment."
+        }, 
+        {
+            "node": 248, 
+            "year": 2007, 
+            "name": "17218528", 
+            "degree": 1, 
+            "title": "Physiological proteomics of the uncultured endosymbiont of Riftia pachyptila."
+        }, 
+        {
+            "node": 249, 
+            "year": 2004, 
+            "name": "15342562", 
+            "degree": 1, 
+            "title": "Genome-scale in silico models of E. coli have multiple equivalent phenotypic states: assessment of correlated reaction subsets that comprise network states."
+        }, 
+        {
+            "node": 250, 
+            "year": 2011, 
+            "name": "21375461", 
+            "degree": 9, 
+            "title": "Progress in mining the human proteome for disease applications."
+        }, 
+        {
+            "node": 251, 
+            "year": 2009, 
+            "name": "19720678", 
+            "degree": 1, 
+            "title": "Improved criteria and comparative genomics tool provide new insights into grass paleogenomics."
+        }, 
+        {
+            "node": 252, 
+            "year": 2007, 
+            "name": "17533415", 
+            "degree": 1, 
+            "title": "Chemogenomic approaches to drug discovery: similar receptors bind similar ligands."
+        }, 
+        {
+            "node": 253, 
+            "year": 2007, 
+            "name": "17533416", 
+            "degree": 1, 
+            "title": "Chemogenomic approaches to rational drug design."
+        }, 
+        {
+            "node": 254, 
+            "year": 2010, 
+            "name": "20072937", 
+            "degree": 1, 
+            "title": "Membrane proteomics for leukemia classification and drug target identification."
+        }, 
+        {
+            "node": 255, 
+            "year": 2009, 
+            "name": "19213802", 
+            "degree": 1, 
+            "title": "Darwinian evolution in the light of genomics."
+        }, 
+        {
+            "node": 256, 
+            "year": 2004, 
+            "name": "15046636", 
+            "degree": 1, 
+            "title": "A SNP-centric database for the investigation of the human genome."
+        }, 
+        {
+            "node": 257, 
+            "year": 2012, 
+            "name": "22777837", 
+            "degree": 1, 
+            "title": "The genome in space and time: does form always follow function? How does the spatial and temporal organization of a eukaryotic genome reflect and influence its functions?"
+        }, 
+        {
+            "node": 258, 
+            "year": 2010, 
+            "name": "20657646", 
+            "degree": 1, 
+            "title": "Phylogenomic analysis of marine Roseobacters."
+        }, 
+        {
+            "node": 259, 
+            "year": 2005, 
+            "name": "16196093", 
+            "degree": 1, 
+            "title": "State-of-the-art in phosphoproteomics."
+        }, 
+        {
+            "node": 260, 
+            "year": 2004, 
+            "name": "15377392", 
+            "degree": 2, 
+            "title": "PEDRo: a database for storing, searching and disseminating experimental proteomics data."
+        }, 
+        {
+            "node": 261, 
+            "year": 2002, 
+            "name": "12065270", 
+            "degree": 1, 
+            "title": "Nutritional genomics."
+        }, 
+        {
+            "node": 262, 
+            "year": 2008, 
+            "name": "18547191", 
+            "degree": 7, 
+            "title": "Managing incidental findings in human subjects research: analysis and recommendations."
+        }, 
+        {
+            "node": 263, 
+            "year": 2008, 
+            "name": "18547195", 
+            "degree": 1, 
+            "title": "Understanding incidental findings in the context of genetics and genomics."
+        }, 
+        {
+            "node": 264, 
+            "year": 2006, 
+            "name": "16669732", 
+            "degree": 1, 
+            "title": "Genetics, transcriptomics, and proteomics of Alzheimer's disease."
+        }, 
+        {
+            "node": 265, 
+            "year": 2008, 
+            "name": "18547197", 
+            "degree": 3, 
+            "title": "Genomic research and incidental findings."
+        }, 
+        {
+            "node": 266, 
+            "year": 2002, 
+            "name": "11897028", 
+            "degree": 2, 
+            "title": "Comparative genomics of Arabidopsis and maize: prospects and limitations."
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 202, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 262, 
+            "weight": 4
+        }, 
+        {
+            "source": 2, 
+            "target": 98, 
+            "weight": 6
+        }, 
+        {
+            "source": 4, 
+            "target": 190, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 69, 
+            "weight": 3
+        }, 
+        {
+            "source": 5, 
+            "target": 85, 
+            "weight": 5
+        }, 
+        {
+            "source": 7, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 45, 
+            "weight": 3
+        }, 
+        {
+            "source": 9, 
+            "target": 256, 
+            "weight": 4
+        }, 
+        {
+            "source": 10, 
+            "target": 26, 
+            "weight": 4
+        }, 
+        {
+            "source": 12, 
+            "target": 27, 
+            "weight": 2
+        }, 
+        {
+            "source": 13, 
+            "target": 27, 
+            "weight": 2
+        }, 
+        {
+            "source": 14, 
+            "target": 78, 
+            "weight": 7
+        }, 
+        {
+            "source": 15, 
+            "target": 262, 
+            "weight": 6
+        }, 
+        {
+            "source": 16, 
+            "target": 85, 
+            "weight": 3
+        }, 
+        {
+            "source": 17, 
+            "target": 161, 
+            "weight": 2
+        }, 
+        {
+            "source": 20, 
+            "target": 59, 
+            "weight": 4
+        }, 
+        {
+            "source": 22, 
+            "target": 80, 
+            "weight": 12
+        }, 
+        {
+            "source": 23, 
+            "target": 208, 
+            "weight": 2
+        }, 
+        {
+            "source": 24, 
+            "target": 126, 
+            "weight": 3
+        }, 
+        {
+            "source": 26, 
+            "target": 10, 
+            "weight": 4
+        }, 
+        {
+            "source": 28, 
+            "target": 10, 
+            "weight": 2
+        }, 
+        {
+            "source": 29, 
+            "target": 161, 
+            "weight": 3
+        }, 
+        {
+            "source": 31, 
+            "target": 115, 
+            "weight": 2
+        }, 
+        {
+            "source": 32, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 35, 
+            "target": 161, 
+            "weight": 2
+        }, 
+        {
+            "source": 37, 
+            "target": 11, 
+            "weight": 2
+        }, 
+        {
+            "source": 38, 
+            "target": 33, 
+            "weight": 1
+        }, 
+        {
+            "source": 39, 
+            "target": 251, 
+            "weight": 4
+        }, 
+        {
+            "source": 40, 
+            "target": 228, 
+            "weight": 2
+        }, 
+        {
+            "source": 41, 
+            "target": 238, 
+            "weight": 3
+        }, 
+        {
+            "source": 42, 
+            "target": 170, 
+            "weight": 3
+        }, 
+        {
+            "source": 43, 
+            "target": 250, 
+            "weight": 2
+        }, 
+        {
+            "source": 44, 
+            "target": 84, 
+            "weight": 3
+        }, 
+        {
+            "source": 46, 
+            "target": 165, 
+            "weight": 4
+        }, 
+        {
+            "source": 47, 
+            "target": 250, 
+            "weight": 4
+        }, 
+        {
+            "source": 48, 
+            "target": 250, 
+            "weight": 6
+        }, 
+        {
+            "source": 49, 
+            "target": 19, 
+            "weight": 4
+        }, 
+        {
+            "source": 51, 
+            "target": 116, 
+            "weight": 2
+        }, 
+        {
+            "source": 54, 
+            "target": 69, 
+            "weight": 3
+        }, 
+        {
+            "source": 55, 
+            "target": 65, 
+            "weight": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 149, 
+            "weight": 2
+        }, 
+        {
+            "source": 56, 
+            "target": 69, 
+            "weight": 1
+        }, 
+        {
+            "source": 56, 
+            "target": 208, 
+            "weight": 4
+        }, 
+        {
+            "source": 57, 
+            "target": 71, 
+            "weight": 3
+        }, 
+        {
+            "source": 60, 
+            "target": 228, 
+            "weight": 2
+        }, 
+        {
+            "source": 62, 
+            "target": 6, 
+            "weight": 4
+        }, 
+        {
+            "source": 64, 
+            "target": 156, 
+            "weight": 5
+        }, 
+        {
+            "source": 66, 
+            "target": 183, 
+            "weight": 4
+        }, 
+        {
+            "source": 67, 
+            "target": 206, 
+            "weight": 3
+        }, 
+        {
+            "source": 68, 
+            "target": 221, 
+            "weight": 3
+        }, 
+        {
+            "source": 69, 
+            "target": 137, 
+            "weight": 2
+        }, 
+        {
+            "source": 69, 
+            "target": 85, 
+            "weight": 4
+        }, 
+        {
+            "source": 70, 
+            "target": 136, 
+            "weight": 2
+        }, 
+        {
+            "source": 72, 
+            "target": 266, 
+            "weight": 3
+        }, 
+        {
+            "source": 73, 
+            "target": 63, 
+            "weight": 3
+        }, 
+        {
+            "source": 73, 
+            "target": 183, 
+            "weight": 7
+        }, 
+        {
+            "source": 74, 
+            "target": 260, 
+            "weight": 4
+        }, 
+        {
+            "source": 77, 
+            "target": 129, 
+            "weight": 5
+        }, 
+        {
+            "source": 77, 
+            "target": 18, 
+            "weight": 4
+        }, 
+        {
+            "source": 79, 
+            "target": 85, 
+            "weight": 2
+        }, 
+        {
+            "source": 81, 
+            "target": 228, 
+            "weight": 2
+        }, 
+        {
+            "source": 82, 
+            "target": 137, 
+            "weight": 1
+        }, 
+        {
+            "source": 83, 
+            "target": 202, 
+            "weight": 1
+        }, 
+        {
+            "source": 85, 
+            "target": 69, 
+            "weight": 4
+        }, 
+        {
+            "source": 85, 
+            "target": 115, 
+            "weight": 1
+        }, 
+        {
+            "source": 86, 
+            "target": 36, 
+            "weight": 4
+        }, 
+        {
+            "source": 88, 
+            "target": 50, 
+            "weight": 3
+        }, 
+        {
+            "source": 89, 
+            "target": 153, 
+            "weight": 5
+        }, 
+        {
+            "source": 90, 
+            "target": 202, 
+            "weight": 1
+        }, 
+        {
+            "source": 91, 
+            "target": 71, 
+            "weight": 2
+        }, 
+        {
+            "source": 92, 
+            "target": 75, 
+            "weight": 3
+        }, 
+        {
+            "source": 93, 
+            "target": 21, 
+            "weight": 1
+        }, 
+        {
+            "source": 94, 
+            "target": 153, 
+            "weight": 3
+        }, 
+        {
+            "source": 95, 
+            "target": 167, 
+            "weight": 2
+        }, 
+        {
+            "source": 96, 
+            "target": 124, 
+            "weight": 4
+        }, 
+        {
+            "source": 100, 
+            "target": 139, 
+            "weight": 4
+        }, 
+        {
+            "source": 101, 
+            "target": 137, 
+            "weight": 3
+        }, 
+        {
+            "source": 101, 
+            "target": 69, 
+            "weight": 3
+        }, 
+        {
+            "source": 103, 
+            "target": 239, 
+            "weight": 3
+        }, 
+        {
+            "source": 104, 
+            "target": 247, 
+            "weight": 4
+        }, 
+        {
+            "source": 105, 
+            "target": 61, 
+            "weight": 4
+        }, 
+        {
+            "source": 106, 
+            "target": 114, 
+            "weight": 4
+        }, 
+        {
+            "source": 107, 
+            "target": 69, 
+            "weight": 1
+        }, 
+        {
+            "source": 108, 
+            "target": 139, 
+            "weight": 1
+        }, 
+        {
+            "source": 109, 
+            "target": 117, 
+            "weight": 2
+        }, 
+        {
+            "source": 111, 
+            "target": 202, 
+            "weight": 2
+        }, 
+        {
+            "source": 112, 
+            "target": 110, 
+            "weight": 7
+        }, 
+        {
+            "source": 113, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 115, 
+            "target": 85, 
+            "weight": 1
+        }, 
+        {
+            "source": 118, 
+            "target": 174, 
+            "weight": 3
+        }, 
+        {
+            "source": 119, 
+            "target": 115, 
+            "weight": 2
+        }, 
+        {
+            "source": 123, 
+            "target": 97, 
+            "weight": 4
+        }, 
+        {
+            "source": 123, 
+            "target": 76, 
+            "weight": 3
+        }, 
+        {
+            "source": 125, 
+            "target": 36, 
+            "weight": 6
+        }, 
+        {
+            "source": 127, 
+            "target": 58, 
+            "weight": 4
+        }, 
+        {
+            "source": 128, 
+            "target": 221, 
+            "weight": 4
+        }, 
+        {
+            "source": 131, 
+            "target": 158, 
+            "weight": 6
+        }, 
+        {
+            "source": 132, 
+            "target": 149, 
+            "weight": 4
+        }, 
+        {
+            "source": 133, 
+            "target": 69, 
+            "weight": 3
+        }, 
+        {
+            "source": 133, 
+            "target": 85, 
+            "weight": 4
+        }, 
+        {
+            "source": 135, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 137, 
+            "target": 69, 
+            "weight": 2
+        }, 
+        {
+            "source": 140, 
+            "target": 138, 
+            "weight": 2
+        }, 
+        {
+            "source": 141, 
+            "target": 11, 
+            "weight": 2
+        }, 
+        {
+            "source": 142, 
+            "target": 250, 
+            "weight": 2
+        }, 
+        {
+            "source": 143, 
+            "target": 121, 
+            "weight": 2
+        }, 
+        {
+            "source": 145, 
+            "target": 149, 
+            "weight": 2
+        }, 
+        {
+            "source": 146, 
+            "target": 30, 
+            "weight": 3
+        }, 
+        {
+            "source": 147, 
+            "target": 202, 
+            "weight": 2
+        }, 
+        {
+            "source": 148, 
+            "target": 144, 
+            "weight": 3
+        }, 
+        {
+            "source": 149, 
+            "target": 132, 
+            "weight": 4
+        }, 
+        {
+            "source": 150, 
+            "target": 27, 
+            "weight": 3
+        }, 
+        {
+            "source": 152, 
+            "target": 208, 
+            "weight": 1
+        }, 
+        {
+            "source": 154, 
+            "target": 124, 
+            "weight": 2
+        }, 
+        {
+            "source": 154, 
+            "target": 117, 
+            "weight": 2
+        }, 
+        {
+            "source": 155, 
+            "target": 124, 
+            "weight": 2
+        }, 
+        {
+            "source": 155, 
+            "target": 117, 
+            "weight": 2
+        }, 
+        {
+            "source": 156, 
+            "target": 64, 
+            "weight": 5
+        }, 
+        {
+            "source": 157, 
+            "target": 201, 
+            "weight": 2
+        }, 
+        {
+            "source": 159, 
+            "target": 159, 
+            "weight": 17
+        }, 
+        {
+            "source": 160, 
+            "target": 217, 
+            "weight": 4
+        }, 
+        {
+            "source": 162, 
+            "target": 10, 
+            "weight": 4
+        }, 
+        {
+            "source": 163, 
+            "target": 262, 
+            "weight": 5
+        }, 
+        {
+            "source": 164, 
+            "target": 121, 
+            "weight": 1
+        }, 
+        {
+            "source": 166, 
+            "target": 36, 
+            "weight": 5
+        }, 
+        {
+            "source": 168, 
+            "target": 250, 
+            "weight": 3
+        }, 
+        {
+            "source": 172, 
+            "target": 171, 
+            "weight": 5
+        }, 
+        {
+            "source": 173, 
+            "target": 34, 
+            "weight": 5
+        }, 
+        {
+            "source": 175, 
+            "target": 224, 
+            "weight": 2
+        }, 
+        {
+            "source": 176, 
+            "target": 153, 
+            "weight": 4
+        }, 
+        {
+            "source": 178, 
+            "target": 80, 
+            "weight": 7
+        }, 
+        {
+            "source": 179, 
+            "target": 235, 
+            "weight": 3
+        }, 
+        {
+            "source": 180, 
+            "target": 202, 
+            "weight": 1
+        }, 
+        {
+            "source": 181, 
+            "target": 120, 
+            "weight": 3
+        }, 
+        {
+            "source": 182, 
+            "target": 139, 
+            "weight": 2
+        }, 
+        {
+            "source": 184, 
+            "target": 213, 
+            "weight": 2
+        }, 
+        {
+            "source": 185, 
+            "target": 80, 
+            "weight": 8
+        }, 
+        {
+            "source": 186, 
+            "target": 265, 
+            "weight": 3
+        }, 
+        {
+            "source": 186, 
+            "target": 262, 
+            "weight": 3
+        }, 
+        {
+            "source": 187, 
+            "target": 121, 
+            "weight": 2
+        }, 
+        {
+            "source": 189, 
+            "target": 139, 
+            "weight": 3
+        }, 
+        {
+            "source": 191, 
+            "target": 85, 
+            "weight": 3
+        }, 
+        {
+            "source": 192, 
+            "target": 209, 
+            "weight": 3
+        }, 
+        {
+            "source": 193, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 195, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 196, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 198, 
+            "target": 85, 
+            "weight": 3
+        }, 
+        {
+            "source": 199, 
+            "target": 206, 
+            "weight": 3
+        }, 
+        {
+            "source": 200, 
+            "target": 121, 
+            "weight": 1
+        }, 
+        {
+            "source": 203, 
+            "target": 250, 
+            "weight": 2
+        }, 
+        {
+            "source": 204, 
+            "target": 250, 
+            "weight": 2
+        }, 
+        {
+            "source": 205, 
+            "target": 194, 
+            "weight": 3
+        }, 
+        {
+            "source": 207, 
+            "target": 197, 
+            "weight": 3
+        }, 
+        {
+            "source": 210, 
+            "target": 266, 
+            "weight": 5
+        }, 
+        {
+            "source": 211, 
+            "target": 153, 
+            "weight": 4
+        }, 
+        {
+            "source": 212, 
+            "target": 76, 
+            "weight": 3
+        }, 
+        {
+            "source": 212, 
+            "target": 206, 
+            "weight": 4
+        }, 
+        {
+            "source": 214, 
+            "target": 3, 
+            "weight": 3
+        }, 
+        {
+            "source": 215, 
+            "target": 75, 
+            "weight": 1
+        }, 
+        {
+            "source": 216, 
+            "target": 80, 
+            "weight": 7
+        }, 
+        {
+            "source": 218, 
+            "target": 75, 
+            "weight": 3
+        }, 
+        {
+            "source": 219, 
+            "target": 250, 
+            "weight": 3
+        }, 
+        {
+            "source": 220, 
+            "target": 260, 
+            "weight": 2
+        }, 
+        {
+            "source": 222, 
+            "target": 36, 
+            "weight": 7
+        }, 
+        {
+            "source": 223, 
+            "target": 188, 
+            "weight": 3
+        }, 
+        {
+            "source": 225, 
+            "target": 177, 
+            "weight": 2
+        }, 
+        {
+            "source": 226, 
+            "target": 134, 
+            "weight": 5
+        }, 
+        {
+            "source": 227, 
+            "target": 224, 
+            "weight": 2
+        }, 
+        {
+            "source": 228, 
+            "target": 60, 
+            "weight": 2
+        }, 
+        {
+            "source": 229, 
+            "target": 161, 
+            "weight": 2
+        }, 
+        {
+            "source": 230, 
+            "target": 149, 
+            "weight": 3
+        }, 
+        {
+            "source": 231, 
+            "target": 169, 
+            "weight": 5
+        }, 
+        {
+            "source": 232, 
+            "target": 102, 
+            "weight": 2
+        }, 
+        {
+            "source": 233, 
+            "target": 76, 
+            "weight": 2
+        }, 
+        {
+            "source": 234, 
+            "target": 99, 
+            "weight": 2
+        }, 
+        {
+            "source": 234, 
+            "target": 53, 
+            "weight": 2
+        }, 
+        {
+            "source": 236, 
+            "target": 52, 
+            "weight": 3
+        }, 
+        {
+            "source": 237, 
+            "target": 228, 
+            "weight": 2
+        }, 
+        {
+            "source": 240, 
+            "target": 149, 
+            "weight": 2
+        }, 
+        {
+            "source": 241, 
+            "target": 149, 
+            "weight": 3
+        }, 
+        {
+            "source": 242, 
+            "target": 87, 
+            "weight": 6
+        }, 
+        {
+            "source": 243, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 244, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 245, 
+            "target": 151, 
+            "weight": 2
+        }, 
+        {
+            "source": 246, 
+            "target": 69, 
+            "weight": 2
+        }, 
+        {
+            "source": 246, 
+            "target": 85, 
+            "weight": 5
+        }, 
+        {
+            "source": 248, 
+            "target": 85, 
+            "weight": 4
+        }, 
+        {
+            "source": 249, 
+            "target": 71, 
+            "weight": 2
+        }, 
+        {
+            "source": 252, 
+            "target": 122, 
+            "weight": 1
+        }, 
+        {
+            "source": 253, 
+            "target": 122, 
+            "weight": 1
+        }, 
+        {
+            "source": 254, 
+            "target": 250, 
+            "weight": 3
+        }, 
+        {
+            "source": 255, 
+            "target": 61, 
+            "weight": 6
+        }, 
+        {
+            "source": 257, 
+            "target": 25, 
+            "weight": 7
+        }, 
+        {
+            "source": 258, 
+            "target": 130, 
+            "weight": 3
+        }, 
+        {
+            "source": 259, 
+            "target": 121, 
+            "weight": 1
+        }, 
+        {
+            "source": 261, 
+            "target": 153, 
+            "weight": 4
+        }, 
+        {
+            "source": 262, 
+            "target": 265, 
+            "weight": 3
+        }, 
+        {
+            "source": 263, 
+            "target": 262, 
+            "weight": 3
+        }, 
+        {
+            "source": 264, 
+            "target": 45, 
+            "weight": 3
+        }, 
+        {
+            "source": 265, 
+            "target": 262, 
+            "weight": 3
+        }
+    ]
+}

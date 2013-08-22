@@ -4,7 +4,7 @@ var color = d3.scale.category20b();
 
 var year_gray_scale = d3.scale.linear()
     .domain([1987, 2013])
-    .range([220, 90]);
+    .range([1, 230]);
 
 var degree_scale = d3.scale.linear()
     .domain([1, 20])
@@ -12,8 +12,20 @@ var degree_scale = d3.scale.linear()
 
 
 var force = d3.layout.force()
-    .linkDistance(30)
-    .size([width, height]);
+    .size([width, height])
+    .friction(0.7)
+    .gravity(0.09)
+    .charge(-50)
+    .linkDistance(30);
+
+function dragstart(d) {
+    d.fixed = true;
+    d3.select(this).classed("fixed", true);
+}
+
+
+var drag = force.drag()
+    .on("dragstart", dragstart);
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -31,12 +43,15 @@ svg.append("svg:defs").selectAll("marker")
     .append("svg:circle")
     .attr("cx", 6)
     .attr("cy", 6)
-    .attr("r", 15)
+    .attr("r", 10)
     .attr("stroke", "green")
+    .attr("fill", d3.rgb(200,200,200))
 
 
 
-d3.json("2012.json", function(error, graph) {
+
+
+d3.json("1990.json", function(error, graph) {
     force
 	.nodes(graph.nodes)
 	.links(graph.links)
@@ -60,8 +75,8 @@ d3.json("2012.json", function(error, graph) {
 	.attr("xlink:href", function(d) { return "http://www.ncbi.nlm.nih.gov/pubmed/"+d.name;} )
 	.append("circle")
 	.attr("r", function(d) { return degree_scale(d.degree); } )
-	.style("fill", function(d) { return d3.rgb(year_gray_scale(d.year), year_gray_scale(d.year), year_gray_scale(d.year)+33); })
-	.call(force.drag);
+	.style("fill", function(d) { return d3.rgb(year_gray_scale(d.year)+9, year_gray_scale(d.year), 150); })
+	.call(drag);
 
     node.append("text")
 	.attr("x", 12)
@@ -71,7 +86,6 @@ d3.json("2012.json", function(error, graph) {
 
     node.append("title")
 	.text(function(d) { return d.year+" "+d.title; });
-
 
 
     force.on("tick", function() {
