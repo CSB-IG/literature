@@ -24,7 +24,6 @@ def cited_in(request, year):
 def cited_in_trends(request, year):
     G = nx.DiGraph()
     for sh in Subheadingterm.objects.filter(subheading = Subheading.objects.filter(term='Trends'),
-                                            major=True,
                                             meshcitation__citation__date_created__gte=datetime.datetime(int(year),1,1)):
         cited = sh.meshcitation.citation
         # create network from citedin links
@@ -55,8 +54,8 @@ def cited_in_trends(request, year):
     net = {"nodes" : nodes,
            "links" : links }
 
-
-    return HttpResponse( json.dumps(net, indent=4),
+    # indent=4 for pretty printing
+    return HttpResponse( json.dumps(net), 
                          mimetype='application/json' )                         
 
 

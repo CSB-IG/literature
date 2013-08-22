@@ -24,6 +24,8 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin: 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^htsql/', include('htsql_django.urls')),
+
+    url(r'^citedin_trends/(?P<year>\d+)/$', views.cited_in_trends ),
     url(r'^citedin/(?P<year>\d+)/$', views.cited_in ),
     url(r'^mesh/(?P<year_start>\d+)/(?P<year_end>\d+)$', views.mesh_network ),
     url(r'^branches/(?P<year>\d+)/$', views.branch_network ),
