@@ -1,4 +1,4 @@
-var width = 960, height = 800;
+var width = "800", height = "800";
 
 var color = d3.scale.category20b();
 
@@ -27,7 +27,7 @@ function dragstart(d) {
 var drag = force.drag()
     .on("dragstart", dragstart);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", width)
     .attr("height", height);
 
@@ -51,7 +51,7 @@ svg.append("svg:defs").selectAll("marker")
 
 
 
-d3.json("1990.json", function(error, graph) {
+d3.json("trends_major_since_1987.json", function(error, graph) {
     force
 	.nodes(graph.nodes)
 	.links(graph.links)

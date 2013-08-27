@@ -116,3 +116,14 @@ class Citation(models.Model):
         return '#%d %s' % (self.pmid, self.title)
 
 
+
+
+
+
+
+import django_filters
+
+class CitationFilter(django_filters.FilterSet):
+    class Meta:
+        model = Citation
+        fields = ['meshterms']

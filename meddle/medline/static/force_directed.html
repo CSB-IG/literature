@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>D3 Test</title>
+    <title>Tendencias en Genómica</title>
     <script type="text/javascript" src="d3.v3.js"></script>
     <style>
       body {
@@ -69,23 +69,22 @@
       <a href="http://www.ncbi.nlm.nih.gov/mesh">palabra clave</a>
       <em>"Genomics"</em> (cerca de 50,000) y se filtraron sólo
       aquellos que además incluyeran la palabra
-      clave <em>"trends"</em> como subtítulo.  Para filtrar aún más se
-      puede restringir a que el subtítulo <em>"trends"</em> sea
-      un <a href="http://www.nlm.nih.gov/bsd/disted/pubmedtutorial/015_030.html">tema
-      principal</a>.
+      clave <em>"trends"</em> como subtítulo principal.
 
+      <br />
+      <a href="force_directed1.html">Incluyendo <em>"trends"</em> como subtítulo, principal o no.</a>
       
       
       <h3>Nodos</h3>
     <ul>
       <li>Los nodos representan artículos y son hipervínculos a los
 	registros correspondientes en PubMed. Posar el cursor sobre
-	ellos muestra el año de creación y el título en un tool-tip,
-	arrastrarlos les da una posición fija. </li>
-      <li>El tamaño de los nodos representa la cantidad de nodos que
-	en él convergen.</li>
+	ellos muestra su año de creación y el título en
+	un <i>tool-tip</i>, arrastrarlos les da una posición
+	fija. </li>
+      <li>El tamaño está determinado por su número de vecinos.</li>
       <li>El color representa la edad del artículo: tonos más claros
-	son artículos más recientes.</li>
+	representan artículos más recientes.</li>
     </ul>
     <h3>Vínculos</h3>
     <ul>
@@ -100,7 +99,7 @@
     </ul>
     </p>
     </div>
-    <script src="force_directed1.js"></script>
+    <script src="force_directed.js"></script>
     
   </body>
 </html>

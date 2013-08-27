@@ -1,4 +1,5 @@
 from django.http import HttpResponse
+from django.shortcuts import render_to_response
 from medline.models import *
 from random import shuffle
 import json, itertools, datetime
@@ -162,3 +163,57 @@ def branch_network(request, year):
     return HttpResponse( json.dumps( net ),
                          mimetype='application/json' )
     
+
+
+
+
+
+# format network as json
+def citation_network2json(G):
+    nodes = []
+    nodei = []
+    for i,node in enumerate(G.nodes()):
+        nodei.append(node)
+        nodes.append( {"node": i,
+                       "name": str(node.pmid),
+                       "title": node.title,
+                       "year": node.date_created.year,
+                       "degree": G.degree(node)} )
+
+    links = []
+    for e in G.edges():
+        links.append( {"source": nodei.index(e[0]),
+                       "target": nodei.index(e[1]),
+                       "weight" : G.get_edge_data(*e)['weight']} )
+
+    net = {"nodes" : nodes,
+           "links" : links }
+    
+    return net
+
+
+def citation_list(request):
+    # pprint.pprint(request.GET.getlist('meshterms'))
+    f = CitationFilter(request.GET, queryset=Citation.objects.all())
+    print len(f.qs)
+
+    G = nx.DiGraph()
+
+    for cited in f.qs:
+        # create network from citedin links
+        for citer in cited.cited_in.all():
+            if len(set(citer.major_terms()).intersection(set(cited.major_terms())))>0:
+                G.add_edge( citer,
+                            cited,
+                            weight = len(set(cited.meshterms.all()).intersection(set(citer.meshterms.all()))))
+
+    print len(G.nodes())
+    net = citation_network2json( G )
+
+    # indent=4 for pretty printing
+    return HttpResponse( json.dumps(net), 
+                         mimetype='application/json' )                         
+
+
+    
+#    return render_to_response('medline/filter.html', {'filter': f})
