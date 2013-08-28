@@ -70,3 +70,5 @@ net, nextNet = nextNet, net
 
 import pycxsimulator
 pycxsimulator.GUI().start(func = [init, draw, step])
+
+#Hola Mundo!!!
