@@ -4,7 +4,7 @@ import matplotlib
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
 
-import csv
+import csv #agregouncomentario
 
 import pprint.pprint as algo
 
