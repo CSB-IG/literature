@@ -3,6 +3,8 @@ import matplotlib
 matplotlib.use('TKAgg')
 import matplotlib.pyplot as plt
 
+import csv
+
 import pprint.pprint as algo
 
 import pylab as pl
@@ -59,6 +61,10 @@ def draw():
     pl.axis('image')
     pl.title('t = ' + str(time))
     plt.show()
+
+    # escribir un csv
+    with open('archivo.csv', 'w') as archivo:
+        csv= csv.writer( archivo )
     
 net, nextNet = nextNet, net
 
