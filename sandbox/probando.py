@@ -1,3 +1,4 @@
+# cave canem
 """Simple network with two populations"""
 import matplotlib
 matplotlib.use('TKAgg')
