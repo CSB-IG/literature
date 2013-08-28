@@ -1,7 +1,0 @@
-
-var cv = {
-^
-
-asdfasfd
-
-}
