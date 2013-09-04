@@ -36,7 +36,7 @@ class Meshcitation(models.Model):
             submajor = '*' if sh.major else ''
             subheadings.append(submajor+sh.subheading.term)
         
-        return '#%d %s%s @ %s' % (self.id, major, '/'.join([self.meshterm.term]+subheadings), self.citation)
+        return '%s%s' % (major, '/'.join([self.meshterm.term]+subheadings))
 
 class Subheadingterm(models.Model):
     meshcitation   = models.ForeignKey(Meshcitation)
