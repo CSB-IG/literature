@@ -1,0 +1,20 @@
+<tool id="ForceDirected" name="Force Directed" version="0.1">
+  <description>View a network as a d3 force directed network diagram</description>
+  <command interpreter="python">
+    force_directed.py
+       "$json_network" "$d3diagram"
+  </command>
+
+  <inputs>
+    <param name="json_network" type="data" label="network" help="json encoded network" optional="false" format="json" />
+  </inputs>
+
+  <outputs>
+    <data name="d3diagram" label="d3 force directed network diagram" format="html" />
+  </outputs>
+  <help>
+
+View a json network in d3 diagram.
+
+  </help>
+</tool>

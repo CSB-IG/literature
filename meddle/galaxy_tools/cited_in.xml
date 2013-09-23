@@ -1,0 +1,34 @@
+<tool id="CitationNetwork" name="CitationNetwork" version="0.1">
+  <description>create a citation network from by querying a local medline database</description>
+  <command interpreter="python">
+    cited_in.py "$json_output" "$criteria"
+  </command>
+
+  <inputs>
+    <param name="criteria" 
+	   type="text"
+	   area="True"
+	   label="MeSH Term search criteria"
+	   help="list of meshterms to filter by"
+	   optional="true"
+	   format="" />
+  </inputs>
+
+  <outputs>
+    <data name="json_output"
+	  label="citation network from MeSH term"
+	  format="json" />
+  </outputs>
+
+  <help>
+Input a list of meshterms to query for.
+
+Each meshterm can be formted like:
+
+heading/subheading/subheading
+otherheading/subheading
+etc
+
+
+  </help>
+</tool>
