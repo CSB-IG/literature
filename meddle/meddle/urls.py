@@ -1,10 +1,11 @@
 from django.conf.urls import patterns, include, url
 from meddle import settings
 from medline import views
+from medline.models import Citation
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
 admin.autodiscover()
-
+from django_filters.views import FilterView
 
 urlpatterns = patterns('',
     # Examples:
@@ -29,4 +30,6 @@ urlpatterns = patterns('',
     url(r'^citedin/(?P<year>\d+)/$', views.cited_in ),
     url(r'^mesh/(?P<year_start>\d+)/(?P<year_end>\d+)$', views.mesh_network ),
     url(r'^branches/(?P<year>\d+)/$', views.branch_network ),
+    url(r'^lista/', FilterView.as_view(model=Citation)),
+    url(r'^list/', views.citation_list),
 )

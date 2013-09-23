@@ -120,7 +120,8 @@ TEMPLATE_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
     # '/home/rgarcia/caopsci/dcaopsci_env/local/lib/python2.7/site-packages/django/contrib',
     '/home/rgarcia/caopsci/dcaopsci_env/lib/python2.7/site-packages/django/contrib/flatpages/tests/templates',
-    os.path.join( SITE_ROOT, 'templates' )
+    os.path.join( SITE_ROOT, 'templates' ),
+    '/home/rgarcia/caopsci/meddle/templates',
 )
 
 INSTALLED_APPS = (
@@ -136,7 +137,9 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
     'medline',
+    'django_filters',
     'htsql_django',
+    'django_extensions'
 )
 
 
