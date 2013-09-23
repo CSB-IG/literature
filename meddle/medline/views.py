@@ -194,7 +194,7 @@ def citation_network2json(G):
 
 def citation_list(request):
     # pprint.pprint(request.GET.getlist('meshterms'))
-    f = CitationFilter(request.GET, queryset=Citation.objects.all())
+    f = CitationFilter(request.GET, queryset=Citation.objects.filter(date_created__lt=datetime.datetime(1990,1,1)))
     print len(f.qs)
 
     G = nx.DiGraph()
