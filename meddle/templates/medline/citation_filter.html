@@ -1,0 +1,7 @@
+    <form action="" method="get">
+        {{ filter.form.as_p }}
+        <input type="submit" />
+    </form>
+    {% for obj in object_list %}
+        {{ obj.title }} - ${{ obj.date_created }}<br />
+    {% endfor %}

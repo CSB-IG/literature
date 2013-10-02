@@ -1,0 +1,29 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ flatpage.title }}</title>
+    <script type="text/javascript" src="{% static "medline/d3.v3.js" %}"></script>
+    <style>
+      
+      .node {
+      stroke: #fff;
+      stroke-width: 1.5px;
+      }
+
+      .link {
+      stroke: #999;
+      stroke-opacity: 0.3;
+      }
+
+    </style>
+  </head>
+
+
+  <body>
+    <script src="/static/force_directed.js"></script>
+{{ flatpage.content }}
+  </body>
+</html>
