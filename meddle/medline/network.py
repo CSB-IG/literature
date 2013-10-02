@@ -3,10 +3,10 @@ from medline.models import *
 from random import shuffle
 import json, itertools, datetime
 import networkx as nx
+import pprint
 
-
-# format network as json
-def citation_network2json(G):
+# format network as dict ripe for json
+def citation_network2dict(G):
     nodes = []
     nodei = []
     for i,node in enumerate(G.nodes()):
@@ -36,12 +36,10 @@ def cited_in_network( criteria ):
     q_ob = Q()
 
     for term in criteria:
-        q_ob |= Q(meshterms__term__contains=term)
+        q_ob |= Q(meshterms__term__icontains=term)
     
     citations = Citation.objects.filter(q_ob)
 
-    print len(citations)
-    
     G = nx.DiGraph()
 
     for cited in citations:
@@ -52,5 +50,92 @@ def cited_in_network( criteria ):
                             cited,
                             weight = len(set(cited.meshterms.all()).intersection(set(citer.meshterms.all()))))
 
-    print len(G.nodes())
-    return citation_network2json( G )
+    return G
+
+
+
+
+
+
+
+
+
+
+def branch_network( year, roots):
+    citations = Citation.objects.filter( date_created__year = year )
+
+    G = nx.Graph()
+
+    for cit in citations.all():
+        keys = []
+        for msh in cit.meshterms.all():
+            for branch in msh.branch_set.all():
+                if branch.root() in roots:
+                    keys.append( ".".join(branch.branch.split('.')[:3]) )
+
+
+        for pair in itertools.combinations( keys, 2 ):
+            source = pair[0]
+            target = pair[1]
+                
+            e = G.get_edge_data(source, target)
+            if not e:
+                G.add_edge(source, target, weight=1)
+            else:
+                G.add_edge(source, target, weight=e['weight']+1)
+                    
+    return G
+
+
+
+
+
+
+
+def branch_network2hive(G):
+    nodes = G.nodes()
+    nodes.sort()
+
+    # find roots
+    roots = []
+    for node in nodes:
+        roots.append( node[:1] )
+        roots = list(set( roots ))
+
+    # place nodes on axes
+    axes = {}
+    for root in roots:
+        axes[root] = []
+        for node in nodes:
+            if node[:1] == root:
+                axes[root].append(node)
+
+    # format nodes for hiveplot
+    nodes = []
+    x = 0
+    for root in axes:
+        y = 0
+        delta = 1.0/len(axes[root])
+        for branch in axes[root]:
+            y += delta
+            nodes.append( {'x': x, 'y': y, 'branch': branch} )
+        x += 1
+
+    nodes.sort()
+
+    # positional keys for nodes
+    noded = {}
+    for i,node in enumerate(nodes):
+        noded[node['branch']] = i
+    
+    edges = G.edges()
+    edges.sort()
+
+    links = []
+    for edge in edges:
+        links.append( {'source': nodes[noded[edge[0]]], 'target': nodes[noded[edge[1]]] } )
+        
+
+    net = {'nodes': nodes,
+           'links': links,}
+    return net

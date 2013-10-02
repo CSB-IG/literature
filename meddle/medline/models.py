@@ -11,6 +11,10 @@ class Meshterm(models.Model):
 class Branch(models.Model):
     branch = models.CharField(max_length=1534)
     term   = models.ForeignKey('Meshterm')
+
+    def root(self):
+        return self.branch[:1]
+    
     def __unicode__(self):
         return '#%d %s' % (self.id, self.branch)
 
