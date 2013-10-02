@@ -1,0 +1,44 @@
+<tool id="BranchNetwork" name="BranchNetwork" version="0.1">
+  <description>create a network of meshterms grouped by their branches, from by querying a local medline database</description>
+  <command interpreter="python">
+    branch_network.py --outfile "$json_output"     
+                      --year $year
+		      --root1 $root1
+		      --root2 $root2
+		      --root3 $root3
+  </command>
+
+  <inputs>
+    <param name="year" size="5" type="integer" value="1987" label="Year of pub"/>
+    <param name="root1" size="2" type="text" value="L" label="Root 1"/>
+    <param name="root2" size="2" type="text" value="K" label="Root 2"/>
+    <param name="root3" size="2" type="text" value="H" label="Root 3"/>
+  </inputs>
+
+  <outputs>
+    <data name="json_output"
+	  label="branch network for year"
+	  format="json" />
+  </outputs>
+
+  <help>
+ A. Anatomy
+ B. Organisms
+ C. Diseases
+ D. Chemical and Drugs
+ E. Analytical, Diagnostic and Therapeutic Techniques and Equipment
+ F. Psychiatry and Psychology
+ G. Biological Sciences
+ H. Natural Sciences
+ I. Anthropology, Education, Sociology and Social Phenomena
+ J. Technology, Industry, Agriculture
+ K. Humanities
+ L. Information Science
+ M. Named Groups
+ N. Health Care
+ V. Publication Characteristics
+ Z. Geographic Locations
+
+
+  </help>
+</tool>

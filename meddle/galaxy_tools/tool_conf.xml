@@ -39,7 +39,9 @@
   </section>
   <section name="Caopsci Tools" id="CaopsciTools">
     <tool file="caopsci/cited_in.xml" />
+    <tool file="caopsci/branch_network.xml" />
     <tool file="caopsci/force_directed.xml" />
+    <tool file="caopsci/hiveplot.xml" />
   </section>
   <section name="ENCODE Tools" id="EncodeTools">
     <tool file="encode/gencode_partition.xml" />
