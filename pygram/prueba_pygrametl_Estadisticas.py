@@ -65,9 +65,11 @@ resSSBSECT = CSVSource(file('./vistaSSBSECT.csv','r',16384), delimiter='\t')
 inputdata=MergeJoiningSource(resSCBCRSE, 'cvemat',resSSBSECT, 'cvemat')
 
 def main():
-
 	for row in inputdata:
 	        print row
+		row['cvemat']=scbcrse.ensure(row,'nommat':'hola')
+		row['crn']=ssbsect.sfdensure(row)
+		facttbl.insert(row)
 	connection.commit() #cargar cambios a base de datos
 
 if __name__ == '__main__':
