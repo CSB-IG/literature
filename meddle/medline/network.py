@@ -194,22 +194,22 @@ def meshset_network( year ):
 
 
 
-def jaccard_index( year ):
-    citations = Citation.objects.filter( date_created__year = year )
+# def jaccard_index( year ):
+#     citations = Citation.objects.filter( date_created__year = year )
 
-    G = nx.Graph()
-    terms = []
-    for cit in citations.all():
-        for msh in cit.meshcitation_set.all():
-            terms.append(msh)
+#     G = nx.Graph()
+#     terms = []
+#     for cit in citations.all():
+#         for msh in cit.meshcitation_set.all():
+#             terms.append(msh)
 
-    jaccards = []
-    for pair in itertools.combinations( terms, 2 ):
-        source = pair[0]
-        target = pair[1]
+#     jaccards = []
+#     for pair in itertools.combinations( terms, 2 ):
+#         source = pair[0]
+#         target = pair[1]
 
-        j = float(len(source.mesh_set().intersection(target.mesh_set()))) / float(len(source.mesh_set().union(target.mesh_set())))
-        jaccards.append(j)
+#         j = float(len(source.mesh_set().intersection(target.mesh_set()))) / float(len(source.mesh_set().union(target.mesh_set())))
+#         jaccards.append(j)
 
     # TODO: devolver promedio
 
@@ -222,3 +222,31 @@ def term_diversity( year ):
             terms.append(msh.__unicode__())
 
     return len(set(terms))
+
+
+
+
+# computes jacard index for two sets
+def jaccard_index( a, b):
+    return float(len(a.intersection(b))) / float(len(a.union(b)))
+
+
+
+
+def mesh_pmid_matrix( year ):
+    citations = Citation.objects.filter( date_created__year = year )
+
+    mshs = []
+    for cit in citations.all():
+        for msh in cit.meshcitation_set.all():
+            mshs.append(msh)
+
+    mshs = list( set( mshs ) )
+
+    pprint.pprint(mshs)
+
+    for cit in citations.all():
+        for msh in mshs:
+            jin = jaccard_index(msh.majorless_mesh_set(), cit.bag_of_words())
+            if jin > 0:
+                print "%s|%s|%s" % (msh, cit.pmid, jin)

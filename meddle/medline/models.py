@@ -63,6 +63,15 @@ class Meshcitation(models.Model):
         return set(subheadings)
 
 
+
+    def majorless_mesh_set(self):
+        terms = []
+        for term in self.subheadingterm_set.all():
+            terms.append(term.subheading.term)
+        return set(terms + [self.meshterm.term])
+
+
+
 class Subheadingterm(models.Model):
     meshcitation   = models.ForeignKey(Meshcitation)
     subheading     = models.ForeignKey('Subheading')
@@ -135,7 +144,12 @@ class Citation(models.Model):
 
     def major_terms(self):
         return [n.meshterm for n in self.meshcitation_set.filter(major=True)]
-    
+
+    def bag_of_words(self):
+        bow=[]
+        for mc in self.meshcitation_set.all():
+            bow += list(mc.majorless_mesh_set())
+        return set(bow)
 
     def __unicode__(self):
         return '#%d %s' % (self.pmid, self.title)
