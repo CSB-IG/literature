@@ -4,7 +4,7 @@ from medline.models import *
 from random import shuffle
 import json, itertools, datetime
 import networkx as nx
-
+import csv
 import pprint
 
 def cited_in(request, year):
@@ -59,6 +59,100 @@ def cited_in_trends(request, year):
     return HttpResponse( json.dumps(net), 
                          mimetype='application/json' )                         
 
+
+def jurisprudence_network(request):
+
+    for year in range(1987,2014):
+        G = nx.Graph()
+
+        jurisprudence = Meshterm.objects.filter(term="Jurisprudence")[0]
+
+        for cit in jurisprudence.citation_set.filter(date_created__year=year):
+            for pair in itertools.combinations( cit.meshcitation_set.all(), 2 ):
+                e = G.get_edge_data(*pair)
+                if not e:
+                    G.add_edge(*pair, weight=1 )
+                else:
+                    G.add_edge(*pair, weight=e['weight']+1 )
+    
+    
+        letj = Subheading.objects.filter(term="legislation & jurisprudence")[0]
+        for sh in letj.subheadingterm_set.all():
+            cit = sh.meshcitation.citation
+            if cit.date_created.year == year:
+                for pair in itertools.combinations( cit.meshcitation_set.all(), 2 ):
+                    e = G.get_edge_data(*pair)
+                    if not e:
+                        G.add_edge(*pair, weight=1 )
+                    else:
+                        G.add_edge(*pair, weight=e['weight']+1 )
+
+
+
+        with open(str(year)+'_jurisprudence.csv', 'w') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter='|')
+            for pair in G.edges():
+                weight = G.get_edge_data(*pair)['weight']
+                csvwriter.writerow( [pair[0].__unicode__(), pair[1].__unicode__(), weight] )
+
+
+def breast_cancer_network(request):
+
+    for year in range(1987,2014):
+        G = nx.Graph()
+
+        breast_cancer = Meshterm.objects.filter(term="Breast Neoplasms")[0]
+
+        for cit in breast_cancer.citation_set.filter(date_created__year=year):
+            for pair in itertools.combinations( cit.meshcitation_set.all(), 2 ):
+                e = G.get_edge_data(*pair)
+                if not e:
+                    G.add_edge(*pair, weight=1 )
+                else:
+                    G.add_edge(*pair, weight=e['weight']+1 )
+
+        with open(str(year)+'_breast_cancer.csv', 'w') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter='|')
+            for pair in G.edges():
+                weight = G.get_edge_data(*pair)['weight']
+                csvwriter.writerow( [pair[0].__unicode__(), pair[1].__unicode__(), weight] )
+
+
+
+def clinical_network(request):
+
+    for year in range(1987,2014):
+        G = nx.Graph()
+
+        Clinical = Meshterm.objects.filter(term="Clinical Trial")[0]
+
+        for cit in Clinical.citation_set.filter(date_created__year=year):
+            for pair in itertools.combinations( cit.meshcitation_set.all(), 2 ):
+                e = G.get_edge_data(*pair)
+                if not e:
+                    G.add_edge(*pair, weight=1 )
+                else:
+                    G.add_edge(*pair, weight=e['weight']+1 )
+    
+    
+        clinical = Subheading.objects.filter(term="clinical")[0]
+        for sh in clinical.subheadingterm_set.all():
+            cit = sh.meshcitation.citation
+            if cit.date_created.year == year:
+                for pair in itertools.combinations( cit.meshcitation_set.all(), 2 ):
+                    e = G.get_edge_data(*pair)
+                    if not e:
+                        G.add_edge(*pair, weight=1 )
+                    else:
+                        G.add_edge(*pair, weight=e['weight']+1 )
+
+
+
+        with open(str(year)+'_clinical.csv', 'w') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter='|')
+            for pair in G.edges():
+                weight = G.get_edge_data(*pair)['weight']
+                csvwriter.writerow( [pair[0].__unicode__(), pair[1].__unicode__(), weight] )
 
 
 

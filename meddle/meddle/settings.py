@@ -22,7 +22,7 @@ DATABASES = {
         # The following settings are not used with sqlite3:
         'USER': 'caopsci',
         'PASSWORD': 'G',
-        'HOST': 'localhost',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
+        'HOST': '192.168.105.30',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
         'PORT': '',                      # Set to empty string for default.
     }
 }
@@ -119,7 +119,7 @@ TEMPLATE_DIRS = (
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
     # '/home/rgarcia/caopsci/dcaopsci_env/local/lib/python2.7/site-packages/django/contrib',
-    '/home/rgarcia/caopsci/dcaopsci_env/lib/python2.7/site-packages/django/contrib/flatpages/tests/templates',
+    '/home/jmsiqueiros/caopsci/dcaopsci_env/lib/python2.7/site-packages/django/contrib/flatpages/tests/templates',
     os.path.join( SITE_ROOT, 'templates' ),
     '/home/rgarcia/caopsci/meddle/templates',
 )

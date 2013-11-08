@@ -30,6 +30,9 @@ urlpatterns = patterns('',
     url(r'^citedin/(?P<year>\d+)/$', views.cited_in ),
     url(r'^mesh/(?P<year_start>\d+)/(?P<year_end>\d+)$', views.mesh_network ),
     url(r'^branches/(?P<year>\d+)/$', views.branch_network ),
+    url(r'^jurisprudence/$', views.jurisprudence_network ),
+    url(r'^breast_cancer/$', views.breast_cancer_network ),
+    url(r'^clinical/$', views.clinical_network )                 
     url(r'^lista/', FilterView.as_view(model=Citation)),
     url(r'^list/', views.citation_list),
 )

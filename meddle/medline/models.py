@@ -42,6 +42,27 @@ class Meshcitation(models.Model):
         
         return '%s%s' % (major, '/'.join([self.meshterm.term]+subheadings))
 
+
+    def majorless(self):
+        subheadings = []
+        for sh in self.subheadingterm_set.all():
+            subheadings.append(sh.subheading.term)
+        
+        return '/'.join([self.meshterm.term]+subheadings)
+
+
+    def mesh_set(self):
+        major = '*' if self.major else ''
+        term = "%s%s" % (major, self.meshterm.term)
+        subheadings = []
+        for sh in self.subheadingterm_set.all():
+            submajor = '*' if sh.major else ''
+            subheadings.append(submajor+sh.subheading.term)
+        
+        subheadings.append(term)
+        return set(subheadings)
+
+
 class Subheadingterm(models.Model):
     meshcitation   = models.ForeignKey(Meshcitation)
     subheading     = models.ForeignKey('Subheading')
