@@ -189,7 +189,7 @@ def meshset_network( year ):
                 G.add_edge(source.majorless(), target.majorless(), weight=1, j=j)
             else:
                 G.add_edge(source.majorless(), target.majorless(), weight=e['weight']+1, j=j)
-                    
+    #print G                
     return G
 
 
@@ -215,6 +215,9 @@ def meshset_network( year ):
 
 # def jaccard_distance( year): A desarrollar
 
+
+
+
 def term_diversity( year ):
     terms = []
     for cit in Citation.objects.filter( date_created__year = year ):
@@ -224,6 +227,15 @@ def term_diversity( year ):
     return len(set(terms))
 
 
+def filter_by_weight( G, threshold ):
+    g = nx.Graph()
+
+    for e in G.edges():
+        if G[e[0]][e[1]]['weight'] >= threshold:
+            g.add_edge(e[0],e[1], weight=G[e[0]][e[1]]['weight'])
+
+    return g
+
 
 
 # computes jacard index for two sets
@@ -231,22 +243,100 @@ def jaccard_index( a, b):
     return float(len(a.intersection(b))) / float(len(a.union(b)))
 
 
+def jaccard_index_multi(first, *others):
+    return float( len( first.intersection(*others))) / float(len(first.union(*others)))
 
 
 def mesh_pmid_matrix( year ):
     citations = Citation.objects.filter( date_created__year = year )
+    with open('/home/jmsiqueiros/Escritorio/test.txt', 'w') as f:
+        for cit in citations.all():
+            for n in cit.bow_jin():
+                f.write("%s|%s|%s\n" % (n[0], cit.pmid, n[1]) )
 
-    mshs = []
+
+
+
+def mesh_jin_network( year ):
+    citations = Citation.objects.filter( date_created__year = year )
+
+    G = nx.Graph()
+    
     for cit in citations.all():
+        for pair in itertools.combinations( cit.bow_jin(), 2 ):
+            source = pair[0]
+            target = pair[1]
+            
+            e = G.get_edge_data(source[0], target[0])
+
+            if not e:
+                G.add_edge(source[0], target[0], weight=( source[1] + target[1] )/2.0 )
+            else:
+                G.add_edge(source[0], target[0], weight=e['weight'] + ( source[1] + target[1] )/2.0 )
+
+        
+    return G
+
+
+
+def mesh_network( year ):
+    citations = Citation.objects.filter( date_created__year = year )
+
+    G = nx.Graph()
+
+    for cit in citations.all():
+        keys = []
         for msh in cit.meshcitation_set.all():
-            mshs.append(msh)
+            keys.append(msh)
 
-    mshs = list( set( mshs ) )
+        for pair in itertools.combinations( keys, 2 ):
+            source = pair[0]
+            target = pair[1]
+                
+            e = G.get_edge_data(source.majorless(), target.majorless())
 
-    pprint.pprint(mshs)
+            if not e:
+                G.add_edge(source.majorless(), target.majorless(), weight=1)
+            else:
+                G.add_edge(source.majorless(), target.majorless(), weight=e['weight']+1)
+
+    return G
+
+
+
+def mesh_jin_weighted_network( year ):
+    citations = Citation.objects.filter( date_created__year = year )
+
+    G = nx.Graph()
 
     for cit in citations.all():
-        for msh in mshs:
-            jin = jaccard_index(msh.majorless_mesh_set(), cit.bag_of_words())
-            if jin > 0:
-                print "%s|%s|%s" % (msh, cit.pmid, jin)
+        keys = []
+        for msh in cit.meshcitation_set.all():
+            keys.append(msh)
+
+        for pair in itertools.combinations( keys, 2 ):
+            source = pair[0]
+            target = pair[1]
+                
+            e = G.get_edge_data(source.majorless(), target.majorless())
+
+            if not e:
+                G.add_edge(source.majorless(), target.majorless(), citations=[cit,])
+            else:
+                v = e['citations']
+                v.append(cit)
+                G.add_edge(source.majorless(), target.majorless(), citations=v)
+
+    H = nx.Graph()
+    for e in G.edges():
+        v = G.get_edge_data(*e)
+        if len(v['citations'])>1:
+            print e,G.get_edge_data(*e)
+            sets = []
+            for cit in v['citations']:
+                sets.append(cit.bag_of_words())
+
+            H.add_edge(e[0], e[1], weight=jaccard_index_multi( *sets ))
+
+
+    return H
