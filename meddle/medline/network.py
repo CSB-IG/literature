@@ -5,6 +5,22 @@ import json, itertools, datetime
 import networkx as nx
 import pprint
 
+
+
+
+def plot(G, path):
+    import pylab as pl
+    import matplotlib.pyplot as plt
+    import networkx as nx
+    plt.cla()
+    fig = plt.figure(figsize=(38,38), dpi=800)
+    nx.draw(G, 
+            node_size  = [G.degree(n)*10 for n in G.nodes()],
+            width      = [G.get_edge_data(*e)['weight']*20 for e in G.edges()],
+            edge_color = [G.get_edge_data(*e)['weight'] for e in G.edges()] )
+    plt.savefig( path )
+
+
 # format network as dict ripe for json
 def citation_network2dict(G):
     nodes = []
@@ -238,6 +254,18 @@ def filter_by_weight( G, threshold ):
 
 
 
+def filter_by_weight_top( G, threshold ):
+    g = nx.Graph()
+
+    for e in G.edges():
+        if G[e[0]][e[1]]['weight'] <= threshold:
+            g.add_edge(e[0],e[1], weight=G[e[0]][e[1]]['weight'])
+
+    return g
+
+
+
+
 # computes jacard index for two sets
 def jaccard_index( a, b):
     return float(len(a.intersection(b))) / float(len(a.union(b)))
@@ -245,37 +273,6 @@ def jaccard_index( a, b):
 
 def jaccard_index_multi(first, *others):
     return float( len( first.intersection(*others))) / float(len(first.union(*others)))
-
-
-def mesh_pmid_matrix( year ):
-    citations = Citation.objects.filter( date_created__year = year )
-    with open('/home/jmsiqueiros/Escritorio/test.txt', 'w') as f:
-        for cit in citations.all():
-            for n in cit.bow_jin():
-                f.write("%s|%s|%s\n" % (n[0], cit.pmid, n[1]) )
-
-
-
-
-def mesh_jin_network( year ):
-    citations = Citation.objects.filter( date_created__year = year )
-
-    G = nx.Graph()
-    
-    for cit in citations.all():
-        for pair in itertools.combinations( cit.bow_jin(), 2 ):
-            source = pair[0]
-            target = pair[1]
-            
-            e = G.get_edge_data(source[0], target[0])
-
-            if not e:
-                G.add_edge(source[0], target[0], weight=( source[1] + target[1] )/2.0 )
-            else:
-                G.add_edge(source[0], target[0], weight=e['weight'] + ( source[1] + target[1] )/2.0 )
-
-        
-    return G
 
 
 
@@ -331,7 +328,6 @@ def mesh_jin_weighted_network( year ):
     for e in G.edges():
         v = G.get_edge_data(*e)
         if len(v['citations'])>1:
-            print e,G.get_edge_data(*e)
             sets = []
             for cit in v['citations']:
                 sets.append(cit.bag_of_words())

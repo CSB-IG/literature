@@ -1,5 +1,9 @@
 from django.db import models
 
+# computes jacard index for two sets
+def jaccard_index( a, b):
+    return float(len(a.intersection(b))) / float(len(a.union(b)))
+
 
 
 class Meshterm(models.Model):
