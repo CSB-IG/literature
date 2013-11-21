@@ -40,7 +40,5 @@ if __name__ == '__main__':
       print "nodes: ", len(G.nodes())
       
     
-
-
-      outfile.write( json.dumps(citation_network2dict( G ),
-                                indent=4))
+      pickle.dump(G, output)
+      output.close()
