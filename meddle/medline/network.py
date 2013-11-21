@@ -183,55 +183,6 @@ def branch_network2hive(G):
 #    return G
 
 
-def meshset_network( year ):
-    citations = Citation.objects.filter( date_created__year = year )
-
-    G = nx.Graph()
-
-    for cit in citations.all():
-        keys = []
-        for msh in cit.meshcitation_set.all():
-            keys.append(msh)
-
-        for pair in itertools.combinations( keys, 2 ):
-            source = pair[0]
-            target = pair[1]
-                
-            j = float(len(source.mesh_set().intersection(target.mesh_set()))) / float(len(source.mesh_set().union(target.mesh_set())))
-
-            e = G.get_edge_data(source.majorless(), target.majorless())
-
-            if not e:
-                G.add_edge(source.majorless(), target.majorless(), weight=1, j=j)
-            else:
-                G.add_edge(source.majorless(), target.majorless(), weight=e['weight']+1, j=j)
-    #print G                
-    return G
-
-
-
-# def jaccard_index( year ):
-#     citations = Citation.objects.filter( date_created__year = year )
-
-#     G = nx.Graph()
-#     terms = []
-#     for cit in citations.all():
-#         for msh in cit.meshcitation_set.all():
-#             terms.append(msh)
-
-#     jaccards = []
-#     for pair in itertools.combinations( terms, 2 ):
-#         source = pair[0]
-#         target = pair[1]
-
-#         j = float(len(source.mesh_set().intersection(target.mesh_set()))) / float(len(source.mesh_set().union(target.mesh_set())))
-#         jaccards.append(j)
-
-    # TODO: devolver promedio
-
-# def jaccard_distance( year): A desarrollar
-
-
 
 
 def term_diversity( year ):
@@ -241,6 +192,7 @@ def term_diversity( year ):
             terms.append(msh.__unicode__())
 
     return len(set(terms))
+
 
 
 def filter_by_weight( G, threshold ):
@@ -266,47 +218,18 @@ def filter_by_weight_top( G, threshold ):
 
 
 
-# computes jacard index for two sets
-def jaccard_index( a, b):
-    return float(len(a.intersection(b))) / float(len(a.union(b)))
-
-
-def jaccard_index_multi(first, *others):
+# computes jacard index for two or mor sets
+def jaccard_index(first, *others):
     return float( len( first.intersection(*others))) / float(len(first.union(*others)))
 
 
 
-def mesh_network( year ):
-    citations = Citation.objects.filter( date_created__year = year )
+# citations = Citation.objects.filter( date_created__year = year )
+def mesh_network( citation_queryset ):
 
     G = nx.Graph()
 
-    for cit in citations.all():
-        keys = []
-        for msh in cit.meshcitation_set.all():
-            keys.append(msh)
-
-        for pair in itertools.combinations( keys, 2 ):
-            source = pair[0]
-            target = pair[1]
-                
-            e = G.get_edge_data(source.majorless(), target.majorless())
-
-            if not e:
-                G.add_edge(source.majorless(), target.majorless(), weight=1)
-            else:
-                G.add_edge(source.majorless(), target.majorless(), weight=e['weight']+1)
-
-    return G
-
-
-
-def mesh_jin_weighted_network( year ):
-    citations = Citation.objects.filter( date_created__year = year )
-
-    G = nx.Graph()
-
-    for cit in citations.all():
+    for cit in citation_queryset.all():
         keys = []
         for msh in cit.meshcitation_set.all():
             keys.append(msh)
@@ -326,13 +249,13 @@ def mesh_jin_weighted_network( year ):
 
     H = nx.Graph()
     for e in G.edges():
-        v = G.get_edge_data(*e)
-        if len(v['citations'])>1:
-            sets = []
-            for cit in v['citations']:
-                sets.append(cit.bag_of_words())
+        edge_data = G.get_edge_data(*e)
+        # sets = []
+        # for cit in v['citations']:
+        #     sets.append(cit.bag_of_words())
+        bags = [cit.bag_of_words() for cit in edge_data['citations']]
 
-            H.add_edge(e[0], e[1], weight=jaccard_index_multi( *sets ))
+        H.add_edge(e[0], e[1], jin=jaccard_index( *bags ), citations=len(edge_data['citations']))
 
 
     return H
