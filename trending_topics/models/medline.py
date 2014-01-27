@@ -56,6 +56,10 @@ class Author(Entity):
     name      = Field(UnicodeText(534)) # AU
     full_name = Field(UnicodeText(534)) # FAU
     citations = ManyToMany('Citation')
+
+    def fitness(self):
+        pass
+
     def __repr__(self):
         return '<Author #%d %s>' % (self.id, self.name)
 

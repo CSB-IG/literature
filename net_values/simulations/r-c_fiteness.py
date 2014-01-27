@@ -6,7 +6,11 @@
 % 2) r_c-fitness stands for: r:researcher, c:clinician and this populations connect among them by preferential attachment
 % according their fitness.
 % 3) May be, eventually a limit on the number of connections for clinicians must be imposed.	
-% Not even clinicians have unlimited access to biological samples.							
+% Not even clinicians have unlimited access to biological samples.	
+% 4) In the analysis part, look for the behavior of k in relation to the manner in which researchers and clinicians acquire 
+% -- diferently-- their fitness. 
+% 5) Everytime a node is added (by means of an edge) an identity has to be assigned and it has to be 
+% added to the list of researchers or clinicians.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 """
 import matplotlib
@@ -48,6 +52,7 @@ def init():
     net.add_nodes_from(clin)
 	for n in clin:
 		net.node[n]['id']=clinician
+	net.add_nodes_from(res)	
 	for m n res:
 		net.node[m]['id']=researcher
 	net.add_edges_from([(0,'a'),(1,'b'),(2,'c'),(3,'d'),(4,'e')])
@@ -76,23 +81,27 @@ def draw():
     plt.show()
 
 
-def fitness():
-	if net.node[i]['id']==0:
-		
-		ws = [float(1)/net.in_degree(i)*net.in_degree(j) for i in clinicians for j in researchers] 
-"""ws is for fitness gained for samples. What is interesting is that because researchers --at point zero-- have an in_degree=0 and clincians an in_degree=1, the fitenss for researchers so far is zero which is 1/1*0= 0. This is because researchers have no fellows collaborators"""
-		
-	else:
-		for n in net.nodes()cw=net.degree() #cw is for clinicians fitness
+"""if net.node[i]['id']==0:		
+	ws = [float(1)/net.in_degree(i)*net.in_degree(j) for i in clinicians for j in researchers] 
+ws is for fitness gained for samples. What is interesting is that because researchers --at point zero-- have an in_degree=0 and clincians an in_degree=1, the fitenss for researchers so far is zero which is 1/1*0= 0. This is because researchers have no fellows collaborators"""
+
+for n in net.nodes():
+	ws=[net.in_degree(n)*float(1)/net.in_degree(m) for n in researchers for m in net.neighbors(n)] #Falta arreglarla idea de fitness, porque qué sucede con aquellos researchers que no están conectados a ningún clinician.
+
+for n in net.nodes():
+	cw=[net.degree(i) for i in clinicians]
+		 #cw is for clinicians fitness/ I just have made it into a list. It needs to be tested. The idea is to create a list of in_degrees for clinicians, since this is their fitness.
+
+w = ws + cw #w stands for fitness. This merges the two fitness lists that will be introduced to def fitness(options, w) 
 
 """def roulette"""    
-def roulette_r(options, weights):# To be redefined including fitness, so it should be: (options, ws)
-"""There is going to be only one roulette, based on one common variable called fitness --or w--. There are two options to explore: 1) when initial ws is 0 and cw is 1, clinicians have higher chances to get connected. 2) when initial ws=cw, then researchers and clinicians have equal chances to be selected in the roulette."""    
+def roulette_r(options, w):# To be redefined including fitness, so it should be: (options, ws)
+"""There is going to be only one roulette, based on one common variable called fitness --or w--. There are two options to explore: 1) when initial ws is 0 and cw is 1, clinicians have higher chances to get connected. 2) when initial ws=cw, then researchers and clinicians have equal chances to be selected in the roulette. FUNCTION ROULETTE WORKS FEBRUARY 25, 2013. OPTIONS ARE net.nodes(). I NEED TO EXPLAIN HOW DOES IT WORK BECUASE IN THE ORIGINAL PROGRAM EACH NODE HAS ITS OWN DEGREE AND THEY ARE RELATED IN THE FUNCTION AS: (options=net.degree().keys() targets=net.degree().values()). BUT MAY BE IN MY CASE THE LIST OF NODES IS SYMMETRICAL TO THE LIST OF ALL FITNESSES W."""    
 
-	fit_samples_sum = float(sum(weights))
-	if fit_samples_sum == 0.0
+	fit_samples_sum = float(sum(w))
+	if fit_samples_sum == 0.0:
 		fit_samples_sum == 1.0
-	probabilities = [float(x)/fit_samples_sum for x in ws]
+	probabilities = [float(x)/fit_samples_sum for x in w]
 	ran = rd.random()
 	s = 0.0
 	for k in xrange(len(options)):
@@ -107,7 +116,7 @@ def step():
 time += 1
 
     targets = network.degree().keys()
-    preferences = [d for d in network.degree().values()]
+    preferences = w #preferences = [d for d in network.degree().values()]
     # the first "d" could be varied to, e.g., 1, 1/d, d ** 2, etc.
 
     maxNodeID += 1

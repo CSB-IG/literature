@@ -7,7 +7,8 @@ import pprint
 from sqlalchemy.exc import IntegrityError
 import sys
 
-metadata.bind = 'mysql+oursql://caopsci:G@localhost/medline'
+# metadata.bind = 'mysql+oursql://caopsci:G@localhost/medline'
+metadata.bind = 'sqlite:////home/jmsiqueiros/caopsci/trending_topics/Data/medline.sqlite'
 
 setup_all()
 create_all()

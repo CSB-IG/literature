@@ -126,7 +126,8 @@ def step():
 
     #fitness(nds) #Si acomodo la funcion aqui, fit se genera despues de su llamada (roulette(nds,fit)) y la sim no corre.
     
-    positions = nx.spring_layout(net, pos = positions, iterations = 2)
+    #positions = nx.spring_layout(net, pos = positions, iterations = 2) original layout
+    positions = nx.random_layout(net)
 
 import pycxsimulator
 pycxsimulator.GUI().start(func = [init, draw, step])
