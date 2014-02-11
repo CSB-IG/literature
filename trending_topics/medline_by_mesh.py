@@ -16,4 +16,4 @@ mdl_records = ( Entrez.efetch( db="pubmed", id=ids_list, rettype='medline', retm
 print(mdl_records.read())
 
 
-##Falta buscar la manera para que haga una busqueda cada x tiempo y no repita registros. También falta encotrar el metodo para cargar los resultados en la base de datos.
+#Falta generar un archivo txt, buscar la manera para que haga una busqueda cada x tiempo y no repita registros. Tambien falta encotrar el metodo para cargar los resultados en la base de datos.
