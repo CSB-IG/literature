@@ -2,7 +2,9 @@
 
 from Bio import Entrez
 #import cPickle, bz2
-#import os
+import os
+
+writer = open( 'medfile.txt', 'w' )
 
 Entrez.email = 'jsiqueiros@inmegen.gob.mx'
 
@@ -13,7 +15,11 @@ ids_list = record['IdList']
 
 mdl_records = ( Entrez.efetch( db="pubmed", id=ids_list, rettype='medline', retmode='text' ) )
 
-print(mdl_records.read())
+writer.write(mdl_records.read())
+
+writer.close()
+
+#print(mdl_records.read())
 
 
-#Falta generar un archivo txt, buscar la manera para que haga una busqueda cada x tiempo y no repita registros. Tambien falta encotrar el metodo para cargar los resultados en la base de datos.
+#Falta buscar la manera para que haga una busqueda cada x tiempo y no repita registros. Tambien falta encotrar el metodo para cargar los resultados en la base de datos.
