@@ -99,7 +99,7 @@ class Journal(models.Model):
 
 
 class Organization(models.Model):
-    name             = models.CharField(max_length=2000)
+    name             = models.CharField(max_length=4000)
     def __unicode__(self):
         return '#%d %s' % (self.id, self.name)
 
