@@ -12,10 +12,10 @@ class Command(BaseCommand):
     help = 'loads citations from medline file'
 
     def handle(self, *args, **options):
-        for path in args:
+        for term in args:
+            print "buscando [%s]" % term
 
-
-            handle = Entrez.esearch( db="pubmed", retmax=10, term='genomics[MH]' ) 
+            handle = Entrez.esearch( db="pubmed", retmax=10, term=term ) 
             record = Entrez.read(handle)
 
             ids_list = record['IdList']
@@ -86,6 +86,9 @@ class Command(BaseCommand):
                         volume = r['VI'] if 'VI' in r.keys() else None
                         issue  = r['IP'] if 'IP' in r.keys() else None
 
+                        if not 'PL' in r:
+                            r['PL'] = 'Mexico'
+
                         (journal, created) = Journal.objects.get_or_create(jid              = r['JID'],
                                                         issn             = issn,
                                                         volume           = volume,
@@ -100,32 +103,33 @@ class Command(BaseCommand):
                     cit.save()
                     
                     # meshterms
-                    for term in r['MH']:
-                        term_subs = term.split('/')
-                        if term_subs[0].startswith('*'):
-                            (mh, created) = Meshterm.objects.get_or_create(term=term_subs[0][1:])
-                            major = True
-                        else:
-                            (mh, created) = Meshterm.objects.get_or_create(term=term_subs[0])
-                            major = False
+                    if 'MH' in r:
+                        for term in r['MH']:
+                            term_subs = term.split('/')
+                            if term_subs[0].startswith('*'):
+                                (mh, created) = Meshterm.objects.get_or_create(term=term_subs[0][1:])
+                                major = True
+                            else:
+                                (mh, created) = Meshterm.objects.get_or_create(term=term_subs[0])
+                                major = False
                 
-                        mc = Meshcitation.objects.create( meshterm = mh,
-                                                          citation = cit, 
-                                                          major    = major)
+                            mc = Meshcitation.objects.create( meshterm = mh,
+                                                              citation = cit, 
+                                                              major    = major)
             
 
-                        if len(term_subs) > 1:
-                            for subterm in term_subs[1:]:
-                                if subterm.startswith('*'):
-                                    major = True
-                                    subterm = subterm[1:]
-                                else:
-                                    major = False
+                            if len(term_subs) > 1:
+                                for subterm in term_subs[1:]:
+                                    if subterm.startswith('*'):
+                                        major = True
+                                        subterm = subterm[1:]
+                                    else:
+                                        major = False
                         
-                                (sh, created) = Subheading.objects.get_or_create( term = subterm )
-                                sht = Subheadingterm.objects.create( subheading   = sh,
-                                                                     meshcitation = mc,
-                                                                     major        = major )
+                                    (sh, created) = Subheading.objects.get_or_create( term = subterm )
+                                    sht = Subheadingterm.objects.create( subheading   = sh,
+                                                                         meshcitation = mc,
+                                                                         major        = major )
 
                     self.stdout.write('%s' % cit)
 
