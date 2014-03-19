@@ -205,6 +205,16 @@ def filter_by_weight( G, threshold ):
     return g
 
 
+def filter_by_key( G, key, threshold ):
+    g = nx.Graph()
+
+    for e in G.edges():
+        if G[e[0]][e[1]][key] >= threshold:
+            g.add_edge(e[0],e[1], G.get_edge_data(e[0],e[1]))
+
+    return g
+
+
 
 def filter_by_weight_top( G, threshold ):
     g = nx.Graph()
@@ -259,3 +269,90 @@ def mesh_network( citation_queryset ):
 
 
     return H
+
+
+
+def author_network( citation_queryset ):
+    G = nx.Graph()
+
+    for cit in citation_queryset.all():
+        keys = []
+        for a in cit.authors.all():
+            keys.append(a)
+
+        for pair in itertools.combinations( keys, 2 ):
+            source = pair[0]
+            target = pair[1]
+
+            e = G.get_edge_data(source, target)
+
+            if not e:
+                G.add_edge(source, target, citations=[cit,])
+            else:
+                v = e['citations']
+                v.append(cit)
+                G.add_edge(source, target, citations=v)
+
+
+    H = nx.Graph()
+    for e in G.edges():
+        edge_data = G.get_edge_data(*e)
+
+        H.add_edge(e[0], e[1], weight=len(edge_data['citations']))
+
+    return H
+
+
+
+# format network as dict ripe for json
+def author_network2json(G):
+    nodes = []
+    nodei = []
+    for i,node in enumerate(G.nodes()):
+        nodei.append(node)
+        nodes.append( {"node": i,
+                       "name": node.name,
+                       "degree": G.degree(node)} )
+
+    links = []
+    for e in G.edges():
+        
+        links.append( {"source": nodei.index(e[0]),
+                       "target": nodei.index(e[1]),
+                       "weight": G.get_edge_data(*e)['weight'] } )
+
+
+    net = {"nodes" : nodes,
+           "links" : links }
+
+
+    return json.dumps( net )
+
+
+
+
+# format network as dict ripe for json
+def mesh_network2json(G):
+    nodes = []
+    nodei = []
+    for i,node in enumerate(G.nodes()):
+        nodei.append(node)
+        nodes.append( {"node": i,
+                       "name": node,
+                       "degree": G.degree(node)} )
+
+    links = []
+    for e in G.edges():
+        
+        links.append( {"source": nodei.index(e[0]),
+                       "target": nodei.index(e[1]),
+                       "citations": G.get_edge_data(*e)['citations'],
+                       "jin": G.get_edge_data(*e)['jin'], } )
+
+
+    net = {"nodes" : nodes,
+           "links" : links }
+
+
+    return json.dumps( net )
+
