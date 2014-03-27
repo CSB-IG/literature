@@ -5,13 +5,13 @@ import matplotlib.pyplot as plt
 
 G = nx.Graph()
 
-G.add_edges_from([(1,2,{'w': 3}),
-                  (2,3,{'w': 2}),
-                  (3,1,{'w': 1}),
-                  (3,4,{'w': 4}),
-                  (4,5,{'w': 12}),
-                  (5,6,{'w': 11}),
-                  (6,4,{'w': 13}),
+G.add_edges_from([(1,2,{'w': 6}),
+                  (2,3,{'w': 3}),
+                  (3,1,{'w': 4}),
+                  (2,4,{'w': 2}),
+                  (4,3,{'w': 3}),
+
+
               ])
 
 
@@ -31,13 +31,14 @@ for trio in itertools.combinations(G.nodes(), 3):
     if len(vertices)==3:
         triangles.append(vertices)
 
-
-nx.draw(G, 
+pos = nx.spring_layout(G)
+nx.draw(G,
+        pos=pos,
         node_size  = [G.degree(n) for n in G.nodes()],
         width      = [G.get_edge_data(*e)['w'] for e in G.edges()],
         edge_color = [G.get_edge_data(*e)['w'] for e in G.edges()] )
 
-
+plt.show()
 
 
 
@@ -46,15 +47,18 @@ for t in triangles:
     for v in t:
         k = (G.get_edge_data(*v)['w'])
         weights[k]=v
-        
+
     l = weights.keys()
-    l.sort()
-    l.reverse()
-    quitar = l.pop()
-    G.remove_edge(*weights[quitar])
+    if len(l) != 1:
+        l.sort()
+        l.reverse()
+        pprint.pprint(l)
+        quitar = l.pop()
+        G.remove_edge(*weights[quitar])
 
 
-nx.draw(G, 
+nx.draw(G,
+        pos=pos,
         node_size  = [G.degree(n) for n in G.nodes()],
         width      = [G.get_edge_data(*e)['w'] for e in G.edges()],
         edge_color = [G.get_edge_data(*e)['w'] for e in G.edges()] )
