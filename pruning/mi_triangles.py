@@ -31,9 +31,13 @@ for trio in itertools.combinations(G.nodes(), 3):
     if len(vertices)==3:
         triangles.append(vertices)
 
-pprint.pprint(triangles)
 
-nx.draw(G)
+nx.draw(G, 
+        node_size  = [G.degree(n) for n in G.nodes()],
+        width      = [G.get_edge_data(*e)['w'] for e in G.edges()],
+        edge_color = [G.get_edge_data(*e)['w'] for e in G.edges()] )
+
+
 
 
 
@@ -50,11 +54,11 @@ for t in triangles:
     G.remove_edge(*weights[quitar])
 
 
+nx.draw(G, 
+        node_size  = [G.degree(n) for n in G.nodes()],
+        width      = [G.get_edge_data(*e)['w'] for e in G.edges()],
+        edge_color = [G.get_edge_data(*e)['w'] for e in G.edges()] )
 
-#for  G.edges(data=True)
-# EdgeWidth = [G.get_edge_data(*e)['w']*10 for e in G.edges()]
-# pos = nx.spring_layout(G)
-# nx.draw_networkx_edges(G, pos=pos, edge_width=EdgeWidth, alpha=0.75)
-# nx.draw_networkx_nodes(G, pos=pos)
-nx.draw(G)
+
+
 plt.show()
