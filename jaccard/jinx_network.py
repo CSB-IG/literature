@@ -30,19 +30,21 @@ def network_from_dict( diccionario, threshold ):
 
     return G
 
-h = network_from_dict( diccionario, 0.8 )
+h = network_from_dict( diccionario, 0.9 )
 #nx.draw(h)
 jinx = []
 for e in h.edges():
     jinx.append(h.get_edge_data(*e)['jin'])
 plt.cla
 njinx = [n*10 for n in jinx]
-EdgeWidth = [log(n, 2) for n in njinx]                
+EdgeWidth = [log(n,2) for n in njinx]                
 NodeSize = [2**h.degree(n) for n in nx.nodes(h)]
 pos = nx.spring_layout(h)
 nx.draw_networkx_labels(h, pos=pos)
 nx.draw_networkx_nodes(h, pos=pos, node_size=NodeSize, label=True, alpha=0.75)
-nx.draw_networkx_edges(h, pos=pos, edge_width=EdgeWidth, alph=0.75)
+nx.draw_networkx_edges(h, pos=pos, width=EdgeWidth, alpha=0.75)
+
+
 plt.show()
 
 
