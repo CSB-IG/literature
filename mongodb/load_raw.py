@@ -1,18 +1,20 @@
-import sys
+import argparse
 from Bio import Medline
 from pymongo import MongoClient
 import time, datetime
+
+parser = argparse.ArgumentParser(description='Load citations from Medline file to MongoDB.')
+parser.add_argument('--citations', type=argparse.FileType('r'), required=True)
+
+args    = parser.parse_args()
 
 client  = MongoClient()
 db      = client.literature
 medline = db.medline
 
-
-medline_input = sys.argv[1]
-
-records = Medline.parse( open(medline_input) )
+records = Medline.parse( args.citations )
 for r in records:
-
+    
     # evenly format dates
     if 'CRDT' in r.keys():
         conv = time.strptime( r['CRDT'][0], "%Y/%m/%d %H:%M" )
@@ -27,4 +29,8 @@ for r in records:
         conv = time.strptime( r['DEP'], "%Y%m%d" )
         r['DEP'] = datetime.datetime(*conv[:6]) # date of electronic publication
 
-    medline.insert(r)
+
+    # let PubMed handle keys
+    r['_id'] = int(r['PMID'])
+    
+    medline.save(r)
