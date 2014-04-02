@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-execfile('/home/rgarcia/caopsci/dcaopsci_env/bin/activate_this.py',
-         dict(__file__='/home/rgarcia/caopsci/dcaopsci_env/bin/activate_this.py'))
-
 import os
 import sys
 import pprint
