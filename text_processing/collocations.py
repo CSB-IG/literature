@@ -4,7 +4,8 @@ import nltk
 
 def extract( token_list, lengths, frequency, no_bigrams ):
     text = []
-    for w in token_list:
+    words = [w.lower() for w in token_list]
+    for w in words:
         if len(w) > lengths:
             text.append(w)
     pairs = nltk.bigrams(text)
