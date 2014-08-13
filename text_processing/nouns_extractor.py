@@ -1,19 +1,31 @@
+import argparse
+from pymongo import MongoClient, collection
 import nltk
 from nltk.tag import pos_tag
 
-a = open('IBT_titulos_1983_2014feb.txt').read()
 
-text = nltk.Text(nltk.word_tokenize(a))
+parser = argparse.ArgumentParser(description='Tokenize text, load it into mongoDB.')
 
-tagged_sent = pos_tag(text)
+parser.add_argument('--uri', type=str, required=True, help='DB uri, e.g. mongodb://localhost:27017/my_database')
+parser.add_argument('--collection', type=str, required=True, help='MongoDB collection, e.g. the name of the text')
+parser.add_argument('--text', type=argparse.FileType('r'), required=True, help='Text to tokenize')
 
-tags = [word for word,pos in tagged_sent if pos == 'VBD']
+args   = parser.parse_args()
 
-long_words = [words for words in tags if len(words) > 3]
+client = MongoClient(args.uri)
+db     = client.get_default_database()
+collec = collection.Collection( db, args.collection )
 
-Capitals = []
+text = nltk.Text(nltk.word_tokenize(args.text.read()))
 
-for w in long_words:
-    if w.istitle() == True:
-        Capitals.append( w )
-print Capitals
+tagged = pos_tag(text)
+
+for i in range(0,len(tagged)):
+    (token, tag) = tagged[i]
+
+    token_dict = { 'index': i,
+                   'token': token,
+                   'tag'  : tag, }
+    
+    collec.save(token_dict)
+
