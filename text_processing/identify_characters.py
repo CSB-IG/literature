@@ -60,8 +60,15 @@ class TokenScroll:
 
     def update_tokens(self):
         (height, width) = self.win.getmaxyx()
-        self.tokens = [t for t in collec.find({'tag': 'NNP',
-                                               'character': {'$exists': False}}).limit(height-2)]
+        self.tokens = []
+        tmp = []
+        for t in collec.find({'tag': 'NNP', 'character': {'$exists': False}}).limit(10):
+            tmp.append(t)
+
+        for n in range(0,len(tmp)-1):
+            if tmp[n+1]['index']==tmp[n]['index']+1:
+                self.tokens.append(tmp[n])
+
         
     def render(self):
         self.win.clear()
