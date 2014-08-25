@@ -62,12 +62,9 @@ class TokenScroll:
         (height, width) = self.win.getmaxyx()
         self.tokens = []
         tmp = []
-        for t in collec.find({'tag': 'NNP', 'character': {'$exists': False}}).limit(10):
-            tmp.append(t)
 
-        for n in range(0,len(tmp)-1):
-            if tmp[n+1]['index']==tmp[n]['index']+1:
-                self.tokens.append(tmp[n])
+        self.tokens = [t for t in collec.find({'tag': 'NNP',
+                                               'character': {'$exists': False}}).limit(height-2)]
 
         
     def render(self):
@@ -108,9 +105,34 @@ class CharacterBuild:
         self.win.refresh()
 
     def build(self, name):
+        # tag selected tokens as characters
         for t in self.tokens:
             t['character'] = name
             collec.save(t)
+
+        # search all others and tag them too
+
+        # need to do this over and over until the array of tokens are no longer found or something
+        next_tokens = []
+        for t in self.tokens:
+            next_tokens.append(collec.find_one({'tag': 'NNP',
+                                               'character': {'$exists': False},
+                                               'token': t['token'] }))
+
+        if len(self.tokens)>1:
+            contiguous = True
+            for n in range(0,len(next_tokens)-1):
+                if next_tokens[n+1]['index'] != next_tokens[n]['index']+1:
+                    contiguous = False
+        
+            if contiguous:
+                for t in next_tokens:
+                    t['character'] = name
+                    collec.save(t)
+        else:
+            # what if it's just one token?
+            pass
+        # empty build area
         self.tokens = []
 
         
@@ -129,6 +151,13 @@ def getCharacterName(height = 1, width = 40, x = 40, y = 0):
 def noneCharacter(token):
     token['character'] = None
     collec.save(token)
+
+    for t in collec.find({'tag': 'NNP',
+                          'character': {'$exists': False},
+                          'token': token['token']}):
+        t['character'] = None
+        collec.save(t)
+
     
 def main(stdscr):
     # initialize curses environment
