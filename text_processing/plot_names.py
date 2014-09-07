@@ -63,17 +63,30 @@ for character in places:
                     app+=1
             appearances[character].append(app)
 
-#pprint.pprint(appearances)
+
             
 
 colors = list(cm.rainbow(np.linspace(0, 1, len(appearances.keys()))))
 
-for ch in appearances:
-    plt.plot(range(0,len(text),bin_width),appearances[ch], label=ch, color=colors.pop())
 
-legend = plt.legend(loc='right', shadow=True, fontsize='x-small')
+f, a = plt.subplots(len(appearances), sharex=True, sharey=True)
+
+n = 0
+for ch in appearances:
+    a[n].plot(range(0,len(text),bin_width),appearances[ch])
+    l = a[n].set_ylabel(ch, rotation='horizontal')
+    l.set_horizontalalignment('right')
+    l.set_x(-2.8)
+    n+=1
+
+
+f.subplots_adjust(hspace=0)
+
+
+
+
 
 fig = plt.gcf()
-fig.set_size_inches(16, 13)
-
+fig.set_size_inches(16, 20)
+#plt.tight_layout( )
 plt.savefig('aguas.png')
