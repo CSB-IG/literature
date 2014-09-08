@@ -19,6 +19,6 @@ byte_distance.pl
 Greps for byte offsets of pseudonyms of characters in a text. Prints to stdout byte offset, Character.
 
 
-Luego hay una porción en java que aún no publicamos. Toma la relación de byte_offsets genera la red y la escribe en formato que le gusta a (Cytoscape)[http://www.cytoscape.org/].
+Luego hay una porción en java que aún no publicamos. Toma la relación de byte_offsets genera la red y la escribe en formato que le gusta a [Cytoscape](http://www.cytoscape.org/])
 
-Esta biblioteca: (cytoscape.js)[http://cytoscape.github.io/cytoscape.js/]!
+Esta biblioteca: [cytoscape.js](http://cytoscape.github.io/cytoscape.js/)!
