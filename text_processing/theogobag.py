@@ -62,4 +62,4 @@ for line in fileinput.input():
 
 G = tuples2graph(txt2tuples(text))
 
-nx.write_weighted_edgelist(G, sys.stdout)
+nx.write_edgelist(G, sys.stdout, data=True)
