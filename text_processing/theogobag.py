@@ -1,10 +1,14 @@
 # coding: utf-8
 
+import fileinput
+import sys
 from pattern.en import parsetree
 from pattern.vector import Document
 import networkx as nx
 from itertools import combinations
 import matplotlib.pyplot as plt
+
+
 
 def txt2tuples(text):
     s = parsetree(text, relations=True, lemmata=True)
@@ -26,7 +30,10 @@ def txt2tuples(text):
                 words.append(w[1].string)
 
         if len(nnp)>1:
-            tuples[tuple(nnp)]=words.pop(0)
+            if words:
+                tuples[tuple(nnp)]=words.pop(0)
+            else:
+                tuples[tuple(nnp)]=''
 
     return tuples
 
@@ -48,16 +55,11 @@ def tuples2graph(tuples):
 
     return g
 
-text = open('data/theogony/theogony.txt').read()
+text = ""
+for line in fileinput.input():
+    text += "\n" + line
+
 
 G = tuples2graph(txt2tuples(text))
 
-# pos = nx.spring_layout(G)
-# #nx.draw(G)
-# nx.draw_networkx_nodes(G,pos=pos,node_color='w',alpha=0.4)
-# nx.draw_networkx_edges(G,pos=pos,alpha=0.4,width=1,edge_color='k')
-# nx.draw_networkx_labels(G,pos=pos,fontsize=14)
-# plt.savefig('red.svg')
-
-
-nx.write_weighted_edgelist(G, 'red.csv')
+nx.write_weighted_edgelist(G, sys.stdout)
