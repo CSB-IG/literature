@@ -55,7 +55,7 @@ def tuples2graph(tuples):
             e = g.get_edge_data(*pair)
             if e:
                 bow = e['bow']
-                bow.add(tuples[t])
+                bow.update(tuples[t])
                 g.add_edge(pair[0], pair[1], bow=bow)
             else:
                 g.add_edge(pair[0], pair[1], bow=tuples[t])
