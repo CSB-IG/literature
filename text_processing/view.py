@@ -14,19 +14,21 @@ g = Graph()
 for e in h.edges():
     g.add_edge(e[0], e[1], 
                length = 0.2, 
-               weight = 0.2, 
-               stroke = color(.5,.5,.6))
+               weight = 0.3, 
+               stroke = color(.4,.4,.5))
 
-
-g.distance         = 22   # Overall spacing between nodes.
-g.layout.force     = 0.0009 # Strength of the attractive & repulsive force.
+for n in g.nodes:
+    n.text = Text(n.id, font="Droid Mono", fontsize=7, fill = color(.9,.9,.9)) 
+    
+g.distance         = 32   # Overall spacing between nodes.
+g.layout.force     = 0.009 # Strength of the attractive & repulsive force.
 g.layout.repulsion = 12   # Repulsion radius.
 
 dragged = None
 def draw(canvas):
     
     canvas.clear()
-    background(color(0.35,.35,.45))
+    background(color(0.22,.22,.36))
     translate(250, 250)
     
     # With directed=True, edges have an arrowhead indicating the direction of the connection.
@@ -34,7 +36,7 @@ def draw(canvas):
     # With weighted=0.0-1.0, indicates nodes whose centrality > the given threshold.
     # This requires some extra calculations.
     g.draw(weighted=True, directed=False)
-    g.update(iterations=3)
+    g.update(iterations=2)
     
     # Make it interactive!
     # When the mouse is pressed, remember on which node.
