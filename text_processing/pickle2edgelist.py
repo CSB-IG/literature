@@ -9,4 +9,4 @@ args   = parser.parse_args()
 h = nx.read_gpickle( args.pickle )
 
 for e in h.edges():
-    print e[0],e[1],",".join(h.get_edge_data(*e)['bow'])
+    print u"%s\t%s\t%s" % (e[0],e[1],",".join(h.get_edge_data(*e)['bow']))
