@@ -9,12 +9,13 @@ parser.add_argument('--infile', type=str, required=True)
 parser.add_argument('--outfile', type=str, required=True)
 parser.add_argument('--threshold', type=int, required=True)
 
+args    = parser.parse_args()
+infile = args.infile
+outfile = args.outfile
+threshold = args.threshold
 
 g = nx.gpickle.read_gpickle(infile)
 pos = nx.spring_layout(g)
-
-threshold = 4
-
 
 for i in g.edges(data=True):
     if i[2]['weight']<=threshold:
