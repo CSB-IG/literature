@@ -1,0 +1,50 @@
+--A small recount of findings encountered during our last session--
+
+Goal:
+
+Starting with a working python script (load_raw.py), make that tool available through Galaxy (as a custom tool).
+
+Procedure:
+
+1) The python script requires an input file, sends no output to stdout, and works fine.
+   load_raw.py --citations [Input_file]
+
+2) So I reviewed the tutorial for adding custom tools to Galaxy, which is available at: https://wiki.galaxyproject.org/Admin/Tools/AddToolTutorial, so I had to create a new folder, and an .xml
+
+3) So, I created 'load_raw.xml' based on the previous tutorial, and fit the 'load_raw.py' script. It is sugestedthe script to include some output, for Galaxy to be able to track for completion, that's why a redirection was 
+
+introduced.
+
+<tool id="LoadRaw" name="LoadRaw" version="0.1">
+  <description>Loads PubMed-format files obtained from the 
+
+medline database</description>
+  <command interpreter="python">
+    load_raw.py --citations $citations > $dummyout    
+  </command>
+
+  <inputs>
+    <param name="citations" type="data" label="Citations"/>
+  </inputs>
+
+  <outputs>
+    <data format="tabular" name="dummyout" />
+  </outputs>
+
+  <help>
+    pub_raw.py --citations Citations_file_in_pubmed_format.pubmed
+  </help>
+
+</tool>
+
+
+4) Then I updated the config/tool_conf.xml file as follows:
+config/tool_conf.xml
+  <section name="LoadRaw" id="mTools">
+    <tool file="loadraw/load_raw.xml" />
+  </section>
+
+5) Then I created a new folder named 'loadraw' under '/tools' folder, and put the xml and py files inside 'loadraw'.
+
+6) After restarting Galaxy, the new Load Raw tool is shown.
+
