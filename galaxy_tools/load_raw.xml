@@ -1,0 +1,19 @@
+<tool id="LoadRaw" name="LoadRaw" version="0.1">
+  <description>Loads PubMed-format files obtained from the medline database</description>
+  <command interpreter="python">
+    load_raw.py --citations $citations > $dummyout    
+  </command>
+
+  <inputs>
+    <param name="citations" type="data" label="Citations"/>
+  </inputs>
+
+  <outputs>
+    <data format="tabular" name="dummyout" />
+  </outputs>
+
+
+  <help>
+    pub_raw.py --citations Citations_file_in_pubmed_format.pubmed
+  </help>
+</tool>
