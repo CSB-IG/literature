@@ -1,44 +1,32 @@
 import argparse
+from pattern.es import parsetree
+from pattern.vector import Document
+from pprint import pprint
 
 parser = argparse.ArgumentParser(description='Find character names in text blobs.')
 
 parser.add_argument('--text', type=argparse.FileType('r'), required=True, help='find names here')
-parser.add_argument('--nnps', type=argparse.FileType('r'), required=True, help='tokens tagged NNP')
+parser.add_argument('--names', type=argparse.FileType('r'), required=True, help='dictionary of names')
 
 args   = parser.parse_args()
 
+last_names = [name.strip() for name in args.names.readlines()]
 
-names = [name.strip() for name in args.nnps.readlines()]
+s = parsetree(args.text.read(), relations=True, lemmata=True)
 
+for i in range(len(s)):
+    sentence = s[i]
+    names_in_sentence = {'sentence_index': i}
+    for n in range(1,len(sentence.words)):
+        last_word = sentence.words[n-1]
+        lw = last_word.string
+        word = sentence.words[n]
+        w = word.string
 
-seek_for = []
-for l in range(4,0,-1):
-    for i in range(0,len(names)):
-        name_pile = []
+        if w.upper() in last_names and w[0].isupper() and len(w)>3 and lw.upper() in last_names and lw[0].isupper() and len(lw)>3:
+            if not lw in names_in_sentence.values():
+                names_in_sentence[last_word.index] = lw
+            if not w in names_in_sentence:
+                names_in_sentence[word.index] = w
 
-        if i+l<len(names):
-            for j in range(i,i+l):
-                name_pile.append( names[j] )
-        else:
-            for j in range(i,len(names)):
-                name_pile.append( names[j] )
-
-        seek_for.append(" ".join(name_pile))
-
-
-
-text = args.text.read()
-
-places = {}
-for name in seek_for:
-    if name in places:
-        offset = text.find(name, places[name][-1]+1)
-        if offset != -1:
-            places[name].append(offset)
-    else:
-        offset = text.find(name)
-        if offset != -1:
-            places[name] = [offset, ]
-    
-import pprint
-pprint.pprint(places)
+    pprint(names_in_sentence)
