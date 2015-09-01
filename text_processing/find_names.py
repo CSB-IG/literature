@@ -1,17 +1,15 @@
 import argparse
 from pattern.es import parsetree
 from pattern.vector import Document
-from pprint import pprint
-import networkx as nx
-
+import json
 from operator import itemgetter
-from itertools import groupby, combinations
+from itertools import groupby
 
 parser = argparse.ArgumentParser(description='Find character names in text blobs. Create graph.')
 
 parser.add_argument('--text', type=argparse.FileType('r'), required=True, help='find names here')
 parser.add_argument('--names', type=argparse.FileType('r'), required=True, help='dictionary of names')
-parser.add_argument('--pickle', type=argparse.FileType('w'), required=True, help='pickle to output graph')
+parser.add_argument('--json', type=argparse.FileType('w'), required=True, help='pickle to output graph')
 
 args   = parser.parse_args()
 
@@ -57,48 +55,5 @@ for i in range(len(s)):
 
 
 
-g = nx.Graph()
 
-last_key = all_sentences.keys()[-1]
-for i in range(last_key):
-
-    # connect names in same sentence
-    for pair in combinations(all_sentences.get(i,[]), 2):
-        edge_data = g.get_edge_data(*pair)
-        if edge_data:
-            w = edge_data['w'] + 4
-        else:
-            g.add_edge(*pair, w=4)
-
-
-    # connect names of sentence to names of next sentence
-    for name1 in all_sentences.get(i,[]):
-        for name2 in all_sentences.get(i+1,[]):
-            edge_data = g.get_edge_data(name1, name2)
-            if edge_data:
-                w = edge_data['w'] + 3
-            else:
-                g.add_edge(name1, name2, w=3)
-
-
-    # connect names of sentence to names of next to next sentence
-    for name1 in all_sentences.get(i,[]):
-        for name2 in all_sentences.get(i+2,[]):
-            edge_data = g.get_edge_data(name1, name2)
-            if edge_data:
-                w = edge_data['w'] + 2
-            else:
-                g.add_edge(name1, name2, w=2)
-
-
-
-    # connect names of sentence to names of next sentence
-    for name1 in all_sentences.get(i,[]):
-        for name2 in all_sentences.get(i+3,[]):
-            edge_data = g.get_edge_data(name1, name2)
-            if edge_data:
-                w = edge_data['w'] + 1
-            else:
-                g.add_edge(name1, name2, w=1)
-                
-nx.gpickle.write_gpickle(g, args.pickle)
+json.dump(all_sentences, args.json, indent=4)
