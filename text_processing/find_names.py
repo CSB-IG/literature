@@ -14,6 +14,7 @@ last_names = [name.strip() for name in args.names.readlines()]
 
 s = parsetree(args.text.read(), relations=True, lemmata=True)
 
+all_sentences = []
 for i in range(len(s)):
     sentence = s[i]
     names_in_sentence = {'sentence_index': i}
@@ -29,4 +30,8 @@ for i in range(len(s)):
             if not w in names_in_sentence:
                 names_in_sentence[word.index] = w
 
-    pprint(names_in_sentence)
+    if len(names_in_sentence.keys()) > 1:
+        all_sentences.append(names_in_sentence)
+
+
+pprint(all_sentences)
