@@ -2,7 +2,7 @@
 
 import fileinput
 import sys
-from pattern.en import parsetree
+from pattern.es import parsetree
 from pattern.vector import Document
 import networkx as nx
 from itertools import combinations
