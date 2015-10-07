@@ -1,32 +1,13 @@
-Estamos minando textos para extraer:
+# Character networks
 
-1. los personajes
-2. el lugar en el que aparecen los personajes
+''find_names.py'' will parse a text and find the sentnces where names
+in a dictionary occur, it will output that in a JSON file.
 
-Usando sus posiciones en el texto creamos redes de interacciones entre los personajes.
+Cal it thusly:
 
+'''
+    python find_names.py --text data/narco/SresNarco/capitulo_1.txt \
+                         --names data/nombres_verbos/apellidos_uniq.txt data/nombres_verbos/aliasfinal.txt \
+                         --json aguas.json
 
-El pipeline
-===========
-
-args_nouns_extractor.py
-
-Usa PyNLTK para tokenizar y categorizar. Imprime a la salida estándar la lista de nombres mayores a cierta longitud, en el orden en que aparecen.
-
-
-byte_distance.pl
-
-Greps for byte offsets of pseudonyms of characters in a text. Prints to stdout byte offset, Character.
-
-
-Luego hay una porción en java que aún no publicamos. Toma la relación de byte_offsets genera la red y la escribe en formato que le gusta a [Cytoscape](http://www.cytoscape.org/])
-
-Esta biblioteca: [cytoscape.js](http://cytoscape.github.io/cytoscape.js/)!
-
-Esta también! http://www.clips.ua.ac.be/pages/pattern-shell
-
-
-find_names.py y plot_names.py
-
-Hacen lo del byte_distance.pl de encontrar la posición del personaje partiendo desde el byte 0.
-Va haciendo combinaciones de 4, 3, 2 y 1 token. 
+'''
