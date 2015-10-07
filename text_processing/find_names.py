@@ -8,12 +8,15 @@ from itertools import groupby
 parser = argparse.ArgumentParser(description='Find character names in text blobs. Create graph.')
 
 parser.add_argument('--text', type=argparse.FileType('r'), required=True, help='find names here')
-parser.add_argument('--names', type=argparse.FileType('r'), required=True, help='dictionary of names')
+parser.add_argument('--names', type=argparse.FileType('r'), nargs='+', required=True, help='dictionary of names')
 parser.add_argument('--json', type=argparse.FileType('w'), required=True, help='pickle to output graph')
 
 args   = parser.parse_args()
 
-last_names = [name.strip() for name in args.names.readlines()]
+last_names = []
+for f in args.names:
+    for name in f.readlines():
+        last_names.append(name.strip())
 
 s = parsetree(args.text.read(), relations=True, lemmata=True)
 
