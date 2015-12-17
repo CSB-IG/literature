@@ -1,9 +1,12 @@
+# coding: utf-8
 import argparse
 from pattern.es import parsetree
 from pattern.vector import Document
 import json
 from operator import itemgetter
 from itertools import groupby
+
+from pprint import pprint
 
 parser = argparse.ArgumentParser(description='Find character names in text blobs. Create graph.')
 
@@ -16,8 +19,9 @@ args   = parser.parse_args()
 last_names = []
 for f in args.names:
     for name in f.readlines():
-        last_names.append(name.strip())
+        last_names.append(name.replace("Á", 'A').replace("á", 'a').replace("É", 'E').replace("é", 'e').replace("Í", 'I').replace("í", 'i').replace("Ó", 'O').replace("ó", 'o').replace("Ú", 'U').replace("ú", 'u').upper().strip())
 
+        
 s = parsetree(args.text.read(), relations=True, lemmata=True)
 
 
@@ -40,19 +44,26 @@ def names_from_dict( nis ):
 all_sentences = {}
 for i in range(len(s)):
     sentence = s[i]
-    names_in_sentence = {}
-    for n in range(1,len(sentence.words)):
-        last_word = sentence.words[n-1]
-        lw = last_word.string
-        word = sentence.words[n]
-        w = word.string
 
-        if w.upper() in last_names and w[0].isupper() and len(w)>3 and lw.upper() in last_names and lw[0].isupper() and len(lw)>3:
-            if not lw in names_in_sentence.values():
-                names_in_sentence[last_word.index] = lw
+    # extract names from sentence
+    names_in_sentence = {}
+    for n in range(0,len(sentence.words)):
+        #last_word = sentence.words[n-1]
+        #lw = last_word.string
+        word = sentence.words[n]
+        w = word.string.encode('utf8').replace("Á", 'A').replace("á", 'a').replace("É", 'E').replace("é", 'e').replace("Í", 'I').replace("í", 'i').replace("Ó", 'O').replace("ó", 'o').replace("Ú", 'U').replace("ú", 'u')
+
+#        print w
+        if w.upper() in last_names and w[0].isupper() and len(w)>3: # and lw.upper() in last_names and lw[0].isupper() and len(lw)>3:
+            #if not lw in names_in_sentence.values():
+            #    names_in_sentence[last_word.index] = lw
             if not w in names_in_sentence:
                 names_in_sentence[word.index] = w
 
+#    print " ".join([w.string.encode('utf8') for w in sentence.words])
+#    pprint(sentence)
+#    pprint(names_in_sentence)
+                
     if len(names_in_sentence.keys()) > 1:
         all_sentences[i] = names_from_dict(names_in_sentence)
 
