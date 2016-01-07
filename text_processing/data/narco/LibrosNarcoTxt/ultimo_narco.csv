@@ -3,17 +3,17 @@ Beltran Leyva;Puente Grande;3
 Chapo;Hernandez;4
 Chapo;Hunt;4
 Chapo;Joaquin Archivaldo;2
-Chapo;Juarez;4
+Chapo;Juarez;7
 Chapo;Mexico;3
 Chapo;Federal;4
 Chapo;Arellano Felix;1
 Chapo;Guzman Bustillos;3
-Chapo;Cuando;4
+Chapo;Cuando;12
 Chapo;Claudio Julian;1
-Chapo;Puente;4
+Chapo;Puente;12
 Chapo;Tello Peon;4
 Chapo;Chito;4
-Chapo;Sinaloa;4
+Chapo;Sinaloa;20
 Chapo;Emilio;4
 Chapo;Puente Grande;1
 Chapo;Guzman Loera;3
@@ -22,11 +22,11 @@ Culiacan;Benjamin;3
 Culiacan;Ortiz Maldonado;2
 Culiacan;Javier;4
 Culiacan;Miguel Angel Felix Gallardo;3
-Culiacan;Badiraguato;4
+Culiacan;Badiraguato;8
 Culiacan;Eduardo;3
 Culiacan;Arellano Felix;2
-Culiacan;Sinaloa;4
-Culiacan;Miguel;4
+Culiacan;Sinaloa;7
+Culiacan;Miguel;16
 Culiacan;Ramon;3
 Culiacan;Aaron Irizar;3
 Culiacan;Lopez;4
@@ -54,7 +54,7 @@ Marcos Arturo;Alfredo;4
 Marcos Arturo;Mario;3
 Marcos Arturo;Leyva;4
 Marcos Arturo;Carlos;3
-Guzman Loera;Joaquin Archivaldo;3
+Guzman Loera;Joaquin Archivaldo;6
 Guzman Loera;Puente;3
 Cardenas Guillen;Garcia Abrego;1
 Cardenas Guillen;Guzman Decena;1
@@ -69,7 +69,7 @@ Mauricio Limon Aguirre;Tello Peon;2
 Ismael Zambada Garcia;Sinaloa;3
 Sinaloa;Chihuahua;4
 Sinaloa;Miguel Angel Felix Gallardo;3
-Sinaloa;Badiraguato;4
+Sinaloa;Badiraguato;16
 Sinaloa;Joaquin Archivaldo Guzman Loera;2
 Sinaloa;Archivaldo Guzman Loera;1
 Sinaloa;Arellano Felix;1
@@ -110,8 +110,8 @@ Gonzalez Sanchez;Jesus Manuel;3
 Rafael Caro Quintero;Badiraguato;2
 Arellano Felix;Ramon;3
 Bernarda;Armida;4
-Mario;Alfredo;2
-Mario;Carlos;4
+Mario;Alfredo;5
+Mario;Carlos;8
 Badiraguato;Carlos;4
 Puebla;Reynosa;4
-Alfredo;Carlos;2
+Alfredo;Carlos;5
