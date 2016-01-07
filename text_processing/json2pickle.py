@@ -25,7 +25,8 @@ for i in range(last_key):
         if edge_data:
             w = edge_data['w'] + 4
         else:
-            g.add_edge(*pair, w=4)
+            w = 4
+        g.add_edge(*pair, w=w)
 
 
     # connect names of sentence to names of next sentence
@@ -35,7 +36,8 @@ for i in range(last_key):
             if edge_data:
                 w = edge_data['w'] + 3
             else:
-                g.add_edge(name1, name2, w=3)
+                w = 3
+            g.add_edge(name1, name2, w=w)
 
 
     # connect names of sentence to names of next to next sentence
@@ -45,7 +47,8 @@ for i in range(last_key):
             if edge_data:
                 w = edge_data['w'] + 2
             else:
-                g.add_edge(name1, name2, w=2)
+                w = 2
+            g.add_edge(name1, name2, w=w)
 
 
 
@@ -56,6 +59,7 @@ for i in range(last_key):
             if edge_data:
                 w = edge_data['w'] + 1
             else:
-                g.add_edge(name1, name2, w=1)
+                w = 1
+            g.add_edge(name1, name2, w=w)
                 
 nx.gpickle.write_gpickle(g, args.pickle)
