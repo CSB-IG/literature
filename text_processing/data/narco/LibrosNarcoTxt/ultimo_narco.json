@@ -1,6 +1,5 @@
 {
     "8196": [
-        "Medellin", 
         "Escobar"
     ], 
     "4103": [
@@ -12,15 +11,7 @@
     ], 
     "14346": [
         "Carrillo Leyva"
-    ], 
-    "24591": [
-        "Canada", 
-        "Mexico"
-    ], 
-    "4112": [
-        "Hidalgo", 
-        "Parral"
-    ], 
+    ],  
     "12412": [
         "Garcia Luna"
     ], 
@@ -42,10 +33,6 @@
     "6173": [
         "Carrillo Fuentes"
     ], 
-    "10274": [
-        "Gracias", 
-        "Dios"
-    ], 
     "8227": [
         "Arellano Felix"
     ], 
@@ -57,15 +44,6 @@
     ], 
     "20487": [
         "Chapo", 
-        "Sinaloa"
-    ], 
-    "14380": [
-        "Lomas", 
-        "Pedregal"
-    ], 
-    "4141": [
-        "Virgen", 
-        "Guadalupe"
     ], 
     "16733": [
         "Vicente Carrillo"
@@ -97,11 +75,7 @@
     ], 
     "22587": [
         "Chapo Guzman"
-    ], 
-    "6205": [
-        "Hermosillo", 
-        "Sonora"
-    ], 
+    ],  
     "63": [
         "Joaquin Archivaldo"
     ], 
@@ -118,25 +92,13 @@
         "Arellano Felix"
     ], 
     "20036": [
-        "Santiago", 
-        "Caballeros"
+        "Santiago"
     ], 
     "69": [
         "Joaquin Archivaldo Guzman Loera"
-    ], 
-    "71": [
-        "Badiraguato", 
-        "Sinaloa"
-    ], 
+    ],  
     "75": [
         "Miguel Angel Felix Gallardo"
-    ], 
-    "76": [
-        "Culiacan", 
-        "Sinaloa"
-    ], 
-    "18786": [
-        "Santa Martha"
     ], 
     "22606": [
         "Samuel Murillo"
@@ -144,21 +106,10 @@
     "14416": [
         "Carrillo Leyva"
     ], 
-    "10321": [
-        "Puente Grande"
-    ], 
     "82": [
         "Rafael Caro Quintero"
     ], 
-    "10323": [
-        "Puerto Vallarta"
-    ], 
-    "84": [
-        "Badiraguato", 
-        "Sinaloa"
-    ], 
     "6230": [
-        "Hermosillo", 
         "Carrillo"
     ], 
     "14423": [
@@ -174,13 +125,8 @@
     "90": [
         "Ernesto Fonseca"
     ], 
-    "8283": [
-        "Sinaloa", 
-        "Juarez"
-    ], 
     "16481": [
-        "Santiago", 
-        "Caballeros"
+        "Santiago"
     ], 
     "101": [
         "Luis Palma Salazar"
@@ -213,10 +159,6 @@
     "114": [
         "Ismael Zambada Garcia"
     ], 
-    "115": [
-        "Alamo", 
-        "Sinaloa"
-    ], 
     "19985": [
         "Carlos Suarez Martinez"
     ], 
@@ -244,10 +186,6 @@
     ], 
     "127": [
         "Juan Jose"
-    ], 
-    "20609": [
-        "Guerra", 
-        "Mexico"
     ], 
     "21867": [
         "Francisco Gomez"
@@ -281,7 +219,6 @@
         "Santa Martha Acatitla"
     ], 
     "14481": [
-        "Cuando", 
         "Chapo"
     ], 
     "10389": [
@@ -296,8 +233,7 @@
         "Eduardo"
     ], 
     "152": [
-        "Javier", 
-        "Culiacan"
+        "Javier"
     ], 
     "20600": [
         "Medina Mora"
@@ -312,8 +248,7 @@
         "Carrillo Fuentes"
     ], 
     "19483": [
-        "Chapo", 
-        "Sonora"
+        "Chapo"  
     ], 
     "164": [
         "Cardenas Guillen"
@@ -325,31 +260,17 @@
         "Bojorquez", 
         "Chapo"
     ], 
-    "8360": [
-        "Puente Grande"
-    ], 
     "170": [
         "Cardenas Guillen"
     ], 
     "6317": [
-        "Juarez", 
         "Chapo"
-    ], 
-    "23581": [
-        "Nuevo Laredo"
     ], 
     "8368": [
         "Jose Luis Vasconcelos"
     ], 
     "10417": [
         "Carrillo Fuentes"
-    ], 
-    "2226": [
-        "Puente Grande"
-    ], 
-    "23923": [
-        "Culiacan", 
-        "Angeles"
     ], 
     "181": [
         "Cardenas Guillen"
@@ -369,10 +290,6 @@
     ], 
     "12480": [
         "Garcia Luna"
-    ], 
-    "5152": [
-        "Nogales", 
-        "Sonora"
     ], 
     "194": [
         "Jose", 
@@ -420,22 +337,14 @@
     "23815": [
         "Ricardo Ravelo"
     ], 
-    "217": [
-        "Badiraguato", 
-        "Sinaloa"
-    ], 
     "10458": [
         "Arellano Felix"
-    ], 
-    "2267": [
-        "Puente Grande"
     ], 
     "10464": [
         "Arellano Felix"
     ], 
     "2273": [
         "Chapo", 
-        "Puente"
     ], 
     "10467": [
         "Durante", 
@@ -448,16 +357,11 @@
         "Neto Fonseca", 
         "Rafael Caro Quintero"
     ], 
-    "6377": [
-        "Sinaloa", 
-        "Guadalajara"
-    ], 
     "18666": [
         "Laura Elena"
     ], 
     "22772": [
         "Chapo", 
-        "Chapo"
     ], 
     "18677": [
         "Miss Sinaloa"
@@ -466,25 +370,16 @@
         "Miguel Angel Felix Gallardo"
     ], 
     "16425": [
-        "Juarez", 
         "Pablo"
     ], 
     "23803": [
-        "York", 
         "Long"
-    ], 
-    "2297": [
-        "Puente Grande"
     ], 
     "16634": [
         "Adriana Sarmiento Enrique"
     ], 
-    "18815": [
-        "Santa Martha"
-    ], 
     "6397": [
         "Chapo", 
-        "Sinaloa"
     ], 
     "6398": [
         "Carrillo Fuentes", 
@@ -501,7 +396,7 @@
         "Jose Melendez"
     ], 
     "12554": [
-        "Cuando Amado Carrillo"
+        "Amado Carrillo"
     ], 
     "18699": [
         "Angel Orlando"
@@ -520,11 +415,9 @@
     ], 
     "272": [
         "Chapo", 
-        "Sinaloa"
     ], 
     "2321": [
-        "Chapo", 
-        "Puente"
+        "Chapo"
     ], 
     "24060": [
         "Francisco Gomez"
@@ -533,33 +426,22 @@
         "Ramon Arellano Felix"
     ], 
     "20759": [
-        "Mexico", 
         "Chapo"
     ], 
     "22812": [
         "Pablo", 
         "Hunt"
     ], 
-    "24861": [
-        "Armada", 
-        "Mexico"
-    ], 
     "18354": [
         "Braun", 
-        "Europa"
     ], 
     "6432": [
         "Rolando Llanos Romero"
-    ], 
-    "289": [
-        "Mexico", 
-        "America"
     ], 
     "8482": [
         "Alfredo Beltran"
     ], 
     "22819": [
-        "Mexicano", 
         "Franco Rios"
     ], 
     "6436": [
@@ -569,7 +451,6 @@
         "Jorge Perez Lopez"
     ], 
     "6438": [
-        "Cuando", 
         "Chapo"
     ], 
     "2345": [
@@ -601,8 +482,7 @@
         "Mayo"
     ], 
     "10550": [
-        "Benjamin", 
-        "Puebla"
+        "Benjamin"
     ], 
     "24969": [
         "Eduardo Medina"
@@ -627,19 +507,13 @@
         "Ismael", 
         "Mayo Zambada Garcia"
     ], 
-    "10563": [
-        "Alamo", 
-        "Sinaloa"
-    ], 
     "10566": [
-        "Padrino", 
         "Chapo"
     ], 
     "2375": [
         "Guzman Loera"
     ], 
     "14664": [
-        "Oaxaca", 
         "Quintana"
     ], 
     "10636": [
@@ -652,7 +526,6 @@
     ], 
     "24910": [
         "Jesus", 
-        "Texas"
     ], 
     "339": [
         "Chapo", 
@@ -664,20 +537,9 @@
     "12629": [
         "Juan Jose Esparragosa Moreno"
     ], 
-    "10582": [
-        "Cuando", 
-        "Padrino"
-    ], 
     "12631": [
         "Coronel Villarreal", 
         "Edgar Valdez"
-    ], 
-    "22872": [
-        "Badiraguato", 
-        "Culiacan"
-    ], 
-    "2393": [
-        "Puente Grande"
     ], 
     "12346": [
         "Calderon", 
@@ -697,7 +559,6 @@
         "Beltran Leyva"
     ], 
     "10596": [
-        "Cuando", 
         "Mayo"
     ], 
     "12645": [
@@ -714,18 +575,12 @@
         "Vicente Zambada"
     ], 
     "12649": [
-        "Niebla", 
         "Vicente Carrillo Leyva"
-    ], 
-    "14699": [
-        "Sinaloa", 
-        "Mexico"
     ], 
     "10604": [
         "Arellano Felix"
     ], 
     "12653": [
-        "Se\u00f1or", 
         "Ramon"
     ], 
     "12654": [
@@ -737,7 +592,6 @@
         "Cardenas Guillen"
     ], 
     "10608": [
-        "Como", 
         "Chapo"
     ], 
     "10610": [
@@ -748,10 +602,6 @@
         "Leyva", 
         "Chapo"
     ], 
-    "4471": [
-        "Durango", 
-        "Chihuahua"
-    ], 
     "14712": [
         "Beltran Leyva"
     ], 
@@ -761,11 +611,8 @@
     "14716": [
         "Marcos Arturo Beltran"
     ], 
-    "24957": [
-        "Santa Martha Acatitla"
-    ], 
     "6527": [
-        "Padrino Felix Gallardo"
+        "Felix Gallardo"
     ], 
     "2432": [
         "Hernandez", 
@@ -787,24 +634,13 @@
     "2441": [
         "Arellano Felix"
     ], 
-    "8586": [
-        "Caballeros", 
-        "Badiraguato"
-    ], 
     "12683": [
-        "Federal", 
         "Genaro Garcia Luna"
     ], 
     "2444": [
-        "Sinaloa", 
         "Chapo"
     ], 
-    "20546": [
-        "Sinaloa", 
-        "Durango"
-    ], 
     "6543": [
-        "Padrino", 
         "Chapo"
     ], 
     "12697": [
@@ -812,9 +648,6 @@
     ], 
     "12698": [
         "Margarita Zavala"
-    ], 
-    "14063": [
-        "Puente Grande"
     ], 
     "12702": [
         "Juan Camilo"
@@ -825,16 +658,8 @@
     "18849": [
         "Felix Gallardo"
     ], 
-    "10658": [
-        "Sinaloa", 
-        "Sonora"
-    ], 
     "18852": [
         "Juan Diego Espinosa"
-    ], 
-    "22951": [
-        "Angeles", 
-        "Sinaloa"
     ], 
     "2473": [
         "Esparragosa Moreno"
@@ -845,10 +670,6 @@
     "6215": [
         "Carrillo Fuentes"
     ], 
-    "17938": [
-        "Imperial", 
-        "California"
-    ], 
     "23282": [
         "Chapo", 
         "Pedro Alfonso"
@@ -857,11 +678,7 @@
         "Victor Emilio Cazares Gastelum"
     ], 
     "4530": [
-        "Padrino Felix Gallardo"
-    ], 
-    "12724": [
-        "Caballeros", 
-        "Sinaloa"
+        "Felix Gallardo"
     ], 
     "18869": [
         "Rodolfo Lopez Amavizca"
@@ -878,14 +695,10 @@
         "Maria"
     ], 
     "16827": [
-        "Juarez", 
         "Chapo"
     ], 
     "2492": [
         "Beltran Leyva"
-    ], 
-    "2493": [
-        "Puente Grande"
     ], 
     "22974": [
         "David", 
@@ -901,15 +714,9 @@
     "452": [
         "Joaquin Guzman"
     ], 
-    "12741": [
-        "Puente Grande"
-    ], 
     "10694": [
         "Ramon", 
         "Benjamin"
-    ], 
-    "2503": [
-        "Puente Grande"
     ], 
     "22363": [
         "Felix Gallardo"
@@ -920,24 +727,8 @@
     "20940": [
         "Jimenez Mota"
     ], 
-    "6605": [
-        "Sinaloa", 
-        "Sonora"
-    ], 
-    "6606": [
-        "Chihuahua", 
-        "Durango"
-    ], 
-    "12751": [
-        "Mexico", 
-        "Guatemala"
-    ], 
     "10704": [
         "Arellano Felix"
-    ], 
-    "22997": [
-        "Badiraguato", 
-        "Culiacan"
     ], 
     "20950": [
         "Jimenez Mota"
@@ -953,7 +744,6 @@
         "Jimenez Mota"
     ], 
     "23005": [
-        "Sinaloa", 
         "Josefina", 
         "Jesus"
     ], 
@@ -965,8 +755,7 @@
         "Meza"
     ], 
     "483": [
-        "Chapo", 
-        "Sinaloa"
+        "Chapo"
     ], 
     "4581": [
         "Neto Fonseca"
@@ -998,17 +787,8 @@
         "Carrillo Fuentes", 
         "Garcia Abrego"
     ], 
-    "10737": [
-        "Arizona", 
-        "Sonora"
-    ], 
     "8691": [
-        "Durango", 
         "Roberto Tapia"
-    ], 
-    "4596": [
-        "Medellin", 
-        "Cali"
     ], 
     "10743": [
         "Chapo", 
@@ -1029,7 +809,7 @@
         "Reding"
     ], 
     "22272": [
-        "Clouthier Carillo"
+        "Clouthier Carrillo"
     ], 
     "10754": [
         "Chapo", 
@@ -1039,7 +819,6 @@
         "Sergio Gomez"
     ], 
     "20567": [
-        "Sinaloa", 
         "Chapo", 
         "Mayo"
     ], 
@@ -1065,16 +844,7 @@
     "25109": [
         "Monica Hernandez"
     ], 
-    "24769": [
-        "Armas Tabaco", 
-        "Armas"
-    ], 
-    "537": [
-        "Chihuahua", 
-        "Sinaloa"
-    ], 
     "23070": [
-        "Angeles", 
         "Gutierrez"
     ], 
     "1797": [
@@ -1104,19 +874,7 @@
         "Tello Peon"
     ], 
     "4652": [
-        "G\u00fcero Palma Salazar"
-    ], 
-    "8626": [
-        "Pueblo", 
-        "Badiraguato"
-    ], 
-    "23091": [
-        "Sinaloa", 
-        "Durango"
-    ], 
-    "8759": [
-        "Sombra", 
-        "Badiraguato"
+        "Palma Salazar"
     ], 
     "14772": [
         "Emma Coronel Aispuro"
@@ -1144,33 +902,20 @@
         "Miguel Aleman"
     ], 
     "23110": [
-        "Loera", 
-        "Hidalgo"
-    ], 
-    "2633": [
-        "Puente Grande"
+        "Loera"
     ], 
     "25015": [
-        "Habana", 
         "Gustavo Castillo"
     ], 
     "23116": [
         "Juan Velediaz"
     ], 
     "14093": [
-        "Cuando", 
         "Edgar"
-    ], 
-    "11704": [
-        "California", 
-        "Texas"
     ], 
     "10834": [
         "Mayo", 
         "Beltran Leyva"
-    ], 
-    "2648": [
-        "Puente Grande"
     ], 
     "19036": [
         "Beltran Leyva"
@@ -1192,7 +937,6 @@
         "Bertha Fernandez"
     ], 
     "4712": [
-        "Sinaloa", 
         "Leopoldo"
     ], 
     "4713": [
@@ -1205,36 +949,20 @@
         "Juan Jesus Posadas Ocampo"
     ], 
     "23150": [
-        "Loera", 
-        "Hidalgo"
+        "Loera"
     ], 
     "19057": [
-        "Cuando", 
         "Beltran"
     ], 
     "19058": [
         "Leyva", 
         "Chapo"
     ], 
-    "2678": [
-        "Juarez", 
-        "Mexico"
-    ], 
     "2679": [
-        "Cuando", 
         "Chapo"
-    ], 
-    "19065": [
-        "Juarez", 
-        "Culiacan"
-    ], 
-    "21114": [
-        "Durango", 
-        "Angeles"
     ], 
     "17020": [
         "Bush", 
-        "Mexico"
     ], 
     "17023": [
         "Alvaro Uribe"
@@ -1268,9 +996,6 @@
     "15469": [
         "Felipe Diaz Garibay"
     ], 
-    "2706": [
-        "Puente Grande"
-    ], 
     "14105": [
         "Chapo", 
         "Sofia Guzman"
@@ -1290,7 +1015,6 @@
         "Javier Valdez"
     ], 
     "6819": [
-        "Puente Grande", 
         "Chapo"
     ], 
     "19110": [
@@ -1309,15 +1033,10 @@
     ], 
     "686": [
         "Chapo", 
-        "Juarez"
     ], 
     "14071": [
         "Chapo", 
         "Mayo"
-    ], 
-    "4790": [
-        "Medellin", 
-        "Mexico"
     ], 
     "4791": [
         "Pablo Escobar"
@@ -1330,15 +1049,10 @@
         "Chapo"
     ], 
     "19131": [
-        "Culiacan", 
         "Chapo"
     ], 
     "23687": [
         "Ricardo Ravelo"
-    ], 
-    "15038": [
-        "Laredo", 
-        "Badiraguato"
     ], 
     "22596": [
         "Nestor Ojeda"
@@ -1355,34 +1069,17 @@
     "21622": [
         "Alicia Calderon"
     ], 
-    "19146": [
-        "Quintana", 
-        "Jalisco", 
-        "Sinaloa"
-    ], 
     "22801": [
         "Jorge Ramos Perez"
     ], 
     "13090": [
         "Victor Gerardo"
     ], 
-    "4815": [
-        "Mexico", 
-        "Padrino"
-    ], 
     "24847": [
-        "Sinaloa", 
         "Gustavo"
     ], 
     "721": [
-        "Carlos", 
-        "Badiraguato"
-    ], 
-    "19154": [
-        "Puente Grande"
-    ], 
-    "13012": [
-        "Hong Kong"
+        "Carlos"
     ], 
     "13014": [
         "Antonio", 
@@ -1406,12 +1103,7 @@
         "Luis", 
         "Fernandez"
     ], 
-    "15075": [
-        "Quintas", 
-        "Culiacan"
-    ], 
     "10981": [
-        "Como", 
         "Chapo", 
         "Garcia Abrego"
     ], 
@@ -1422,19 +1114,11 @@
     "2791": [
         "Tello Peon"
     ], 
-    "8936": [
-        "Capo", 
-        "Se\u00f1or"
-    ], 
     "10364": [
         "Carrillo Fuentes"
     ], 
     "16869": [
         "Medina Mora"
-    ], 
-    "751": [
-        "Culiacan", 
-        "Badiraguato"
     ], 
     "21233": [
         "Sandoval Alcazar"
@@ -1456,16 +1140,16 @@
         "Chapo Guzman"
     ], 
     "21239": [
-        "Sinaloa Juan"
+        "Juan"
     ], 
     "21240": [
         "Jose Rios Estavillo"
     ], 
     "21241": [
-        "Badiraguato Martin Meza Ortiz"
+        "Martin Meza Ortiz"
     ], 
     "11002": [
-        "Padrino Felix Gallardo"
+        "Felix Gallardo"
     ], 
     "6271": [
         "Carlos Salinas", 
@@ -1474,13 +1158,6 @@
     "11004": [
         "Chapo", 
         "Arellano Felix"
-    ], 
-    "2813": [
-        "Puente Grande"
-    ], 
-    "19199": [
-        "Durango", 
-        "Sinaloa"
     ], 
     "21250": [
         "Amaral", 
@@ -1513,8 +1190,7 @@
         "Medina Mora"
     ], 
     "4880": [
-        "Chapo", 
-        "Padrino"
+        "Chapo"
     ], 
     "24024": [
         "Carlos Aviles"
@@ -1540,9 +1216,6 @@
     "11036": [
         "Garcia Abrego"
     ], 
-    "2850": [
-        "Puente Grande"
-    ], 
     "13092": [
         "Garcia Luna"
     ], 
@@ -1551,7 +1224,7 @@
         "Mayo"
     ], 
     "2854": [
-        "G\u00fcero Palma"
+        "Palma"
     ], 
     "11279": [
         "Guzman Decena"
@@ -1576,12 +1249,7 @@
         "Isaac Gastellum Rocher"
     ], 
     "11400": [
-        "Chapo", 
-        "Nuevo"
-    ], 
-    "15154": [
-        "Cuando", 
-        "Nuevo"
+        "Chapo"
     ], 
     "13108": [
         "Arellano Felix"
@@ -1599,9 +1267,6 @@
     ], 
     "11067": [
         "Garcia Abrego"
-    ], 
-    "2879": [
-        "Puente Grande"
     ], 
     "11075": [
         "Cardenas Guillen"
@@ -1627,8 +1292,7 @@
         "Francisco Candido"
     ], 
     "20963": [
-        "Chapo", 
-        "Nogales"
+        "Chapo"
     ], 
     "2901": [
         "Tello Peon"
@@ -1648,10 +1312,6 @@
     ], 
     "9701": [
         "Carrillo Fuentes"
-    ], 
-    "11109": [
-        "Cuando", 
-        "Mexico"
     ], 
     "11409": [
         "Santos Degollado"
@@ -1685,10 +1345,6 @@
     "23359": [
         "Francisco Gomez"
     ], 
-    "12778": [
-        "Cuando", 
-        "Mexico"
-    ], 
     "19326": [
         "Emma Coronel"
     ], 
@@ -1702,15 +1358,11 @@
     "2954": [
         "Tello Peon"
     ], 
-    "18583": [
-        "Nuevo Laredo"
-    ], 
     "13805": [
         "Ivan Archivaldo"
     ], 
     "15171": [
-        "Chapo", 
-        "Guanajuato"
+        "Chapo"
     ], 
     "7060": [
         "Jose Luis Garcia Puga"
@@ -1723,13 +1375,6 @@
         "Jose", 
         "Landell"
     ], 
-    "15259": [
-        "Cuando", 
-        "Forbes"
-    ], 
-    "17309": [
-        "Nuevo Mexico"
-    ], 
     "927": [
         "Meza Ortiz"
     ], 
@@ -1737,8 +1382,7 @@
         "Beltran Leyva"
     ], 
     "2979": [
-        "Chapo", 
-        "Federal"
+        "Chapo"
     ], 
     "16466": [
         "Diaz Reyes"
@@ -1788,8 +1432,7 @@
         "Arturo Cano"
     ], 
     "23371": [
-        "Hernandez", 
-        "Puente Grande"
+        "Hernandez"
     ], 
     "14353": [
         "Carrillo Leyva"
@@ -1802,7 +1445,6 @@
         "Medina Mora"
     ], 
     "17354": [
-        "Arizona", 
         "Luna"
     ], 
     "13260": [
@@ -1810,11 +1452,7 @@
         "Ramirez"
     ], 
     "15649": [
-        "Juan Nuevo"
-    ], 
-    "5071": [
-        "Mexico", 
-        "Arizona"
+        "Juan"
     ], 
     "3024": [
         "Tello Peon"
@@ -1823,8 +1461,7 @@
         "Garcia Puga"
     ], 
     "15318": [
-        "Josue Felix", 
-        "Padrino"
+        "Josue Felix"
     ], 
     "15319": [
         "Felix Gallardo"
@@ -1836,10 +1473,6 @@
         "Maximiliano Coronel", 
         "Razo"
     ], 
-    "3042": [
-        "Reynosa", 
-        "Puebla"
-    ], 
     "11235": [
         "Chapo", 
         "Beltran Leyva"
@@ -1848,8 +1481,7 @@
         "Silvia Otero"
     ], 
     "19431": [
-        "Chapo", 
-        "Sinaloa"
+        "Chapo"
     ], 
     "3048": [
         "Esteban Quintero Mariscal"
@@ -1885,8 +1517,7 @@
         "Claudia Beltran"
     ], 
     "15354": [
-        "Chapo", 
-        "Forbes"
+        "Chapo"
     ], 
     "7164": [
         "Isidro", 
@@ -1897,22 +1528,17 @@
         "Mayo"
     ], 
     "19454": [
-        "Cuando", 
         "Beltran"
     ], 
     "21333": [
-        "Gracias", 
         "Richard"
     ], 
     "9216": [
-        "G\u00fcero Palma Salazar", 
+        "Palma Salazar", 
         "Guadalupe"
     ], 
     "20970": [
         "Alejandro Fonseca"
-    ], 
-    "11266": [
-        "Nuevo Laredo"
     ], 
     "21507": [
         "Luis Astorga"
@@ -1922,11 +1548,6 @@
     ], 
     "22358": [
         "Osorno", 
-        "Sinaloa"
-    ], 
-    "11270": [
-        "Reynosa", 
-        "Matamoros"
     ], 
     "11271": [
         "Garcia Abrego"
@@ -1934,19 +1555,11 @@
     "11272": [
         "Cardenas Guillen"
     ], 
-    "17417": [
-        "Antonio", 
-        "Texas"
-    ], 
     "23289": [
         "Zambada Garcia"
     ], 
     "9229": [
-        "G\u00fcero", 
-        "Culiacan"
-    ], 
-    "4269": [
-        "Segunda Guerra"
+        "G\u00fcero"
     ], 
     "11281": [
         "Heriberto Lazcano"
@@ -1956,7 +1569,6 @@
         "Cardenas Guillen"
     ], 
     "21529": [
-        "Puente", 
         "Victor"
     ], 
     "21530": [
@@ -1995,10 +1607,6 @@
     "11307": [
         "Cardenas Guillen"
     ], 
-    "15407": [
-        "Guerrero", 
-        "Chihuahua"
-    ], 
     "23600": [
         "Jordan", 
         "Sullivan"
@@ -2013,13 +1621,8 @@
     "22366": [
         "Miguel Angel"
     ], 
-    "23607": [
-        "Reynosa", 
-        "Matamoros", 
-        "York"
-    ], 
     "21562": [
-        "Alejandro Medellin"
+        "Alejandro"
     ], 
     "22367": [
         "Felix Gallardo"
@@ -2049,9 +1652,6 @@
         "Francisco", 
         "Madero"
     ], 
-    "5194": [
-        "Triangulo Dorado"
-    ], 
     "22200": [
         "Astorga", 
         "Amaral", 
@@ -2063,11 +1663,7 @@
     "1107": [
         "Custodio Jaime Sanchez Flores"
     ], 
-    "1109": [
-        "Puente Grande"
-    ], 
     "21590": [
-        "Guarneros", 
         "Alejandro Torres"
     ], 
     "11352": [
@@ -2081,33 +1677,22 @@
     "21597": [
         "Jorge Alejandro"
     ], 
-    "13406": [
-        "Juarez", 
-        "Culiacan"
-    ], 
     "15455": [
-        "Cuando", 
         "Chapo"
     ], 
     "21600": [
         "Miguel Badillo"
     ], 
     "7265": [
-        "Oaxaca", 
         "Pedro Diaz Parada"
     ], 
     "21587": [
-        "Alejandro Medellin"
-    ], 
-    "21603": [
-        "Puente", 
-        "Arroyo"
+        "Alejandro"
     ], 
     "21604": [
         "Antonio Navarrete"
     ], 
     "13413": [
-        "Juarez", 
         "Jaime Alberto Torres"
     ], 
     "7270": [
@@ -2126,11 +1711,7 @@
         "Guzman Loera"
     ], 
     "1133": [
-        "Chapo", 
-        "Puente"
-    ], 
-    "3182": [
-        "Puente Grande"
+        "Chapo"
     ], 
     "7279": [
         "Diaz Parada"
@@ -2146,9 +1727,6 @@
     ], 
     "1141": [
         "Tello Peon"
-    ], 
-    "19574": [
-        "Puente Grande"
     ], 
     "23671": [
         "Coronel Villarreal"
@@ -2182,12 +1760,8 @@
     "11116": [
         "Cardenas Guillen"
     ], 
-    "3210": [
-        "Puente Grande"
-    ], 
     "20770": [
-        "Josue Felix", 
-        "Padrino"
+        "Josue Felix"
     ], 
     "23692": [
         "Rodolfo", 
@@ -2197,24 +1771,19 @@
         "Alba Alvarez"
     ], 
     "7313": [
-        "Parada", 
-        "Oaxaca"
+        "Parada"
     ], 
     "23699": [
         "Rodolfo Carrillo"
     ], 
     "21652": [
-        "Chapo", 
-        "Puente Grande"
+        "Chapo"
     ], 
     "21655": [
         "Ricardo Ravelo"
     ], 
     "21657": [
         "Diego Enrique Osorno"
-    ], 
-    "18925": [
-        "Martha Acatitla"
     ], 
     "23021": [
         "Martin Amaral"
@@ -2231,10 +1800,6 @@
     "21673": [
         "Francisco Gomez"
     ], 
-    "5291": [
-        "Mexico", 
-        "Casa"
-    ], 
     "7341": [
         "G\u00fcero", 
         "Mayo"
@@ -2246,12 +1811,6 @@
     "12656": [
         "Miguel Angel Felix Gallardo"
     ], 
-    "11443": [
-        "Nuevo Laredo"
-    ], 
-    "15541": [
-        "Lazaro Cardenas"
-    ], 
     "24777": [
         "Long", 
         "Genaro"
@@ -2260,11 +1819,7 @@
         "Martinez Zepeda"
     ], 
     "23741": [
-        "Medellin", 
         "Javier Cabrera"
-    ], 
-    "1214": [
-        "Puente Grande"
     ], 
     "23746": [
         "Chapo", 
@@ -2278,9 +1833,6 @@
     ], 
     "18977": [
         "Garcia Luna"
-    ], 
-    "11464": [
-        "Nuevo Laredo"
     ], 
     "21706": [
         "Francisco Gomez"
@@ -2308,22 +1860,17 @@
     ], 
     "5348": [
         "Quintero", 
-        "Padrino Felix Gallardo"
+        "Felix Gallardo"
     ], 
     "5349": [
         "Neto Fonseca"
     ], 
     "10449": [
-        "Carrillo Fuentes", 
-        "Se\u00f1or"
+        "Carrillo Fuentes"
     ], 
     "21744": [
         "David", 
         "Jose"
-    ], 
-    "7409": [
-        "Arizona", 
-        "California"
     ], 
     "11908": [
         "Vaca Hernandez"
@@ -2363,7 +1910,6 @@
         "Juan Jose Esparragosa"
     ], 
     "19719": [
-        "Culiacan", 
         "Benjamin"
     ], 
     "19720": [
@@ -2385,10 +1931,6 @@
     "23832": [
         "Garcia Luna"
     ], 
-    "7449": [
-        "Colorado", 
-        "Sinaloa"
-    ], 
     "15642": [
         "Ignacio Murillo"
     ], 
@@ -2406,10 +1948,6 @@
     "5409": [
         "Caro Quintero"
     ], 
-    "24935": [
-        "Juarez", 
-        "Culiacan"
-    ], 
     "22821": [
         "Nestor Ojeda"
     ], 
@@ -2420,21 +1958,14 @@
     "13608": [
         "Gonzalez Ruiz"
     ], 
-    "1324": [
-        "Monte Carlo"
-    ], 
     "9517": [
         "Gutierrez Rebollo"
     ], 
     "13614": [
-        "Federal Millan Gomez"
+        "Millan Gomez"
     ], 
     "19762": [
         "Roberto Beltran Burgos"
-    ], 
-    "25139": [
-        "Culiacan", 
-        "Juarez"
     ], 
     "23861": [
         "Medina", 
@@ -2449,10 +1980,6 @@
     "24116": [
         "Vicente Carrillo"
     ], 
-    "3388": [
-        "Badiraguato", 
-        "Sinaloa"
-    ], 
     "11146": [
         "Cardenas Guillen"
     ], 
@@ -2460,26 +1987,10 @@
         "Jorge Carrasco"
     ], 
     "9536": [
-        "Sandoval", 
-        "Sinaloa"
+        "Sandoval"
     ], 
     "22822": [
         "Ramon Arellano Felix"
-    ], 
-    "7492": [
-        "Colorado", 
-        "Agua"
-    ], 
-    "19783": [
-        "Puente Grande"
-    ], 
-    "23881": [
-        "Juarez", 
-        "Culiacan"
-    ], 
-    "23884": [
-        "Angeles", 
-        "Mexico"
     ], 
     "21837": [
         "Francisco Gomez"
@@ -2495,14 +2006,9 @@
         "Joaquin Archivaldo Guzman Loera"
     ], 
     "1363": [
-        "Guadalajara", 
         "Chapo"
     ], 
-    "17749": [
-        "Nueva York"
-    ], 
     "1368": [
-        "Cuando", 
         "Chapo"
     ], 
     "17756": [
@@ -2523,10 +2029,6 @@
         "Chapo", 
         "Mayo"
     ], 
-    "7526": [
-        "California", 
-        "Nueva"
-    ], 
     "3431": [
         "Chapo", 
         "Emilio"
@@ -2538,16 +2040,9 @@
         "Arellano Felix"
     ], 
     "14567": [
-        "Edgar", 
-        "Culiacan"
-    ], 
-    "19820": [
-        "Matamoros", 
-        "Juarez", 
-        "Culiacan"
+        "Edgar"
     ], 
     "21869": [
-        "Puente", 
         "Victor"
     ], 
     "21870": [
@@ -2577,8 +2072,7 @@
         "Ricardo Ravelo"
     ], 
     "7544": [
-        "Douglas", 
-        "Arizona"
+        "Douglas"
     ], 
     "5498": [
         "Rafael Caro"
@@ -2611,8 +2105,7 @@
         "Emilio"
     ], 
     "19851": [
-        "Chapo", 
-        "Puente"
+        "Chapo"
     ], 
     "21901": [
         "Pablo Cesar Carrillo"
@@ -2624,21 +2117,13 @@
         "Tello Peon"
     ], 
     "5521": [
-        "Neto", 
-        "Padrino"
+        "Neto"
     ], 
     "21908": [
-        "Jorge Medellin"
-    ], 
-    "5527": [
-        "Mexico", 
-        "Matamoros"
+        "Jorge"
     ], 
     "5528": [
         "Juan Garcia Abrego"
-    ], 
-    "1433": [
-        "Puente Grande"
     ], 
     "19866": [
         "Tello Peon"
@@ -2660,8 +2145,7 @@
         "Palma Salazar"
     ], 
     "7592": [
-        "Chapo", 
-        "Agua"
+        "Chapo"
     ], 
     "24135": [
         "Medina Mora"
@@ -2669,10 +2153,6 @@
     "17836": [
         "Chapo", 
         "Beltran Leyva"
-    ], 
-    "5550": [
-        "Arizona", 
-        "California"
     ], 
     "9648": [
         "Fernando Guzman"
@@ -2683,24 +2163,18 @@
     "9656": [
         "Rolando Eugenio Hidalgo"
     ], 
-    "3516": [
-        "Culiacan", 
-        "Badiraguato"
-    ], 
     "5565": [
         "Guillermo", 
         "Calderoni"
     ], 
     "9663": [
-        "Culiacan", 
-        "Hidalgo Eddy"
+        "Eddy"
     ], 
     "24002": [
-        "Arturo", 
-        "Doce"
+        "Arturo"
     ], 
     "21955": [
-        "Jorge Medellin"
+        "Jorge"
     ], 
     "24005": [
         "Arturo Beltran"
@@ -2711,10 +2185,6 @@
     ], 
     "24007": [
         "Arturo Beltran"
-    ], 
-    "21960": [
-        "Puente", 
-        "Arroyo"
     ], 
     "21961": [
         "Antonio Navarrete"
@@ -2728,23 +2198,13 @@
     "15823": [
         "Espinosa Pina"
     ], 
-    "17876": [
-        "Hermosillo", 
-        "Juarez"
-    ], 
     "5589": [
         "Garcia Abrego"
-    ], 
-    "17880": [
-        "Monterrey", 
-        "Matamoros", 
-        "Nuevo"
     ], 
     "10961": [
         "Juan Garcia Abrego"
     ], 
     "14780": [
-        "Culiacan", 
         "Emma"
     ], 
     "7644": [
@@ -2762,12 +2222,10 @@
         "Corona Verbera"
     ], 
     "3557": [
-        "Sinaloa", 
         "Aaron Irizar"
     ], 
     "3558": [
-        "Lopez", 
-        "Culiacan"
+        "Lopez"
     ], 
     "5608": [
         "Arellano Felix"
@@ -2778,10 +2236,7 @@
     ], 
     "13804": [
         "Chapito Guzman"
-    ], 
-    "9709": [
-        "Puente Grande"
-    ], 
+    ],
     "11761": [
         "Chapo", 
         "Mayo"
@@ -2802,16 +2257,11 @@
         "Edgar Valdez"
     ], 
     "13818": [
-        "Rancho", 
         "Jesus Maria"
     ], 
     "23807": [
         "Edgar", 
         "Maria"
-    ], 
-    "11772": [
-        "Sinaloa", 
-        "Durango"
     ], 
     "13822": [
         "Roberto Tapia"
@@ -2836,9 +2286,6 @@
     ], 
     "24071": [
         "Luis Astorga"
-    ], 
-    "1547": [
-        "Puente Grande"
     ], 
     "19980": [
         "Cardenas Palazuelos"
@@ -2870,22 +2317,16 @@
     "19997": [
         "Felix Gallardo"
     ], 
-    "17951": [
-        "Nueva York"
-    ], 
     "1568": [
-        "Chapo", 
-        "Sinaloa"
+        "Chapo"
     ], 
     "22054": [
-        "Mexico", 
         "Peon"
     ], 
     "22055": [
         "Ricardo Aleman"
     ], 
     "11817": [
-        "Monterrey", 
         "Mayo", 
         "Azul"
     ], 
@@ -2894,10 +2335,6 @@
     ], 
     "11819": [
         "Beltran Leyva"
-    ], 
-    "13869": [
-        "Como", 
-        "Mexico"
     ], 
     "11822": [
         "Carrillo Fuentes"
@@ -2913,7 +2350,7 @@
         "Ricardo Ravelo"
     ], 
     "20062": [
-        "G\u00fcero Palma Salazar"
+        "Palma Salazar"
     ], 
     "11830": [
         "Carrillo Fuentes"
@@ -2929,19 +2366,16 @@
         "Amado Carrillo"
     ], 
     "11836": [
-        "Juarez", 
         "Mayo"
     ], 
     "24126": [
         "Antonio Baranda"
     ], 
     "7743": [
-        "Quiza", 
         "Chapo"
     ], 
     "11840": [
-        "Chapo", 
-        "Juarez"
+        "Chapo"
     ], 
     "17784": [
         "Pedro", 
@@ -2958,7 +2392,7 @@
         "Chapo Guzman"
     ], 
     "9800": [
-        "Hidalgo Eddy"
+        "Eddy"
     ], 
     "22089": [
         "Astorga", 
@@ -2970,18 +2404,14 @@
     "24145": [
         "Joaquin Guzman Loera"
     ], 
-    "1619": [
-        "Puente Grande"
-    ], 
     "13908": [
-        "Chapo", 
-        "Puente Grande"
+        "Chapo"
     ], 
     "5717": [
         "Arellano Felix"
     ], 
     "24150": [
-        "Vicente Zambada Niebla", 
+        "Vicente Zambada", 
         "Alfredo"
     ], 
     "20055": [
@@ -2991,15 +2421,13 @@
         "Meza Ortiz"
     ], 
     "20059": [
-        "Mexico", 
         "Miguel"
     ], 
     "13917": [
         "Alfredo Beltran Leyva"
     ], 
     "3678": [
-        "Chapo", 
-        "Sinaloa"
+        "Chapo"
     ], 
     "24159": [
         "Alfredo Mendez"
@@ -3008,8 +2436,7 @@
         "Arellano Felix"
     ], 
     "5729": [
-        "Gonzalez", 
-        "Partido"
+        "Gonzalez"
     ], 
     "13923": [
         "Mochomo", 
@@ -3027,26 +2454,15 @@
     "22120": [
         "Aaron Irizar"
     ], 
-    "1642": [
-        "Puente Grande"
-    ], 
     "20071": [
         "Javier", 
         "Guardia"
-    ], 
-    "18029": [
-        "Guatemala", 
-        "Panama"
     ], 
     "1648": [
         "Luis Palma Salazar"
     ], 
     "17000": [
-        "Casa Blanca", 
         "Bush"
-    ], 
-    "1652": [
-        "Puente Grande"
     ], 
     "9846": [
         "Maria Consuelo Loera"
@@ -3059,9 +2475,6 @@
         "Eddy", 
         "Chapo"
     ], 
-    "5754": [
-        "Agua Caliente"
-    ], 
     "11899": [
         "Vicente Carrillo"
     ], 
@@ -3073,12 +2486,8 @@
         "Vicente"
     ], 
     "24193": [
-        "Zambada Niebla", 
+        "Zambada       ", 
         "Alfredo Guzman"
-    ], 
-    "22146": [
-        "Sinaloa", 
-        "Mexico"
     ], 
     "9860": [
         "Eddy", 
@@ -3122,21 +2531,16 @@
         "Arellano Felix"
     ], 
     "11925": [
-        "Nuevo", 
         "Arturo"
     ], 
     "11926": [
         "Guzman Loera", 
         "Chapo"
     ], 
-    "1688": [
-        "Puente Grande"
-    ], 
     "20126": [
         "Juan Garcia"
     ], 
     "9888": [
-        "Sinaloa", 
         "Leyva"
     ], 
     "11937": [
@@ -3153,9 +2557,6 @@
     "24231": [
         "Guadalupe Martinez"
     ], 
-    "5802": [
-        "Agua Caliente"
-    ], 
     "3756": [
         "Pedro Aviles Perez"
     ], 
@@ -3170,8 +2571,7 @@
         "Aviles Perez"
     ], 
     "22425": [
-        "Victor Alfaro Clark", 
-        "Guardian"
+        "Victor Alfaro Clark"
     ], 
     "24241": [
         "Patricia Davila"
@@ -3195,15 +2595,14 @@
         "Pablo Cesar Carrillo"
     ], 
     "9917": [
-        "Hidalgo Eddy"
+        "Eddy"
     ], 
     "14014": [
         "Chapo", 
         "Beltran Leyva"
     ], 
     "7872": [
-        "Chapo", 
-        "Culiacan"
+        "Chapo"
     ], 
     "22210": [
         "Dana Adams Schmidt"
@@ -3213,7 +2612,6 @@
         "Vicente Carrillo Leyva"
     ], 
     "16068": [
-        "Guatemala", 
         "Alvaro"
     ], 
     "11974": [
@@ -3226,12 +2624,6 @@
     "7881": [
         "Francisco", 
         "Ramon"
-    ], 
-    "7882": [
-        "Puerto Vallarta"
-    ], 
-    "14027": [
-        "Puente Grande"
     ], 
     "20172": [
         "Zambada Reyes"
@@ -3250,13 +2642,6 @@
         "Ravelo", 
         "Ricardo"
     ], 
-    "18539": [
-        "Nueva York", 
-        "Mexico"
-    ], 
-    "1751": [
-        "Puente Grande"
-    ], 
     "22820": [
         "Arellano Felix"
     ], 
@@ -3268,10 +2653,6 @@
     "975": [
         "Meza Ortiz"
     ], 
-    "12581": [
-        "Nogales", 
-        "Arizona"
-    ], 
     "24289": [
         "Antonio", 
         "Chapo"
@@ -3282,9 +2663,6 @@
     ], 
     "14630": [
         "Beltran Leyva"
-    ], 
-    "14054": [
-        "Puente Grande"
     ], 
     "24295": [
         "David", 
@@ -3318,11 +2696,9 @@
         "Arellano Felix"
     ], 
     "14069": [
-        "Guadalupe", 
-        "Culiacan"
+        "Guadalupe"
     ], 
     "24310": [
-        "Guardian", 
         "Chapo"
     ], 
     "10537": [
@@ -3335,9 +2711,6 @@
     "7934": [
         "Arellano Felix"
     ], 
-    "1791": [
-        "Puente Grande"
-    ], 
     "5888": [
         "Arellano Felix"
     ], 
@@ -3345,7 +2718,6 @@
         "Alberto Velazquez"
     ], 
     "1794": [
-        "Cuando", 
         "Chapo"
     ], 
     "24323": [
@@ -3358,7 +2730,6 @@
         "Rios Peralta"
     ], 
     "14088": [
-        "Cuando", 
         "Chapo"
     ], 
     "3849": [
@@ -3372,8 +2743,7 @@
         "Felipe Diaz"
     ], 
     "3853": [
-        "Miguel", 
-        "Culiacan"
+        "Miguel"
     ], 
     "24334": [
         "Felipe Diaz Garibay"
@@ -3391,23 +2761,14 @@
         "Arellano Felix"
     ], 
     "3865": [
-        "Miguel", 
-        "Culiacan"
+        "Miguel"
     ], 
     "7963": [
         "Chapo", 
         "Javier"
     ], 
     "3870": [
-        "Sinaloa", 
         "Leyva"
-    ], 
-    "20255": [
-        "Nogales", 
-        "Sonora"
-    ], 
-    "7971": [
-        "Puerto Vallarta"
     ], 
     "24362": [
         "Long", 
@@ -3422,9 +2783,6 @@
     "7993": [
         "Posadas Ocampo"
     ], 
-    "1854": [
-        "Puente Grande"
-    ], 
     "8002": [
         "Javier Arellano"
     ], 
@@ -3437,11 +2795,6 @@
     ], 
     "14153": [
         "Arellano Felix"
-    ], 
-    "18250": [
-        "Europa", 
-        "Africa"
-    ], 
     "19767": [
         "Israel Sanchez"
     ], 
@@ -3473,9 +2826,6 @@
     "8027": [
         "Benjamin Arellano Felix"
     ], 
-    "1884": [
-        "Puente Grande"
-    ], 
     "20318": [
         "Pancho Villa"
     ], 
@@ -3483,8 +2833,7 @@
         "Luis Astorga"
     ], 
     "3938": [
-        "Miguel", 
-        "Culiacan"
+        "Miguel"
     ], 
     "22371": [
         "Ramos", 
@@ -3492,10 +2841,6 @@
     ], 
     "22372": [
         "Victor Clark Alfaro"
-    ], 
-    "14310": [
-        "Lomas", 
-        "Mexico"
     ], 
     "12135": [
         "Jose Luis Santiago"
@@ -3514,10 +2859,6 @@
     "23045": [
         "Cayetano Osuna"
     ], 
-    "20333": [
-        "Culiacan", 
-        "Juarez"
-    ], 
     "6269": [
         "Raul Salinas", 
         "Gortari"
@@ -3532,14 +2873,8 @@
     "12265": [
         "Genaro Garcia Luna"
     ], 
-    "14202": [
-        "Nueva York"
-    ], 
-    "12155": [
-        "Alto Comandante"
-    ], 
     "12156": [
-        "Federal Edgar Millan Gomez"
+        "Edgar Millan Gomez"
     ], 
     "8061": [
         "Arellano Felix"
@@ -3577,8 +2912,7 @@
         "Valentin Diaz Reyes"
     ], 
     "20371": [
-        "Quijano", 
-        "Norte"
+        "Quijano"
     ], 
     "12408": [
         "Garcia Luna"
@@ -3593,10 +2927,6 @@
     "14238": [
         "Archivaldo", 
         "Chapito"
-    ], 
-    "24329": [
-        "Sinaloa", 
-        "Durango"
     ], 
     "20390": [
         "Carlos Ricardo Romo"
@@ -3616,22 +2946,14 @@
     "12205": [
         "Millan Gomez"
     ], 
-    "6062": [
-        "Agua Caliente"
-    ], 
     "4015": [
         "Ortiz Maldonado"
-    ], 
-    "4017": [
-        "Miguel", 
-        "Culiacan"
     ], 
     "12210": [
         "Chapo", 
         "Beltran Leyva"
     ], 
     "10365": [
-        "Se\u00f1or", 
         "Cielos"
     ], 
     "23854": [
@@ -3647,59 +2969,29 @@
     "25071": [
         "Ruben Aguilar Valenzuela"
     ], 
-    "1985": [
-        "Puente Grande"
-    ], 
     "12227": [
         "Millan Gomez"
     ], 
     "8137": [
         "Jorge Ramos Perez"
     ], 
-    "20525": [
-        "Durango", 
-        "Sinaloa"
-    ], 
-    "15352": [
-        "Sinaloa", 
-        "Durango"
-    ], 
-    "18386": [
-        "Marina", 
-        "Mexico"
-    ], 
-    "22162": [
-        "Colegio", 
-        "Mexico"
-    ], 
     "16343": [
         "Diaz Reyes"
     ], 
     "22494": [
-        "Dillon", 
-        "York"
-    ], 
-    "24809": [
-        "Bajo", 
-        "Mexico"
+        "Dillon"
     ], 
     "14306": [
         "Vicente Carrillo Leyva"
-    ], 
-    "18403": [
-        "Marina", 
-        "Guardia"
     ], 
     "14308": [
         "Carrillo Fuentes", 
         "Se\u00f1or"
     ], 
     "14309": [
-        "Cielos", 
-        "Bosques"
+        "Cielos"
     ], 
     "6118": [
-        "Se\u00f1or", 
         "Cielos"
     ], 
     "14312": [
@@ -3709,14 +3001,12 @@
         "Amado Carrillo Fuentes"
     ], 
     "8172": [
-        "Pablo Escobar", 
-        "Medellin"
+        "Pablo Escobar"
     ], 
     "6127": [
         "Neto Fonseca"
     ], 
     "6129": [
-        "Cuando", 
         "Carrillo"
     ], 
     "22514": [
