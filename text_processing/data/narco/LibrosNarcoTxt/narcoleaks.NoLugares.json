@@ -121,10 +121,6 @@
     "4172": [
         "Calderon"
     ],
-    "4173": [
-        "Virgen",
-        "Guadalupe"
-    ],
     "4176": [
         "Calderon",
         "Josefina Vazquez Mota",
@@ -235,10 +231,6 @@
         "Avelino Vazquez Ruiz",
         "Arellano Felix"
     ],
-    "4242": [
-        "Virgen",
-        "Guadalupe"
-    ],
     "147": [
         "Calderon",
         "Efrain Gonzalez Morfin"
@@ -261,8 +253,7 @@
         "Garza"
     ],
     "159": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "166": [
         "German Martinez",
@@ -276,8 +267,7 @@
     ],
     "4272": [
         "Bill",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "178": [
         "Garza"
@@ -290,8 +280,7 @@
         "Francisco"
     ],
     "4283": [
-        "George",
-        "Bush",
+        "George Bush",
         "Senado"
     ],
     "188": [
@@ -350,8 +339,7 @@
         "Calderon"
     ],
     "2258": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "2261": [
         "Jacobson"
@@ -479,7 +467,6 @@
         "Millan"
     ],
     "268": [
-        "Debo",
         "Calderon"
     ],
     "2317": [
@@ -490,8 +477,7 @@
         "Lopez Obrador"
     ],
     "2324": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "278": [
         "Ante",
@@ -716,9 +702,6 @@
     "376": [
         "Arellano Felix"
     ],
-    "4474": [
-        "Creo"
-    ],
     "2430": [
         "Felipe Calderon"
     ],
@@ -907,8 +890,7 @@
         "Calderon"
     ],
     "475": [
-        "Carlos Salinas",
-        "Gortari"
+        "Carlos Salinas de Gortari
     ],
     "2524": [
         "Calderon",
@@ -985,8 +967,7 @@
         "Ruben Perez"
     ],
     "512": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "2562": [
         "Uribe",
@@ -1000,15 +981,13 @@
         "Rodrigo Aguilar Benignos"
     ],
     "522": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "524": [
         "Andrews"
     ],
     "525": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "2336": [
         "Garcia Luna"
@@ -1027,8 +1006,7 @@
         "Pascual"
     ],
     "537": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "2479": [
         "Calderon"
@@ -1044,8 +1022,7 @@
         "Diaz Ordaz",
         "Echeverria",
         "Lopez Portillo",
-        "Salinas",
-        "Gortari"
+        "Salinas de Gortari
     ],
     "2596": [
         "Calderon",
@@ -1064,8 +1041,7 @@
     ],
     "4650": [
         "Felipe Calderon",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "4652": [
         "Arturo",
@@ -1162,8 +1138,7 @@
         "Pascual"
     ],
     "597": [
-        "George",
-        "Bush",
+        "George Bush",
         "Felipe Calderon"
     ],
     "601": [
@@ -1187,8 +1162,7 @@
         "Rice"
     ],
     "621": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "622": [
         "Laura"
@@ -1277,14 +1251,12 @@
         "Luis Videgaray",
         "Emilio Lozoya Austin",
         "Emilio Lozoya",
-        "Carlos Salinas",
-        "Gortari",
+        "Carlos Salinas de Gortari,
         "Jorge"
     ],
     "4660": [
         "Pascual",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "688": [
         "Chapo Guzman",
@@ -1582,9 +1554,6 @@
         "Bourne",
         "Carter"
     ],
-    "3509": [
-        "Arabia"
-    ],
     "4281": [
         "Bush"
     ],
@@ -1598,8 +1567,6 @@
         "Marshall"
     ],
     "4166": [
-        "Virgen",
-        "Guadalupe",
         "Villa"
     ],
     "959": [
@@ -1767,8 +1734,7 @@
         "Eduardo Ramirez Peyro"
     ],
     "1040": [
-        "George",
-        "Bush",
+        "George Bush",
         "Calderon"
     ],
     "3090": [
@@ -1881,8 +1847,7 @@
         "Calderon"
     ],
     "1102": [
-        "George",
-        "Bush",
+        "George Bush",
         "Calderon"
     ],
     "1105": [
@@ -1926,8 +1891,7 @@
         "Arturo"
     ],
     "2237": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1137": [
         "George Bush"
@@ -2256,8 +2220,7 @@
         "Pascual"
     ],
     "1381": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "3430": [
         "Zambada Niebla"
@@ -2363,8 +2326,7 @@
         "Felipe Calderon"
     ],
     "1437": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "4617": [
         "Jorge",
@@ -2417,9 +2379,6 @@
     "1467": [
         "Cardenas Guillen"
     ],
-    "3519": [
-        "Arabia"
-    ],
     "1474": [
         "Cardenas Guillen"
     ],
@@ -2461,8 +2420,7 @@
     ],
     "1499": [
         "Garza",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1501": [
         "Calderon",
@@ -2503,8 +2461,7 @@
         "Garza"
     ],
     "1521": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1522": [
         "Calderon",
@@ -2523,8 +2480,7 @@
     ],
     "2233": [
         "Mueller",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1530": [
         "Garza",
@@ -2707,8 +2663,7 @@
         "Nieto"
     ],
     "1665": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "3714": [
         "Ford",
@@ -2836,8 +2791,7 @@
         "Pedro Garza"
     ],
     "3021": [
-        "Daniel",
-        "Arabia"
+        "Daniel"
     ],
     "1746": [
         "Pedro Garza"
@@ -2952,8 +2906,7 @@
     ],
     "3870": [
         "Calderon",
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1823": [
         "Alejandro Rodriguez Meza",
@@ -3168,8 +3121,7 @@
         "Arturo"
     ],
     "1957": [
-        "George",
-        "Bush"
+        "George Bush"
     ],
     "1958": [
         "Felipe Calderon"
