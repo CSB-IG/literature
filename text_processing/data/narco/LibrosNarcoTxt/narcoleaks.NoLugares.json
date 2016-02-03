@@ -1,4866 +1,3258 @@
 {
-    "4099": [
-
-
-
-    ], 
     "3478": [
-        "Jose Antonio Torres Marrufo", 
+        "Jose Antonio Torres Marrufo",
         "Chapo Guzman"
-    ], 
-    "4103": [
-
-
-    ], 
-    "4104": [
-
-
-    ], 
-    "4107": [
-
-
-    ], 
-    "4110": [
-
-
-    ], 
-    "4111": [
-
-
-
-    ], 
+    ],
     "2065": [
-
-        "Holder"
-    ], 
+        "Erick Holder"
+    ],
     "2066": [
         "Chapo Guzman"
-    ], 
+    ],
     "2067": [
-        "Gallardo", 
-        "Graham", 
+        "Gallardo",
+        "Graham",
         "Marshall"
-    ], 
+    ],
     "21": [
-        "Martin", 
+        "Martin",
         "Salman"
-    ], 
+    ],
     "24": [
-        "Torre", 
-        "Julian", 
-
-    ], 
+        "Wilbert Torre",
+        "Julian"
+    ],
     "27": [
         "Felipe Calderon"
-    ], 
+    ],
     "29": [
-        "Felipe Calderon Hinojosa", 
-        "Torre"
-    ], 
+        "Felipe Calderon Hinojosa",
+        "Wilbert Torre"
+    ],
     "31": [
-        "Calderon", 
-        "Elliot Ness", 
-        "Calderon", 
+        "Calderon",
+        "Elliot Ness",
+        "Calderon",
         "Elliot Ness"
-    ], 
+    ],
     "35": [
         "Genaro Garcia Luna"
-    ], 
+    ],
     "36": [
-        "Calderon", 
-        "Calderon", 
+        "Calderon",
+        "Calderon",
         "Calderon"
-    ], 
+    ],
     "4161": [
-        "Pascual", 
+        "Pascual",
         "Calderon"
-    ], 
+    ],
     "41": [
-        "Calderon", 
+        "Calderon",
         "Villas"
-    ], 
+    ],
     "2091": [
         "Alvaro Uribe"
-    ], 
+    ],
     "44": [
-        "Hombre", 
         "Calderon"
-    ], 
+    ],
     "3762": [
-        "Calderon", 
+        "Calderon",
         "Margarita Zavala"
-    ], 
+    ],
     "46": [
-        "Garza", 
-        "Pascual", 
-
-    ], 
-    "2095": [
-        "Gabriel Consuegra Martinez", 
-        "Gabriel Consuegra Arroyo"
-    ], 
-    "4144": [
-
-        "Luis"
-    ], 
-    "49": [
-        "Vale", 
-        "Francis Scott Fitzgerald"
-    ], 
-    "51": [
-
-        "Calderon"
-    ], 
-    "54": [
-
-
+        "Garza",
         "Pascual"
-    ], 
+    ],
+    "2095": [
+        "Gabriel Consuegra Martinez",
+        "Gabriel Consuegra Arroyo"
+    ],
+    "4144": [
+        "Luis"
+    ],
+    "49": [
+        "Francis Scott Fitzgerald"
+    ],
+    "51": [
+        "Calderon"
+    ],
+    "54": [
+        "Pascual"
+    ],
     "2106": [
-        "Juan", 
-
+        "Juan",
         "Consuegra"
-    ], 
+    ],
     "59": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2108": [
-        "Consuegra", 
+        "Consuegra",
         "Juan Vicente Gomez"
-    ], 
+    ],
     "2109": [
-        "Gomez", 
+        "Gomez",
         "Consuegra"
-    ], 
+    ],
     "2110": [
-        "Consuegra", 
+        "Consuegra",
         "Gomez"
-    ], 
+    ],
     "4159": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "64": [
-        "Guerra Fria"
-    ], 
-    "2400": [
-
-
-    ], 
+        "Guerra Fia"
+    ],
     "2118": [
         "Nelson Vargas Rueda"
-    ], 
+    ],
     "2119": [
         "Carlos Julio Avila"
-    ], 
+    ],
     "74": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2123": [
         "Alejandro Hope"
-    ], 
+    ],
     "4172": [
-
         "Calderon"
-    ], 
-    "4173": [
-        "Virgen", 
-        "Guadalupe"
-    ], 
+    ],
     "4176": [
-        "Calderon", 
-        "Josefina Vazquez Mota", 
-        "Andres Manuel Lopez Obrador", 
-        "Enrique", 
+        "Calderon",
+        "Josefina Vazquez Mota",
+        "Andres Manuel Lopez Obrador",
+        "Enrique",
         "Nieto"
-    ], 
+    ],
     "3427": [
         "Zambada Niebla"
-    ], 
+    ],
     "86": [
-        "Chapo Guzman", 
+        "Chapo Guzman",
         "Chapo"
-    ], 
+    ],
     "3983": [
-
         "Espinosa"
-    ], 
+    ],
     "4612": [
         "Diego Fonseca"
-    ], 
+    ],
     "2138": [
-        "Hope", 
-        "Chapo Guzman", 
-        "Mayo Zambada", 
-        "Pedro", 
+        "Hope",
+        "Chapo Guzman",
+        "Mayo Zambada",
+        "Pedro",
         "Margarito Flores"
-    ], 
+    ],
     "2139": [
-        "Flores", 
-        "Guzman Loera", 
-        "Zambada Garcia", 
-
-        "Beltran Leyva", 
-        "Vicente Zambada Niebla", 
+        "Flores",
+        "Guzman Loera",
+        "Zambada Garcia",
+        "Beltran Leyva",
+        "Vicente Zambada Niebla",
         "Mayo"
-    ], 
+    ],
     "2140": [
-        "Flores", 
-
-
-
-    ], 
-    "2141": [
-        "Flores", 
         "Flores"
-    ], 
-    "2142": [
-
-    ], 
+    ],
+    "2141": [
+        "Flores",
+        "Flores"
+    ],
     "4191": [
-        "Vazquez Mota", 
-        "Lopez Obrador", 
-        "Nieto", 
-
-
-    ], 
+        "Vazquez Mota",
+        "Lopez Obrador",
+        "Nieto"
+    ],
     "2144": [
-
-        "Alfredo Guzman", 
+        "Alfredo Guzman",
         "Chapo Guzman"
-    ], 
+    ],
     "3088": [
         "Ramirez Peyro"
-    ], 
+    ],
     "2146": [
-        "Pedro", 
-        "Margarito", 
-
-    ], 
+        "Pedro",
+        "Margarito"
+    ],
     "4196": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4198": [
         "Andres Manuel Lopez Obrador"
-    ], 
+    ],
     "103": [
         "Felipe Calderon"
-    ], 
+    ],
     "4202": [
-        "Dias", 
         "Tomas"
-    ], 
-    "107": [
-
-
-    ], 
+    ],
     "4205": [
-        "Calderon", 
-
-    ], 
-    "4206": [
-
-        "Roberta Jacobson", 
-        "Restrepo"
-    ], 
-    "4207": [
-
-
-
-        "Julian Ventura", 
-        "Arturo"
-    ], 
-    "112": [
-        "Calderon", 
-
-    ], 
-    "115": [
-
-
-        "Calzada"
-    ], 
-    "2166": [
-
-        "Hope"
-    ], 
-    "4216": [
-        "Calderon", 
-
-    ], 
-    "2169": [
-        "Orioles", 
-
-    ], 
-    "4117": [
-
-
-
-    ], 
-    "131": [
-
-
-
-    ], 
-    "132": [
-        "Calderon", 
-        "Vicente"
-    ], 
-    "2183": [
-        "Hill", 
-        "Colina"
-    ], 
-    "137": [
-
-
-        "Vicente"
-    ], 
-    "138": [
-
-
-    ], 
-    "4235": [
-
-    ], 
-    "141": [
-        "Rene Hilario Nieto", 
-
-    ], 
-    "143": [
-        "Avelino Vazquez Ruiz", 
-        "Arellano Felix", 
-
-    ], 
-    "4242": [
-        "Virgen", 
-        "Guadalupe", 
-
-
-
-    ], 
-    "147": [
-        "Calderon", 
-        "Efrain Gonzalez Morfin"
-    ], 
-    "4244": [
-
-    ], 
-    "152": [
-        "Josefina Vazquez Mota", 
-        "Ernesto Cordero", 
-        "Vicente"
-    ], 
-    "153": [
-        "Garza", 
-        "Calderon", 
-
-    ], 
-    "2202": [
-        "Aqui", 
-
-    ], 
-    "155": [
-        "Calderon", 
-        "Andres Manuel Lopez Obrador", 
-        "Roberto Madrazo"
-    ], 
-    "158": [
-        "Garza", 
-
-    ], 
-    "159": [
-
-        "George", 
-        "Bush"
-    ], 
-    "2211": [
-
-
-
-    ], 
-    "4261": [
-
-
-    ], 
-    "166": [
-        "German Martinez", 
         "Calderon"
-    ], 
+    ],
+    "4206": [
+        "Roberta Jacobson",
+        "Restrepo"
+    ],
+    "4207": [
+        "Julian Ventura",
+        "Arturo"
+    ],
+    "112": [
+        "Calderon"
+    ],
+    "115": [
+        "Calzada"
+    ],
+    "2166": [
+        "Hope"
+    ],
+    "4216": [
+        "Calderon"
+    ],
+    "2169": [
+        "Orioles"
+    ],
+    "132": [
+        "Calderon",
+        "Vicente"
+    ],
+    "137": [
+        "Vicente"
+    ],
+    "141": [
+        "Rene Hilario Nieto"
+    ],
+    "143": [
+        "Avelino Vazquez Ruiz",
+        "Arellano Felix"
+    ],
+    "147": [
+        "Calderon",
+        "Efrain Gonzalez Morfin"
+    ],
+    "152": [
+        "Josefina Vazquez Mota",
+        "Ernesto Cordero",
+        "Vicente"
+    ],
+    "153": [
+        "Garza",
+        "Calderon"
+    ],
+    "155": [
+        "Calderon",
+        "Andres Manuel Lopez Obrador",
+        "Roberto Madrazo"
+    ],
+    "158": [
+        "Garza"
+    ],
+    "159": [
+        "George Bush"
+    ],
+    "166": [
+        "German Martinez",
+        "Calderon"
+    ],
     "169": [
-        "Garza", 
-
-    ], 
-    "4267": [
-
-
-    ], 
+        "Garza"
+    ],
     "2947": [
-        "Barbie", 
-
-    ], 
+        "Barbie"
+    ],
     "4272": [
-
-        "Bill", 
-        "George", 
-        "Bush"
-    ], 
+        "Bill",
+        "George Bush"
+    ],
     "178": [
-        "Garza", 
-
-
-    ], 
-    "2227": [
-
-    ], 
+        "Garza"
+    ],
     "181": [
-        "Garza", 
-
-    ], 
+        "Garza"
+    ],
     "185": [
-
-        "Valle", 
-        "Francisco", 
-
-    ], 
-    "4282": [
-
-    ], 
+        "Valle",
+        "Francisco"
+    ],
     "4283": [
-        "George", 
-        "Bush", 
+        "George Bush",
         "Senado"
-    ], 
+    ],
     "188": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "189": [
-
-
         "Arellano"
-    ], 
-    "191": [
-
-
-    ], 
+    ],
     "2240": [
         "Garcia Luna"
-    ], 
-    "193": [
-
-
-    ], 
+    ],
     "4291": [
-
-
         "Calderon"
-    ], 
+    ],
     "2422": [
         "Ernesto Zedillo"
-    ], 
+    ],
     "199": [
-        "Calderon", 
-        "Luis Calderon", 
+        "Calderon",
+        "Luis Calderon",
         "Vega"
-    ], 
+    ],
     "2248": [
-        "Mueller", 
-
-
-    ], 
+        "Mueller"
+    ],
     "2249": [
-        "Garza", 
+        "Garza",
         "Mueller"
-    ], 
+    ],
     "203": [
-
-        "Eduardo", 
+        "Eduardo",
         "Jorge Tello Peon"
-    ], 
+    ],
     "204": [
-        "Medina", 
-        "Tello", 
-
-    ], 
-    "205": [
-        "Medina", 
-        "Tello", 
-        "Calderon"
-    ], 
-    "206": [
-        "Tello", 
+        "Medina",
         "Tello"
-    ], 
+    ],
+    "205": [
+        "Medina",
+        "Tello",
+        "Calderon"
+    ],
+    "206": [
+        "Tello",
+        "Tello"
+    ],
     "207": [
-
         "Genaro Garcia Luna"
-    ], 
+    ],
     "2256": [
-        "Calderon", 
-
+        "Calderon",
         "Mueller"
-    ], 
+    ],
     "209": [
-        "Francisco Ramirez", 
-
+        "Francisco Ramirez",
         "Calderon"
-    ], 
+    ],
     "2258": [
-        "George", 
-        "Bush", 
-
-    ], 
-    "212": [
-
-
-    ], 
+        "George Bush"
+    ],
     "2261": [
-        "Jacobson", 
-
-    ], 
+        "Jacobson"
+    ],
     "214": [
-        "Calderon", 
+        "Calderon",
         "Ramirez"
-    ], 
+    ],
     "2263": [
-        "Jacobson", 
-
-    ], 
+        "Jacobson"
+    ],
     "2265": [
-
-        "Espinosa", 
-
-
-    ], 
+        "Espinosa"
+    ],
     "4314": [
-
-        "Calderon", 
-
-        "Calle", 
+        "Calderon",
+        "Calle",
         "Carlos Fuentes"
-    ], 
+    ],
     "4315": [
-        "Bill Richardson", 
-
-    ], 
+        "Bill Richardson"
+    ],
     "220": [
-        "Juan Camilo", 
-        "Cesar Nava", 
+        "Juan Camilo",
+        "Cesar Nava",
         "German Martinez"
-    ], 
+    ],
     "221": [
-        "Alejandra Sota", 
+        "Alejandra Sota",
         "Calderon"
-    ], 
-    "4318": [
-
-
-    ], 
+    ],
     "226": [
-        "Juan Camilo", 
-
-
-        "Calderon", 
-
-    ], 
+        "Juan Camilo",
+        "Calderon"
+    ],
     "227": [
         "Cesar Nava"
-    ], 
+    ],
     "228": [
-        "German Martinez", 
-
-    ], 
+        "German Martinez"
+    ],
     "4327": [
-        "Carlos Pascual", 
+        "Carlos Pascual",
         "Calderon"
-    ], 
+    ],
     "232": [
         "Alejandra Sota"
-    ], 
+    ],
     "4304": [
-
         "Calderon"
-    ], 
+    ],
     "238": [
-        "Martinez", 
-        "Cordero", 
-        "Nava", 
-        "Aguilar", 
-        "Maximiliano Cortazar", 
-        "Juan Ignacio Zavala", 
-        "Margarita", 
-        "Calderon", 
-        "Alejandra Sota", 
-        "Gerardo Ruiz Mateos", 
-        "Dionisio Perez Jacome", 
+        "Martinez",
+        "Cordero",
+        "Nava",
+        "Aguilar",
+        "Maximiliano Cortazar",
+        "Juan Ignacio Zavala",
+        "Margarita",
+        "Calderon",
+        "Alejandra Sota",
+        "Gerardo Ruiz Mateos",
+        "Dionisio Perez Jacome",
         "Patricia Flores"
-    ], 
+    ],
     "239": [
-        "Josefina Vazquez Mota", 
-        "Guillermo Valdes", 
+        "Josefina Vazquez Mota",
+        "Guillermo Valdes",
         "Arturo"
-    ], 
+    ],
     "240": [
-        "Calderon", 
+        "Calderon",
         "Carlos Castillo Peraza"
-    ], 
-    "2289": [
-
-
-    ], 
+    ],
     "2290": [
-
         "Leyva"
-    ], 
+    ],
     "244": [
-        "Natividad Gonzalez Paras", 
-
-        "Zeferino Torreblanca", 
-
-        "Lazaro Cardenas", 
-        "Eduardo", 
-
-    ], 
+        "Natividad Gonzalez Paras",
+        "Zeferino Torreblanca",
+        "Lazaro Cardenas",
+        "Eduardo"
+    ],
     "246": [
-
         "Calderon"
-    ], 
+    ],
     "4343": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "248": [
-        "Calderon", 
+        "Calderon",
         "Cardenas"
-    ], 
+    ],
     "3684": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4484": [
         "Margarita Zavala"
-    ], 
+    ],
     "251": [
-        "Calderon", 
-        "Cardenas", 
-
-
-    ], 
-    "4349": [
-
-
-    ], 
+        "Calderon",
+        "Cardenas"
+    ],
     "254": [
-
-        "Cardenas", 
+        "Cardenas",
         "Calderon"
-    ], 
+    ],
     "2307": [
-        "Calderon", 
-        "Alto", 
-        "Espinosa", 
-
-    ], 
+        "Calderon",
+        "Espinosa"
+    ],
     "2308": [
-        "Espinosa", 
-
-
-    ], 
+        "Espinosa"
+    ],
     "2310": [
         "Edgar Millan Gomez"
-    ], 
+    ],
     "2312": [
-        "Bush", 
-
-    ], 
+        "Bush"
+    ],
     "2092": [
         "Felipe Calderon"
-    ], 
+    ],
     "2314": [
-
         "Millan"
-    ], 
-    "2315": [
-
-
-
-    ], 
+    ],
     "268": [
-        "Debo", 
         "Calderon"
-    ], 
+    ],
     "2317": [
-        "Espinosa", 
+        "Espinosa",
         "Millan"
-    ], 
-    "4366": [
-
-
-    ], 
+    ],
     "271": [
         "Lopez Obrador"
-    ], 
-    "4370": [
-
-
-    ], 
+    ],
     "2324": [
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "278": [
-        "Ante", 
+        "Ante",
         "Calderon"
-    ], 
+    ],
     "4375": [
         "Lorenzo Meyer"
-    ], 
+    ],
     "2329": [
-
-        "Rice", 
-        "Mayor", 
+        "Rice",
+        "Mayor",
         "Calderon"
-    ], 
-    "2330": [
-
-    ], 
+    ],
     "2331": [
-        "Garza", 
-
-        "Bush", 
-        "General", 
-
+        "Garza",
+        "Bush",
         "Beltran Leyva"
-    ], 
+    ],
     "2333": [
-        "Garcia Luna", 
+        "Garcia Luna",
         "Garza"
-    ], 
+    ],
     "286": [
-        "Luis Calderon", 
+        "Luis Calderon",
         "Vega"
-    ], 
+    ],
     "2437": [
-
         "Samuel Solis"
-    ], 
+    ],
     "288": [
-
         "Carmen Hinojosa"
-    ], 
+    ],
     "2260": [
-        "Calderon", 
-        "Roberta Jacobson", 
-
-
-    ], 
+        "Calderon",
+        "Roberta Jacobson"
+    ],
     "295": [
-        "Luis Gabriel", 
-        "Luisa Maria", 
-        "Juan Luis", 
-        "Felipe", 
-
-    ], 
+        "Luis Gabriel",
+        "Luisa Maria",
+        "Juan Luis",
+        "Felipe"
+    ],
     "296": [
-        "Calderon", 
+        "Calderon",
         "Vega"
-    ], 
+    ],
     "297": [
         "Calderon Hinojosa"
-    ], 
+    ],
     "4394": [
-        "Alan", 
-
-    ], 
+        "Alan"
+    ],
     "4487": [
-        "Carlos Pascual", 
+        "Carlos Pascual",
         "Freeman"
-    ], 
-    "2348": [
-
-
-    ], 
+    ],
     "301": [
-        "Chavez", 
+        "Chavez",
         "Amparo Ochoa"
-    ], 
+    ],
     "302": [
-        "Rodriguez", 
+        "Rodriguez",
         "Pablo Milanes"
-    ], 
+    ],
     "303": [
-        "Luisa Maria", 
-        "Luis Gabriel", 
-        "Marcos", 
-
-    ], 
-    "4400": [
-
-
-    ], 
+        "Luisa Maria",
+        "Luis Gabriel",
+        "Marcos"
+    ],
     "306": [
         "Carlos Castillo Peraza"
-    ], 
+    ],
     "309": [
-        "Castillo Peraza", 
-
+        "Castillo Peraza",
         "Calderon"
-    ], 
+    ],
     "310": [
-        "Calderon", 
+        "Calderon",
         "Castillo Peraza"
-    ], 
+    ],
     "311": [
-        "Felipe", 
+        "Felipe",
         "Castillo Peraza"
-    ], 
+    ],
     "312": [
-        "Carlos", 
-        "Mola", 
-        "Victor Correa Racho", 
-
-    ], 
+        "Carlos",
+        "Mola",
+        "Victor Correa Racho"
+    ],
     "313": [
-        "Castillo Peraza", 
-        "Luis Calderon", 
+        "Castillo Peraza",
+        "Luis Calderon",
         "Vega"
-    ], 
+    ],
     "314": [
-        "Castillo Peraza", 
+        "Castillo Peraza",
         "Calderon"
-    ], 
+    ],
     "316": [
-
         "Javier Sicilia"
-    ], 
+    ],
     "317": [
-        "Como", 
         "Castillo Peraza"
-    ], 
+    ],
     "318": [
-        "Calderon", 
-        "Angel", 
+        "Calderon",
+        "Angel",
         "Sancho"
-    ], 
+    ],
     "319": [
         "Castillo Peraza"
-    ], 
+    ],
     "2368": [
-        "Crisanto", 
+        "Crisanto",
         "Perez"
-    ], 
+    ],
     "2369": [
-        "Bradley", 
-
-    ], 
+        "Bradley"
+    ],
     "323": [
         "Castillo Peraza"
-    ], 
+    ],
     "327": [
-
         "Castillo"
-    ], 
-    "328": [
-
-
-    ], 
+    ],
     "4302": [
-
-        "Calderon", 
-
-        "Morales", 
-        "General", 
+        "Calderon",
+        "Morales",
         "Premio"
-    ], 
+    ],
     "331": [
-        "Castillo", 
-
-    ], 
+        "Castillo"
+    ],
     "333": [
         "Castillo Peraza"
-    ], 
+    ],
     "4430": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "338": [
         "Castillo Peraza"
-    ], 
-    "4436": [
-
-
-    ], 
+    ],
     "341": [
-        "Castillo Peraza", 
-
-    ], 
-    "4439": [
-        "Guerra Fria"
-    ], 
+        "Castillo Peraza"
+    ],
     "344": [
         "Felipe Calderon"
-    ], 
+    ],
     "346": [
-        "Calderon", 
-        "Castillo Peraza", 
-
-    ], 
+        "Calderon",
+        "Castillo Peraza"
+    ],
     "2395": [
-        "Jesus Zambada Garcia", 
-        "Ismael", 
+        "Jesus Zambada Garcia",
+        "Ismael",
         "Mayo Zambada"
-    ], 
+    ],
     "349": [
         "Castillo Peraza"
-    ], 
+    ],
     "2539": [
-        "Calderon", 
+        "Calderon",
         "George"
-    ], 
+    ],
     "351": [
         "Castillo Peraza"
-    ], 
+    ],
     "352": [
-        "Castillo Peraza", 
+        "Castillo Peraza",
         "Calderon"
-    ], 
-    "4155": [
-
-
-    ], 
+    ],
     "356": [
-        "Calderon", 
-        "Castillo Peraza", 
-        "Jose Federico Benitez Lopez", 
-        "Luis", 
+        "Calderon",
+        "Castillo Peraza",
+        "Jose Federico Benitez Lopez",
+        "Luis",
         "Colosio"
-    ], 
+    ],
     "357": [
         "Miguel Angel Granados Chapa"
-    ], 
+    ],
     "358": [
-        "Francisco Ruiz Massieu", 
+        "Francisco Ruiz Massieu",
         "Calderon"
-    ], 
+    ],
     "2408": [
-        "Dias", 
-        "Jesus", 
+        "Jesus",
         "Zambada Garcia"
-    ], 
+    ],
     "2409": [
-
-
         "Genaro Garcia Luna"
-    ], 
+    ],
     "362": [
-
-        "Calderon", 
+        "Calderon",
         "Ernesto Zedillo"
-    ], 
+    ],
     "2411": [
-        "Zambada", 
-
-    ], 
+        "Zambada"
+    ],
     "364": [
-        "Quintana", 
-
-        "Calderon", 
+        "Quintana",
+        "Calderon",
         "Kennedy"
-    ], 
+    ],
     "365": [
-        "Como", 
         "Calderon"
-    ], 
+    ],
     "366": [
-
-        "Wall", 
-
-
         "Calderon"
-    ], 
-    "367": [
-
-        "Consejo"
-    ], 
+    ],
     "4513": [
-        "Guzman Salazar", 
-
-    ], 
+        "Guzman Salazar"
+    ],
     "371": [
         "Santiago Creel"
-    ], 
+    ],
     "372": [
-        "Creel", 
-        "Calderon", 
+        "Creel",
+        "Calderon",
         "Carlos Castillo Peraza"
-    ], 
-    "374": [
-
-
-    ], 
-    "3817": [
-
-
-    ], 
+    ],
     "376": [
         "Arellano Felix"
-    ], 
-    "2425": [
-
-
-    ], 
-    "4474": [
-        "Creo", 
-
-    ], 
-    "2429": [
-
-
-    ], 
+    ],
     "2430": [
         "Felipe Calderon"
-    ], 
+    ],
     "2432": [
-        "Patricia Espinosa", 
-
-
-    ], 
+        "Patricia Espinosa"
+    ],
     "386": [
-        "Garza", 
-        "Calderon", 
+        "Garza",
+        "Calderon",
         "Andres Manuel Lopez Obrador"
-    ], 
+    ],
     "387": [
-        "German Martinez", 
-        "Arturo", 
-        "Garza", 
-
-    ], 
+        "German Martinez",
+        "Arturo",
+        "Garza"
+    ],
     "2436": [
         "Jose Murat"
-    ], 
+    ],
     "389": [
-        "Garza", 
+        "Garza",
         "Lopez Obrador"
-    ], 
-    "4486": [
-
-        "Mexicano", 
-
-
-
-    ], 
+    ],
     "391": [
-        "Garza", 
+        "Garza",
         "Lopez Obrador"
-    ], 
+    ],
     "2441": [
         "Patricia Espinosa"
-    ], 
+    ],
     "4667": [
-        "Julian Zapata", 
+        "Julian Zapata",
         "Jaime Zapata"
-    ], 
+    ],
     "395": [
         "Lopez Obrador"
-    ], 
+    ],
     "4492": [
-
-
-        "Jesus Alfredo Guzman Salazar", 
-
-        "Joaquin", 
+        "Jesus Alfredo Guzman Salazar",
+        "Joaquin",
         "Chapo Guzman"
-    ], 
+    ],
     "398": [
-        "Garza", 
-
-    ], 
+        "Garza"
+    ],
     "399": [
         "Felipe Calderon"
-    ], 
+    ],
     "4496": [
-        "Jesus Alfredo Guzman Salazar", 
+        "Jesus Alfredo Guzman Salazar",
         "Gordo"
-    ], 
+    ],
     "4497": [
-
-        "Guzman Salazar", 
+        "Guzman Salazar",
         "Jardines"
-    ], 
+    ],
     "4498": [
-        "Como", 
         "Chapo Guzman"
-    ], 
+    ],
     "3139": [
-        "Diez", 
-        "Abelardo Rodriguez", 
+        "Abelardo Rodriguez",
         "Lazaro Cardenas"
-    ], 
+    ],
     "4500": [
-
         "Guzman"
-    ], 
-    "405": [
-
-        "Guerra"
-    ], 
+    ],
     "4502": [
         "Guzman Salazar"
-    ], 
-    "2455": [
-
-
-    ], 
-    "410": [
-
-
-    ], 
+    ],
     "3823": [
-        "Calderon", 
-
-    ], 
-    "2460": [
-
-
-
-    ], 
+        "Calderon"
+    ],
     "414": [
-        "Jose", 
-
-    ], 
+        "Jose"
+    ],
     "416": [
-
-
-        "Felipe Calderon", 
+        "Felipe Calderon",
         "Lopez Obrador"
-    ], 
+    ],
     "2465": [
-        "Bush", 
-        "Calderon", 
-        "Calderon", 
-
-    ], 
+        "Bush",
+        "Calderon",
+        "Calderon"
+    ],
     "2466": [
-        "Bush", 
-
-
-    ], 
+        "Bush"
+    ],
     "4507": [
-        "Calderon", 
-        "Josefina Vazquez Mota", 
-
-    ], 
+        "Calderon",
+        "Josefina Vazquez Mota"
+    ],
     "421": [
-        "Cordero", 
-        "Cortazar", 
-        "Nava", 
-        "Martinez", 
+        "Cordero",
+        "Cortazar",
+        "Nava",
+        "Martinez",
         "Sota"
-    ], 
-    "423": [
-
-    ], 
+    ],
     "424": [
         "Josefina Vazquez"
-    ], 
+    ],
     "4508": [
-
         "Chapo"
-    ], 
+    ],
     "426": [
-        "Calderon", 
-        "Martinez", 
+        "Calderon",
+        "Martinez",
         "Cordero"
-    ], 
+    ],
     "428": [
         "German Martinez"
-    ], 
+    ],
     "429": [
         "Calderon"
-    ], 
+    ],
     "430": [
-        "Calderon", 
-        "Patricia Espinosa", 
-        "Austria", 
+        "Calderon",
+        "Patricia Espinosa",
+        "Austria",
         "Calderon"
-    ], 
+    ],
     "431": [
-
         "Calderon"
-    ], 
+    ],
     "4528": [
-        "Calderon", 
+        "Calderon",
         "Nieto"
-    ], 
-    "433": [
-
-    ], 
-    "2484": [
-
-
-    ], 
-    "2462": [
-
-
-    ], 
+    ],
     "438": [
-        "Jorge", 
+        "Jorge",
         "Carlos Salinas"
-    ], 
+    ],
     "439": [
-        "Casablanca", 
+        "Casablanca",
         "Jesus Gutierrez Rebollo"
-    ], 
+    ],
     "2488": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4538": [
-
         "Nieto"
-    ], 
+    ],
     "4539": [
-        "Roberta Jacobson", 
-
-        "Nieto", 
-
-    ], 
+        "Roberta Jacobson",
+        "Nieto"
+    ],
     "444": [
-        "Ernesto Zedillo", 
-        "Alto"
-    ], 
-    "4170": [
-        "Dias", 
-
-    ], 
-    "446": [
-
-
-        "General"
-    ], 
+        "Ernesto Zedillo"
+    ],
     "2496": [
-        "Holder", 
-
-        "Guardia", 
-
-    ], 
+        "Erick Holder",
+        "Guardia"
+    ],
     "4512": [
-
-        "Felix Beltran", 
-
-    ], 
+        "Felix Beltran"
+    ],
     "455": [
         "Juan Rebolledo"
-    ], 
+    ],
     "460": [
-        "William", 
-        "Perry", 
+        "William",
+        "Perry",
         "Enrique Cervantes Aguirre"
-    ], 
+    ],
     "2509": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2510": [
-
-
         "Carlos Pascual"
-    ], 
+    ],
     "463": [
         "Ernesto Zedillo"
-    ], 
+    ],
     "464": [
         "Rosario Green"
-    ], 
+    ],
     "4448": [
-        "Felipe", 
+        "Felipe",
         "Dios"
-    ], 
+    ],
     "4562": [
-        "Chapo", 
+        "Chapo",
         "Calderon"
-    ], 
-    "4039": [
-
-
-    ], 
+    ],
     "4324": [
-        "Calderon", 
-
-    ], 
-    "4569": [
-        "Varios", 
-
-    ], 
-    "475": [
-        "Carlos Salinas", 
-        "Gortari"
-    ], 
-    "2524": [
-        "Calderon", 
-        "Miguel Aleman"
-    ], 
-    "2810": [
-
-
-    ], 
-    "3781": [
-        "Calderon", 
-        "Zavala"
-    ], 
-    "2469": [
-        "Calderon", 
-
-    ], 
-    "2529": [
-
         "Calderon"
-    ], 
+    ],
+    "475": [
+        "Carlos Salinas de Gortari
+    ],
+    "2524": [
+        "Calderon",
+        "Miguel Aleman"
+    ],
+    "3781": [
+        "Calderon",
+        "Zavala"
+    ],
+    "2469": [
+        "Calderon"
+    ],
+    "2529": [
+        "Calderon"
+    ],
     "2530": [
-        "Calderon", 
-        "Consejo", 
-
-
-
-
-
-    ], 
-    "3835": [
-
-    ], 
-    "4581": [
-
-    ], 
+        "Calderon"
+    ],
     "4582": [
         "Beltran Leyva"
-    ], 
+    ],
     "2535": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4584": [
         "Tomas Angeles"
-    ], 
+    ],
     "2537": [
-
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4586": [
-
-        "Garza", 
+        "Garza",
         "Pascual"
-    ], 
+    ],
     "2471": [
-        "Restrepo", 
-
-        "Laura Pena", 
-        "Patricia Espinosa", 
+        "Restrepo",
+        "Laura Pena",
+        "Patricia Espinosa",
         "Arturo"
-    ], 
+    ],
     "2542": [
-
-        "Calderon", 
-
-
-
-    ], 
+        "Calderon"
+    ],
     "2543": [
-        "Consejo", 
         "Calderon"
-    ], 
+    ],
     "4592": [
-        "Avila Beltran", 
+        "Avila Beltran",
         "Reina"
-    ], 
+    ],
     "2545": [
-        "Dias", 
         "Calderon"
-    ], 
+    ],
     "4179": [
-        "Carlos Pascual", 
-
+        "Carlos Pascual",
         "Calderon"
-    ], 
+    ],
     "4596": [
-
-        "Enrique", 
+        "Enrique",
         "Nieto"
-    ], 
+    ],
     "4600": [
-        "Luis Videgaray", 
-        "Pedro Aspe", 
+        "Luis Videgaray",
+        "Pedro Aspe",
         "Emilio Lozoya"
-    ], 
+    ],
     "2557": [
-
-        "Felipe Calderon", 
-
-    ], 
+        "Felipe Calderon"
+    ],
     "4606": [
-        "Tomas Angeles", 
-        "Ricardo Escorcia", 
-        "Roberto", 
+        "Tomas Angeles",
+        "Ricardo Escorcia",
+        "Roberto",
         "Ruben Perez"
-    ], 
-    "511": [
-
-
-    ], 
+    ],
     "512": [
-        "George", 
-        "Bush"
-    ], 
-    "513": [
-
-
-    ], 
+        "George Bush"
+    ],
     "2562": [
-        "Uribe", 
+        "Uribe",
         "Calderon"
-    ], 
-    "516": [
-        "Consejo", 
-
-    ], 
+    ],
     "517": [
-
-        "Luis Ernesto Derbez", 
+        "Luis Ernesto Derbez",
         "Calderon"
-    ], 
-    "2566": [
-        "Palacio", 
-
-    ], 
-    "519": [
-
-    ], 
+    ],
     "4616": [
         "Rodrigo Aguilar Benignos"
-    ], 
-    "521": [
-
-
-    ], 
+    ],
     "522": [
-        "George", 
-        "Bush"
-    ], 
-    "523": [
-
-
-    ], 
+        "George Bush"
+    ],
     "524": [
-
         "Andrews"
-    ], 
+    ],
     "525": [
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "2336": [
         "Garcia Luna"
-    ], 
-    "4624": [
-
-
-    ], 
+    ],
     "529": [
-        "Bush", 
+        "Bush",
         "Calderon"
-    ], 
+    ],
     "4663": [
-        "Arturo", 
-        "Paez Martinez", 
+        "Arturo",
+        "Paez Martinez",
         "Arellano Felix"
-    ], 
+    ],
     "2582": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "537": [
-        "George", 
-        "Bush", 
-
-    ], 
-    "538": [
-
-
-    ], 
+        "George Bush"
+    ],
     "2479": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2590": [
         "Mariano Otero"
-    ], 
-    "543": [
-
-
-    ], 
+    ],
     "2592": [
         "Carlos Pascual"
-    ], 
+    ],
     "4187": [
-        "Nieto", 
-        "Diaz Ordaz", 
-        "Echeverria", 
-        "Lopez Portillo", 
-        "Salinas", 
-        "Gortari"
-    ], 
+        "Nieto",
+        "Diaz Ordaz",
+        "Echeverria",
+        "Lopez Portillo",
+        "Salinas de Gortari
+    ],
     "2596": [
-        "Calderon", 
-
+        "Calderon",
         "Bush"
-    ], 
+    ],
     "549": [
-
-        "Bush", 
+        "Bush",
         "Calderon"
-    ], 
+    ],
     "4646": [
-        "Felipe Calderon", 
+        "Felipe Calderon",
         "Lazaro Cardenas"
-    ], 
+    ],
     "551": [
-
         "Calderon"
-    ], 
-    "4649": [
-
-    ], 
+    ],
     "4650": [
-        "Felipe Calderon", 
-        "George", 
-        "Bush", 
-
-    ], 
-    "4451": [
-
-
-    ], 
+        "Felipe Calderon",
+        "George Bush"
+    ],
     "4652": [
-
-        "Arturo", 
-        "Garza", 
-
-
-    ], 
+        "Arturo",
+        "Garza"
+    ],
     "4653": [
         "Eduardo Medina Mora"
-    ], 
+    ],
     "558": [
         "Lazaro Cardenas"
-    ], 
-    "4189": [
-
-
-    ], 
+    ],
     "2608": [
-        "Miguel Caro Quintero", 
-
-        "Rafael Caro Quintero", 
-        "Enrique Camarena", 
-
-    ], 
-    "3848": [
-
-    ], 
+        "Miguel Caro Quintero",
+        "Rafael Caro Quintero",
+        "Enrique Camarena"
+    ],
     "4659": [
-        "Carlos Pascual", 
-
+        "Carlos Pascual",
         "Felipe Calderon"
-    ], 
+    ],
     "2612": [
-        "Benjamin Arellano Felix", 
+        "Benjamin Arellano Felix",
         "Avila Beltran"
-    ], 
+    ],
     "2613": [
-
-        "Pascual", 
-
-    ], 
-    "2615": [
-
-
-    ], 
-    "2616": [
-        "Garza", 
         "Pascual"
-    ], 
+    ],
+    "2616": [
+        "Garza",
+        "Pascual"
+    ],
     "4665": [
-        "Mexicano", 
         "Ricardo Almanza"
-    ], 
+    ],
     "570": [
         "Lazaro Cardenas"
-    ], 
+    ],
     "571": [
-        "Lazaro Cardenas", 
-        "Cardenas", 
+        "Lazaro Cardenas",
+        "Cardenas",
         "Lazaro"
-    ], 
+    ],
     "572": [
-        "Manuel Avila Camacho", 
-        "Guerra"
-    ], 
+        "Manuel Avila Camacho"
+    ],
     "4670": [
-        "Vicente Zambada Niebla", 
-        "Mayo Zambada", 
-
-    ], 
+        "Vicente Zambada Niebla",
+        "Mayo Zambada"
+    ],
     "2485": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "4192": [
-        "Cerca", 
-        "Espinosa", 
-
-    ], 
+        "Cerca",
+        "Espinosa"
+    ],
     "2626": [
-        "Calderon", 
-
-
-
-    ], 
+        "Calderon"
+    ],
     "579": [
-        "Calderon", 
-
-    ], 
-    "580": [
-
-
-
-
-
-    ], 
+        "Calderon"
+    ],
     "4534": [
-        "Calderon", 
+        "Calderon",
         "Nieto"
-    ], 
+    ],
     "582": [
-
-
-        "Jose Manuel Radilla", 
-        "Santa Catarina", 
-        "Ramiro Calvillo", 
+        "Jose Manuel Radilla",
+        "Santa Catarina",
+        "Ramiro Calvillo",
         "Martha Guillen Moreno"
-    ], 
+    ],
     "585": [
-        "Garza", 
+        "Garza",
         "Calderon"
-    ], 
+    ],
     "2634": [
-
         "Pascual"
-    ], 
+    ],
     "2635": [
-        "Pascual", 
-
-    ], 
-    "588": [
-
-
-
-
-    ], 
+        "Pascual"
+    ],
     "4685": [
-        "Calderon", 
-
-    ], 
-    "3512": [
-
-
-    ], 
+        "Calderon"
+    ],
     "594": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3634": [
-        "Cinco", 
-        "Villas", 
-        "Pascual", 
-
-    ], 
+        "Villas",
+        "Pascual"
+    ],
     "2644": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "597": [
-        "George", 
-        "Bush", 
+        "George Bush",
         "Felipe Calderon"
-    ], 
+    ],
     "601": [
-        "Bush", 
+        "Bush",
         "Calderon"
-    ], 
+    ],
     "3424": [
-        "Zambada Niebla", 
+        "Zambada Niebla",
         "Mayo"
-    ], 
-    "4717": [
-
-
-    ], 
+    ],
     "610": [
-        "Bauer", 
-
-    ], 
+        "Bauer"
+    ],
     "4453": [
-        "Lagard", 
-        "Calderon", 
+        "Lagard",
+        "Calderon",
         "Henry"
-    ], 
-    "2664": [
-
-
-
-
-    ], 
+    ],
     "3175": [
-        "Collin Powell", 
+        "Collin Powell",
         "Rice"
-    ], 
+    ],
     "621": [
-        "George", 
-        "Bush", 
-
-    ], 
+        "George Bush"
+    ],
     "622": [
-        "Laura", 
-
-    ], 
+        "Laura"
+    ],
     "4541": [
-        "Enrique", 
+        "Enrique",
         "Nieto"
-    ], 
+    ],
     "624": [
-        "Bush", 
+        "Bush",
         "Calderon"
-    ], 
+    ],
     "3176": [
-
         "Santo Domingo"
-    ], 
+    ],
     "628": [
-
-        "Bush", 
+        "Bush",
         "Calderon"
-    ], 
+    ],
     "2677": [
-
-        "Felipe Calderon", 
-
-
-        "Navidad"
-    ], 
+        "Felipe Calderon"
+    ],
     "2679": [
-        "Rostro", 
+        "Rostro",
         "Calderon"
-    ], 
+    ],
     "632": [
         "Andrea Merlos"
-    ], 
+    ],
     "4590": [
         "Felipe Calderon"
-    ], 
+    ],
     "634": [
         "Abel Barajas"
-    ], 
+    ],
     "635": [
-        "Javier Cardenas", 
+        "Javier Cardenas",
         "Cristobal Garcia"
-    ], 
+    ],
     "640": [
         "Felipe Calderon"
-    ], 
-    "4737": [
-
-
-
-    ], 
+    ],
     "4655": [
         "Genaro Garcia Luna"
-    ], 
+    ],
     "643": [
-        "Miguel Angel Granados Chapa", 
+        "Miguel Angel Granados Chapa",
         "Plaza"
-    ], 
-    "4113": [
-
-
-
-
-
-    ], 
+    ],
     "645": [
         "Mayolo Lopez"
-    ], 
+    ],
     "646": [
         "Emiliano Ruiz Parra"
-    ], 
+    ],
     "648": [
         "Felipe Calderon"
-    ], 
+    ],
     "2698": [
         "Carlos Pascual"
-    ], 
+    ],
     "653": [
-        "Lazaro Cardenas", 
-
-    ], 
+        "Lazaro Cardenas"
+    ],
     "2702": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "655": [
         "Felipe Calderon"
-    ], 
-    "2708": [
-
-
-    ], 
+    ],
     "661": [
         "Enrique Camarena"
-    ], 
+    ],
     "4591": [
-        "Benjamin Arellano Felix", 
+        "Benjamin Arellano Felix",
         "Eduardo Arellano Felix"
-    ], 
+    ],
     "3159": [
-        "Calderon", 
-
-    ], 
-    "2724": [
-
-
-    ], 
+        "Calderon"
+    ],
     "2725": [
-
-        "Teofilo Salinas", 
-
-
-    ], 
+        "Teofilo Salinas"
+    ],
     "4551": [
-        "Nieto", 
-        "Luis Videgaray", 
-        "Emilio Lozoya Austin", 
-        "Emilio Lozoya", 
-        "Carlos Salinas", 
-        "Gortari", 
-        "Jorge", 
-
-    ], 
+        "Nieto",
+        "Luis Videgaray",
+        "Emilio Lozoya Austin",
+        "Emilio Lozoya",
+        "Carlos Salinas de Gortari,
+        "Jorge"
+    ],
     "4660": [
-        "Pascual", 
-        "George", 
-        "Bush"
-    ], 
+        "Pascual",
+        "George Bush"
+    ],
     "688": [
-        "Chapo Guzman", 
+        "Chapo Guzman",
         "Arellano Felix"
-    ], 
-    "4251": [
-
-    ], 
+    ],
     "696": [
-
-
         "Arellano Felix"
-    ], 
+    ],
     "697": [
-        "Benjamin Arellano Felix", 
+        "Benjamin Arellano Felix",
         "Ramon"
-    ], 
+    ],
     "698": [
-        "Benjamin", 
+        "Benjamin",
         "Pablo Escobar"
-    ], 
-    "3871": [
-
-
-    ], 
+    ],
     "2748": [
-        "General", 
         "Ricardo Almanza"
-    ], 
+    ],
     "2749": [
         "Eduardo Almanza"
-    ], 
-    "4519": [
-
-
-    ], 
+    ],
     "704": [
-        "Enrique", 
+        "Enrique",
         "Pablo Escobar"
-    ], 
+    ],
     "3872": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2755": [
-
-        "Bruce Williamson", 
-
-    ], 
-    "2746": [
-
-    ], 
-    "2759": [
-        "Dias", 
-
-    ], 
+        "Bruce Williamson"
+    ],
     "2761": [
-        "Williamson", 
-
-        "Alejandro Garza", 
+        "Williamson",
+        "Alejandro Garza",
         "Garza"
-    ], 
+    ],
     "715": [
-        "Main", 
+        "Main",
         "Vista"
-    ], 
+    ],
     "2765": [
-        "Williamson", 
-        "Santa Lucia", 
-
-        "Walk", 
+        "Williamson",
+        "Santa Lucia",
+        "Walk",
         "Antonio"
-    ], 
-    "3229": [
-        "Aqui", 
-
-    ], 
+    ],
     "2772": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "725": [
         "Arellano Felix"
-    ], 
+    ],
     "2775": [
-
         "Pascual"
-    ], 
+    ],
     "2776": [
-        "Vista", 
-
-    ], 
-    "2778": [
-
-        "General"
-    ], 
-    "4559": [
-
-
-
-
-    ], 
+        "Vista"
+    ],
     "2512": [
-
-        "Felipe Calderon", 
-
-    ], 
-    "4048": [
-        "Zapata", 
-        "Calderon", 
-
-    ], 
-    "2790": [
-        "Pascual", 
-
-
-    ], 
-    "2793": [
-
-
-    ], 
-    "2794": [
-
         "Felipe Calderon"
-    ], 
-    "2795": [
-
-
-    ], 
-    "749": [
-
-
-    ], 
-    "3197": [
-
-        "Guerra Fria"
-    ], 
+    ],
+    "4048": [
+        "Zapata",
+        "Calderon"
+    ],
+    "2790": [
+        "Pascual"
+    ],
+    "2794": [
+        "Felipe Calderon"
+    ],
     "753": [
-        "Robinson", 
+        "Robinson",
         "Benjamin Arellano Felix"
-    ], 
+    ],
     "756": [
-        "Ramon", 
-        "Puerto Vallarta", 
-        "Javier", 
+        "Ramon",
+        "Puerto Vallarta",
+        "Javier",
         "Ismael Higuera Guerrero"
-    ], 
+    ],
     "758": [
-        "David Barron Corona", 
-        "Logan", 
+        "David Barron Corona",
+        "Logan",
         "Diego"
-    ], 
-    "2807": [
-
-
-    ], 
+    ],
     "761": [
-        "Arellano Felix", 
+        "Arellano Felix",
         "Ismael Higuera Guerrero"
-    ], 
-    "2419": [
-
-
-    ], 
+    ],
     "763": [
-        "Javier", 
-        "Ramon", 
+        "Javier",
+        "Ramon",
         "Ismael"
-    ], 
-    "2813": [
-
-
-    ], 
+    ],
     "766": [
         "Arellano Felix"
-    ], 
+    ],
     "767": [
-        "Ramon", 
+        "Ramon",
         "Ismael"
-    ], 
+    ],
     "769": [
-        "Ramon", 
+        "Ramon",
         "Ismael"
-    ], 
+    ],
     "2818": [
         "Garcia Luna"
-    ], 
+    ],
     "4731": [
         "Miguel Hidalgo"
-    ], 
-    "2821": [
-
-
-    ], 
+    ],
     "775": [
-        "Juan Jesus Posadas Ocampo", 
-
-    ], 
+        "Juan Jesus Posadas Ocampo"
+    ],
     "777": [
-        "Arellano Felix", 
-
+        "Arellano Felix",
         "Chapo Guzman"
-    ], 
+    ],
     "2801": [
         "Garcia Luna"
-    ], 
+    ],
     "779": [
-        "Ramon", 
+        "Ramon",
         "David Barron Corona"
-    ], 
+    ],
     "783": [
         "Arellano Felix"
-    ], 
+    ],
     "787": [
-        "Vicente", 
-        "General", 
-
-    ], 
+        "Vicente"
+    ],
     "2836": [
-
-        "Edgar Valdez Villarreal", 
+        "Edgar Valdez Villarreal",
         "Barbie"
-    ], 
+    ],
     "4527": [
-
         "Felipe Calderon"
-    ], 
+    ],
     "2838": [
-        "Calderon", 
-
-    ], 
-    "803": [
-
-        "General", 
-
-    ], 
+        "Calderon"
+    ],
     "4664": [
-        "Felipe Calderon", 
-
+        "Felipe Calderon",
         "Cardenas Guillen"
-    ], 
-    "810": [
-
-
-
-
-    ], 
-    "814": [
-
-
-
-
-
-    ], 
+    ],
     "2866": [
         "Garcia Luna"
-    ], 
+    ],
     "2867": [
-        "Garcia Luna", 
+        "Garcia Luna",
         "Calderon"
-    ], 
-    "3209": [
-
-
-    ], 
+    ],
     "825": [
         "Felipe Calderon"
-    ], 
-    "829": [
-
-        "Nogales", 
-        "Nuevo Laredo"
-    ], 
+    ],
     "2879": [
-        "Pascual", 
+        "Pascual",
         "Calderon"
-    ], 
+    ],
     "2884": [
-
         "Calderon"
-    ], 
-    "2885": [
-
-
-    ], 
-    "838": [
-
-
-
-    ], 
+    ],
     "2887": [
-        "Alberto Cardenas Jimenez", 
+        "Alberto Cardenas Jimenez",
         "Jesus Reyes"
-    ], 
+    ],
     "2889": [
-
         "Calderon"
-    ], 
+    ],
     "852": [
         "Arellano Felix"
-    ], 
+    ],
     "853": [
-        "Tesoro", 
-
         "Diego"
-    ], 
+    ],
     "857": [
-        "Arellano Felix", 
-        "Ismael Higuera Guerrero", 
+        "Arellano Felix",
+        "Ismael Higuera Guerrero",
         "Arturo Paez Martinez"
-    ], 
+    ],
     "858": [
-        "David", 
-        "Robert", 
+        "David",
+        "Robert",
         "Paez Martinez"
-    ], 
+    ],
     "860": [
-        "Seis", 
-        "Paez", 
-
-    ], 
+        "Paez"
+    ],
     "863": [
         "Arellano Felix"
-    ], 
+    ],
     "867": [
-        "Diego", 
-        "Higuera Guerrero", 
+        "Diego",
+        "Higuera Guerrero",
         "Paez Martinez"
-    ], 
+    ],
     "2917": [
         "Arturo Beltran Leyva"
-    ], 
+    ],
     "2918": [
         "Valdez Villarreal"
-    ], 
+    ],
     "3575": [
-
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2921": [
-        "Valdez", 
-
-    ], 
+        "Valdez"
+    ],
     "4583": [
-        "Edgar Valdez Villarreal", 
+        "Edgar Valdez Villarreal",
         "Barbie"
-    ], 
+    ],
     "3166": [
-
         "Chavez"
-    ], 
+    ],
     "878": [
         "Benjamin Arellano Felix"
-    ], 
+    ],
     "879": [
         "Arturo Paez"
-    ], 
+    ],
     "2929": [
-        "Valdez", 
-        "Montemayor", 
+        "Valdez",
+        "Montemayor",
         "Arturo Beltran Leyva"
-    ], 
+    ],
     "2930": [
-        "Barbie", 
-
-    ], 
+        "Barbie"
+    ],
     "884": [
-        "Paez", 
+        "Paez",
         "Arellano Felix"
-    ], 
+    ],
     "2933": [
         "Juan Montemayor"
-    ], 
+    ],
     "887": [
         "Arellano Felix"
-    ], 
+    ],
     "890": [
-        "Paez", 
-
-    ], 
+        "Paez"
+    ],
     "2797": [
         "Genaro Garcia Luna"
-    ], 
+    ],
     "893": [
         "Arellano Felix"
-    ], 
+    ],
     "894": [
-        "Ramon", 
-        "Benjamin", 
-
-    ], 
+        "Ramon",
+        "Benjamin"
+    ],
     "896": [
-        "Paez", 
+        "Paez",
         "Arellano Felix"
-    ], 
+    ],
     "897": [
         "Arellano Felix"
-    ], 
+    ],
     "899": [
-        "Varios", 
         "Arellano Felix"
-    ], 
-    "3222": [
-
-
-    ], 
+    ],
     "2950": [
-        "Barbie", 
-
-
-    ], 
+        "Barbie"
+    ],
     "905": [
-        "Paez", 
+        "Paez",
         "Diego"
-    ], 
-    "4190": [
-
-
-    ], 
+    ],
     "2957": [
-        "Valdez", 
-
+        "Valdez",
         "Lomas"
-    ], 
+    ],
     "913": [
-        "General", 
         "Richard"
-    ], 
+    ],
     "2962": [
-        "Barbie", 
-
-    ], 
+        "Barbie"
+    ],
     "915": [
         "Edgar Allan"
-    ], 
+    ],
     "917": [
-        "Ford", 
+        "Ford",
         "Nelson"
-    ], 
+    ],
     "918": [
-        "Ford", 
+        "Ford",
         "Blanco"
-    ], 
-    "2971": [
-
-
-    ], 
-    "3293": [
-
-
-
-    ], 
-    "929": [
-
-
-    ], 
-    "2979": [
-
-
-    ], 
+    ],
     "933": [
-        "Bourne", 
-
-        "Bourne", 
+        "Bourne",
+        "Bourne",
         "Carter"
-    ], 
-    "934": [
-
-    ], 
-    "2827": [
-
-
-
-    ], 
-    "3509": [
-        "Arabia", 
-
-    ], 
+    ],
     "4281": [
-        "Bush", 
-
-    ], 
+        "Bush"
+    ],
     "3460": [
         "Zambada Niebla"
-    ], 
-    "941": [
-        "Durante", 
-
-
-
-
-    ], 
+    ],
     "3100": [
-        "Miguel Angel", 
-
-    ], 
+        "Miguel Angel"
+    ],
     "943": [
-        "Marshall", 
-
-    ], 
+        "Marshall"
+    ],
     "4166": [
-        "Virgen", 
-        "Guadalupe", 
         "Villa"
-    ], 
-    "949": [
-
-
-
-
-    ], 
+    ],
     "959": [
-        "Paez", 
+        "Paez",
         "Arellano Felix"
-    ], 
+    ],
     "960": [
         "Arellano Felix"
-    ], 
+    ],
     "968": [
-        "Jesus Labra Aviles", 
+        "Jesus Labra Aviles",
         "Manuel Aguirre Galindo"
-    ], 
+    ],
     "4533": [
-        "Calderon", 
-        "Nieto", 
-
-    ], 
+        "Calderon",
+        "Nieto"
+    ],
     "970": [
         "Ismael Higuera Guerrero"
-    ], 
+    ],
     "971": [
         "Arturo Paez Martinez"
-    ], 
+    ],
     "973": [
-        "Robert", 
+        "Robert",
         "Diego"
-    ], 
+    ],
     "974": [
-        "Paez", 
-        "Arellano Felix", 
+        "Paez",
+        "Arellano Felix",
         "Arellano Felix"
-    ], 
-    "3023": [
-
-    ], 
+    ],
     "977": [
-
-        "Arellano Felix", 
-
-    ], 
+        "Arellano Felix"
+    ],
     "978": [
-
         "Benjamin"
-    ], 
+    ],
     "979": [
         "Jesus Labra Aviles"
-    ], 
+    ],
     "983": [
-        "Paez", 
-        "Juan Jesus Posadas Ocampo", 
-        "Benjamin", 
-        "Jesus Labra Aviles", 
-        "Manuel Aguirre Galindo", 
-        "Leon Aragon", 
-
-    ], 
+        "Paez",
+        "Juan Jesus Posadas Ocampo",
+        "Benjamin",
+        "Jesus Labra Aviles",
+        "Manuel Aguirre Galindo",
+        "Leon Aragon"
+    ],
     "985": [
-        "Paez", 
-
-    ], 
+        "Paez"
+    ],
     "986": [
-        "Luis", 
-        "Liebano Saenz", 
+        "Luis",
+        "Liebano Saenz",
         "Ernesto Zedillo"
-    ], 
+    ],
     "988": [
         "Liebano Saenz"
-    ], 
+    ],
     "3237": [
-        "Joaquin", 
+        "Joaquin",
         "Chapo Guzman Loera"
-    ], 
+    ],
     "3920": [
-        "Calderon", 
+        "Calderon",
         "Joseph"
-    ], 
+    ],
     "993": [
-
-
-
-        "Diego", 
+        "Diego",
         "Francisco"
-    ], 
+    ],
     "3579": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3045": [
-
-        "Calderon", 
-        "Patricia Espinosa", 
-
-
+        "Calderon",
+        "Patricia Espinosa",
         "Julian Ventura"
-    ], 
+    ],
     "998": [
-        "Arellano Felix", 
-        "Amado Carrillo Fuentes", 
-        "Se\u00f1or", 
+        "Arellano Felix",
+        "Amado Carrillo Fuentes",
+        "Se\u00f1or",
         "Cielos"
-    ], 
+    ],
     "1000": [
-        "Angel Gonzalez", 
+        "Angel Gonzalez",
         "Emilio Varela"
-    ], 
+    ],
     "2420": [
-
-
-        "Benito Juarez", 
-
-    ], 
+        "Benito Juarez"
+    ],
     "3050": [
-
-        "Calderon", 
-        "Palacio"
-    ], 
+        "Calderon"
+    ],
     "3051": [
-        "Naranjo", 
-
-    ], 
+        "Naranjo"
+    ],
     "3052": [
-        "Naranjo", 
-
-    ], 
-    "1005": [
-        "General", 
-        "Alto"
-    ], 
+        "Naranjo"
+    ],
     "3055": [
-        "Naranjo", 
+        "Naranjo",
         "Garcia"
-    ], 
+    ],
     "3034": [
         "Carlos Pascual"
-    ], 
+    ],
     "1009": [
-        "Diego", 
+        "Diego",
         "Robert"
-    ], 
+    ],
     "3058": [
-        "Luna", 
-
-    ], 
+        "Luna"
+    ],
     "3059": [
-        "Naranjo", 
+        "Naranjo",
         "Garcia Luna"
-    ], 
-    "1013": [
-
-
-    ], 
+    ],
     "3062": [
-        "Gutierrez", 
-
-        "Francisco Navarro", 
-        "Gerardo Garay", 
-        "Mario Velarde", 
+        "Gutierrez",
+        "Francisco Navarro",
+        "Gerardo Garay",
+        "Mario Velarde",
         "Garcia Luna"
-    ], 
+    ],
     "3063": [
-        "Gutierrez", 
-
-    ], 
+        "Gutierrez"
+    ],
     "3064": [
         "Garcia Luna"
-    ], 
+    ],
     "3065": [
-
         "Calderon"
-    ], 
+    ],
     "3066": [
-        "Calderon", 
-        "Pascual", 
+        "Calderon",
+        "Pascual",
         "Garcia Luna"
-    ], 
+    ],
     "2559": [
-        "Alvaro Uribe", 
-        "Palacio", 
-        "Calderon", 
-        "Cortazar", 
-        "Arturo", 
-        "Juan Camilo", 
+        "Alvaro Uribe",
+        "Calderon",
+        "Cortazar",
+        "Arturo",
+        "Juan Camilo",
         "Mayor"
-    ], 
+    ],
     "4262": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "2560": [
-        "Cesar", 
-        "Alfonso Lopez", 
+        "Cesar",
+        "Alfonso Lopez",
         "Belisario Betancourt"
-    ], 
-    "3081": [
-
-
-    ], 
-    "1034": [
-
-
-    ], 
+    ],
     "3083": [
         "Raul Bencomo"
-    ], 
+    ],
     "1036": [
-        "Cinco", 
-
-        "Felipe Calderon", 
-
-    ], 
+        "Felipe Calderon"
+    ],
     "3086": [
         "Eduardo Ramirez Peyro"
-    ], 
+    ],
     "1040": [
-
-        "George", 
-        "Bush", 
+        "George Bush",
         "Calderon"
-    ], 
+    ],
     "3090": [
-        "Ramirez Peyro", 
-
+        "Ramirez Peyro",
         "Vicente Carrillo Fuentes"
-    ], 
+    ],
     "3092": [
         "Ramirez Peyro"
-    ], 
+    ],
     "3093": [
         "Carrillo Fuentes"
-    ], 
+    ],
     "3095": [
-        "Ramirez Peyro", 
-
-        "Heriberto Santillan", 
+        "Ramirez Peyro",
+        "Heriberto Santillan",
         "Carrillo Fuentes"
-    ], 
+    ],
     "3097": [
         "Rogelio Villarreal"
-    ], 
+    ],
     "3098": [
-
-        "Ginger Thompson", 
-        "Villarreal", 
-        "Jose", 
+        "Ginger Thompson",
+        "Villarreal",
+        "Jose",
         "Miguel Angel"
-    ], 
+    ],
     "1052": [
         "Manuel Perez Rocha"
-    ], 
+    ],
     "4613": [
         "Sergio Aguayo"
-    ], 
+    ],
     "1058": [
         "Aranda Servin"
-    ], 
+    ],
     "4614": [
-        "Herrera", 
-        "Cuarto"
-    ], 
+        "Herrera"
+    ],
     "1062": [
         "Victor Manuel Perez Rocha"
-    ], 
+    ],
     "1063": [
-        "Miranda", 
-        "Salas", 
-        "Rafa Leal", 
+        "Miranda",
+        "Salas",
+        "Rafa Leal",
         "Equis"
-    ], 
-    "1064": [
-
-
-    ], 
+    ],
     "4615": [
-        "Xicotencatl Ramirez", 
+        "Xicotencatl Ramirez",
         "Xico"
-    ], 
+    ],
     "2226": [
-        "Mueller", 
-
-    ], 
+        "Mueller"
+    ],
     "1072": [
-
-
-
         "Alvarado"
-    ], 
+    ],
     "1073": [
-        "Rafa Diaz", 
-        "Poza", 
+        "Rafa Diaz",
+        "Poza",
         "Cesareo"
-    ], 
-    "2627": [
-
-
-    ], 
+    ],
     "1076": [
-        "Miranda", 
+        "Miranda",
         "Salas"
-    ], 
-    "3934": [
-
-
-    ], 
+    ],
     "4673": [
-        "Villas", 
-
-    ], 
+        "Villas"
+    ],
     "2569": [
-        "Calderon", 
-
-    ], 
-    "3128": [
-        "Manuel", 
-        "Loya", 
-        "Chapo Guzman"
-    ], 
-    "3130": [
-        "Dennis", 
-        "Palacio", 
         "Calderon"
-    ], 
+    ],
+    "3128": [
+        "Manuel",
+        "Loya",
+        "Chapo Guzman"
+    ],
+    "3130": [
+        "Dennis",
+        "Calderon"
+    ],
     "2229": [
-        "Estrella", 
-        "Corazon", 
+        "Estrella",
+        "Corazon",
         "Cruz"
-    ], 
+    ],
     "1090": [
         "Lalo Reyes"
-    ], 
+    ],
     "2571": [
-        "Tandy", 
-
-    ], 
+        "Tandy"
+    ],
     "3446": [
-        "Zambada Niebla", 
-
-    ], 
+        "Zambada Niebla"
+    ],
     "3144": [
-        "Vicente Zambada Niebla", 
-
-        "Canicon Najera", 
-        "Huerta", 
-        "Beltran Leyva", 
-        "Raymundo", 
-        "Almanza", 
-        "Gregorio", 
+        "Vicente Zambada Niebla",
+        "Canicon Najera",
+        "Huerta",
+        "Beltran Leyva",
+        "Raymundo",
+        "Almanza",
+        "Gregorio",
         "Sauceda"
-    ], 
+    ],
     "2572": [
         "Juan Manuel Santos"
-    ], 
+    ],
     "3148": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "1102": [
-        "George", 
-        "Bush", 
+        "George Bush",
         "Calderon"
-    ], 
-    "2394": [
-
-
-    ], 
+    ],
     "1105": [
-        "Calderon", 
-
-    ], 
-    "4674": [
-        "Carlos Pascual", 
         "Calderon"
-    ], 
+    ],
+    "4674": [
+        "Carlos Pascual",
+        "Calderon"
+    ],
     "1109": [
-
         "Bush"
-    ], 
-    "1111": [
-        "Durante", 
-
-
-    ], 
+    ],
     "3160": [
-        "Hugo Chavez", 
-
-    ], 
+        "Hugo Chavez"
+    ],
     "4265": [
-
         "Barret"
-    ], 
+    ],
     "1114": [
-        "Calderon", 
-
-    ], 
-    "1118": [
-
-
-    ], 
+        "Calderon"
+    ],
     "3168": [
-
         "Chavez"
-    ], 
+    ],
     "1123": [
-        "Ernesto Zedillo", 
-
-    ], 
+        "Ernesto Zedillo"
+    ],
     "1124": [
-        "Miguel Ruiz", 
-        "Alto"
-    ], 
-    "3174": [
-        "Colegio", 
-        "Guerra"
-    ], 
+        "Miguel Ruiz"
+    ],
     "1127": [
-
         "Jorge Madrazo"
-    ], 
+    ],
     "1128": [
-
         "Madrazo"
-    ], 
+    ],
     "2236": [
-        "Mueller", 
-
-    ], 
-    "3799": [
-
-    ], 
-    "3179": [
-
-
-    ], 
+        "Mueller"
+    ],
     "3181": [
-        "Como", 
-        "Arturo", 
-
-
-    ], 
+        "Arturo"
+    ],
     "2237": [
-
-
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "1137": [
         "George Bush"
-    ], 
+    ],
     "3186": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "3187": [
-
-        "Dennis", 
-        "Victor", 
-
-    ], 
-    "3188": [
-
-    ], 
+        "Dennis",
+        "Victor"
+    ],
     "1143": [
-        "Calderon", 
-
-    ], 
-    "1145": [
-        "Calderon", 
-
-    ], 
-    "4287": [
-
-
-    ], 
-    "3196": [
-
-
-        "Scott", 
-        "Casablanca", 
-        "Guerra Fria"
-    ], 
-    "1149": [
-        "Palacio", 
-        "Lazaro", 
         "Calderon"
-    ], 
+    ],
+    "1145": [
+        "Calderon"
+    ],
+    "3196": [
+        "Scott",
+        "Casablanca"
+    ],
+    "1149": [
+        "Lazaro",
+        "Calderon"
+    ],
     "3198": [
-        "Scott", 
-        "Mateos", 
+        "Scott",
+        "Mateos",
         "Diaz Ordaz"
-    ], 
-    "3200": [
-        "Guerra Fria"
-    ], 
-    "3202": [
-
-        "Berlin"
-    ], 
+    ],
     "3204": [
-
-
-
         "Libia"
-    ], 
+    ],
     "3721": [
-        "Calderon", 
+        "Calderon",
         "Nieto"
-    ], 
+    ],
     "1161": [
-        "Genaro Garcia Luna", 
+        "Genaro Garcia Luna",
         "Eduardo"
-    ], 
+    ],
     "1165": [
-
         "Garcia Luna"
-    ], 
+    ],
     "1169": [
-
         "Andre Breton"
-    ], 
-    "3218": [
-        "General", 
-
-    ], 
+    ],
     "3219": [
-
-        "Ernesto Zedillo", 
-
-        "Vicente", 
-        "Quesada", 
-
-    ], 
+        "Ernesto Zedillo",
+        "Vicente",
+        "Quesada"
+    ],
     "1172": [
-        "Garcia Luna", 
-
-    ], 
+        "Garcia Luna"
+    ],
     "2926": [
-        "Carlos Montemayor", 
-        "Ruben Hernandez", 
-        "Juan Montemayor", 
+        "Carlos Montemayor",
+        "Ruben Hernandez",
+        "Juan Montemayor",
         "Roberto Lopez"
-    ], 
-    "1174": [
-
-        "Caminos"
-    ], 
+    ],
     "1175": [
-        "Luis Antonio", 
-
-    ], 
-    "3224": [
-        "Guerra Fria"
-    ], 
+        "Luis Antonio"
+    ],
     "3268": [
         "Chapo Guzman"
-    ], 
+    ],
     "1178": [
-
         "Francisco Castillo"
-    ], 
+    ],
     "3951": [
-        "Carlos Pascual", 
-
-    ], 
-    "1181": [
-
-
-        "Caminos"
-    ], 
+        "Carlos Pascual"
+    ],
     "1182": [
-        "Guzman", 
-
-    ], 
-    "4472": [
-
-
-    ], 
+        "Guzman"
+    ],
     "1186": [
-        "General", 
-
         "Vicente"
-    ], 
+    ],
     "1189": [
-        "Arturo Gonzalez Rodriguez", 
-        "Beltran Leyva", 
+        "Arturo Gonzalez Rodriguez",
+        "Beltran Leyva",
         "Calderon"
-    ], 
-    "3246": [
-
-
-    ], 
+    ],
     "3254": [
         "Chapo Guzman"
-    ], 
-    "3256": [
-
-
-    ], 
+    ],
     "1211": [
         "Garcia Luna"
-    ], 
+    ],
     "3450": [
-
         "Zambada Niebla"
-    ], 
+    ],
     "1215": [
-
         "Vicente"
-    ], 
-    "3265": [
-
-
-
-
-    ], 
-    "1218": [
-
-        "General"
-    ], 
+    ],
     "1220": [
-        "Calderon", 
+        "Calderon",
         "Bush"
-    ], 
-    "4666": [
-
-
-    ], 
+    ],
     "3271": [
         "Arturo Beltran Leyva"
-    ], 
+    ],
     "4300": [
-
         "Calderon"
-    ], 
-    "3281": [
-
-
-    ], 
+    ],
     "3282": [
-
         "Beltran Leyva"
-    ], 
+    ],
     "2254": [
-        "Mueller", 
+        "Mueller",
         "Garcia Luna"
-    ], 
+    ],
     "3286": [
         "Jorge Tello Peon"
-    ], 
+    ],
     "3288": [
-
         "Calderon"
-    ], 
+    ],
     "3290": [
         "Tello Peon"
-    ], 
+    ],
     "4303": [
-        "Morales", 
-
-    ], 
+        "Morales"
+    ],
     "3292": [
-        "Galvan", 
+        "Galvan",
         "Chapo Guzman"
-    ], 
+    ],
     "1245": [
-        "Genaro Garcia Luna", 
-
-    ], 
+        "Genaro Garcia Luna"
+    ],
     "1247": [
         "Garcia Luna"
-    ], 
+    ],
     "1248": [
-        "Patricio", 
-        "Arias", 
-        "Francisco Niembro", 
+        "Patricio",
+        "Arias",
+        "Francisco Niembro",
         "Alejandro Rubido"
-    ], 
+    ],
     "1249": [
-        "Garcia Luna", 
-
-    ], 
+        "Garcia Luna"
+    ],
     "3298": [
         "Chapo Guzman"
-    ], 
-    "1254": [
-
-        "Nuevo Laredo", 
-
-    ], 
+    ],
     "4305": [
-        "Calderon", 
-
-    ], 
-    "1256": [
-
-        "Guillermo Galvan", 
-        "Francisco Saynez", 
-        "Garcia Luna"
-    ], 
-    "3305": [
-
-
-    ], 
-    "1258": [
-
-        "Beltran Leyva"
-    ], 
-    "3309": [
-        "Guerra", 
-
-
-    ], 
-    "3310": [
-        "Guerra Fria"
-    ], 
-    "1264": [
-        "Bush", 
-        "Calderon", 
-
-    ], 
-    "3314": [
-        "Manuel Antonio Noriega", 
-        "Omar Torrijos", 
-
-        "Leopoldo", 
-
-        "Hugo"
-    ], 
-    "3315": [
-        "Escuela", 
-        "Salvador"
-    ], 
-    "3316": [
-        "Arnulfo Romero", 
-        "Alma", 
-
-
-    ], 
-    "3318": [
-
-        "Fuerte"
-    ], 
-    "1273": [
-        "Bush", 
         "Calderon"
-    ], 
-    "1275": [
-
-
-    ], 
-    "3325": [
-
-
-
-    ], 
+    ],
+    "1256": [
+        "Guillermo Galvan",
+        "Francisco Saynez",
+        "Garcia Luna"
+    ],
+    "1258": [
+        "Beltran Leyva"
+    ],
+    "1264": [
+        "Bush",
+        "Calderon"
+    ],
+    "3314": [
+        "Manuel Antonio Noriega",
+        "Omar Torrijos",
+        "Leopoldo",
+        "Hugo"
+    ],
+    "3315": [
+        "Escuela",
+        "Salvador"
+    ],
+    "3316": [
+        "Arnulfo Romero",
+        "Alma"
+    ],
+    "3318": [
+        "Fuerte"
+    ],
+    "1273": [
+        "Bush",
+        "Calderon"
+    ],
     "3326": [
-        "Victor", 
-
+        "Victor",
         "Galvan"
-    ], 
+    ],
     "3285": [
-
-
         "Felipe Calderon"
-    ], 
+    ],
     "4651": [
-        "Calderon", 
-        "Bush", 
-
-    ], 
-    "3335": [
-
-
-    ], 
+        "Calderon",
+        "Bush"
+    ],
     "3336": [
-
         "Pascual"
-    ], 
+    ],
     "1292": [
-        "Calderon", 
-        "Bush", 
-
-    ], 
-    "4332": [
-
-
-    ], 
+        "Calderon",
+        "Bush"
+    ],
     "3343": [
-        "Diego", 
-
-    ], 
-    "3344": [
-        "Manuel", 
         "Diego"
-    ], 
+    ],
+    "3344": [
+        "Manuel",
+        "Diego"
+    ],
     "1299": [
         "Felipe Calderon"
-    ], 
+    ],
     "3351": [
-        "David", 
-
+        "David",
         "Arellano Felix"
-    ], 
-    "3353": [
-        "Hermosillo", 
-
-    ], 
-    "1306": [
-
-        "General"
-    ], 
-    "3355": [
-
-
-    ], 
+    ],
     "3356": [
-        "Loya", 
-        "Joaquin", 
+        "Loya",
+        "Joaquin",
         "Chapo Guzman"
-    ], 
+    ],
     "3357": [
-        "Loya", 
-        "Perez", 
-
-        "Chapo Guzman", 
-
-    ], 
+        "Loya",
+        "Perez",
+        "Chapo Guzman"
+    ],
     "3362": [
-        "Loya", 
+        "Loya",
         "Chapo"
-    ], 
+    ],
     "4657": [
         "Felipe Calderon"
-    ], 
-    "1322": [
-
-
-    ], 
-    "1323": [
-
-
-
-
-    ], 
+    ],
     "3373": [
-        "Manuel Fraga", 
-        "Loya", 
-
+        "Manuel Fraga",
+        "Loya",
         "Arturo Beltran Leyva"
-    ], 
+    ],
     "3374": [
-        "Loya", 
-
-    ], 
+        "Loya"
+    ],
     "1327": [
-
         "Bush"
-    ], 
+    ],
     "1328": [
-        "Thomas", 
-        "David", 
+        "Thomas",
+        "David",
         "Johnson"
-    ], 
+    ],
     "3377": [
-        "Tiempo", 
         "Chapo Guzman"
-    ], 
-    "1336": [
-
-
-
-    ], 
-    "1337": [
-
-    ], 
+    ],
     "3388": [
-        "Loya", 
-
-    ], 
+        "Loya"
+    ],
     "3389": [
         "Vicente Zambada Niebla"
-    ], 
+    ],
     "3391": [
-        "Loya", 
+        "Loya",
         "Zambada Niebla"
-    ], 
+    ],
     "3393": [
-
         "Loya"
-    ], 
+    ],
     "3395": [
-        "David", 
+        "David",
         "Arellano Felix"
-    ], 
+    ],
     "3396": [
-        "Loya", 
-        "Chapo Guzman", 
-        "Vicente Zambada Niebla", 
-        "Ismael", 
+        "Loya",
+        "Chapo Guzman",
+        "Vicente Zambada Niebla",
+        "Ismael",
         "Mayo Zambada"
-    ], 
+    ],
     "3398": [
         "Zambada Niebla"
-    ], 
+    ],
     "3400": [
-        "Manuel Fraga", 
-        "Mayo", 
-
+        "Manuel Fraga",
+        "Mayo",
         "Fraga"
-    ], 
+    ],
     "1353": [
-        "Engel", 
-        "George Bush", 
-
-    ], 
-    "1354": [
-
-
-    ], 
+        "Engel",
+        "George Bush"
+    ],
     "3403": [
-        "Loya", 
-
-    ], 
+        "Loya"
+    ],
     "3404": [
-        "Loya", 
+        "Loya",
         "Zambada Niebla"
-    ], 
+    ],
     "2274": [
-        "Galvan", 
+        "Galvan",
         "Garza"
-    ], 
+    ],
     "3409": [
-
         "Fraga"
-    ], 
+    ],
     "3412": [
         "Zambada Niebla"
-    ], 
+    ],
     "3417": [
-        "Zambada Niebla", 
+        "Zambada Niebla",
         "Mayo"
-    ], 
+    ],
     "3419": [
         "Zambada Niebla"
-    ], 
+    ],
     "1373": [
-        "Llamo", 
         "Patricia Espinosa"
-    ], 
+    ],
     "3422": [
         "Vicente Zambada Niebla"
-    ], 
+    ],
     "1376": [
-        "Navidad", 
         "Garza"
-    ], 
-    "1377": [
-
-
-    ], 
+    ],
     "4683": [
-        "Carlos Pascual", 
-        "Victor", 
-
-    ], 
+        "Carlos Pascual",
+        "Victor"
+    ],
     "2619": [
-        "Consejo", 
-
-
         "Pascual"
-    ], 
+    ],
     "1381": [
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "3430": [
         "Zambada Niebla"
-    ], 
+    ],
     "3432": [
         "Zambada Niebla"
-    ], 
-    "3433": [
-        "Fuentes", 
-        "Pedregal"
-    ], 
+    ],
     "1386": [
-        "Sawyer", 
-
-    ], 
+        "Sawyer"
+    ],
     "3439": [
-        "Zambada Niebla", 
-
-    ], 
+        "Zambada Niebla"
+    ],
     "3440": [
-
         "Mayo"
-    ], 
+    ],
     "3442": [
         "Zambada Niebla"
-    ], 
+    ],
     "3444": [
-        "Bajo", 
-        "Zambada", 
-
-        "Ismael", 
-        "Mayo Zambada", 
-        "Joaquin", 
+        "Zambada",
+        "Ismael",
+        "Mayo Zambada",
+        "Joaquin",
         "Chapo Guzman"
-    ], 
+    ],
     "1398": [
-        "Julian Zapata Espinoza", 
-
-    ], 
+        "Julian Zapata Espinoza"
+    ],
     "1399": [
-
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3448": [
-        "Loya", 
+        "Loya",
         "Chapo Guzman"
-    ], 
+    ],
     "1402": [
-        "Cinco", 
         "Felipe Calderon"
-    ], 
+    ],
     "4671": [
-        "Jesus Alfredo Guzman Salazar", 
+        "Jesus Alfredo Guzman Salazar",
         "Chapo Guzman"
-    ], 
+    ],
     "3452": [
         "Zambada Niebla"
-    ], 
+    ],
     "3454": [
         "Mayo Zambada"
-    ], 
+    ],
     "1408": [
-        "Julian Zapata", 
+        "Julian Zapata",
         "Jaime Zapata"
-    ], 
+    ],
     "1411": [
-        "Zapata", 
+        "Zapata",
         "Zapata"
-    ], 
+    ],
     "1412": [
         "Julian Zapata Espinoza"
-    ], 
-    "1413": [
-        "Cinco", 
-
-    ], 
+    ],
     "1415": [
-        "Calderon", 
-        "Zapata", 
-
+        "Calderon",
+        "Zapata",
         "Luis"
-    ], 
-    "1416": [
-
-    ], 
+    ],
     "1417": [
-        "Calderon", 
-        "Zapata", 
-
-    ], 
+        "Calderon",
+        "Zapata"
+    ],
     "3991": [
-        "Espinosa", 
-
-    ], 
+        "Espinosa"
+    ],
     "3468": [
-        "Zambada Niebla", 
-
-    ], 
+        "Zambada Niebla"
+    ],
     "1421": [
         "Julian Zapata Espinoza"
-    ], 
+    ],
     "1422": [
-
         "Luis"
-    ], 
+    ],
     "1424": [
-        "Zapata", 
-        "Enrique", 
-        "Camarena", 
-
-        "Rafael Caro Quintero", 
-
-    ], 
+        "Zapata",
+        "Enrique",
+        "Camarena",
+        "Rafael Caro Quintero"
+    ],
     "4139": [
-
         "Pascual"
-    ], 
+    ],
     "1427": [
-        "Zapata", 
-
-
-    ], 
+        "Zapata"
+    ],
     "3477": [
-        "Zambada Niebla", 
+        "Zambada Niebla",
         "Felipe Cabrera Sarabia"
-    ], 
-    "1430": [
-
-
-
-    ], 
+    ],
     "3652": [
-        "Pascual", 
+        "Pascual",
         "Calderon"
-    ], 
+    ],
     "1436": [
         "Felipe Calderon"
-    ], 
+    ],
     "1437": [
-        "George", 
-        "Bush"
-    ], 
-    "3653": [
-
-
-
-    ], 
+        "George Bush"
+    ],
     "4617": [
-        "Jorge", 
-        "Dudley", 
-        "Jose", 
-        "Olmos", 
-        "Diego Osorno", 
-        "Ernesto", 
-        "Silvia", 
-        "Benito Jimenez", 
+        "Jorge",
+        "Dudley",
+        "Jose",
+        "Olmos",
+        "Diego Osorno",
+        "Ernesto",
+        "Silvia",
+        "Benito Jimenez",
         "Victor Michel"
-    ], 
+    ],
     "3494": [
-        "Manuel", 
+        "Manuel",
         "Caso"
-    ], 
+    ],
     "1449": [
         "Chapo Guzman"
-    ], 
+    ],
     "1453": [
-        "Cardenas Guillen", 
-        "Juan Garcia Abrego", 
-        "Palma", 
-
-    ], 
-    "3502": [
-        "Vivia", 
-        "Rock", 
-        "Austin"
-    ], 
+        "Cardenas Guillen",
+        "Juan Garcia Abrego",
+        "Palma"
+    ],
     "1455": [
-
         "Cardenas Guillen"
-    ], 
+    ],
     "1457": [
         "Gilberto Higuera Guerrero"
-    ], 
+    ],
     "1459": [
-
         "Cardenas Guillen"
-    ], 
+    ],
     "1461": [
         "Cardenas Guillen"
-    ], 
+    ],
     "4681": [
-        "Arturo", 
-        "Victor", 
-
-    ], 
+        "Arturo",
+        "Victor"
+    ],
     "1464": [
-        "Ismael Higuera Guerrero", 
-        "Mayel", 
-        "Arellano Felix", 
-        "G\u00fcero Palma", 
-
-    ], 
+        "Ismael Higuera Guerrero",
+        "Mayel",
+        "Arellano Felix",
+        "G\u00fcero Palma"
+    ],
     "1465": [
         "Cardenas Guillen"
-    ], 
+    ],
     "1467": [
         "Cardenas Guillen"
-    ], 
-    "4682": [
-        "Durante", 
-        "Mexicano"
-    ], 
-    "3519": [
-        "Arabia", 
-
-    ], 
+    ],
     "1474": [
-
         "Cardenas Guillen"
-    ], 
+    ],
     "4585": [
-
         "Beltran Leyva"
-    ], 
+    ],
     "1476": [
-        "Delgado", 
-
-    ], 
+        "Delgado"
+    ],
     "1479": [
-        "Cardenas Guillen", 
+        "Cardenas Guillen",
         "Calderon"
-    ], 
+    ],
     "4684": [
         "Carlos Pascual"
-    ], 
-    "4309": [
-
-
-    ], 
+    ],
     "4156": [
-        "Grandes", 
-        "Arturo Beltran", 
-        "Garcia", 
-        "Ignacio Coronel", 
-        "Grande Barragan", 
-        "Edgar", 
+        "Arturo Beltran",
+        "Garcia",
+        "Ignacio Coronel",
+        "Grande Barragan",
+        "Edgar",
         "Barbie Valdez"
-    ], 
+    ],
     "1489": [
-
         "Calderon"
-    ], 
+    ],
     "1491": [
         "Juan Camilo"
-    ], 
+    ],
     "1492": [
         "Maximiliano Cortazar"
-    ], 
+    ],
     "4005": [
-        "Espinosa", 
-
-    ], 
+        "Espinosa"
+    ],
     "1498": [
-
         "Calderon"
-    ], 
+    ],
     "1499": [
-        "Garza", 
-        "George", 
-        "Bush", 
-
-    ], 
+        "Garza",
+        "George Bush"
+    ],
     "1501": [
-        "Calderon", 
-        "Garza", 
-
-    ], 
+        "Calderon",
+        "Garza"
+    ],
     "1503": [
-        "Bush", 
-
-    ], 
+        "Bush"
+    ],
     "4619": [
-        "Gabriel Garcia Marquez", 
-        "Tomas", 
-        "Martinez", 
+        "Gabriel Garcia Marquez",
+        "Tomas",
+        "Martinez",
         "Julio Villanueva Chang"
-    ], 
+    ],
     "4047": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "4347": [
-        "Virginia", 
-
-
-    ], 
+        "Virginia"
+    ],
     "1510": [
-        "Garza", 
-
+        "Garza",
         "Andres Manuel Lopez Obrador"
-    ], 
-    "4689": [
-
-    ], 
+    ],
     "1512": [
-        "Laura", 
-        "Bush", 
-
-    ], 
+        "Laura",
+        "Bush"
+    ],
     "1514": [
         "Lopez Portillo"
-    ], 
+    ],
     "4690": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "1520": [
-        "Calderon", 
-        "Garza", 
-
-    ], 
+        "Calderon",
+        "Garza"
+    ],
     "1521": [
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "1522": [
-        "Calderon", 
+        "Calderon",
         "Arturo"
-    ], 
+    ],
     "1525": [
         "Alvaro Uribe"
-    ], 
+    ],
     "1527": [
-        "Garza", 
+        "Garza",
         "Hugo Chavez"
-    ], 
+    ],
     "1528": [
-        "Fidel Castro", 
-        "Chavez", 
-
-    ], 
+        "Fidel Castro",
+        "Chavez"
+    ],
     "2233": [
-        "Mueller", 
-        "George", 
-        "Bush"
-    ], 
+        "Mueller",
+        "George Bush"
+    ],
     "1530": [
-        "Garza", 
-        "Fidel Castro", 
+        "Garza",
+        "Fidel Castro",
         "Raul"
-    ], 
+    ],
     "1531": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3581": [
-        "Villas", 
-
-    ], 
+        "Villas"
+    ],
     "4620": [
         "Manuel Larios"
-    ], 
+    ],
     "1535": [
-        "Garza", 
-        "Calderon", 
-        "Calderon", 
-        "Garza", 
-
-    ], 
+        "Garza",
+        "Calderon",
+        "Calderon",
+        "Garza"
+    ],
     "3585": [
-        "Jose Antonio Acosta Hernandez", 
-        "Blablazo", 
-
-
-
-
-    ], 
+        "Jose Antonio Acosta Hernandez",
+        "Blablazo"
+    ],
     "1538": [
-        "Calderon", 
-        "Garza", 
+        "Calderon",
+        "Garza",
         "Margarita Zavala"
-    ], 
+    ],
     "1539": [
         "Marta Sahagun"
-    ], 
+    ],
     "1540": [
-        "Calderon", 
+        "Calderon",
         "Garza"
-    ], 
+    ],
     "3589": [
-
         "Villas"
-    ], 
+    ],
     "4661": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3591": [
         "Acosta Hernandez"
-    ], 
+    ],
     "1545": [
-        "Calderon", 
+        "Calderon",
         "Garza"
-    ], 
-    "1546": [
-        "Tesoro", 
-
-    ], 
-    "3598": [
-
-
-    ], 
+    ],
     "3603": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3604": [
-
-        "Carlos Pascual", 
+        "Carlos Pascual",
         "Villas"
-    ], 
+    ],
     "1560": [
-        "Jeffrey", 
-
-        "Vicente", 
-
-
-    ], 
+        "Jeffrey",
+        "Vicente"
+    ],
     "3610": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "3612": [
-        "Pascual", 
-
-        "Genaro Garcia Luna", 
-
+        "Pascual",
+        "Genaro Garcia Luna",
         "Galvan"
-    ], 
+    ],
     "3613": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3614": [
-
         "Villas"
-    ], 
+    ],
     "3619": [
-        "Calderon", 
-
-
-    ], 
+        "Calderon"
+    ],
     "3622": [
-        "Maria Davila", 
+        "Maria Davila",
         "Villas"
-    ], 
+    ],
     "1586": [
-        "Calderon", 
+        "Calderon",
         "Bush"
-    ], 
+    ],
     "2670": [
-        "Ricardo Almanza", 
-        "Juan Arturo Esparza Garcia", 
-        "Garcia", 
-
-    ], 
+        "Ricardo Almanza",
+        "Juan Arturo Esparza Garcia",
+        "Garcia"
+    ],
     "1589": [
-        "Garza", 
-
+        "Garza",
         "Calderon"
-    ], 
-    "3638": [
-        "Diez", 
-
-    ], 
+    ],
     "2313": [
-        "Millan Gomez", 
-
-    ], 
-    "3641": [
-        "Consejo", 
-
-    ], 
+        "Millan Gomez"
+    ],
     "3642": [
-
         "Pascual"
-    ], 
+    ],
     "3643": [
-        "Pascual", 
+        "Pascual",
         "Calderon"
-    ], 
+    ],
     "1597": [
-        "Calderon", 
+        "Calderon",
         "Zavala"
-    ], 
+    ],
     "1599": [
-        "Palacio", 
         "Ruiz"
-    ], 
-    "3649": [
-
-
-    ], 
+    ],
     "1602": [
-        "Berlin", 
         "Calderon"
-    ], 
+    ],
     "3651": [
-        "Pascual", 
-        "Star"
-    ], 
+        "Pascual"
+    ],
     "1604": [
-
-        "Calderon", 
-
-    ], 
-    "1605": [
-
-
-    ], 
+        "Calderon"
+    ],
     "4517": [
-        "Enrique", 
+        "Enrique",
         "Nieto"
-    ], 
+    ],
     "1611": [
-        "Angela", 
+        "Angela",
         "Cristiana"
-    ], 
+    ],
     "4706": [
-        "Miguel Hidalgo", 
-
-    ], 
+        "Miguel Hidalgo"
+    ],
     "4024": [
-        "Pascual", 
-
-    ], 
-    "3666": [
-
-
-
-    ], 
+        "Pascual"
+    ],
     "3667": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3671": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3673": [
-        "Ernesto Cordero", 
-        "Hacienda", 
-        "Tesoro"
-    ], 
-    "3675": [
-        "Cordero", 
-
+        "Ernesto Cordero",
         "Hacienda"
-    ], 
+    ],
+    "3675": [
+        "Cordero",
+        "Hacienda"
+    ],
     "1636": [
-        "Calderon", 
+        "Calderon",
         "Manuel Avila"
-    ], 
+    ],
     "1639": [
-        "Calderon", 
-
-
-    ], 
-    "3691": [
-
-
-    ], 
+        "Calderon"
+    ],
     "1655": [
-
         "Calderon"
-    ], 
-    "1656": [
-
-    ], 
+    ],
     "1657": [
-        "Garza", 
+        "Garza",
         "Andres Manuel Lopez Obrador"
-    ], 
-    "3706": [
-        "Fiesta", 
-
-    ], 
+    ],
     "1659": [
-        "Garza", 
-        "Calderon", 
+        "Garza",
+        "Calderon",
         "Lopez Obrador"
-    ], 
-    "4556": [
-
-
-    ], 
+    ],
     "3709": [
-        "Ford", 
-        "Carlos Pascual", 
-        "Eduardo Serrano", 
-        "Ford Mexico", 
-        "Gerardo Ruiz Mateos", 
-        "Fiesta", 
-        "Enrique", 
+        "Ford",
+        "Carlos Pascual",
+        "Eduardo Serrano",
+        "Ford Mexico",
+        "Gerardo Ruiz Mateos",
+        "Enrique",
         "Nieto"
-    ], 
+    ],
     "1665": [
-        "George", 
-        "Bush", 
-
-    ], 
+        "George Bush"
+    ],
     "3714": [
-        "Ford", 
-        "Pascual", 
+        "Ford",
+        "Pascual",
         "Felipe Calderon"
-    ], 
+    ],
     "1668": [
-        "Guillermo Galvan", 
+        "Guillermo Galvan",
         "Mayor"
-    ], 
+    ],
     "3717": [
-        "Carlos Pascual", 
-        "Gerardo Ruiz Mateos", 
+        "Carlos Pascual",
+        "Gerardo Ruiz Mateos",
         "Nieto"
-    ], 
-    "1670": [
-        "Colegio", 
-        "Guerra"
-    ], 
+    ],
     "1671": [
-        "Galvan", 
+        "Galvan",
         "Calderon"
-    ], 
+    ],
     "1673": [
-        "Mariano Francisco Saynez Mendoza", 
-
-
-    ], 
+        "Mariano Francisco Saynez Mendoza"
+    ],
     "1676": [
-
-        "Calderon", 
-
-    ], 
-    "4402": [
-
-
-
-
-    ], 
+        "Calderon"
+    ],
     "3727": [
-        "Galvan", 
+        "Galvan",
         "Garcia Luna"
-    ], 
+    ],
     "4621": [
-        "Andres Ramirez", 
-        "Enrique Calderon", 
+        "Andres Ramirez",
+        "Enrique Calderon",
         "Ulises Benitez"
-    ], 
+    ],
     "3730": [
-        "Enrique", 
-        "Nieto", 
-
-
-    ], 
+        "Enrique",
+        "Nieto"
+    ],
     "3731": [
-        "Pascual", 
-
-        "Gabriela Rojas", 
-        "Francisco Rojas Gutierrez", 
-
-    ], 
+        "Pascual",
+        "Gabriela Rojas",
+        "Francisco Rojas Gutierrez"
+    ],
     "1684": [
         "Genaro Garcia Luna"
-    ], 
-    "1685": [
-
-
-    ], 
+    ],
     "1687": [
         "Garcia Luna"
-    ], 
+    ],
     "3736": [
-        "Pascual", 
-        "Gabriela Rojas", 
+        "Pascual",
+        "Gabriela Rojas",
         "Calderon"
-    ], 
+    ],
     "3737": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
-    "4719": [
-        "Collins", 
-        "Caballo", 
-        "Troya", 
-        "Lumen", 
-        "Plaza", 
-        "Rosa"
-    ], 
+    ],
     "1694": [
-
         "Calderon"
-    ], 
+    ],
     "4037": [
-        "Calderon", 
-
-    ], 
-    "1696": [
-
-        "Bush"
-    ], 
-    "1700": [
-
-
-    ], 
-    "1701": [
-        "Francisco Ramirez", 
         "Calderon"
-    ], 
-    "3750": [
-
-
-    ], 
-    "3752": [
-        "Margarita Zavala", 
-        "Felipe Calderon"
-    ], 
-    "3755": [
-        "Patricia Espinosa", 
-        "Julian Ventura", 
-
-
-        "Patricia Flores", 
-        "Ernesto Cordero", 
-        "Hacienda", 
-        "Fernando", 
-        "Arturo"
-    ], 
-    "1710": [
-
-
-        "Nuevo Mexico"
-    ], 
-    "1712": [
-
-
-    ], 
-    "1713": [
-        "Calderon", 
+    ],
+    "1696": [
         "Bush"
-    ], 
+    ],
+    "1701": [
+        "Francisco Ramirez",
+        "Calderon"
+    ],
+    "3752": [
+        "Margarita Zavala",
+        "Felipe Calderon"
+    ],
+    "3755": [
+        "Patricia Espinosa",
+        "Julian Ventura",
+        "Patricia Flores",
+        "Ernesto Cordero",
+        "Fernando Gómez-Mont",
+        "Arturo"
+    ],
+    "1710": [
+        "Nuevo Mexico"
+    ],
+    "1713": [
+        "Calderon",
+        "Bush"
+    ],
     "1714": [
         "Guillermo Valdes"
-    ], 
+    ],
     "1720": [
-        "Ramirez", 
-        "Calderon", 
-
-    ], 
+        "Ramirez",
+        "Calderon"
+    ],
     "1721": [
-        "Ramirez", 
-
+        "Ramirez",
         "Fidel Castro"
-    ], 
-    "1723": [
-
-
-    ], 
+    ],
     "3808": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "1726": [
-        "Guardia", 
-
-    ], 
+        "Guardia"
+    ],
     "1729": [
-
         "Colegio Americano"
-    ], 
+    ],
     "1733": [
-        "Luis", 
-        "Moreno", 
-
-    ], 
+        "Luis",
+        "Moreno"
+    ],
     "3782": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "1737": [
-        "Moreno", 
-
-
-    ], 
+        "Moreno"
+    ],
     "1739": [
-        "Moreno", 
-
-    ], 
+        "Moreno"
+    ],
     "1741": [
         "Pedro Garza"
-    ], 
-    "1742": [
-
-    ], 
+    ],
     "3021": [
-        "Daniel", 
-        "Arabia"
-    ], 
+        "Daniel"
+    ],
     "1746": [
         "Pedro Garza"
-    ], 
-    "1749": [
-
-
-
-    ], 
+    ],
     "3705": [
-        "Ford", 
-        "Calderon", 
+        "Ford",
+        "Calderon",
         "Ford"
-    ], 
+    ],
     "1753": [
-        "Rogelio Cerda", 
-        "Gobierno", 
-
+        "Rogelio Cerda",
         "Natividad Gonzalez Paras"
-    ], 
+    ],
     "1755": [
-        "Huerta", 
-        "Chapo Guzman", 
+        "Huerta",
+        "Chapo Guzman",
         "Barbie"
-    ], 
+    ],
     "1756": [
         "Rogelio Cerda"
-    ], 
-    "1759": [
-        "Gobierno", 
-
-    ], 
+    ],
     "1760": [
-        "Moreno", 
-        "Cerda", 
-
-    ], 
+        "Moreno",
+        "Cerda"
+    ],
     "3809": [
-
         "Calderon"
-    ], 
+    ],
     "3811": [
-        "Calderon", 
-
-    ], 
-    "3813": [
-
-
-    ], 
+        "Calderon"
+    ],
     "1769": [
         "Gonzalez Paras"
-    ], 
+    ],
     "3822": [
         "Patricia Espinosa"
-    ], 
+    ],
     "1775": [
         "Gonzalez Paras"
-    ], 
-    "1776": [
-        "Palacio", 
-        "Gobierno"
-    ], 
+    ],
     "1777": [
-        "Gobierno", 
         "Calderon"
-    ], 
+    ],
     "3827": [
         "Calderon"
-    ], 
+    ],
     "1781": [
-        "Calderon", 
+        "Calderon",
         "Eduardo"
-    ], 
+    ],
     "2446": [
-        "Calderon", 
+        "Calderon",
         "Bush"
-    ], 
+    ],
     "1783": [
-        "Moreno", 
-        "Bruce Williamson", 
-        "Colegio", 
-        "Guerra", 
-
-
-    ], 
-    "3832": [
-
-    ], 
+        "Moreno",
+        "Bruce Williamson"
+    ],
     "1785": [
-        "Williamson", 
-        "Bush", 
-
-    ], 
+        "Williamson",
+        "Bush"
+    ],
     "1787": [
-        "Williamson", 
-
-    ], 
-    "3838": [
-
-    ], 
+        "Williamson"
+    ],
     "3840": [
-        "Carlos Slim", 
-        "Patricia Espinosa", 
-        "Arturo", 
-        "Fernando", 
-        "Patricia Flores", 
-        "Longoria", 
-        "Claudia Talancon", 
-        "George Lopez", 
+        "Carlos Slim",
+        "Patricia Espinosa",
+        "Arturo",
+        "Fernando",
+        "Patricia Flores",
+        "Longoria",
+        "Claudia Talancon",
+        "George Lopez",
         "Bill Richardson"
-    ], 
+    ],
     "3841": [
-
-
-        "Carlos Santana", 
+        "Carlos Santana",
         "Valle"
-    ], 
+    ],
     "3842": [
         "Carlos Pascual"
-    ], 
+    ],
     "3843": [
-
         "Gabriela Rojas"
-    ], 
+    ],
     "3844": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "3846": [
-
         "Calderon"
-    ], 
+    ],
     "3713": [
-        "Ford", 
-
-        "Fiesta"
-    ], 
-    "1800": [
-
-        "Puma", 
-
-    ], 
-    "1802": [
-
-
-    ], 
+        "Ford"
+    ],
     "3562": [
-        "Kennedy", 
-
-    ], 
+        "Kennedy"
+    ],
     "2349": [
-        "General", 
-
-
         "Francisco Saynez"
-    ], 
-    "4514": [
-
-
-
-        "General"
-    ], 
+    ],
     "1810": [
-        "Williamson", 
-
-    ], 
-    "3860": [
-
-
-    ], 
+        "Williamson"
+    ],
     "1817": [
-        "Calderon", 
-        "Espinosa", 
-        "Bush", 
-
-    ], 
-    "1818": [
-        "Alto", 
-
-    ], 
-    "3868": [
-
-        "Calderon"
-    ], 
-    "1821": [
-
-
-
-    ], 
-    "3870": [
-        "Calderon", 
-        "George", 
+        "Calderon",
+        "Espinosa",
         "Bush"
-    ], 
+    ],
+    "3868": [
+        "Calderon"
+    ],
+    "3870": [
+        "Calderon",
+        "George Bush"
+    ],
     "1823": [
-        "Alejandro Rodriguez Meza", 
+        "Alejandro Rodriguez Meza",
         "Vicente Carrillo"
-    ], 
-    "1824": [
-
-
-    ], 
-    "1826": [
-        "Dias", 
-
-    ], 
-    "3875": [
-
-    ], 
+    ],
     "1829": [
-        "Guardia", 
-
-    ], 
+        "Guardia"
+    ],
     "1830": [
-
         "Calderon"
-    ], 
+    ],
     "3879": [
-        "Calderon", 
-
+        "Calderon",
         "Calderon"
-    ], 
-    "3881": [
-
-    ], 
+    ],
     "1834": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "1835": [
-
-        "Garza", 
-        "Calderon", 
-        "Calderon", 
-
-    ], 
+        "Garza",
+        "Calderon",
+        "Calderon"
+    ],
     "1837": [
-        "Garza", 
+        "Garza",
         "Calderon"
-    ], 
+    ],
     "3886": [
-
         "Calderon"
-    ], 
+    ],
     "1840": [
-        "Garza", 
+        "Garza",
         "Calderon"
-    ], 
-    "4184": [
-        "Virgen", 
-        "Guadalupe"
-    ], 
+    ],
     "1847": [
-        "Victor Fuentes", 
+        "Victor Fuentes",
         "Emigdio Garcia"
-    ], 
+    ],
     "1848": [
         "Abel Barajas"
-    ], 
+    ],
     "1849": [
-        "Victor Fuentes", 
+        "Victor Fuentes",
         "Emigdio Garcia"
-    ], 
+    ],
     "4675": [
-        "Casas", 
-
-    ], 
+        "Casas"
+    ],
     "3901": [
-
         "Calderon"
-    ], 
+    ],
     "3903": [
-        "Pascual", 
+        "Pascual",
         "Calderon"
-    ], 
+    ],
     "1858": [
-        "Calderon", 
-
-    ], 
-    "3908": [
-
-
-    ], 
-    "2358": [
-
-
-
-    ], 
-    "3911": [
-
-        "Espinosa", 
-
-    ], 
-    "3912": [
-        "Alejandro Poire", 
-        "Consejo", 
-
-
-        "Poire"
-    ], 
-    "3724": [
-
-        "Holder", 
-        "Dennis", 
-        "Roberta Jacobson", 
-
         "Calderon"
-    ], 
+    ],
+    "3911": [
+        "Espinosa"
+    ],
+    "3912": [
+        "Alejandro Poire",
+        "Poire"
+    ],
+    "3724": [
+        "Erick Holder",
+        "Dennis",
+        "Roberta Jacobson",
+        "Calderon"
+    ],
     "1868": [
-
-        "Calderon", 
-
+        "Calderon",
         "Ernesto"
-    ], 
+    ],
     "1871": [
-        "Crisanto Perez", 
-
+        "Crisanto Perez",
         "Barret"
-    ], 
+    ],
     "1872": [
-        "Perez", 
-
+        "Perez",
         "Antonio"
-    ], 
+    ],
     "3922": [
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3924": [
-        "Calderon", 
-
-
-    ], 
+        "Calderon"
+    ],
     "4086": [
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "3930": [
-        "Robert", 
-
-    ], 
+        "Robert"
+    ],
     "1886": [
         "Linda Gonzalez"
-    ], 
+    ],
     "1888": [
-        "Marie Adame", 
+        "Marie Adame",
         "Hernandez"
-    ], 
+    ],
     "1889": [
         "Antonia Naranjo Lopez"
-    ], 
+    ],
     "2586": [
-        "Carlos Pascual", 
-
-    ], 
+        "Carlos Pascual"
+    ],
     "1893": [
-        "Perez", 
+        "Perez",
         "Antonio"
-    ], 
+    ],
     "3944": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "1899": [
-        "Perez", 
-        "Antonio", 
-
-    ], 
+        "Perez",
+        "Antonio"
+    ],
     "2365": [
-        "Bush", 
-
-
-    ], 
-    "3954": [
-
-
-    ], 
-    "3955": [
-
-        "General"
-    ], 
+        "Bush"
+    ],
     "3957": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3405": [
-        "Fraga", 
-
-    ], 
+        "Fraga"
+    ],
     "3959": [
-        "Roberto Rock", 
-        "Calderon", 
+        "Roberto Rock",
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3732": [
-        "Rojas", 
+        "Rojas",
         "Antonio Vivanco"
-    ], 
-    "2367": [
-        "Corte", 
-
-    ], 
+    ],
     "3733": [
-        "Vivanco", 
+        "Vivanco",
         "Calderon"
-    ], 
-    "4416": [
-
-
-    ], 
+    ],
     "3973": [
-        "Rosario Green", 
-        "Jorge", 
-
+        "Rosario Green",
+        "Jorge",
         "Pascual"
-    ], 
+    ],
     "4417": [
         "Rosario Green"
-    ], 
+    ],
     "3978": [
-        "Siria", 
         "Calderon"
-    ], 
+    ],
     "3979": [
-        "Calderon", 
+        "Calderon",
         "Pascual"
-    ], 
+    ],
     "3980": [
-
-
-
         "Patricia Espinosa"
-    ], 
+    ],
     "3982": [
-
         "Calderon"
-    ], 
+    ],
     "3053": [
         "Genaro Garcia Luna"
-    ], 
+    ],
     "1936": [
-        "Durante", 
         "Bush"
-    ], 
+    ],
     "1937": [
-        "Bradley", 
-
-    ], 
+        "Bradley"
+    ],
     "3986": [
-
         "Calderon"
-    ], 
+    ],
     "4367": [
-
-        "Calderon", 
-
-    ], 
+        "Calderon"
+    ],
     "3989": [
-
         "Calderon"
-    ], 
+    ],
     "1943": [
-        "Joaquin", 
-        "Chapo Guzman", 
-        "Ismael", 
-        "Mayo Zambada", 
-        "Edgar Valdez Villarreal", 
+        "Joaquin",
+        "Chapo Guzman",
+        "Ismael",
+        "Mayo Zambada",
+        "Edgar Valdez Villarreal",
         "Barbie"
-    ], 
+    ],
     "3992": [
-
-        "Espinosa", 
-        "Calderon", 
+        "Espinosa",
+        "Calderon",
         "Pascual"
-    ], 
-    "1945": [
-
-    ], 
-    "4361": [
-        "Mexicano", 
-
-    ], 
+    ],
     "3999": [
-        "Gabriela Rojas", 
-
-        "Antonio Vivanco", 
+        "Gabriela Rojas",
+        "Antonio Vivanco",
         "Calderon"
-    ], 
+    ],
     "3056": [
         "Garcia Luna"
-    ], 
+    ],
     "1955": [
-
-
-        "Juan", 
-
-        "Diego", 
-
-        "Joaquin", 
+        "Juan",
+        "Diego",
+        "Joaquin",
         "Chapo Guzman"
-    ], 
+    ],
     "4004": [
-        "Pascual", 
+        "Pascual",
         "Arturo"
-    ], 
+    ],
     "1957": [
-
-        "George", 
-        "Bush"
-    ], 
+        "George Bush"
+    ],
     "1958": [
-        "Felipe Calderon", 
-
-    ], 
-    "4007": [
-        "Guanajuato", 
-
-    ], 
-    "4566": [
-
-    ], 
+        "Felipe Calderon"
+    ],
     "4009": [
-        "Calderon", 
+        "Calderon",
         "Espinosa"
-    ], 
-    "1962": [
-
-
-    ], 
-    "1963": [
-
-
-    ], 
+    ],
     "1968": [
-
         "Long"
-    ], 
-    "1970": [
-
-
-    ], 
+    ],
     "4083": [
-
-        "Pascual", 
-
-    ], 
+        "Pascual"
+    ],
     "1972": [
-        "Garza", 
-
-        "Garza", 
-        "Calderon", 
-
-    ], 
+        "Garza",
+        "Garza",
+        "Calderon"
+    ],
     "3401": [
         "Zambada Niebla"
-    ], 
+    ],
     "1976": [
-        "Santiago Gallardo", 
+        "Santiago Gallardo",
         "Marshall"
-    ], 
+    ],
     "3061": [
-        "Ramirez Mandujano", 
-        "Ricardo Gutierrez", 
-
-    ], 
+        "Ramirez Mandujano",
+        "Ricardo Gutierrez"
+    ],
     "1984": [
-        "Armando", 
+        "Armando",
         "Rosas"
-    ], 
+    ],
     "3744": [
-
-
-
-        "Pascual", 
-        "Gabriela Rojas", 
+        "Pascual",
+        "Gabriela Rojas",
         "Calderon"
-    ], 
+    ],
     "1986": [
-        "Gallardo", 
-
-    ], 
+        "Gallardo"
+    ],
     "4427": [
-        "Bravo", 
-
-
-    ], 
+        "Bravo"
+    ],
     "4036": [
-
-        "Jaime Zapata", 
-        "Julian Zapata", 
-
+        "Jaime Zapata",
+        "Julian Zapata",
         "Luis"
-    ], 
-    "3885": [
-
-
-    ], 
-    "4567": [
-
-
-    ], 
+    ],
     "1991": [
-
         "Orioles"
-    ], 
+    ],
     "4041": [
-        "Andrews", 
-        "Calderon", 
-
+        "Andrews",
+        "Calderon",
         "Pascual"
-    ], 
-    "1994": [
-
-        "Guerra"
-    ], 
+    ],
     "1995": [
-        "Gallardo", 
-
-
-    ], 
+        "Gallardo"
+    ],
     "1997": [
-        "Durante", 
-        "Rosas", 
-        "Gallardo", 
-
-    ], 
+        "Rosas",
+        "Gallardo"
+    ],
     "2381": [
         "Alejandro Hope"
-    ], 
+    ],
     "2000": [
-        "Gallardo", 
+        "Gallardo",
         "William Leonardo Graham"
-    ], 
+    ],
     "4053": [
-        "Calderon", 
-        "Pascual", 
-
-    ], 
-    "2006": [
-        "Durante", 
-        "Gallardo", 
-
-    ], 
-    "2591": [
-        "Calderon", 
-        "Hospicio"
-    ], 
-    "2015": [
-        "Gallardo", 
-        "Rosas", 
-
-        "Marshall", 
-        "Graham"
-    ], 
-    "2016": [
-
-        "Marshall"
-    ], 
-    "4067": [
-        "Ocho", 
+        "Calderon",
         "Pascual"
-    ], 
-    "2021": [
-        "Marshall", 
+    ],
+    "2006": [
+        "Gallardo"
+    ],
+    "2591": [
+        "Calderon",
+        "Hospicio"
+    ],
+    "2015": [
+        "Gallardo",
+        "Rosas",
+        "Marshall",
         "Graham"
-    ], 
-    "4073": [
-        "Calderon", 
-
-    ], 
-    "2026": [
-        "Marshall", 
-        "Graham"
-    ], 
-    "2028": [
-        "Graham", 
+    ],
+    "2016": [
         "Marshall"
-    ], 
+    ],
+    "4067": [
+        "Ocho",
+        "Pascual"
+    ],
+    "2021": [
+        "Marshall",
+        "Graham"
+    ],
+    "4073": [
+        "Calderon"
+    ],
+    "2026": [
+        "Marshall",
+        "Graham"
+    ],
+    "2028": [
+        "Graham",
+        "Marshall"
+    ],
     "2031": [
-        "Holder", 
-
+        "Erick Holder",
         "Eduardo"
-    ], 
+    ],
     "4080": [
-        "Pascual", 
-
-    ], 
-    "2035": [
-
-
-    ], 
+        "Pascual"
+    ],
     "4084": [
-        "Ford", 
-        "General"
-    ], 
+        "Ford"
+    ],
     "2038": [
         "Chapo Guzman"
-    ], 
+    ],
     "2039": [
-        "Gallardo", 
-        "Graham", 
+        "Gallardo",
+        "Graham",
         "Marshall"
-    ], 
+    ],
     "2040": [
-        "Martha Mendoza", 
-        "Elliot", 
-
-    ], 
-    "2042": [
-
-
-    ]
+        "Martha Mendoza",
+        "Elliot"
+    ],
 }
