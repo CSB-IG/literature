@@ -4,8 +4,7 @@
         "Juan Nepomuceno Guerra"
     ], 
     "2049": [
-        "Juan", 
-        "Guerra"
+        "Juan Guerra"
     ], 
     "2052": [
         "Garcia Abrego"
@@ -20,21 +19,17 @@
         "Eduardo Guerrero Gutierrez"
     ], 
     "2061": [
-        "Salvador", 
-        "Gomez", 
+        "Salvador Gomez", 
         "Adan Medrano", 
         "Hugo Baldomero Medina", 
     ], 
     "2063": [
-        "Salvador", 
-        "Gomez"
+        "Salvador Gomez"
     ], 
     "16": [
         "Beltran Leyva"
     ], 
     "19": [
-        "Beltran Leyva", 
-        "Alfredo", 
         "Mochomo"
     ], 
     "20": [
@@ -71,7 +66,7 @@
         "Mochomo"
     ], 
     "31": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Alfredo"
     ], 
     "2080": [
@@ -79,13 +74,13 @@
         "Ricardo Ravelo"
     ], 
     "2083": [
-        "Gomez", 
+        "Chava Gomez", 
         "Arturo Guzman Decena"
     ], 
     "37": [
         "Sergio Villarreal", 
         "Fernando Rivera", 
-        "Cilia", 
+        "Milton Cilia", 
         "Roberto Garcia"
     ], 
     "38": [
@@ -111,13 +106,13 @@
         "Rivera"
     ], 
     "2093": [
-        "Lopez Olivares", 
-        "Profe", 
+        "Oscar Lopez Olivares",
         "Juan Garcia Abrego", 
         "Heriberto Lazcano", 
         "Lazca", 
         "Jaime Gonzalez Duran", 
-        "Rogelio Gonzalez"
+        "Rogelio Gonzalez Pizaña",
+        "Kelin"
     ], 
     "48": [
         "Alfredo Beltran", 
@@ -150,7 +145,7 @@
     ], 
     "57": [
         "Chapo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "58": [
         "Arturo Beltran"
@@ -160,8 +155,7 @@
         "Mayo"
     ], 
     "62": [
-        "Chapito", 
-        "Guadalupe" 
+        "Chapito"
     ], 
     "63": [
         "Arturo Beltran"
@@ -170,11 +164,11 @@
         "Garcia Abrego"
     ], 
     "65": [
-        "Beltran Leyva", 
+        "Alfredo Beltran Leyva", 
         "Chapo"
     ], 
     "2115": [
-        "Vicente", 
+        "Vicente Fox", 
         "Chapo Guzman"
     ], 
     "68": [
@@ -191,25 +185,20 @@
         "Edgar Eusebio Millan"
     ], 
     "80": [
-        "Zambada", 
-        "Rosales", 
+        "Mayo Zambada", 
         "Arturo Beltran"
     ], 
     "2130": [
-        "Mauleon"
+        "Hector Mauleon"
     ], 
     "2131": [
-        "Angel", 
-        "Campo"
+        "Angel Campo"
     ], 
     "84": [
         "Beltran Leyva"
     ], 
     "85": [
         "Mayo Zambada"
-    ], 
-    "86": [
-        "Beltran"
     ], 
     "87": [
         "Edgar Enrique Bayardo", 
@@ -234,7 +223,7 @@
     ], 
     "101": [
         "Jose Antonio Montes Garfias", 
-        "Beltran"
+        "Arturo Beltran"
     ], 
     "103": [
         "Montes Garfias"
@@ -262,12 +251,12 @@
     ], 
     "119": [
         "Chapo", 
-        "Beltran"
+        "Arturo Beltran"
     ], 
     "121": [
-        "Beltran Leyva", 
+        "Arturo Beltran Leyva", 
         "Alfonso Gutierrez", 
-        "Martinez"
+        "Isai Martinez"
     ], 
     "122": [
         "Chapo", 
@@ -288,8 +277,8 @@
         "Edgar Enrique Bayardo"
     ], 
     "128": [
-        "Mauricio", 
-        "Beltran"
+        "Mauricio Harold Poveda", 
+        "Beltran Leyva"
     ], 
     "129": [
         "Mayo Zambada", 
@@ -305,8 +294,7 @@
     ], 
     "141": [
         "Mayo", 
-        "Jesus", 
-        "Zambada", 
+        "Jesus Zambada", 
         "Jesus Zambada Reyes"
     ], 
     "150": [
@@ -321,15 +309,14 @@
         "Gerardo Garay", 
         "Francisco Navarro", 
         "Jorge Cruz", 
-        "Rodolfo"
+        "Rodolfo Guardia"
     ], 
     "157": [
         "Garay", 
-        "Beltran", 
+        "Beltran Layva", 
         "Mayo Zambada"
     ], 
-    "159": [
-        "Valle", 
+    "159": [ 
         "Bayardo"
     ], 
     "166": [
@@ -338,7 +325,7 @@
         "Beltran Leyva"
     ], 
     "167": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Amado Carrillo", 
         "Cielos", 
 
@@ -347,7 +334,7 @@
         "Cielos"
     ], 
     "170": [
-        "Carrillo", 
+        "Amado Carrillo", 
         "Vicente Carrillo Fuentes", 
         "Viceroy", 
         "Ismael", 
@@ -363,7 +350,7 @@
     ], 
     "173": [
         "Chapo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "175": [
         "Chapo"
@@ -389,7 +376,7 @@
     ], 
     "181": [
         "Chapo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "183": [
         "Arturo Beltran", 
@@ -404,7 +391,7 @@
         "Cardenas Guillen"
     ], 
     "189": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Barbie", 
         "Barbie"
     ], 
@@ -412,7 +399,7 @@
         "Cardenas Guillen"
     ], 
     "194": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Barbie"
     ], 
     "195": [
@@ -451,6 +438,9 @@
     "224": [
         "Pedro Perez Lopez"
     ], 
+    "226": [
+        "Niño Oro"
+    ],
     "229": [
         "Perez Lopez"
     ], 
@@ -468,12 +458,12 @@
     ], 
     "240": [
         "Alfredo Jimenez Mota", 
-        "Arturo", 
-        "Alfredo", 
-        "Beltran"
+        "Arturo Beltran Leyva", 
+        "Alfredo Beltran Leyva", 
+        "Beltran Leyva"
     ], 
     "241": [
-        "Jimenez", 
+        "Jimenez Mota", 
         "Raul Enriquez Parra"
     ], 
     "243": [
@@ -483,16 +473,16 @@
         "Jimenez Mota"
     ], 
     "249": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Carlos Sanchez", 
-        "Roberto Tapia"
+        "Roberto Tapia Chan"
     ], 
     "252": [
         "Jimenez Mota"
     ], 
     "255": [
         "Eduardo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "256": [
         "Raul Enriquez Parra"
@@ -501,7 +491,7 @@
         "Jesus Francisco Ayala"
     ], 
     "261": [
-        "Ricardo", 
+        "Ricardo Bours", 
         "Beltran Leyva"
     ], 
     "262": [
@@ -522,22 +512,22 @@
         "Ricardo Ravelo"
     ], 
     "272": [
-        "Eduardo", 
-        "Ricardo"
+        "Eduardo Bours", 
+        "Ricardo Bours"
     ], 
     "274": [
-        "Joaquin", 
+        "Joaquin Lopez Doriga", 
         "Roberto Tapia Chan"
     ], 
     "276": [
         "Raul Enriquez Parra", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "278": [
         "Jimenez Mota"
     ], 
     "279": [
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "282": [
         "Nahum Acosta Lugo"
@@ -552,39 +542,36 @@
     "287": [
         "Nahum", 
         "Arturo Beltran", 
-        "Rafael Macedo", 
-        "Concha"
+        "Rafael Macedo Concha"
     ], 
     "288": [
-        "Arturo", 
-        "Beltran"
+        "Arturo Beltran Leyva"
     ], 
     "291": [
         "Clara Laborin", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "295": [
         "Nahum Acosta", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "296": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Nahum"
     ], 
     "297": [
         "Nahum Acosta", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "300": [
         "Nahum Acosta"
     ], 
     "301": [
-        "Macedo", 
-        "Concha"
+        "Macedo Concha"
     ], 
     "304": [
         "Acosta", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "305": [
         "Jose Luis Santiago Vasconcelos"
@@ -593,8 +580,7 @@
         "Santiago Vasconcelos"
     ], 
     "309": [
-        "Macedo", 
-        "Concha", 
+        "Macedo Concha", 
         "Nahum Acosta"
     ], 
     "311": [
@@ -617,7 +603,6 @@
         "Vicente Carrillo"
     ], 
     "321": [
-
         "Julio Lopez Soto"
     ], 
     "325": [
@@ -625,7 +610,8 @@
     ], 
     "326": [
         "Gregorio Sauceda", 
-        "Julio"
+        "Julio Lopez Soto"
+        "Goyo Sauceda"
     ], 
     "327": [
         "Arturo Beltran", 
@@ -655,8 +641,7 @@
         "Genaro Garcia Luna"
     ], 
     "355": [
-        "Jose Robles Catalan", 
-        "Perla"
+        "Jose Robles Catalan"
     ], 
     "361": [
         "Edgar Valdez Villarreal", 
@@ -682,7 +667,7 @@
         "Santiago Vasconcelos"
     ], 
     "381": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Santiago Vasconcelos"
     ], 
     "2068": [
@@ -692,16 +677,15 @@
         "Jose Luis Santiago Vasconcelos"
     ], 
     "389": [
-        "Ramirez Mandujano", 
-        "Beltran"
+        "Noe Ramirez Mandujano", 
+        "Beltran Leyva"
     ], 
     "2113": [
         "Ernesto Zedillo", 
         "Cardenas Guillen"
     ], 
     "392": [
-        "Andres", 
-
+        "Andres Dimitriades Juarez"
     ], 
     "395": [
         "Esteban Royaceli"
@@ -712,11 +696,13 @@
     "404": [
         "Esteban Royaceli"
     ], 
+    "407": [
+        "Dimitriades"
+    ],
     "412": [
         "Alberto Pineda Villa", 
         "Borrado", 
-        "Arturo Beltran Leyva", 
-
+        "Arturo Beltran Leyva"
     ], 
     "413": [
         "Borrado", 
@@ -724,20 +710,17 @@
     ], 
     "414": [
         "Royaceli", 
-        "Negro"
+        "El Negro"
     ], 
     "416": [
-        "Luis Angel Cabeza", 
-        "Vaca"
+        "Luis Angel Cabeza Vaca"
     ], 
     "417": [
-        "Beltran", 
-        "Cabeza", 
-        "Vaca"
+        "Beltran Leyva", 
+        "Cabeza Vaca"
     ], 
     "418": [
-        "Cabeza", 
-        "Vaca", 
+        "Cabeza Vaca", 
         "Victor Enrique Payan"
     ], 
     "419": [
@@ -745,7 +728,7 @@
         "Chapo Guzman", 
         "Ismael", 
         "Mayo Zambada", 
-        "Ignacio"
+        "Ignacio Coronel"
     ], 
     "421": [
         "Marco Antonio Adame"
@@ -755,9 +738,8 @@
         "Borrado"
     ], 
     "430": [
-        "Villanueva", 
-        "Jaime", 
-        "Valdez", 
+        "Raquenel Villanueva", 
+        "Jaime Gamaliel Valdez", 
         "Barbie", 
         "Borrado"
     ], 
@@ -766,20 +748,19 @@
         "Genaro Garcia Luna"
     ], 
     "433": [
-        "Negro", 
+        "El Negro", 
         "Salvador Pintado"
     ], 
     "434": [
         "Adame", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "436": [
-        "Luis Angel Cabeza", 
-        "Vaca", 
+        "Luis Angel Cabeza Vaca", 
 
     ], 
     "437": [
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "438": [
         "Adame"
@@ -791,7 +772,7 @@
         "Francisco Coronado"
     ], 
     "444": [
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "445": [
         "Francisco Javier Jimenez", 
@@ -819,19 +800,20 @@
     ], 
     "459": [
         "Rafael Deita Lopez"
+    ],
+    "462": [
+        "Hector Negro Saldaña"
     ], 
     "465": [
         "Mauricio Fernandez", 
         "Beltran Leyva"
     ], 
     "467": [
-        "Huerta", 
-        "Pedro"
+        "Hector Huerta", 
+        "Burra"
     ], 
     "469": [
-        "Fernandez", 
-        "Beltran", 
-        "Pedro Garza", 
+        "Mauricio Fernandez", 
         "Beltran Leyva"
     ], 
     "470": [
@@ -846,13 +828,14 @@
     "474": [
         "Jorge Fernandez Menendez", 
         "Chapo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "477": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Genaro Garcia Luna", 
         "Mayo Zambada", 
-        "Valencia", 
+        "Valencia",
+        "Vicente Fox", 
         "Chapo"
     ], 
     "481": [
@@ -872,9 +855,6 @@
         "Barbie", 
         "Sergio Villarreal"
     ], 
-    "498": [
-        "Ramon Ayala"
-    ], 
     "500": [
         "Beltran Leyva"
     ], 
@@ -882,7 +862,7 @@
         "Beltran Leyva"
     ], 
     "504": [
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "508": [
         "Jose Luis Figueroa"
@@ -891,7 +871,7 @@
         "Barbie"
     ], 
     "516": [
-        "Beltran", 
+        "Beltran Leyva", 
         "Barbie"
     ], 
     "527": [
@@ -907,16 +887,16 @@
     ], 
     "531": [
         "Barbie", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "533": [
         "Arturo Beltran"
     ], 
     "548": [
-        "Araujo"
+        "Chalo Araujo"
     ], 
     "552": [
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "558": [
         "Jose Luis Vergara"
@@ -928,8 +908,7 @@
         "Arturo Beltran"
     ], 
     "566": [
-        "Joaquin", 
-        "Chapo Guzman"
+        "Joaquin Chapo Guzman"
     ], 
     "567": [
         "Genaro Garcia Luna"
@@ -939,14 +918,13 @@
         "Juan Mauro Palomares", 
         "Jesus Castro Pantoja", 
         "Chabelo", 
-        "Martinez"
+        "Arnoldo Martinez"
     ], 
     "569": [
         "Mario Estuardo Bermudez"
     ], 
     "570": [
-        "Rafael Macedo", 
-        "Concha"
+        "Rafael Macedo Concha"
     ], 
     "574": [
         "Arturo Guzman", 
@@ -968,8 +946,7 @@
         "Pollo"
     ], 
     "597": [
-        "Chapo", 
-        "Palma"
+        "Chapo"
     ], 
     "606": [
         "Guzman Loera", 
@@ -989,12 +966,8 @@
         "Chapo"
     ], 
     "627": [
-        "Benjamin", 
+        "Benjamin Arellano Felix", 
         "Ramon Arellano Felix"
-    ], 
-    "628": [
-        "Logan", 
-        "Diego"
     ], 
     "629": [
         "Chapo", 
@@ -1007,8 +980,7 @@
         "Chapo"
     ], 
     "638": [
-        "Carlos Salinas", 
-        "Gortari", 
+        "Carlos Salinas Gortari", 
         "Justo Ceja Martinez"
     ], 
     "639": [
@@ -1024,14 +996,12 @@
     ], 
     "653": [
         "Chapo", 
-        "Carlos", 
-        "Rosales", 
+        "Carlos Humberto Rosales", 
         "Jorge Carrillo Olea"
     ], 
     "661": [
         "Federico Ponce Rojas", 
-        "Salinas", 
-        "Gortari", 
+        "Salinas Gortari", 
         "Jorge Carpizo"
     ], 
     "662": [
@@ -1041,20 +1011,16 @@
         "Guillermo Salazar"
     ], 
     "663": [
-        "Salinas", 
-        "Gortari"
+        "Salinas Gortari"
     ], 
     "666": [
-        "Guillermo Alvarez", 
-        "General", 
-        "Alvarez", 
+        "Guillermo Alvarez Nara",
         "Ignacio Coronel"
     ], 
     "667": [
         "Guzman Loera"
     ], 
-    "670": [
-        "Palma", 
+    "670": [ 
         "Chapo"
     ], 
     "682": [
@@ -1085,7 +1051,7 @@
     ], 
     "701": [
         "Ramon Arellano Felix", 
-        "Armando", 
+        "Armando Portillo", 
         "Lino Portillo"
     ], 
     "702": [
@@ -1104,18 +1070,16 @@
         "Francisco Javier Arellano Felix"
     ], 
     "714": [
-        "Chapo Guzman", 
-        "Logan", 
-        "Chapo"
+        "Chapo Guzman"
     ], 
     "718": [
         "Chapo Guzman"
     ], 
     "719": [
-        "Palma"
+        "Palma Salazar"
     ], 
     "721": [
-        "Thomas", 
+        "Thomas Constantine", 
         "Guzman Loera"
     ], 
     "722": [
@@ -1152,15 +1116,15 @@
     ], 
     "738": [
         "Chapo", 
-        "Palma", 
+        "Palma Salazar", 
         "Arturo Martinez"
     ], 
     "745": [
         "Chapo", 
-        "Hernandez"
+        "Zulema Hernandez"
     ], 
     "749": [
-        "Julio", 
+        "Julio Scherer", 
         "Chapo"
     ], 
     "752": [
@@ -1170,12 +1134,9 @@
         "Pablo Rojas"
     ], 
     "764": [
-        "Francisco Javier", 
+        "Francisco Javier Camberros", 
         "Chito", 
         "Chapo"
-    ], 
-    "783": [
-
     ], 
     "786": [
         "Chapo"
@@ -1196,8 +1157,7 @@
         "Tigrillo Palma"
     ], 
     "800": [
-        "Joaquin", 
-        "Chapo"
+        "Joaquin Chapo"
     ], 
     "803": [
         "Chapo", 
@@ -1223,7 +1183,7 @@
     ], 
     "810": [
         "Guzman Loera", 
-        "Vicente"
+        "Vicente Fox"
     ], 
     "811": [
         "Chapo", 
@@ -1236,7 +1196,7 @@
         "Chapo", 
         "Amado Carrillo", 
         "Jesus Gutierrez Rebollo", 
-        "Rebollo"
+        "Gutierrez Rebollo"
     ], 
     "815": [
         "Chapo", 
@@ -1253,23 +1213,21 @@
     "821": [
         "Jose Luis Santiago Vasconcelos", 
         "Chapo", 
-        "Quintero"
+        "Quintero Mariscal"
     ], 
     "823": [
         "Chapo", 
         "Pollo Guzman"
     ], 
     "824": [
-        "Macedo", 
-        "Concha"
+        "Macedo Concha"
     ], 
     "825": [
-        "Pollo", 
+        "Pollo Guzman", 
         "Joaquin Guzman Loera"
     ], 
     "826": [
-        "Macedo", 
-        "Concha"
+        "Macedo Concha"
     ], 
     "828": [
         "Chapo", 
@@ -1298,17 +1256,13 @@
         "Arturo Beltran Leyva"
     ], 
     "844": [
-        "Palma", 
+        "Palma Salazar", 
         "Benjamin Arellano", 
-        "Cardenas"
+        "Osiel Cardenas"
     ], 
     "845": [
-        "Palma", 
         "Chapo", 
         "Alberto Soberanes Ramos"
-    ], 
-    "848": [
-        "Palma"
     ], 
     "849": [
         "Arturo Guzman", 
@@ -1318,7 +1272,7 @@
         "Vicente Carrillo Fuentes"
     ], 
     "853": [
-        "Rodolfo", 
+        "Rodolfo Carrillo Fuentes", 
         "Chapo"
     ], 
     "854": [
@@ -1332,15 +1286,12 @@
         "Rodolfo Carrillo"
     ], 
     "858": [
-        "Chapo", 
-        "Arturo", 
+        "Chapo",  
         "Pollo Guzman"
     ], 
     "860": [
-        "Rafael Macedo", 
-        "Concha", 
-        "Daniel Cabeza", 
-        "Vaca"
+        "Rafael Macedo Concha", 
+        "Daniel Cabeza Vaca"
     ], 
     "864": [
         "Joaquin Guzman Loera"
@@ -1354,9 +1305,8 @@
         "Mudo"
     ], 
     "867": [
-        "Cabeza", 
-        "Vaca", 
-        "Vicente"
+        "Cabeza Vaca", 
+        "Vicente Fox"
     ], 
     "869": [
         "Eduardo Medina Mora", 
@@ -1364,8 +1314,7 @@
     ], 
     "872": [
         "Medina Mora", 
-        "Guzman Loera", 
-        "Lomas"
+        "Guzman Loera"
     ], 
     "873": [
         "Chapo Guzman"
@@ -1381,7 +1330,7 @@
         "Mochomo", 
         "Chapo", 
         "Guzman Loera", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "877": [
         "Edgar Guzman Lopez", 
@@ -1397,19 +1346,12 @@
         "Arturo Beltran Leyva", 
         "Guzman", 
         "Coronel", 
-        "Nicolas", 
-        "Canelas", 
-        "Carrizo", 
-        "Coronel", 
-        "Carrasco", 
-        "Canelas", 
-        "Carrizo"
     ], 
     "887": [
         "Francisco Gomez"
     ], 
     "892": [
-        "Braun", 
+        "Michael Braun", 
         "Chapo"
     ], 
     "894": [
@@ -1422,18 +1364,21 @@
         "Barbie"
     ], 
     "897": [
-        "Jesus", 
+        "Jesus Blancornelas", 
         "Joaquin Guzman"
     ], 
     "908": [
         "Amado Carrillo"
     ], 
-    "909": [
-        "Julio", 
-        "Tomas"
+    "909": [ 
+        "Tomas Colsa McGregor"
     ], 
+    "911": [
         "Juan Garcia Abrego"
     ], 
+    "912":[
+    	"Colsa McGregor"
+    ],
     "916": [
         "Sergio Sanchez Ramos"
     ], 
@@ -1505,7 +1450,7 @@
         "Ernesto Fonseca"
     ], 
     "958": [
-        "Lopez", 
+        "Lopez Razon", 
         "Gerardo Torres Lepe"
     ], 
     "959": [
@@ -1536,7 +1481,7 @@
         "Caro Quintero"
     ], 
     "975": [
-        "Aguilar Camin", 
+        "Hector Aguilar Camin", 
         "Camarena"
     ], 
     "981": [
@@ -1547,11 +1492,11 @@
         "Rafael Caro"
     ], 
     "984": [
-        "Caro", 
+        "Caro Quintero", 
 
     ], 
     "985": [
-        "Fonseca"
+        "Fonseca Carrillo"
     ], 
     "987": [
         "Felix Gallardo", 
@@ -1594,7 +1539,7 @@
     ], 
     "1006": [
         "Carrillo", 
-        "Cielos"
+        "Señor Cielos"
     ], 
     "1010": [
         "Amado Carrillo", 
@@ -1619,14 +1564,13 @@
         "Carrera"
     ], 
     "1022": [
-        "Victor Manuel", 
-        "Esquivel"
+        "Victor Manuel Patiño Esquivel"
     ], 
     "1023": [
         "Amado Carrillo"
     ], 
     "1026": [
-        "Victor Manuel"
+        "Victor Manuel Patiño Esquivel"
     ], 
     "1028": [
         "Adrian Carrera"
@@ -1644,7 +1588,7 @@
         "Andrade Bojorges"
     ], 
     "1034": [
-        "Tomas", 
+        "Tomas Colsa McGregor", 
         "Rafael Aguilar Guajardo", 
         "Pedro Lupercio Serratos", 
         "Amado Carrillo"
@@ -1675,7 +1619,7 @@
         "Lupercio Serratos"
     ], 
     "1042": [
-        "Amado"
+        "Amado Carrillo"
     ], 
     "1044": [
         "Lupercio Serratos"
@@ -1702,8 +1646,7 @@
     ], 
     "1069": [
         "Jose Francisco Ruiz Massieu", 
-        "Carlos Salinas", 
-        "Gortari"
+        "Carlos Salinas Gortari"
     ], 
     "1070": [
         "Juan Jesus Posadas Ocampo", 
@@ -1714,8 +1657,7 @@
         "Amado Carrillo"
     ], 
     "1072": [
-        "Victor Manuel", 
-        "Esquivel"
+        "Victor Manuel"
     ], 
     "1074": [
         "Adrian Carrera", 
@@ -1726,8 +1668,7 @@
     ], 
     "1082": [
         "Amado Carrillo", 
-        "Victor Manuel", 
-        "Esquivel"
+        "Victor Manuel"
     ], 
     "1084": [
         "Carrera"
@@ -1758,8 +1699,9 @@
     "1106": [
         "Arellano", 
         "Amado Carrillo", 
-        "Benjamin", 
-        "Ramon"
+        "Benjamin Arellano Felix", 
+        "Ramon Arellano Felix",
+        "Girolamo Prigione"
     ], 
     "1107": [
         "Posadas Ocampo"
@@ -1799,8 +1741,7 @@
     ], 
     "1128": [
         "Salinas", 
-        "Gortari", 
-        "Carrillo", 
+        "Carrillo Fuentes", 
         "Ernesto Zedillo"
     ], 
     "1130": [
@@ -1843,8 +1784,7 @@
         "Flores Montes"
     ], 
     "1166": [
-        "Alejandro", 
-        "Palacios"
+        "Alejandro Hodoyan Palacios"
     ], 
     "1169": [
         "Ernesto Ibarra Santes"
@@ -1899,18 +1839,15 @@
         "Ibarra", 
         "Arellano Felix", 
         "Tigrillo Arellano", 
-        "Alejandro", 
+        "Alejandro Castañeda", 
         "Ibarra"
     ], 
     "1216": [
         "Benjamin Arellano", 
         "Ramon", 
         "Tigrillo", 
-        "Eduardo"
-    ], 
-    "1222": [
-        "Valentin Gomez Farias"
-    ], 
+        "Eduardo Mancera"
+    ],
     "1226": [
         "Amado Carrillo"
     ], 
@@ -1928,11 +1865,9 @@
         "Ibarra Santes"
     ], 
     "1235": [
-        "Alfredo", 
-        "Palacios", 
+        "Alfredo Hodoyan Palacios", 
         "Lobo", 
-        "Emilio Valdez Mainero", 
-        "Diego"
+        "Emilio Valdez Mainero"
     ], 
     "1236": [
         "Francisco Cabrera Castro", 
@@ -1953,8 +1888,7 @@
     ], 
     "1251": [
         "Jesus Gutierrez Rebollo", 
-        "Alejandro", 
-        "Palacios", 
+        "Alejandro Hodoyan Palacios", 
         "Ibarra"
     ], 
     "1255": [
@@ -1995,8 +1929,7 @@
     "1291": [
         "Chapo", 
         "Rayo", 
-        "Carlos Salinas", 
-        "Gortari", 
+        "Carlos Salinas",
         "Ernesto Zedillo"
     ], 
     "1293": [
@@ -2075,11 +2008,6 @@
         "Arellano Felix", 
         "Carrillo"
     ], 
-    "1333": [
-        "Roque", 
-        "Gaston", 
-        "Ramon"
-    ], 
     "1335": [
         "Boni", 
         "Ramon Arellano"
@@ -2096,7 +2024,7 @@
         "Ramon Salazar"
     ], 
     "1345": [
-        "Ramon", 
+        "Alcides Ramon Magaña", 
         "Juan Carlos Perez", 
         "Adan Segundo Perez Canales"
     ], 
@@ -2106,8 +2034,8 @@
         "Jose Romero"
     ], 
     "1350": [
-        "Ramon", 
-        "Perez", 
+        "Ramon Magaña", 
+        "Perez Zuñiga", 
         "Adan Segundo", 
         "Cielos", 
         "Ignacio Godinez", 
@@ -2139,6 +2067,7 @@
     ], 
     "1366": [
         "Gutierrez Rebollo", 
+        "Humberto Capeletti",
         "Juan Galvan Lara", 
         "Ricardo Cesareo Vazquez Tafoya", 
         "Eduardo Gonzalez Quirarte", 
@@ -2152,7 +2081,7 @@
         "Amado Carrillo"
     ], 
     "1372": [
-        "Quirarte"
+        "Gonzalez Quirarte"
     ], 
     "1375": [
         "Carlos Castellanos Alvarez", 
@@ -2161,13 +2090,12 @@
     "1376": [
         "Fabian Martinez", 
         "Tiburon", 
-        "Alfredo", 
-        "Palacios", 
+        "Alfredo Hodoyan Palacios", 
         "Lobo"
     ], 
     "1377": [
         "Lobo", 
-        "Alejandro", 
+        "Alejandro Hodoyan", 
         "Gutierrez Rebollo"
     ], 
     "1379": [
@@ -2178,16 +2106,14 @@
         "Ramon Arellano", 
         "Ibarra"
     ], 
-    "1391": [
-        "Diego", 
+    "1391": [ 
         "Gonzalo Curiel", 
         "Lobo", 
         "Ramon Arellano", 
         "Tiburon"
     ], 
     "1394": [
-        "Arellano", 
-        "Logan"
+        "Arellano"
     ], 
     "1399": [
         "Ignacio Weber Rodriguez"
@@ -2196,9 +2122,7 @@
         "Ramon Arellano"
     ], 
     "1410": [
-        "Ramon", 
-        "Rodolfo", 
-        "Loaiza"
+        "Ramon"
     ], 
     "1412": [
         "Ramon"
@@ -2211,8 +2135,8 @@
         "Antonio Arias"
     ], 
     "1425": [
-        "Arias", 
-        "Smith"
+        "Arias"
+    
     ], 
     "1431": [
         "Teodoro Garcia Simental"
@@ -2224,8 +2148,7 @@
         "Santiago Meza Lopez"
     ], 
     "1444": [
-        "Luis Alonso Perez", 
-        "Agua"
+        "Luis Alonso Perez"
     ], 
     "1460": [
         "Luis Alonso Perez"
@@ -2294,11 +2217,10 @@
         "Ramon Arellano"
     ], 
     "1520": [
-        "Durante", 
         "Fabian Martinez", 
         "Tiburon", 
-        "Jose", 
-        "Rodriguez"
+        "Jose Humberto Rodriguez Bañuelos",
+        "Rana"
     ], 
     "1521": [
         "Tigrillo"
@@ -2312,14 +2234,8 @@
     "1540": [
         "Alfredo Delgadillo Solis"
     ], 
-    "1546": [
-
-
-
-    ], 
     "1547": [
-        "Teodoro Garcia Simental", 
-
+        "Teodoro Garcia Simental",
         "Chapo Guzman", 
         "Martin Rubio Millan"
     ], 
@@ -2336,14 +2252,12 @@
         "Teodoro Garcia Simental"
     ], 
     "1555": [
-        "Sanchez", 
-        "Zeta"
+        "Sanchez Jimenez"
     ], 
     "1559": [
         "Sanchez Jimenez"
     ], 
     "1561": [
-
         "Mayo Zambada", 
         "Chapo Guzman"
     ], 
@@ -2351,10 +2265,7 @@
         "Ernesto Ruffo Appel", 
         "Jose Ramon Velasquez Molina", 
         "Arellano"
-    ], 
-    "2098": [
-        "Aurora"
-    ], 
+    ],
     "1572": [
         "Velasquez Molina"
     ], 
@@ -2370,14 +2281,14 @@
         "Mayo"
     ], 
     "1582": [
-        "Valdez", 
+        "Humberto Valdez", 
         "Pato Valdez"
     ], 
     "1584": [
         "Pato Valdez"
     ], 
     "1586": [
-        "Martinez Luna"
+        "Antonio Martinez Luna"
     ], 
     "1588": [
         "Martinez Luna"
@@ -2396,8 +2307,7 @@
         "Pato Valdez"
     ], 
     "1612": [
-        "Eugenio", 
-        "Walther"
+        "Eugenio Elorduy Walther"
     ], 
     "1635": [
         "Jose Ramon Velasquez"
@@ -2412,8 +2322,7 @@
     "1640": [
         "Julio Lamas", 
         "Martinez Luna", 
-        "Victor Felipe", 
-        "Garza Herrada", 
+        "Victor Felipe Garza Herrada", 
         "Pato"
     ], 
     "1641": [
@@ -2424,8 +2333,7 @@
         "Martinez Luna"
     ], 
     "1645": [
-        "Victor Felipe", 
-        "Garza"
+        "Victor Felipe Garza"
     ], 
     "1650": [
         "Adela Navarro"
@@ -2434,12 +2342,11 @@
         "Luis Alonso Perez"
     ], 
     "1713": [
-        "Juan Carlos"
+        "Juan Carlos Ramos"
     ], 
     "1736": [
-        "Lobo", 
         "Patron", 
-        "Gilberto Higuera"
+        "Gilberto Higuera Guerrero"
     ], 
     "1737": [
         "Juan Carlos Ramos"
@@ -2469,7 +2376,6 @@
         "Jorge Fernandez Menendez"
     ], 
     "1821": [
-        "Cristo", 
         "Mayel"
     ], 
     "1825": [
@@ -2483,14 +2389,16 @@
     "1833": [
         "Jesus Espinoza Soto"
     ], 
+    "1864": [
+        "Comanche"
+    ], 
     "1910": [
         "Abel Murrieta", 
         "Chapo", 
-        "Beltran"
+        "Beltran Leyva"
     ], 
     "1922": [
-        "Luis Carlos", 
-        "Flores", 
+        "Luis Carlos Cha Flores", 
         "Gabriel Enrique Hurtado"
     ], 
     "1923": [
