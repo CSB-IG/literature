@@ -204,13 +204,8 @@
     ], 
     "101": [
         "Arturo Beltran", 
-        "Edgar Eusebio Millan", 
-        "Federal", 
+        "Edgar Eusebio Millan",
         "Beltran"
-    ], 
-    "102": [
-        "Guerrero", 
-        "Morelos"
     ], 
     "104": [
         "Marco Antonio Vargas Tovar", 
@@ -224,9 +219,6 @@
         "Arturo Beltran"
     ], 
     "107": [
-        "Durante", 
-        "Sinaloa", 
-        "Sonora", 
         "Chapo Guzman", 
         "Mayo Zambada"
     ], 
@@ -235,14 +227,12 @@
     ], 
     "112": [
         "Edgar Bayardo", 
-        "Valle", 
         "Zambada"
     ], 
     "113": [
         "Beltran Leyva"
     ], 
     "116": [
-        "Sinaloa", 
         "Chapo", 
         "Mayo"
     ], 
@@ -256,20 +246,16 @@
     "132": [
         "Beltran Leyva", 
         "Amado Carrillo Fuentes", 
-        "Se\u00f1or", 
-        "Cielos"
+        "Señor Cielos"
     ], 
     "133": [
         "Beltran Leyva", 
-        "Guadalajara", 
-        "Jalisco", 
         "Juan Jesus Posadas Ocampo"
     ], 
     "134": [
         "Beltran", 
-        "Joaquin", 
-        "Chapo Guzman", 
-        "G\u00fcero Palma", 
+        "Joaquin Chapo Guzman", 
+        "Güero Palma", 
         "Arellano Felix"
     ], 
     "135": [
@@ -278,31 +264,23 @@
     ], 
     "136": [
         "Chapo Guzman", 
-        "Mexico", 
-        "Guadalajara", 
         "Jorge Ramos Perez", 
         "Antonio Mendoza Cruz"
     ], 
     "139": [
         "Joaquin Guzman", 
-        "Puente Grande", 
-        "G\u00fcero Palma"
+        "Güero Palma"
     ], 
     "141": [
-        "Cuando Vicente", 
-        "Quesada", 
-        "Pinos", 
+        "Vicente Fox Quesada",
         "Chapo"
     ], 
     "143": [
-        "Cuando", 
         "Miguel Angel Yunes", 
-        "Puente Grande", 
         "Chapo Guzman", 
-        "G\u00fcero Palma", 
-        "Arturo", 
-        "Texas Martinez Herrera", 
-        "Ramirez", 
+        "Güero Palma", 
+        "Arturo Texas Martinez Herrera", 
+        "Zulema Ramirez", 
         "Chapo"
     ], 
     "145": [
@@ -321,8 +299,7 @@
         "Bravo Aponte Gomez"
     ], 
     "150": [
-        "Joaquin", 
-        "Chapo Guzman"
+        "Joaquin Chapo Guzman"
     ], 
     "151": [
         "Beltran Leyva", 
@@ -335,11 +312,7 @@
         "Carlos Beltran Araujo", 
         "Ramona Leyva", 
         "Arturo", 
-        "Palma", 
-        "Badiraguato", 
-        "Sinaloa", 
-        "Marcos", 
-        "Culiacan"
+        "Marcos"
     ], 
     "156": [
         "Marcos Arturo", 
@@ -350,8 +323,7 @@
         "Alfredo", 
         "Gloria", 
         "Juan Jose Esparragoza Monzon", 
-        "Juan Jose", 
-        "Azul Esparragoza Moreno"
+        "Juan Jose Azul Esparragoza Moreno"
     ], 
     "158": [
         "Mario", 
@@ -367,8 +339,7 @@
         "Carlos Alberto"
     ], 
     "161": [
-        "Carlos", 
-        "Sinaloa"
+        "Carlos"
     ], 
     "163": [
         "Mario", 
@@ -378,13 +349,11 @@
     "164": [
         "Beltran Leyva", 
         "Laura", 
-        "Arturo", 
-        "Pollo Guzman Loera", 
+        "Arturo Pollo Guzman Loera", 
         "Chapo"
     ], 
     "165": [
         "Arturo Guzman", 
-        "Palma"
     ], 
     "166": [
         "Jose Ramirez Villanueva", 
@@ -396,26 +365,16 @@
         "Jose Alfredo", 
         "Mario Arturo", 
         "Alberto", 
-        "Carlos Beltran Leyva", 
-        "Sinaloa", 
-        "Sonora"
-    ], 
-    "169": [
-        "Sonora", 
-        "Arizona"
+        "Carlos Beltran Leyva"
     ], 
     "171": [
-        "Como", 
         "Jimenez Mota", 
-        "Ismael", 
-        "Mayo Zambada Garcia", 
-        "Joaquin", 
-        "Chapo Guzman", 
+        "Ismael Mayo Zambada Garcia", 
+        "Joaquin Chapo Guzman", 
         "Vicente Carrillo Fuentes", 
         "Caro Quintero"
     ], 
     "172": [
-        "Como", 
         "Beltran Leyva", 
         "Enriquez"
     ], 
@@ -429,18 +388,14 @@
         "Mochomo"
     ], 
     "179": [
-        "Sonora", 
         "Adan Salazar Zamorano"
     ], 
     "181": [
         "Adan Salazar", 
-        "Avila Beltran", 
-        "Reina", 
-        "Juan Diego Espinoza Ramirez", 
-        "Mexico"
+        "Sandra Avila Beltran Reina Pacífico", 
+        "Juan Diego Espinoza Ramirez"
     ], 
     "183": [
-        "Valle", 
         "Jesus Enriquez Salazar Villa", 
         "Salomon Benitez"
     ], 
@@ -465,36 +420,20 @@
     ], 
     "190": [
         "Alfredo Beltran Leyva", 
-        "Mochomo", 
-        "Nogales", 
-        "Sonora", 
-        "Nogales", 
-        "Arizona"
+        "Mochomo"
     ], 
     "191": [
-        "Sinaloa", 
-        "Adan Salazar", 
-        "Mexico", 
-        "Alamos", 
-        "Bernardo", 
-        "Agua"
+        "Adan Salazar"
     ], 
     "193": [
-        "Como", 
-        "Mochomo", 
-        "Sinaloa"
+        "Mochomo"
     ], 
     "195": [
         "Rodolfo Carrillo Fuentes", 
-        "Se\u00f1or", 
-        "Cielos", 
-        "Sinaloa", 
-        "Juan", 
-        "Millan"
+        "Señor Cielos", 
+        "Juan Millan"
     ], 
     "196": [
-        "Culiacan", 
-        "Sinaloa", 
         "Manuel Alejandro Aponte", 
         "Chapo"
     ], 
@@ -504,9 +443,7 @@
         "Mayo"
     ], 
     "199": [
-        "Mochomo", 
-        "Culiacan", 
-        "Sinaloa"
+        "Mochomo"
     ], 
     "200": [
         "Alfredo Beltran"
