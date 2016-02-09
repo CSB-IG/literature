@@ -301,7 +301,7 @@ ssam 's#"Jesus Reyes"#"Jesus Reyes Heroles"#g'  | \
 ssam 's#"Jesus Zambada Garcia"|"Zambada Garcia"#"Jesus Reynaldo Zambada Garcia"#g'  | \
 ssam 's#"Jesus Vizcaino"|"Vizcaino Medina"#"Jesus Vizcaino Medina"#g'  | \
 ssam 's#"Zambada Reyes"#"Jesus Zambada Reyes"#g'  | \
-ssam 's#"Chapo"|"Guzman"|"Guzman Loera"|"Joaquin"|"Joaquin Archivaldo"|"Joaquin Archivaldo Guzman Loera"|"Joaquin Guzman Loera"#"Joaquin Archivaldo Guzman Loera Chapo Guzman"#g'  | \
+ssam 's#"Chapo"|"Chapo Guzman"|"Guzman"|"Guzman Loera"|"Joaquin"|"Joaquin Archivaldo"|"Joaquin Archivaldo Guzman Loera"|"Joaquin Guzman Loera"#"Joaquin Archivaldo Guzman Loera Chapo Guzman"#g'  | \
 ssam 's#"Joaquin Ernesto"#"Joaquin Ernesto Hendricks Diaz"#g'  | \
 ssam 's#"Quina"#"Joaquin Hernandez Galicia"#g'  | \
 ssam 's#"Joel Rene Garcia"|"Joel Rene Garcia Cervantes"#"Joel Rene Garcia Cervantes "#g'  | \
