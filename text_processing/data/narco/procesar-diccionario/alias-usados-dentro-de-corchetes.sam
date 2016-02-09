@@ -1,0 +1,2 @@
+#!/bin/sh
+ssam ',x x#\[.*\]# y#\[|\]# |'`pwd`'/alias-usados.sam' $@

@@ -1,0 +1,6 @@
+#!/bin/sh
+./extraer-delimitados.sam $@ | \
+	tail -n +2 | \
+	grep -f '../diccionarios/alias-en-json' | \
+	sort | \
+	ssam ',x#\n# c#, #'
