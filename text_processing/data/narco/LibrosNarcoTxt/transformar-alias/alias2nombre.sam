@@ -1,0 +1,670 @@
+ssam 's#"Saenz"|"Saenz Couret"#"Aaron Saenz Couret"#g'  | \
+ssam 's#"Silva Diaz"#"Abel Silva Diaz"#g'  | \
+ssam 's#"Silva Petriciolet"#"Abel Silva Petriciolet"#g'  | \
+ssam 's#"Abel"#"Abel Vazquez Raña"#g'  | \
+ssam 's#"Abraham Cohen"#"Abraham Cohen Bisu"#g'  | \
+ssam 's#"Adan Segundo"#"Adan Segundo Perez Canales"#g'  | \
+ssam 's#"Barry Seal"#"Adler Berriman Seal Barry Seal"#g'  | \
+ssam 's#"Adolfo Aguilar"#"Adolfo Aguilar Zinser"#g'  | \
+ssam 's#"Beltran Quintero"#"Adolfo Beltran Quintero"#g'  | \
+ssam 's#"Adrian Carrera"|"Carrera"|"Carrera Fuentes"#"Adrian Carrera Fuentes"#g'  | \
+ssam 's#"Perez Melendez"#"Adrian Perez Melendez"#g'  | \
+ssam 's#"Agueda"#"Agueda Zambada Garcia"#g'  | \
+ssam 's#"Albertano Rojas"#"Albertano Rojas Romero"#g'  | \
+ssam 's#"Bayardo Robles"#"Alberto Bayardo Robles"#g'  | \
+ssam 's#"Borrado"#"Alberto Pineda Villa"#g'  | \
+ssam 's#"Sicilia Falcon"#"Alberto Sicilia Falcon"#g'  | \
+ssam 's#"Albino Quintero"#"Albino Quintero Meraz"#g'  | \
+ssam 's#"Aldo Ismael Higuera Avila"|"Mayelito"#"Aldo Ismael Higuera Avila Mayelito"#g'  | \
+ssam 's#"Gertz Manero"|"Manero"#"Alejandro Gertz Manero"#g'  | \
+ssam 's#"Alejandro Patron Laviada"#"Alejandro Patron Laviada Vaca"#g'  | \
+ssam 's#"Ramirez Baez"#"Alejandro Ramirez Baez"#g'  | \
+ssam 's#"Alfonso Tirado"|"Tirado"#"Alfonso Poncho Tirado"#g'  | \
+ssam 's#"Popeye"#"Alfredo Araujo"#g'  | \
+ssam 's#"Alfredo Beltran Leyva"|"Mochomo"#"Alfredo Beltran Leyva Mochomo"#g'  | \
+ssam 's#"Alfredo Guzman"|"Alfredo Guzman Salazar"|"Gordo"|"Gordo Guzman"|"Guzman Salazar"#"Alfredo Guzman Salazar Alfredillo"#g'  | \
+ssam 's#"Higuera Bernal"#"Alfredo Higuera Bernal"#g'  | \
+ssam 's#"Lobo"#"Alfredo Hodoyan Palacios"#g'  | \
+ssam 's#"Jimenez Mota"#"Alfredo Jimenez Mota"#g'  | \
+ssam 's#"Muerta"#"Alfredo Mota Sandoval"#g'  | \
+ssam 's#"Alicia Lara"#"Alicia Lara Camberas"#g'  | \
+ssam 's#"Romero"#"Allende Manuel Romero"#g'  | \
+ssam 's#"Aguilar Hernandez"#"Amado Aguilar Hernandez"#g'  | \
+ssam 's#"Amado"|"Amado Carrillo"|"Antonio Flores Montes"|"Carrillo"|"Carrillo Fuentes"|"Cielos"|"Flores Montes"|"Señor Cielos"#"Amado Carrillo Fuentes"#g'  | \
+ssam 's#"Lazcano Perez"#"Amelia Lazcano Perez"#g'  | \
+ssam 's#"Lopez Obrador"#"Andres Manuel Lopez Obrador"#g'  | \
+ssam 's#"Divino"#"Angel Isidoro Rodriguez"#g'  | \
+ssam 's#"Blablazo"|"Diego"#"Antonio Acosta"#g'  | \
+ssam 's#"Aguilar Garzon"#"Antonio Aguilar Garzon"#g'  | \
+ssam 's#"Arias"#"Antonio Arias"#g'  | \
+ssam 's#"Antonio Mariscal Saenz"#"Antonio Federico Mariscal Saenz"#g'  | \
+ssam 's#"Garate"#"Antonio Garate Bustamante"#g'  | \
+ssam 's#"Garcia Torres"|"Juan Antonio Garcia Torres"#"Antonio Garcia Torres"#g'  | \
+ssam 's#"Antonio Ibarra"|"Ibarra Salgado"#"Antonio Ibarra Salgado"#g'  | \
+ssam 's#"Martinez Luna"#"Antonio Martinez Luna"#g'  | \
+ssam 's#"Riviello Bazan"#"Antonio Riviello Bazan"#g'  | \
+ssam 's#"Toledo Corro"#"Antonio Toledo Corro"#g'  | \
+ssam 's#"Flores Corrales"#"Araceli Flores Corrales"#g'  | \
+ssam 's#"Arcadio Valenzuela"|"Valenzuela Valenzuela"#"Arcadio Valenzuela Valenzuela"#g'  | \
+ssam 's#"Pavon Reyes"#"Armando Pavon Reyes"#g'  | \
+ssam 's#"Lentes"#"Armando Rosales"#g'  | \
+ssam 's#"Armando Ruiz"#"Armando Ruiz "#g'  | \
+ssam 's#"Valencia Cornelio"#"Armando Valencia Cornelio"#g'  | \
+ssam 's#"Ochoa Sanchez"#"Arnaldo Ochoa Sanchez"#g'  | \
+ssam 's#"Chavez Chavez"#"Arturo Chavez Chavez"#g'  | \
+ssam 's#"Arturo Guzman Decena"|"Guzman Decena"#"Arturo Guzman Decena Z1"#g'  | \
+ssam 's#"Arturo Martinez"|"Arturo Martinez Herrera"|"Martinez Herrera"|"Texas"#"Arturo Martinez Herrera Texas"#g'  | \
+ssam 's#"Arturo Meza"#"Arturo Meza Cazares"#g'  | \
+ssam 's#"Arturo Ochoa Flores"#"Arturo Samohano"#g'  | \
+ssam 's#"Garcia Ochoa"#"Augusto Moises Garcia Ochoa"#g'  | \
+ssam 's#"Aurora"#"Aurora Fuentes"#g'  | \
+ssam 's#"Balta"|"Baltazar Diaz Vera"#"Baltazar Diaz"#g'  | \
+ssam 's#"Bartolo Pineda"|"Pineda Medrano"#"Bartolo Pineda Medrano"#g'  | \
+ssam 's#"Baudelia Ayala"#"Baudelia Ayala Coronel"#g'  | \
+ssam 's#"Arellano Felix"|"Benjamin"|"Benjamin Arellano"#"Benjamin Arellano Felix"#g'  | \
+ssam 's#"Benjamin Burillo"#"Benjamin Burillo Perez"#g'  | \
+ssam 's#"Charmin"#"Benjamin Herrera"#g'  | \
+ssam 's#"Aispuro Aispuro"#"Blanca Estela Aispuro Aispuro"#g'  | \
+ssam 's#"Chiquis"|"Emperatriz"|"Margarita Cazares Salazar"#"Blanca Margarita Cazares Salazar"#g'  | \
+ssam 's#"Bonifacio"#"Bonifacio Osorio Quintero"#g'  | \
+ssam 's#"Ramos"#"Budy Ramos"#g'  | \
+ssam 's#"Gonzalez Chavando"#"Bulmaro Gonzalez Chavando"#g'  | \
+ssam 's#"Bustos Cardenas"#"Bustos Cardenas "#g'  | \
+ssam 's#"Francisco Navarro"#"Cadena Francisco Navarro"#g'  | \
+ssam 's#"Carlos Arias"|"Cesar Andrade"#"Carlos Arias Cesar Andrade"#g'  | \
+ssam 's#"Carlos Beltran"#"Carlos Beltran Araujo"#g'  | \
+ssam 's#"Cabal Peniche"#"Carlos Cabal Peniche"#g'  | \
+ssam 's#"Coronel Avitia"#"Carlos Coronel Avitia"#g'  | \
+ssam 's#"Ochoa Lopez"#"Carlos Fernando Ochoa Lopez"#g'  | \
+ssam 's#"Carlos Liy"#"Carlos Garcia"#g'  | \
+ssam 's#"Hank Gonzalez"#"Carlos Hank Gonzalez"#g'  | \
+ssam 's#"Carlos Lehder"#"Carlos Lehder Rivas"#g'  | \
+ssam 's#"Menocal"#"Carlos Menocal"#g'  | \
+ssam 's#"Resa"#"Carlos Resa"#g'  | \
+ssam 's#"Rivera Aceves"#"Carlos Rivera Aceves"#g'  | \
+ssam 's#"Carlos Salinas"|"Salinas"|"Salinas Gortari"#"Carlos Salinas Gortari"#g'  | \
+ssam 's#"Carlos Segoviano"#"Carlos Segoviano Barbosa"#g'  | \
+ssam 's#"Quevedo Gastelum"#"Celia Quevedo Gastelum"#g'  | \
+ssam 's#"Barrios Romero"|"Cesar Arturo"#"Cesar Arturo Barrios Romero"#g'  | \
+ssam 's#"Crisostomos"#"Cesar Crisostomos"#g'  | \
+ssam 's#"Freyre Morales"#"Cesar Freyre Morales"#g'  | \
+ssam 's#"Guzman Salazar"#"Cesar Guzman Salazar"#g'  | \
+ssam 's#"Nava"#"Cesar Nava"#g'  | \
+ssam 's#"Sexto"#"Cesar Olivas"#g'  | \
+ssam 's#"Ciro Gomez"#"Ciro Gomez Leyva"#g'  | \
+ssam 's#"Clara Elena"|"Clara Laborin"|"Laborin Archuleta"#"Clara Elena Laborin Archuleta"#g'  | \
+ssam 's#"Claudio Julian"|"Claudio Rios Peralta"|"Rios Peralta"#"Claudio Julian Rios Peralta"#g'  | \
+ssam 's#"Gomez"#"Comandante Gomez"#g'  | \
+ssam 's#"Consuelo Loera"#"Consuelo Loera Perez"#g'  | \
+ssam 's#"Cristina Sanchez"|"Cristina Sanchez Martinez"|"Sanchez Martinez"#"Gloria Cristina Sanchez Martinez"#g'  | \
+ssam 's#"Cortes Verdugo"#"Dagoberto Cortes Verdugo"#g'  | \
+ssam 's#"Rodriguez Jimenez"#"Dagoberto Rodriguez Jimenez"#g'  | \
+ssam 's#"Beltran Martinez"#"Dalila Beltran Martinez Martinez"#g'  | \
+ssam 's#"Daniel Arizmendi"#"Daniel Arizmendi Mochaorejas"#g'  | \
+ssam 's#"Cabeza Vaca"#"Daniel Cabeza Vaca"#g'  | \
+ssam 's#"Danny"#"Daniel Ortiz"#g'  | \
+ssam 's#"Franco Rodriguez"#"David Franco Rodriguez"#g'  | \
+ssam 's#"David Navarro Torre"#"David Navarro"#g'  | \
+ssam 's#"Damaso Lopez"#"Diana Damaso Lopez"#g'  | \
+ssam 's#"Diego Enrique"|"Osorno"#"Diego Enrique Osorno"#g'  | \
+ssam 's#"Diego Fernandez"|"Diego Fernandez Cevallos"|"Fernandez Cevallos"#"Diego Fernandez Cevallos Jefe Diego"#g'  | \
+ssam 's#"Carrasco"#"Diodoro Carrasco"#g'  | \
+ssam 's#"Chacho Garcia"|"Dionicio Roman Garcia Sanchez"|"Dionisio Roman Garcia"#"Dionicio Roman Garcia Sanchez Chacho"#g'  | \
+ssam 's#"Domingo Gonzalez Diaz"|"Gonzalez Diaz"#"Domingo Gonzalez Diaz Pulques"#g'  | \
+ssam 's#"Edelio Lopez Falcon"|"Gilberto Salinas"|"Lopez Falcon"|"Yeyo Falcon"#"Edelio Lopez Falcon Senor Caballos"#g'  | \
+ssam 's#"Eden Pastora"#"Eden Pastora Comandante Zero"#g'  | \
+ssam 's#"Garcia Davila"#"Edgar Antonio Garcia Davila"#g'  | \
+ssam 's#"Flores Campbell"#"Edgardo Flores Campbell"#g'  | \
+ssam 's#"Bayardo"|"Edgar Enrique Bayardo"|"Jumex"#"Edgar Enrique Bayardo Villar"#g'  | \
+ssam 's#"Edgar Eusebio Millan"|"Edgar Millan"|"Millan"|"Millan Gomez"#"Edgar Eusebio Millan Gomez"#g'  | \
+ssam 's#"Edgar Guzman Lopez"#"Edgar Guzman"#g'  | \
+ssam 's#"Laborin Archuleta"#"Edgar Laborin Archuleta"#g'  | \
+ssam 's#"Barbie"|"Edgar Valdez"|"Edgar Valdez Villarreal"|"Valdez Villarreal"#"Edgar Valdez Villarreal Barbie"#g'  | \
+ssam 's#"Cosio Vidaurri"#"Eduardo Cosio Vidaurri"#g'  | \
+ssam 's#"Eduardo Gonzalez Quirarte"|"Flaco"|"Gonzalez Quirarte"#"Eduardo Gonzalez Quirarte Flaco"#g'  | \
+ssam 's#"Don Lalo"|"Eduardo Fernandez"|"Lalo Fernandez"#"Eduardo Lalo Fernandez"#g'  | \
+ssam 's#"Eduardo Medina"|"Medina Mora"#"Eduardo Medina Mora"#g'  | \
+ssam 's#"Eduardo Moreno"|"Teniente Hormiga"#"Eduardo Moreno Teniente Hormiga"#g'  | \
+ssam 's#"Eduardo Saenz"#"Eduardo Saenz Hirschfeld"#g'  | \
+ssam 's#"Valle"#"Eduardo Valle"#g'  | \
+ssam 's#"Esther Gordillo"#"Elba Esther Gordillo"#g'  | \
+ssam 's#"Elias Navarro Torre"#"Elias Navarro"#g'  | \
+ssam 's#"Calderon Campos"#"Elisa Calderon Campos"#g'  | \
+ssam 's#"Doña"#"Elizabeth Rodriguez Griego"#g'  | \
+ssam 's#"Emilio"|"Guzman Bustillos"#"Emilio Guzman Bustillos"#g'  | \
+ssam 's#"Emilio Jose Lozoya"#"Emilio Jose Lozoya Thalmann"#g'  | \
+ssam 's#"Emilio"|"Emilio Quintero"|"Quintero Payan"#"Emilio Quintero Payan"#g'  | \
+ssam 's#"Emma"|"Emma Coronel"#"Emma Coronel Aispuro"#g'  | \
+ssam 's#"Alvarez Castillo"|"Enrique Alvarez"#"Enrique Alvarez Castillo"#g'  | \
+ssam 's#"Camarena"|"Enrique Camarena"|"Enrique Camarena Salazar"#"Enrique Camarena Kiki Camarena"#g'  | \
+ssam 's#"Cervantes Aguirre"|"Enrique Cervantes Aguirre"#"Enrique Cervantes Aguirre Augusto"#g'  | \
+ssam 's#"Enrique Coppel"#"Enrique Coppel Luken"#g'  | \
+ssam 's#"Enrique Gonzalez"#"Enrique Gonzalez Rosas"#g'  | \
+ssam 's#"Enrique Perez"|"Perez Rodriguez"#"Enrique Perez Rodriguez"#g'  | \
+ssam 's#"Enrique Rivero"#"Enrique Rivero Lake "#g'  | \
+ssam 's#"Soto Padilla"#"Enrique Soto Padilla"#g'  | \
+ssam 's#"Enrique Tello"#"Enrique Tello Quiñones"#g'  | \
+ssam 's#"Salazar Araiza"#"Epifanio Salazar Araiza"#g'  | \
+ssam 's#"Moreno Arriola"#"Erendira Moreno Arriola"#g'  | \
+ssam 's#"Zamora Pardo"#"Erika Zamora Pardo"#g'  | \
+ssam 's#"Don Neto"|"Ernesto Fonseca"|"Fonseca"|"Fonseca Carrillo"|"Neto"|"Neto Fonseca"#"Ernesto Fonseca Carrillo"#g'  | \
+ssam 's#"Godinez Hernandez"#"Ernesto Godinez Hernandez"#g'  | \
+ssam 's#"Guzman Loera"#"Ernesto Guzman Loera"#g'  | \
+ssam 's#"Ibarra"|"Ibarra Santes"#"Ernesto Ibarra Santes"#g'  | \
+ssam 's#"Ruffo Appel"#"Ernesto Ruffo Appel"#g'  | \
+ssam 's#"Zedillo"#"Ernesto Zedillo"#g'  | \
+ssam 's#"Esteban Pineda"#"Esteban Pineda Mechuca"#g'  | \
+ssam 's#"Quintero Mariscal"#"Esteban Quintero Mariscal"#g'  | \
+ssam 's#"Rodriguez Olivera"#"Esteban Rodriguez Olivera"#g'  | \
+ssam 's#"Royaceli"#"Esteban Royaceli"#g'  | \
+ssam 's#"Antonio Ezequiel Cardenas Guillen"|"Cardenas Guillen"#"Ezequiel Cardenas Guillen"#g'  | \
+ssam 's#"Tiburon"#"Fabian Martinez"#g'  | \
+ssam 's#"Facundo"|"Facundo Rosas"|"Rosas Rosas"#"Facundo Rosas Rosas"#g'  | \
+ssam 's#"Faustino Vicente"#"Faustino Vicente Ruiz Taviel"#g'  | \
+ssam 's#"Soto Miller"#"Fausto Soto Miller"#g'  | \
+ssam 's#"Livas Vera"#"Federico Alejandro Livas Vera"#g'  | \
+ssam 's#"Ponce Rojas"#"Federico Ponce Rojas"#g'  | \
+ssam 's#"Beltran Leyva"#"Felicitas Beltran Leyva"#g'  | \
+ssam 's#"Felipe Cabrera"#"Felipe Cabrera Marquez"#g'  | \
+ssam 's#"Calderon"|"Calderon Hinojosa"|"Felipe Calderon"#"Felipe Calderon Hinojosa"#g'  | \
+ssam 's#"Raton"#"Felipe Jaquez Garcia"#g'  | \
+ssam 's#"Jesus Mendivil"|"Jesus Mendivil Ibarra"#"Felipe Jesus Mendivil"#g'  | \
+ssam 's#"Felipe Leaños"#"Felipe Leaños Rivera"#g'  | \
+ssam 's#"Felix Galvan"#"Felix Galvan Lopez"#g'  | \
+ssam 's#"Fernanda Saenz"#"Fernanda Saenz de Simon"#g'  | \
+ssam 's#"Fernando Flores"#"Fernando Flores Gomez"#g'  | \
+ssam 's#"Fernando Gutierrez"|"Fernando Gutierrez Barrios"|"Gutierrez Barrios"|"Pollo"#"Fernando Gutierrez Barrios Pollo"#g'  | \
+ssam 's#"Lopez Arias"#"Fernando Lopez Arias"#g'  | \
+ssam 's#"Martinez Inclan"#"Fernando Martinez Inclan"#g'  | \
+ssam 's#"Rivera"#"Fernando Rivera"#g'  | \
+ssam 's#"Sanchez Arellano"#"Fernando Sanchez Arellano"#g'  | \
+ssam 's#"Alonso Ceballos"#"Fidel Alonso Ceballos"#g'  | \
+ssam 's#"Cancino Albores"#"Fidel Antonio Cancino Albores"#g'  | \
+ssam 's#"Fidel"#"Fidel Castro"#g'  | \
+ssam 's#"Fidel Hernandez"|"Hernandez Garcia"#"Fidel Hernandez Garcia"#g'  | \
+ssam 's#"Choco"#"Fidel Hinojosa"#g'  | \
+ssam 's#"Florentino Ventura"#"Florentino Ventura Ventura"#g'  | \
+ssam 's#"Bejos Camacho"#"Francisco Antonio Bejos Camacho"#g'  | \
+ssam 's#"Cabrera"|"Cabrera Castro"|"Piedra"#"Francisco Cabrera Castro"#g'  | \
+ssam 's#"Cardenas Luque"#"Francisco Cardenas Luque"#g'  | \
+ssam 's#"Francisco Cifuentes"#"Francisco Cifuentes Villa"#g'  | \
+ssam 's#"Gutierrez Barrios"#"Francisco Gutierrez Barrios"#g'  | \
+ssam 's#"Jaime Madrid Sanchez"|"Madrid Sanchez"#"Francisco Jaime Madrid Sanchez"#g'  | \
+ssam 's#"Chito"|"Francisco Javier Camberos"|"Francisco Javier Camberos Rivera"|"Francisco Javier Camberros"#"Francisco Javier Camberos Rivera Chito"#g'  | \
+ssam 's#"Cardenas Gamboa"|"Francisco Cardenas Gamboa"|"Javier Cardenas"#"Francisco Javier Cardenas Gamboa"#g'  | \
+ssam 's#"Espinoza Luna"#"Francisco Javier Espinoza Luna"#g'  | \
+ssam 's#"Francisco Garza Palacios"|"Francisco Javier Garza Palacios"|"Garza Palacios"|"Javier Garza Palacios"#"Francisco Javier Garza Palacios Frutilupis"#g'  | \
+ssam 's#"Francisco Labastida"|"Labastida"|"Labastida Ochoa"#"Francisco Labastida Ochoa"#g'  | \
+ssam 's#"Francisco Navarro"#"Francisco Navarro Espinosa"#g'  | \
+ssam 's#"Quijano Santoyo"#"Francisco Quijano Santoyo"#g'  | \
+ssam 's#"Francisco Ramirez Acuña"#"Francisco Ramirez"#g'  | \
+ssam 's#"Francisco Sahagun"#"Francisco Sahagun Baca"#g'  | \
+ssam 's#"Francisco Xavier"#"Francisco Xavier Ovando"#g'  | \
+ssam 's#"Moss"#"Frank Moss"#g'  | \
+ssam 's#"Enciso"#"Froylan Enciso"#g'  | \
+ssam 's#"Gabino Salas"#"Gabino Salas Valenciano"#g'  | \
+ssam 's#"Gabriel Gonzalez"#"Gabriel Gonzalez Gonzalez"#g'  | \
+ssam 's#"Reyes Orona"#"Gabriel Reyes Orona"#g'  | \
+ssam 's#"Garcia Luna"|"Genaro Garcia"|"Genaro Garcia Luna"#"Genaro Garcia Luna Metralleta"#g'  | \
+ssam 's#"George Bush""Koki"|#"George H W Bush George HW Bush George Bush"#g'  | \
+ssam 's#"Gerardo Alvarez"#"Gerardo Alvarez Indio"#g'  | \
+ssam 's#"Colin"#"Gerardo Colin Reyes"#g'  | \
+ssam 's#"Vazquez Alatriste"#"Gerardo Vazquez Alatriste"#g'  | \
+ssam 's#"Hernan"#"German Garcia Loya"#g'  | \
+ssam 's#"June"#"Gilberto Garcia Mena"#g'  | \
+ssam 's#"Gilberto Higuera"|"Higuera Bernal"#"Gilberto Higuera Bernal"#g'  | \
+ssam 's#"Patron"#"Gilberto Higuera Guerrero"#g'  | \
+ssam 's#"Pinto Vargas"#"Gilberto Pinto Vargas"#g'  | \
+ssam 's#"Quevedo Gastelum"#"Giovana Quevedo Gastelum"#g'  | \
+ssam 's#"Quevedo"#"Giovanna Quevedo"#g'  | \
+ssam 's#"Beltran Leyva"#"Gloria Beltran Leyva"#g'  | \
+ssam 's#"Ronco"#"Gomez Castillo"#g'  | \
+ssam 's#"Araujo Payan"|"Gonzalo Araujo Payan"#"Gonzalo Araujo Payan Chalo"#g'  | \
+ssam 's#"Gonzalo Rodriguez Gacha"|"Mexicano"|"Rodriguez Gacha"#"Gonzalo Rodriguez Gacha Mexicano"#g'  | \
+ssam 's#"Sanchez Martinez"#"Gregorio Sanchez Martinez"#g'  | \
+ssam 's#"Goyo Sauceda"|"Gregorio Saucedo"#"Gregorio Sauceda"#g'  | \
+ssam 's#"Griselda Lopez Perez"|"Karla Perez Rojo"|"Lopez Perez"|"Perez Rojo"|"Silvia Escoto"|"Silvia Escoto Muñoz"#"Griselda Guadalupe Lopez Perez"#g'  | \
+ssam 's#"Perez Rodriguez"#"Güero Perez Rodriguez"#g'  | \
+ssam 's#"Alvarez Nahara"|"Guillermo Alvarez"#"Guillermo Alvarez Nahara"#g'  | \
+ssam 's#"Cosio Vidaurri"#"Guillermo Cosio Vidaurri"#g'  | \
+ssam 's#"Lalo"|"Ramirez Peyro"#"Guillermo Eduardo Ramirez Peyro"#g'  | \
+ssam 's#"Galvan Galvan"|"Guillermo Galvan"#"Guillermo Galvan Galvan"#g'  | \
+ssam 's#"Calderoni"|"Gonzalez Calderoni"#"Guillermo Gonzalez Calderoni"#g'  | \
+ssam 's#"Guillermo Paredes"|"Paredes Torres"#"Guillermo Paredes Torres"#g'  | \
+ssam 's#"Salazar Ramos"#"Guillermo Salazar Ramos"#g'  | \
+ssam 's#"Guillermo Valdes"#"Guillermo Valdes Castellanos"#g'  | \
+ssam 's#"Vargas Rodriguez"#"Guillermo Vargas Rodriguez"#g'  | \
+ssam 's#"Guillermo Velez"#"Guillermo Velez Memo"#g'  | \
+ssam 's#"Diaz Ordaz"#"Gustavo Diaz Ordaz"#g'  | \
+ssam 's#"Conejo"|"Mauricio Harold Poveda"#"Harold Poveda Conejo"#g'  | \
+ssam 's#"Berrellez"#"Hector Berrellez"#g'  | \
+ssam 's#"Cervantes Santos"#"Hector Cervantes Santos"#g'  | \
+ssam 's#"Burra"#"Hector Huerta"#g'  | \
+ssam 's#"Larios Cordova"#"Hector Larios Cordova"#g'  | \
+ssam 's#"Saenz Couret"#"Hector Manuel Saenz Couret"#g'  | \
+ssam 's#"Güero"|"Güero Palma"|"Hector Luis Güero Palma"|"Jesus Hector Palma Salazar"|"Luis Hector Palma"|"Palma Salazar"#"Hector Palma Salazar Güero Palma"#g'  | \
+ssam 's#"Guadarrama"|"Guadarrama Reynoso"#"Héctor Porfirio Petronio Guadarrama Reynoso"#g'  | \
+ssam 's#"Quijano Santoyo"#"Hector Quijano Santoyo"#g'  | \
+ssam 's#"Sanchez Landa"#"Hector Sanchez Landa"#g'  | \
+ssam 's#"Velazquez Corona"#"Hector Velazquez Corona"#g'  | \
+ssam 's#"Heriberto Lazcano"|"Lazca"|"Lazcano"|"Verdugo"#"Heriberto Lazcano Lazcano"#g'  | \
+ssam 's#"Alebrije"|"Rodriguez Garza"#"Heriberto Rodriguez Garza"#g'  | \
+ssam 's#"Salinas Altes"#"Heriberto Salinas Altes"#g'  | \
+ssam 's#"Heriberto Santillan"|"Santillan Tabares"#"Heriberto Santillan Tabares"#g'  | \
+ssam 's#"Laborin Archuleta"#"Homar Laborin Archuleta"#g'  | \
+ssam 's#"Brunt Acosta"#"Horacio Brunt Acosta"#g'  | \
+ssam 's#"Hugo Alberto"#"Hugo Alberto Wallace"#g'  | \
+ssam 's#"Alvarez Machain"#"Humberto Alvarez Machain"#g'  | \
+ssam 's#"Pato"|"Pato Valdez"#"Humberto Valdez"#g'  | \
+ssam 's#"Burgos"|"Burgos Araujo"#"Ignacio Burgos Araujo"#g'  | \
+ssam 's#"Coronel"|"Coronel Villarreal"|"Ignacio Coronel"|"Ignacio Coronel Villarreal"|"Nachito Coronel"|"Nacho Coronel"#"Ignacio Coronel Villarreal Nacho Coronel Nachito Coronel"#g'  | \
+ssam 's#"Morales Lechuga"#"Ignacio Morales Lechuga"#g'  | \
+ssam 's#"Labastida Calderon"#"Igor Labastida Calderon"#g'  | \
+ssam 's#"Marcela Gomez"#"Ilyana Marcela Gomez Bargueno"#g'  | \
+ssam 's#"Imelda"#"Imelda Salazar Hernandez"#g'  | \
+ssam 's#"Ines Calderon"#"Ines Calderon Godoy"#g'  | \
+ssam 's#"Perez Ochoa"#"Irma Perez Ochoa"#g'  | \
+ssam 's#"Isabel Miranda"#"Isabel Miranda Wallace"#g'  | \
+ssam 's#"Hernandez Deras"#"Ismael Hernandez Deras"#g'  | \
+ssam 's#"Ismael Higuera"|"Ismael Higuera Guerrero"|"Mayel"#"Ismael Higuera Mayel"#g'  | \
+ssam 's#"Ismael Higuera"#"Ismael Higuera Renteria"#g'  | \
+ssam 's#"Ismael"|"Ismael Mayo Zambada"|"Ismael Zambada"|"Mayo"|"Mayo Zambada"|"Zambada"|"Zambada Garcia"#"Ismael Zambada Garcia"#g'  | \
+ssam 's#"Archibaldo Guzman"|"Archibaldo Guzman Salazar"|"Archivaldo Ivan Guzman Salazar"|"Chapito"|"Guzman Salazar"|"Ivan Archivaldo"|"Ivan Archivaldo Guzman Diaz"#"Ivan Archivaldo Guzman Salazar"#g'  | \
+ssam 's#"Keico"#"Ivan Contreras"#g'  | \
+ssam 's#"Jaime Camil"#"Jaime Camil Garza"#g'  | \
+ssam 's#"Flores Sanchez"#"Jaime Flores Sanchez"#g'  | \
+ssam 's#"Jaime Gonzalez Duran"#"Jaime Gonzalez Duran Hummer"#g'  | \
+ssam 's#"Fontes"|"Jaime Valencia Fontes"|"Valencia Fontes"#"Jaime Leonardo Valencia Fontes"#g'  | \
+ssam 's#"Chino"|"Rodolfo Leon Aragon"#"Jaime Rodolfo Leon Aragon Chino"#g'  | \
+ssam 's#"Sanchez Flores"#"Jaime Sanchez Flores"#g'  | \
+ssam 's#"Valdez"#"Jaime Valdez"#g'  | \
+ssam 's#"Arellano Felix"|"Javier Arellano"|"Tigrillo"|"Tigrillo Arellano"#"Javier Arellano Felix"#g'  | \
+ssam 's#"Javier Barba"#"Javier Barba Lopez"#g'  | \
+ssam 's#"Coello Trejo"|"Javier Coello"#"Javier Coello Trejo"#g'  | \
+ssam 's#"Garcia Paniagua"#"Javier Garcia Paniagua"#g'  | \
+ssam 's#"Hernandez Garcia"#"Javier Hernandez Garcia"#g'  | \
+ssam 's#"Herrera Valles"#"Javier Herrera Valles"#g'  | \
+ssam 's#"Javier Martinez Perez"#"Javier Martinez Perez Mamado"#g'  | \
+ssam 's#"Javier Ramirez"#"Javier Ramirez Muñoz"#g'  | \
+ssam 's#"Aguilar Padilla"|"Jesus Aguilar"|"Jesus Aguilar Padilla"#"Jesus Alberto Aguilar Padilla"#g'  | \
+ssam 's#"Jesus Bitar"#"Jesus Bitar Tafich"#g'  | \
+ssam 's#"Chabelo"|"Jesus Castro Pantoja"#"Jesus Castro Pantoja Chabelo"#g'  | \
+ssam 's#"Comanche"#"Jesus Espinoza Soto"#g'  | \
+ssam 's#"Ayala"#"Jesus Francisco Ayala"#g'  | \
+ssam 's#"Gutierrez Rebollo"|"Jesus Gutierrez"#"Jesus Gutierrez Rebollo"#g'  | \
+ssam 's#"Chuy"#"Jesus Labra Aviles"#g'  | \
+ssam 's#"Jesus Loaiza"#"Jesus Loaiza Avendano"#g'  | \
+ssam 's#"Jesus Loya"|"Loya Perez"#"Jesus Loya Perez"#g'  | \
+ssam 's#"Jesus Guadalupe Luna Altamirano"#"Jesus Luna Altamirano"#g'  | \
+ssam 's#"Miguel Felix"#"Jesus Miguel Felix"#g'  | \
+ssam 's#"Jesus Reyes"#"Jesus Reyes Heroles"#g'  | \
+ssam 's#"Jesus Zambada Garcia"|"Zambada Garcia"#"Jesus Reynaldo Zambada Garcia"#g'  | \
+ssam 's#"Jesus Vizcaino"|"Vizcaino Medina"#"Jesus Vizcaino Medina"#g'  | \
+ssam 's#"Zambada Reyes"#"Jesus Zambada Reyes"#g'  | \
+ssam 's#"Chapo"|"Guzman"|"Guzman Loera"|"Joaquin"|"Joaquin Archivaldo"|"Joaquin Archivaldo Guzman Loera"|"Joaquin Guzman Loera"#"Joaquin Archivaldo Guzman Loera Chapo Guzman"#g'  | \
+ssam 's#"Joaquin Ernesto"#"Joaquin Ernesto Hendricks Diaz"#g'  | \
+ssam 's#"Quina"#"Joaquin Hernandez Galicia"#g'  | \
+ssam 's#"Joel Rene Garcia"|"Joel Rene Garcia Cervantes"#"Joel Rene Garcia Cervantes "#g'  | \
+ssam 's#"Joel Zacarias"|"Joel Zacarias Malacon"|"Malacon Amador"#"Joel Zacarias Malacon Amador"#g'  | \
+ssam 's#"Bastida Gallardo"#"Jorge Bastida Gallardo"#g'  | \
+ssam 's#"Carpizo"|"Jorge Carpizo"#"Jorge Carpizo McGregor"#g'  | \
+ssam 's#"Carrillo Olea"|"Jorge Carrillo"#"Jorge Carrillo Olea"#g'  | \
+ssam 's#"Cruz Mendez"#"Jorge Cruz Mendez"#g'  | \
+ssam 's#"Coss"#"Jorge Eduardo Costilla Sanchez"#g'  | \
+ssam 's#"Enrique Tello"|"Jorge Tello Peon"|"Tello"|"Tello Peon"#"Jorge Enrique Tello Peon"#g'  | \
+ssam 's#"Jorge Favela Escobosa"#"Jorge Favela"#g'  | \
+ssam 's#"Elenes"|"Elenes Valenzuela"|"Jorge Guillermo Elenes"#"Jorge Guillermo Elenes Valenzuela"#g'  | \
+ssam 's#"Jorge Hurtado"#"Jorge Hurtado Horcasitas"#g'  | \
+ssam 's#"Jorge Luis"#"Jorge Luis Ochoa"#g'  | \
+ssam 's#"Jorge Madrazo"#"Jorge Madrazo Cuellar"#g'  | \
+ssam 's#"Malacon Amador"#"Jorge Malacon Amador"#g'  | \
+ssam 's#"Cifuentes Villa"|"Elkin Jesus Lopez Salazar"#"Jorge Milton Cifuentes Villa"#g'  | \
+ssam 's#"Moreno Chauvet"#"Jorge Moreno Chauvet"#g'  | \
+ssam 's#"Jorge Ramos"#"Jorge Ramos Perez"#g'  | \
+ssam 's#"Jose Alejandro Lara"#"Jose Alejandro Lara Parca"#g'  | \
+ssam 's#"Andrade"|"Andrade Bojorgez"|"Jose Alfredo Andrade"#"Jose Alfredo Andrade Bojorgez"#g'  | \
+ssam 's#"Jose Antonio Bernal Guerrero"#"Jose Antonio Bernal"#g'  | \
+ssam 's#"Antonio Diaz Hernandez"|"Diaz Hernandez"#"Jose Antonio Diaz Hernandez"#g'  | \
+ssam 's#"Montes Garfias"#"Jose Antonio Montes Garfias"#g'  | \
+ssam 's#"Moya Morales"#"Jose Antonio Moya Morales"#g'  | \
+ssam 's#"Jose Antonio Ortega"|"Ortega Sanchez"#"Jose Antonio Ortega Sanchez"#g'  | \
+ssam 's#"Ponce Medina"#"Jose Antonio Ponce Medina"#g'  | \
+ssam 's#"Jaguar"|"Ultimo Terremoto"#"Jose Antonio Torres Marrufo"#g'  | \
+ssam 's#"Jose Antonio Zorrilla"|"Zorrilla"#"Jose Antonio Zorrilla Perez"#g'  | \
+ssam 's#"Ponce Medina"#"Jose Arturo Ponce Medina"#g'  | \
+ssam 's#"Jose Barajas"#"Jose Barajas Veneno"#g'  | \
+ssam 's#"Jose Chuli"#"Jose Carlos Antonio"#g'  | \
+ssam 's#"Jose Carlos Resendez"|"Resendez"#"Jose Carlos Resendez Bertoloussi"#g'  | \
+ssam 's#"Carlos Salinas"#"Jose Carlos Salinas"#g'  | \
+ssam 's#"Clemente Vega"#"Jose Clemente Vega"#g'  | \
+ssam 's#"Tarzan"#"Jose Esparza"#g'  | \
+ssam 's#"Francisco Ruiz Massieu"|"Ruiz Massieu"#"Jose Francisco Ruiz Massieu"#g'  | \
+ssam 's#"Rana"#"Jose Humberto Rodriguez Bañuelos"#g'  | \
+ssam 's#"Niño Rojo"#"Jose Humberto Terrones Soto"#g'  | \
+ssam 's#"Ines Calderon"|"Ines Calderon Quintero"#"Jose Ines Calderon Quintero"#g'  | \
+ssam 's#"Olvera"#"Jose Jaime Olvera"#g'  | \
+ssam 's#"Cesar"|"Javier Bargueo Urias"|"Urias"#"Jose Javier Bargueño Urias"#g'  | \
+ssam 's#"Jesus Alcala Castellon"#"Jose Jesus Alcala Castellon"#g'  | \
+ssam 's#"Lopez Portillo"#"Jose Lopez Portillo"#g'  | \
+ssam 's#"Cruz Martinez"#"Jose Luis Cruz Martinez"#g'  | \
+ssam 's#"Jose Luis Gallardo"#"Jose Luis Gallardo Güero"#g'  | \
+ssam 's#"Chiquito"|"Jose Luis Garcia"#"Jose Luis Garcia Gutierrez"#g'  | \
+ssam 's#"Jose Luis Larrazolo Rubio"#"Jose Luis Larrazolo"#g'  | \
+ssam 's#"Pablo Rios Rodriguez"#"Jose Luis Ledesma"#g'  | \
+ssam 's#"Reynoso Gonzalez"#"Jose Luis Reynoso Gonzalez"#g'  | \
+ssam 's#"Sanchez Baez"#"Jose Luis Sanchez Baez"#g'  | \
+ssam 's#"Jose Luis Santiago"|"Santiago Vasconcelos"|"Vasconcelos"#"Jose Luis Santiago Vasconcelos"#g'  | \
+ssam 's#"Jose Luis Soberanes Fernandez"|"Soberanes"|"Soberanes Fernandez"#"Jose Luis Soberanes"#g'  | \
+ssam 's#"Cabezon"|"Sosa"#"Jose Luis Sosa Mayorga"#g'  | \
+ssam 's#"Vergara"#"Jose Luis Vergara"#g'  | \
+ssam 's#"Jose Cordoba"|"Jose Cordoba Montoya"#"Jose Maria Cordoba Montoya"#g'  | \
+ssam 's#"Jose Mario Machorro"#"Jose Mario Machorro Castillo"#g'  | \
+ssam 's#"Jose Mario Severiano"#"Jose Mario Severiano Morales"#g'  | \
+ssam 's#"Jose Ramon"|"Jose Ramon Laija Serrano"|"Laija Serrano"#"Jose Ramon Laija Serrano Colo"#g'  | \
+ssam 's#"Jose Ramon Velasquez"|"Velasquez Molina"#"Jose Ramon Velasquez Molina"#g'  | \
+ssam 's#"Rikin"|"Rikin Escajeda"#"Jose Rodolfo Escajeda"#g'  | \
+ssam 's#"Hernandez Montes"#"Jose Rodolfo Hernandez Montes"#g'  | \
+ssam 's#"Jose Rosario"#"Jose Rosario Gonzalez Olachea"#g'  | \
+ssam 's#"Jose Rosas Aispuro"|"Rosas Aispuro"#"Jose Rosas Aispuro Torres"#g'  | \
+ssam 's#"Hernandez Quiroz"|"Jose Salvador"#"Jose Salvador Hernandez Quiroz"#g'  | \
+ssam 's#"Jose Salvador"|"Puga Quintanilla"#"Jose Salvador Puga Quintanilla"#g'  | \
+ssam 's#"Ayala Aguirre"#"Jose Trinidad Ayala Aguirre"#g'  | \
+ssam 's#"Jose Trinidad Larrieta"|"Trinidad Larrieta"#"Jose Trinidad Larrieta Carrasco"#g'  | \
+ssam 's#"Jose Vicente"|"Profe"|"Vicente Castaño"|"Vicente Castaño Gil"#"Jose Vicente Castaño Gil"#g'  | \
+ssam 's#"Zepeda Mendez"#"Juan Alberto Zepeda Mendez"#g'  | \
+ssam 's#"Arevalo Gardoqui"|"Juan Arevalo"#"Juan Arevalo Gardoqui"#g'  | \
+ssam 's#"Juan Camilo"#"Juan Camilo Mouriño"#g'  | \
+ssam 's#"Jorge Martinez"|"Juan Carlos Barrera"#"Juan Carlos Barragan"#g'  | \
+ssam 's#"Perez Zuñiga"#"Juan Carlos Perez"#g'  | \
+ssam 's#"Ramirez Abadia"#"Juan Carlos Ramirez Abadia"#g'  | \
+ssam 's#"Juan Carlos"|"Sanchez Castillo"#"Juan Carlos Sanchez Castillo"#g'  | \
+ssam 's#"Castillo Alonso"#"Juan Castillo Alonso"#g'  | \
+ssam 's#"Castro Aviles"#"Juan Castro Aviles"#g'  | \
+ssam 's#"Juan David"#"Juan David Ochoa"#g'  | \
+ssam 's#"Canelo"|"Leopardo"|"Rojo"#"Juan Diaz"#g'  | \
+ssam 's#"Puma"#"Juan Enrique Vascones Hernandez"#g'  | \
+ssam 's#"Franco Rios"#"Juan Francisco Franco Rios"#g'  | \
+ssam 's#"Guzman Loera"#"Juan Francisco Guzman Loera"#g'  | \
+ssam 's#"Galvan Lara"|"Juan Galvan"#"Juan Galvan Lara"#g'  | \
+ssam 's#"Lopez Hernandez"#"Juan Gerardo Lopez Hernandez"#g'  | \
+ssam 's#"Garcia Abrego"|"Humberto Garcia Abrego"|"Juan"|"Juan Garcia Abrego"#"Juan Humberto Garcia Abrego"#g'  | \
+ssam 's#"Juan Ignacio"#"Juan Ignacio Esparragoza Gastelum"#g'  | \
+ssam 's#"Juan Jesus"|"Juan Jesus Posadas"|"Posadas Ocampo"#"Juan Jesus Posadas Ocampo"#g'  | \
+ssam 's#"Alvarez Tostado"|"Juan Jose Alvarez Tostado"#"Juan Jose Alvarez Tostado Compadre"#g'  | \
+ssam 's#"Azul"|"Azul Esparragoza"|"Esparragoza Moreno"|"Jose Luis Esparragosa"|"Juan Jose Esparragoza"|"Juan Jose Esparragoza Martinez"|"Juan Jose Esparragoza Moreno"|"Juan Manuel Ortiz Moreno"|"Juan Robles"|"Raul Gonzalez"#"Juan Jose Esparragoza Moreno Azul"#g'  | \
+ssam 's#"Jose Perez"|"Perez Diaz"#"Juan Jose Perez Diaz"#g'  | \
+ssam 's#"Quintero Payan"#"Juan Jose Quintero Payan"#g'  | \
+ssam 's#"Rios Estavillo"#"Juan Jose Rios Estavillo"#g'  | \
+ssam 's#"Juan Jose Sanchez"#"Juan Jose Sanchez Gutierrez"#g'  | \
+ssam 's#"Juan Manuel Vizcarra Cruz"|"Pizcacha"#"Juan Manuel Vizcarra Cruz Pizcacha"#g'  | \
+ssam 's#"Vizcarra"#"Juan Miguel Vizcarra"#g'  | \
+ssam 's#"Juan Guerra"|"Juan Nepomuceno"#"Juan Nepomuceno Guerra"#g'  | \
+ssam 's#"Monico"#"Juan Pablo Guijarro Fragoso"#g'  | \
+ssam 's#"Juan Pablo"#"Juan Pablo II"#g'  | \
+ssam 's#"Pablo Rojas"#"Juan Pablo Rojas Lopez"#g'  | \
+ssam 's#"Juan Pablo Tavira"|"Tavira"|"Tavira Noriega"#"Juan Pablo Tavira Noriega"#g'  | \
+ssam 's#"Juan Matta Ballesteros"|"Matta Ballesteros"|"Negro"#"Juan Ramon Matta Ballesteros"#g'  | \
+ssam 's#"Juan Sandoval"#"Juan Sandoval Iniguez"#g'  | \
+ssam 's#"Fierro Mendez"#"Juarez Manuel Fierro Mendez"#g'  | \
+ssam 's#"Antonio Mendoza"|"Antonio Mendoza Cruz"|"Mendoza Cruz"#"Julian Antonio Mendoza Cruz"#g'  | \
+ssam 's#"Venegas"|"Venegas Guzman"#"Julian Venegas Guzman"#g'  | \
+ssam 's#"Julian Venegas"#"Julian Venegas Venegas"#g'  | \
+ssam 's#"Julio Beltran Quintero"#"Julio Beltran Quintero Julion"#g'  | \
+ssam 's#"Julio Lopez Soto"|"Lopez Soto"#"Julio Carlos Lopez Soto"#g'  | \
+ssam 's#"Beltran Quintero"#"Julio Cesar Beltran Quintero"#g'  | \
+ssam 's#"Moraila Amador"#"Julio Cesar Moraila Amador"#g'  | \
+ssam 's#"Julio Scherer"#"Julio Scherer Garcia"#g'  | \
+ssam 's#"Justo Ceja Martinez"#"Justo Ceja"#g'  | \
+ssam 's#"Esparragoza Burgos"#"Karina Esparragoza Burgos"#g'  | \
+ssam 's#"Laija Serrano"#"Laija Serrano Coloche"#g'  | \
+ssam 's#"Harrison"|"Torre Blanca"|"Victor Harrison"#"Lawrence Victor Harrison Torre Blanca"#g'  | \
+ssam 's#"Beltran Santana"|"Leonardo Beltran"#"Leonardo Beltran Santana"#g'  | \
+ssam 's#"Felix Gutierrez"|"Leonardo Felix Gutierrez"#"Leonardo Felix Gutierrez Nalo"#g'  | \
+ssam 's#"Aguirre"|"Aguirre Meza"#"Leonel Aguirre Meza"#g'  | \
+ssam 's#"Sanchez Celis"#"Leopoldo Sanchez Celis"#g'  | \
+ssam 's#"Gutierrez Sanchez"#"Leticia Gutierrez Sanchez"#g'  | \
+ssam 's#"Ortiz Hernandez"#"Leticia Ortiz Hernandez"#g'  | \
+ssam 's#"Gonzalez Quirarte"#"Lilia Gonzalez Quirarte"#g'  | \
+ssam 's#"Quintana"#"Lino Quintana"#g'  | \
+ssam 's#"Gonzalez Hernandez"|"Lorena"#"Lorena Gonzalez Hernandez"#g'  | \
+ssam 's#"Alba Michel"|"Alexis Garcia"|"Alexis Garcia Alba Michel"|"Alexis Garcia Alba Michel"|"Isela Lomeli Leon"|"Maira Alejandra Casas Saldaña"#"Lucia Silva Muñoz"#g'  | \
+ssam 's#"Lucio"#"Lucio Cabañas"#g'  | \
+ssam 's#"Donjuan Govea"#"Lucio Donjuan Govea"#g'  | \
+ssam 's#"Lucio Martinez Manriquez"#"Lucio Martinez Manriquez Sol"#g'  | \
+ssam 's#"Azcarraga Milmo"|"Luis Alberto Azcarraga"#"Luis Alberto Azcarraga Milmo"#g'  | \
+ssam 's#"Guerrero"#"Luis Alberto Guerrero"#g'  | \
+ssam 's#"Cabeza Vaca"#"Luis Angel Cabeza Vaca"#g'  | \
+ssam 's#"Astorga"#"Luis Astorga"#g'  | \
+ssam 's#"Barreda Moreno"#"Luis Barreda Moreno"#g'  | \
+ssam 's#"Cardenas Palomino"#"Luis Cardenas Palomino"#g'  | \
+ssam 's#"Luis Carlos"#"Luis Carlos Galan"#g'  | \
+ssam 's#"Echeverria"|"Echeverria Alvarez"|"Luis Echeverria"#"Luis Echeverria Alvarez"#g'  | \
+ssam 's#"Luis Eduardo Echeverria"#"Luis Eduardo Echeverria Zuño"#g'  | \
+ssam 's#"Fernandez Ruiz"#"Luis Francisco Fernandez Ruiz"#g'  | \
+ssam 's#"Pariente"#"Luis Guillermo Carrillo Rubio"#g'  | \
+ssam 's#"Jasso Rodriguez"#"Luis Jafet Jasso Rodriguez"#g'  | \
+ssam 's#"Lopez Martinez"#"Luis Manuel Lopez Martinez"#g'  | \
+ssam 's#"Luis Rivera"#"Luis Rivera Montes Oca"#g'  | \
+ssam 's#"Vale"#"Luis Vale Palma"#g'  | \
+ssam 's#"Alejandra Casas"#"Maira Alejandra Casas Saldana"#g'  | \
+ssam 's#"Beltrones"#"Manlio Fabio Beltrones"#g'  | \
+ssam 's#"Manuel Alejandro"|"Manuel Alejandro Gomez"#"Manuel Alejandro Gomez Bravo"#g'  | \
+ssam 's#"Avila Camacho"#"Manuel Avila Camacho"#g'  | \
+ssam 's#"Bartlett Diaz"#"Manuel Bartlett Diaz"#g'  | \
+ssam 's#"Beltran Arredondo"#"Manuel Beltran Arredondo"#g'  | \
+ssam 's#"Manuel Buendia"#"Manuel Buendia Telles-Giron"#g'  | \
+ssam 's#"Clouthier"|"Clouthier Carrillo"|"Manuel Clouthier"|"Manuel Jesus Clouthier"#"Manuel Clouthier Carrillo"#g'  | \
+ssam 's#"Garcia Ruiz"#"Manuel Garcia Ruiz"#g'  | \
+ssam 's#"Garcia Sandoval"#"Manuel Garcia Sandoval"#g'  | \
+ssam 's#"Garcia Simental"#"Manuel Garcia Simental Muletas"#g'  | \
+ssam 's#"Chato"|"Manuel Ibarra"|"Manuel Ibarra Herrera"#"Manuel Ibarra Herrera Chato"#g'  | \
+ssam 's#"Jesus Villarreal"#"Manuel Jesus Villarreal"#g'  | \
+ssam 's#"Lazcano Ochoa"|"Manuel Lazcano"#"Manuel Lazcano Ochoa"#g'  | \
+ssam 's#"Doctor"#"Manuel Ochoa Martinez"#g'  | \
+ssam 's#"Pozos"#"Manuel Pozos"#g'  | \
+ssam 's#"Manuel Salcido"|"Manuel Salcido Uzueta"#"Manuel Salcido Uzueta Cochiloco"#g'  | \
+ssam 's#"Marcela Alejandra Saenz"#"Marcela Alejandra Saenz Hirschfeld"#g'  | \
+ssam 's#"Julio"|"Marcelo Peña"#"Marcelo Peña Garcia"#g'  | \
+ssam 's#"Adame"#"Marco Antonio Adame"#g'  | \
+ssam 's#"Arturo Beltran"|"Beltran Leyva"#"Arturo Beltran Leyva"#g'  | \
+ssam 's#"Barbas"|"Marcos Arturo"|"Marcos Arturo Beltran Leyva"#"Marcos Arturo Beltran Leyva Barbas"#g'  | \
+ssam 's#"Marcos Tinoco Gancedo"|"Tinoco Gancedo"#"Marcos Tinoco Gancedo Coronel"#g'  | \
+ssam 's#"Alejandrina"|"Alejandrina Maria Salazar"|"Alejandrina Maria Salazar Hernandez"|"Maria Alejandrina"|"Salazar Hernandez"#"Maria Alejandrina Guadalupe Salazar Hernandez"#g'  | \
+ssam 's#"Coronel Villarreal"|"Maria Jesus"#"Maria Jesus Coronel Villarreal"#g'  | \
+ssam 's#"Lima Malvido"#"Maria Luz Lima Malvido"#g'  | \
+ssam 's#"Guadalupe Morfin"|"Guadalupe Morfin Otero"|"Morfin"|"Morfin Otero"|"Morfin Otero"#"Maria Guadalupe Morfin Otero"#g'  | \
+ssam 's#"Herran Salvatti"#"Mariano Herran Salvatti"#g'  | \
+ssam 's#"Saynez Mendoza"#"Mariano Saynez Mendoza"#g'  | \
+ssam 's#"Maria Patricia"#"Maria Patricia Rodriguez"#g'  | \
+ssam 's#"Esparragoza Moreno"#"Maria Pomposa Esparragoza Moreno"#g'  | \
+ssam 's#"Villar Becerra"#"Maria Rocio Villar Becerra"#g'  | \
+ssam 's#"Cardenas Morfin"#"Maria Zulema Cardenas Morfin"#g'  | \
+ssam 's#"Beltran Leyva"|"Mario Alberto"|"Mario Alberto Beltran Leyva"#"Mario Alberto Beltran Leyva General"#g'  | \
+ssam 's#"Mario Alberto"|"Mario Alberto Gonzalez"#"Mario Alberto Gonzalez Treviño"#g'  | \
+ssam 's#"Mario Arturo"#"Mario Arturo Acosta Chaparro"#g'  | \
+ssam 's#"Gallo"#"Mario Carrasco Coronel"#g'  | \
+ssam 's#"Lopez Valdez"#"Mario Lopez Valdez"#g'  | \
+ssam 's#"Lopez Velarde"|"Mario Lopez Velarde"#"Mario Lopez Velarde Malova"#g'  | \
+ssam 's#"Mayito"#"Mario Nuñez Meza"#g'  | \
+ssam 's#"Mario"#"Mario Pineda"#g'  | \
+ssam 's#"Rivas Souza"#"Mario Rivas Souza"#g'  | \
+ssam 's#"Mario Vazquez"|"Vazquez Mendez"#"Mario Vazquez Mendez"#g'  | \
+ssam 's#"Vazquez Raña"#"Mario Vazquez Raña"#g'  | \
+ssam 's#"Mario Velarde"#"Mario Velarde Martinez"#g'  | \
+ssam 's#"Mario Villanueva"#"Mario Villanueva Madrid"#g'  | \
+ssam 's#"Lupercio"#"Martin Lupercio"#g'  | \
+ssam 's#"Martin Moreno"#"Martin Moreno Valdes"#g'  | \
+ssam 's#"Mauricio"|"Mauricio Fernandez"#"Mauricio Fernandez Garza"#g'  | \
+ssam 's#"Mauricio Ibarra"#"Mauricio Ibarra "#g'  | \
+ssam 's#"Quijano Santoyo"#"Maximino Quijano Santoyo"#g'  | \
+ssam 's#"Braun"#"Michael Braun"#g'  | \
+ssam 's#"Miguel Angel Beltran"#"Miguel Angel Beltran Olguin"#g'  | \
+ssam 's#"Cambron"#"Miguel Angel Cambron Rojas"#g'  | \
+ssam 's#"Kala"#"Miguel Angel Carranza"#g'  | \
+ssam 's#"Felix Gallardo"|"Miguel"|"Miguel Angel Felix"|"Miguel Angel Felix Gallardo"|"Miguel Felix Gallardo"#"Miguel Angel Felix Gallardo Jefe Jefes"#g'  | \
+ssam 's#"Godinez Cardenas"|"Miguel Angel Godinez"|"Miguel Angel Godinez Cardenas"#"Miguel Angel Godinez "#g'  | \
+ssam 's#"Mudo"#"Miguel Angel Guzman"#g'  | \
+ssam 's#"Leal Amador"#"Miguel Angel Leal Amador"#g'  | \
+ssam 's#"Miguel Angel Segoviano"|"Segoviano Berbera"#"Miguel Angel Segoviano Berbera"#g'  | \
+ssam 's#"Miguel Angel"|"Miguel Angel Yunes"|"Yunes Linares"#"Miguel Angel Yunes Linares"#g'  | \
+ssam 's#"Beltran Lugo"|"Ceja"|"Ceja Güera"|"Miguel Angel Beltran Lugo"#"Miguel Beltran Lugo"#g'  | \
+ssam 's#"Madrid Hurtado"|"Miguel Madrid"#"Miguel Madrid Hurtado"#g'  | \
+ssam 's#"Nazar Haro"#"Miguel Nazar Haro"#g'  | \
+ssam 's#"Muerto"#"Miguel Angel Treviño Barbas Z40"#g'  | \
+ssam 's#"Acosta Lugo"|"Nahum"|"Nahum Acosta"#"Nahum Acosta Lugo"#g'  | \
+ssam 's#"Martinez Gonzalez"|"Martinez Gonzalez"#"Nicolas Humberto Martinez Gonzalez"#g'  | \
+ssam 's#"Flaco Salgueiro"|"Salgueiro"#"Noel Salgueiro Nevarez"#g'  | \
+ssam 's#"Ramirez Mandujano"#"Noe Ramirez Mandujano"#g'  | \
+ssam 's#"Robles Hernandez"#"Noe Robles Hernandez"#g'  | \
+ssam 's#"Beto Quintanilla"|"Norberto Quintanilla Iracheta"#"Norberto Quintanilla Iracheta Beto Quintanilla"#g'  | \
+ssam 's#"Gibbs"#"Norman Gibbs"#g'  | \
+ssam 's#"Lara Salazar"#"Octavio Lara Salazar"#g'  | \
+ssam 's#"Lopez Vega"#"Octavio Lopez Vega"#g'  | \
+ssam 's#"Ofelia Contreras"#"Ofelia Contreras Gonzalez"#g'  | \
+ssam 's#"Olegario"|"Tirador"#"Olegario Vazquez Raña"#g'  | \
+ssam 's#"Patricia Gastelum"#"Olga Gastelum Escobar"#g'  | \
+ssam 's#"Comandante Ramiro"#"Omar Guerrero Solis"#g'  | \
+ssam 's#"Gutierrez Aguilar"#"Orlando Ivan Gutierrez Aguilar"#g'  | \
+ssam 's#"Flores Sanchez"#"Oscar Flores Sanchez"#g'  | \
+ssam 's#"Lozano Aguilar"#"Oscar Lozano Aguilar"#g'  | \
+ssam 's#"Cristo"|"Cristobal"#"Oscar Moran Angulo"#g'  | \
+ssam 's#"Perez Campos"#"Oscar Perez Campos"#g'  | \
+ssam 's#"Sanchez Diaz"#"Oscar Sanchez Diaz"#g'  | \
+ssam 's#"Cardenas"|"Cardenas Guillen"|"Osiel Cardenas"#"Osiel Cardenas Guillen"#g'  | \
+ssam 's#"Gomez Contreras"#"Osvaldo Benjamin Gomez Contreras"#g'  | \
+ssam 's#"Perez Molina"#"Otto Perez Molina"#g'  | \
+ssam 's#"Acosta Villarreal"|"Pablo Acosta"|"Zorro"#"Pablo Acosta Villarreal"#g'  | \
+ssam 's#"Beltran Redondo"#"Pablo Beltran Redondo"#g'  | \
+ssam 's#"Escobar"|"Pablo Escobar"#"Pablo Escobar Gaviria"#g'  | \
+ssam 's#"Niño Rodriguez"|"Pablo Felipe"#"Pablo Felipe Niño Rodriguez"#g'  | \
+ssam 's#"Macias"#"Pablo Macias"#g'  | \
+ssam 's#"Pablo Tostado"|"Tostado Felix"#"Pablo Tostado Felix"#g'  | \
+ssam 's#"Gonzalez"|"Gonzalez Rodriguez"#"Patricia Gonzalez Rodriguez"#g'  | \
+ssam 's#"Patricia"|"Patricia Guzman"#"Patricia Guzman Nuñez"#g'  | \
+ssam 's#"Malacon Amador"#"Patricia Malacon Amador"#g'  | \
+ssam 's#"Paul"#"Paul Gootemberg"#g'  | \
+ssam 's#"Pedro Alatriste Davalos"|"Pedro Barraza Urtusuastegui"|"Piri"#"Pedro Alfonso Alatorre Damy"#g'  | \
+ssam 's#"Aviles Perez"|"Guillermo Perez"|"Leon"|"Pedro Aviles"#"Pedro Aviles Perez"#g'  | \
+ssam 's#"Diaz Parada"#"Pedro Diaz Parada"#g'  | \
+ssam 's#"Gonzalez Alcorta"#"Pedro Gonzalez Alcorta"#g'  | \
+ssam 's#"Pedro Haro"#"Pedro Haro Gutierrez"#g'  | \
+ssam 's#"Lupercio"#"Pedro Lupercio Serrato"#g'  | \
+ssam 's#"Villeda Aguilar"#"Pedro Noel Villeda Aguilar"#g'  | \
+ssam 's#"Ojeda Paullada"#"Pedro Ojeda Paullada"#g'  | \
+ssam 's#"Perez Lopez"#"Pedro Perez Lopez"#g'  | \
+ssam 's#"Arturo Guzman"|"Pollo Guzman"#"Pollo Guzman Loera"#g'  | \
+ssam 's#"Negron Mendoza"#"Porfirio Adolfo Negron Mendoza"#g'  | \
+ssam 's#"Quijano Santoyo"#"Quijano Santoyo Gonzalez"#g'  | \
+ssam 's#"Aguilar Guajardo"|"Rafael Aguilar"#"Rafael Aguilar Guajardo"#g'  | \
+ssam 's#"Caro"|"Caro Quintero"|"Rafael"|"Rafael Caro"|"Rafael Caro Quintero"#"Rafael Caro Quintero Principe"#g'  | \
+ssam 's#"Ceron"|"Ceron Medina"#"Rafael Ceron Medina"#g'  | \
+ssam 's#"Rafael Dorantes Paz"#"Rafael Dorantes"#g'  | \
+ssam 's#"Macedo Concha"|"Rafael Macedo"#"Rafael Macedo Concha"#g'  | \
+ssam 's#"Solis"#"Rafael Solis"#g'  | \
+ssam 's#"Leon Carpio"#"Ramiro Leon Carpio"#g'  | \
+ssam 's#"Ramiro Mireles"#"Ramiro Mireles Felix"#g'  | \
+ssam 's#"Ramon Alberto"#"Ramon Alberto Garza"#g'  | \
+ssam 's#"Ramona Leyva"#"Ramona Leyva Gamez"#g'  | \
+ssam 's#"Arellano Felix"|"Ramon"|"Ramon Arellano"#"Ramon Arellano Felix"#g'  | \
+ssam 's#"Milian Rodriguez"#"Ramon Milian Rodriguez"#g'  | \
+ssam 's#"Ramon Eduardo Pequeño Garcia"#"Ramon Pequeño"#g'  | \
+ssam 's#"Torres Hernandez"#"Ramon Torres Hernandez"#g'  | \
+ssam 's#"Spunky"#"Ramon Torres Mendez"#g'  | \
+ssam 's#"Ibarra Celis"#"Raul Angel Ibarra Celis"#g'  | \
+ssam 's#"Enriquez Parra"|"Raul Enriquez"|"Raul Enriquez Parra"#"Raul Enriquez Parra Güero Nueve"#g'  | \
+ssam 's#"Guzman Ruiz"#"Raul Guzman Ruiz"#g'  | \
+ssam 's#"Raul Salinas"#"Raul Salinas Gortari"#g'  | \
+ssam 's#"Coronel Villarreal"|"Raymundo Coronel"#"Raymundo Coronel Villarreal"#g'  | \
+ssam 's#"Gonzalez Quirarte"#"Rene Gonzalez Quirarte"#g'  | \
+ssam 's#"Padrino"|"Rodriguez Lopez"#"Reynaldo Rodriguez Lopez"#g'  | \
+ssam 's#"Ravelo"#"Ricardo Ravelo"#g'  | \
+ssam 's#"Tiul"#"Ricardo Takej Tiul"#g'  | \
+ssam 's#"Arroyo Guizar"|"Richard Arroyo"#"Richard Arroyo Guizar"#g'  | \
+ssam 's#"Aguilar Pico"#"Rigoberto Aguilar Pico"#g'  | \
+ssam 's#"Inzunza"#"Rigoberto Inzunza"#g'  | \
+ssam 's#"Roberto Hernandez"|"Roberto Hernandez Najar"#"Roberto Hernandez Najar Chiquitin"#g'  | \
+ssam 's#"Roberto Medina"#"Roberto Medina Moreno"#g'  | \
+ssam 's#"Orozco"#"Roberto Orozco"#g'  | \
+ssam 's#"Reyna Delgado"#"Roberto Reyna Delgado"#g'  | \
+ssam 's#"Roberto Sanchez"|"Sanchez Alpizar"#"Roberto Sanchez Alpizar"#g'  | \
+ssam 's#"Velasco"#"Roberto Velasco"#g'  | \
+ssam 's#"Niño Oro"|"Rodolfo Carrillo"#"Rodolfo Carrillo Fuentes"#g'  | \
+ssam 's#"Dorador"#"Rodolfo Dorador"#g'  | \
+ssam 's#"Elizondo"#"Rodolfo Elizondo Torres"#g'  | \
+ssam 's#"Garcia Gaxiola"|"Rodolfo Garcia Gaxiola"#"Rodolfo Garcia Gaxiola Chipi Chipilon"#g'  | \
+ssam 's#"Loaiza"#"Rodolfo Loaiza"#g'  | \
+ssam 's#"Sanchez Duarte"#"Rodolfo Sanchez Duarte"#g'  | \
+ssam 's#"Gitano"#"Rodolfo Valdes"#g'  | \
+ssam 's#"Rodolfo Zedillo Ponce"#"Rodolfo Zedillo Ponce Leon"#g'  | \
+ssam 's#"Arteaga Ocampo"#"Rodrigo Arteaga Ocampo"#g'  | \
+ssam 's#"Alba"|"Rogaciano"#"Rogaciano Alba"#g'  | \
+ssam 's#"Kelin"#"Rogelio Gonzalez Pizaña"#g'  | \
+ssam 's#"Sanchez Jimenez"#"Rogelio Sanchez Jimenez"#g'  | \
+ssam 's#"Hidalgo Eddy"#"Rolando Eugenio Hidalgo Eddy"#g'  | \
+ssam 's#"Rolando Vega"#"Rolando Vega Iniguez"#g'  | \
+ssam 's#"Rosa Emma"#"Rosa Emma Quintero Felix"#g'  | \
+ssam 's#"Chayon"|"Chayo Rivas"#"Rosario Guerrero Lugo"#g'  | \
+ssam 's#"Rosario Niebla Cardosa"#"Rosario Niebla Cardozo"#g'  | \
+ssam 's#"Hernandez Esparza"|"Ruben Hernandez"#"Ruben Hernandez Esparza"#g'  | \
+ssam 's#"Zuño Arce"#"Ruben Zuño Arce"#g'  | \
+ssam 's#"Zapata Cisneros"#"Rubicel Zapata Cisneros"#g'  | \
+ssam 's#"Salome Hernandez"#"Salome Hernandez Ramirez"#g'  | \
+ssam 's#"Chava Gomez"#"Salvador Gomez"#g'  | \
+ssam 's#"Moreno Chavez"#"Salvador Moreno Chavez"#g'  | \
+ssam 's#"Peralta Perez"#"Salvador Peralta Perez"#g'  | \
+ssam 's#"Samuel"|"Samuel Ramirez"#"Samuel Ramirez Razo"#g'  | \
+ssam 's#"Romero Valle"#"Samuel Romero Valle"#g'  | \
+ssam 's#"Avila Beltran"|"Reina"|"Reina Pacifico"#"Sandra Avila Beltran"#g'  | \
+ssam 's#"Acosta Quintero"#"Sandra Gisel Acosta Quintero"#g'  | \
+ssam 's#"Alfonso Lopez"|"Santiago Alfonso Lopez"#"Santiago Alfonso Lopez Castelum"#g'  | \
+ssam 's#"Santiago Creel"#"Santiago Creel Miranda"#g'  | \
+ssam 's#"Meza Lopez"|"Pozolero"|"Santiago Meza"#"Santiago Meza Lopez"#g'  | \
+ssam 's#"Sara Cosio"#"Sara Cosio Martinez"#g'  | \
+ssam 's#"Saul Rivera"#"Saul Rivera Bon"#g'  | \
+ssam 's#"Rubio Ayala"#"Saul Rubio Ayala"#g'  | \
+ssam 's#"Aguilar Hernandez"#"Sergio Aguilar Hernandez"#g'  | \
+ssam 's#"Sergio Castañeda Medina"#"Sergio Castañeda Medina Guacho"#g'  | \
+ssam 's#"Espino"#"Sergio Espino Verdin"#g'  | \
+ssam 's#"Sergio Estrada"#"Sergio Estrada Cajigal"#g'  | \
+ssam 's#"Fierro Chavez"#"Sergio Fierro Chavez"#g'  | \
+ssam 's#"Garcia Ramirez"#"Sergio Garcia Ramirez"#g'  | \
+ssam 's#"Ortiz Juarez"#"Sergio Humberto Ortiz Juarez Apa"#g'  | \
+ssam 's#"Quijano Santoyo"#"Sergio Quijano Santoyo"#g'  | \
+ssam 's#"Sanchez Ramos"#"Sergio Sanchez Ramos"#g'  | \
+ssam 's#"Sergio Villarreal"#"Sergio Villarreal Barragan"#g'  | \
+ssam 's#"Canicon"|"Talamantes Najera"#"Sigifredo Talamantes Najera"#g'  | \
+ssam 's#"Silvestre Mateo"#"Silvestre Mateo Cruz"#g'  | \
+ssam 's#"Silvia Vargas"#"Silvia Vargas Escalera"#g'  | \
+ssam 's#"Hernandez Soto"|"Jesus Hernandez"#"Silvio Isidro Jesus Hernandez Soto"#g'  | \
+ssam 's#"Sofia Moreno"#"Sofia Moreno Uribe"#g'  | \
+ssam 's#"Bello"#"Teodoro Bello"#g'  | \
+ssam 's#"Garcia Simental"|"Teodoro Garcia Simental"|"Tres Letras"#"Teodoro Garcia Simental Teo"#g'  | \
+ssam 's#"Gaviota"|"Mauricio Fino"#"Teodoro Mauricio Fino Restrepo"#g'  | \
+ssam 's#"Ramirez Juarez"#"Teodoro Ramirez Juarez"#g'  | \
+ssam 's#"Jesus Galindo"#"Teresa Jesus Galindo Quiñones"#g'  | \
+ssam 's#"Jose Martinez"#"Tirso Martinez Sanchez"#g'  | \
+ssam 's#"Colsa McGregor"#"Tomas Colsa McGregor"#g'  | \
+ssam 's#"Ulises Ruiz Ortiz"#"Ulises Ruiz"#g'  | \
+ssam 's#"Martinez Madera"#"Uriel Martinez Madera"#g'  | \
+ssam 's#"Palma Salazar"#"Valerio Palma Salazar"#g'  | \
+ssam 's#"Gamboa"#"Ventura Gamboa"#g'  | \
+ssam 's#"Vicente Carrillo Fuentes"|"Viceroy"#"Vicente Carrillo Fuentes Viceroy"#g'  | \
+ssam 's#"Carrillo Leyva"|"Ingeniero"|"Vicente Carrillo Leyva"#"Vicente Carrillo Leyva Ingeniero"#g'  | \
+ssam 's#"Vicente Zambada"#"Vicente Zambada Niebla"#g'  | \
+ssam 's#"Clark Alfaro"#"Victor Clark Alfaro"#g'  | \
+ssam 's#"Cazares"|"Cazares Gastelum"#"Victor Emilio Cazares Gastelum"#g'  | \
+ssam 's#"Victor Felipe Garza"#"Victor Felipe Garza Herrada"#g'  | \
+ssam 's#"Garay"|"Garay Cadena"|"Gerardo Garay"|"Gerardo Garay Cadena"#"Victor Gerardo Garay Cadena"#g'  | \
+ssam 's#"Adato Green"#"Victoria Adato Green Ibarra"#g'  | \
+ssam 's#"Victor Manuel"|"Victor Manuel Godoy"#"Victor Manuel Godoy Rodriguez"#g'  | \
+ssam 's#"Lopez Razon"#"Victor Manuel Lopez Razon"#g'  | \
+ssam 's#"Jaime Monzon Ramirez"|"Manuel Mena Solis"#"Victor Manuel Mena Solis"#g'  | \
+ssam 's#"Victor Manuel"#"Victor Manuel Patiño Esquivel"#g'  | \
+ssam 's#"Garcia Medel"#"Victor Rodolfo Garcia Medel"#g'  | \
+ssam 's#"Rosas Montes"#"Victor Rosas Montes"#g'  | \
+ssam 's#"Violeta Barrios"#"Violeta Barrios Chamorro"#g'  | \
+ssam 's#"Robledo Madrid"#"Wilfrido Robledo Madrid"#g'  | \
+ssam 's#"Veliz"#"Will Veliz"#g'  | \
+ssam 's#"Scott"#"Winston Scott"#g'  | \
+ssam 's#"Torreblanca"|"Torreblanca Galindo"|"Zeferino Torreblanca Galindo"#"Zeferino Torreblanca"#g'  | \
+ssam 's#"Hernandez Ramirez"|"Zulema Hernandez"#"Zulema Yulia Hernandez Ramirez"#g'
