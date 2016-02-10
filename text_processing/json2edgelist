@@ -1,5 +1,6 @@
 #!/bin/sh
 for f in "$@"; do
 	python2 ./json2pickle.py --json "$f" --pickle "$f.pickle"
-	python2 ./pickle2edgelist.py --pickle "$f.pickle"
+	python2 ./pickle2edgelist.py --pickle "$f.pickle" > "$f.edgelist"
+	rm "$f.pickle"
 done
