@@ -300,7 +300,7 @@
 "Jesus Reynaldo Zambada Garcia" => ["Jesus Zambada Garcia", "Zambada Garcia"],
 "Jesus Vizcaino Medina" => ["Jesus Vizcaino", "Vizcaino Medina"],
 "Jesus Zambada Reyes" => ["Zambada Reyes"],
-"Joaquin Archivaldo Guzman Loera Chapo Guzman" => ["Chapo", "Guzman", "Guzman Loera", "Joaquin", "Joaquin Archivaldo", "Joaquin Archivaldo Guzman Loera", "Joaquin Guzman Loera"],
+"Joaquin Archivaldo Guzman Loera Chapo Guzman" => ["Chapo", "Chapo Guzman", "Guzman", "Guzman Loera", "Joaquin", "Joaquin Archivaldo", "Joaquin Archivaldo Guzman Loera", "Joaquin Guzman Loera"],
 "Joaquin Ernesto Hendricks Diaz" => ["Joaquin Ernesto"],
 "Joaquin Hernandez Galicia" => ["Quina"],
 "Joel Rene Garcia Cervantes " => ["Joel Rene Garcia", "Joel Rene Garcia Cervantes"],

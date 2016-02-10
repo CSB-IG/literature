@@ -1,4 +1,5 @@
-ssam 's#"Saenz"|"Saenz Couret"#"Aaron Saenz Couret"#g'  | \
+#!/bin/sh
+ssam 's#"Saenz"|"Saenz Couret"#"Aaron Saenz Couret"#g' $@ | \
 ssam 's#"Silva Diaz"#"Abel Silva Diaz"#g'  | \
 ssam 's#"Silva Petriciolet"#"Abel Silva Petriciolet"#g'  | \
 ssam 's#"Abel"#"Abel Vazquez Raña"#g'  | \
@@ -149,7 +150,6 @@ ssam 's#"Moreno Arriola"#"Erendira Moreno Arriola"#g'  | \
 ssam 's#"Zamora Pardo"#"Erika Zamora Pardo"#g'  | \
 ssam 's#"Don Neto"|"Ernesto Fonseca"|"Fonseca"|"Fonseca Carrillo"|"Neto"|"Neto Fonseca"#"Ernesto Fonseca Carrillo"#g'  | \
 ssam 's#"Godinez Hernandez"#"Ernesto Godinez Hernandez"#g'  | \
-ssam 's#"Guzman Loera"#"Ernesto Guzman Loera"#g'  | \
 ssam 's#"Ibarra"|"Ibarra Santes"#"Ernesto Ibarra Santes"#g'  | \
 ssam 's#"Ruffo Appel"#"Ernesto Ruffo Appel"#g'  | \
 ssam 's#"Zedillo"#"Ernesto Zedillo"#g'  | \
