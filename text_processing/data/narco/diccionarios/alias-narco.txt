@@ -149,7 +149,6 @@
 "Erika Zamora Pardo" => ["Zamora Pardo"],
 "Ernesto Fonseca Carrillo" => ["Don Neto", "Ernesto Fonseca", "Fonseca", "Fonseca Carrillo", "Neto", "Neto Fonseca"],
 "Ernesto Godinez Hernandez" => ["Godinez Hernandez"],
-"Ernesto Guzman Loera" => ["Guzman Loera"],
 "Ernesto Ibarra Santes" => ["Ibarra", "Ibarra Santes"],
 "Ernesto Ruffo Appel" => ["Ruffo Appel"],
 "Ernesto Zedillo" => ["Zedillo"],
