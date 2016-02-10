@@ -13,12 +13,18 @@ args   = parser.parse_args()
 
 all_sentences = json.load(args.json)
 
+numbered_sentences = [int(n) for n in all_sentences.keys()]
+numbered_sentences.sort()
+
 from pprint import pprint
 
 g = nx.Graph()
 
-last_key = int(all_sentences.keys()[-1])
+
+last_key = numbered_sentences[-1]
 for i in range(last_key):
+    print i,all_sentences.get(str(i)),all_sentences.get(str(i+1)),all_sentences.get(str(i+2))
+    
     # connect names in same sentence
     for pair in combinations(all_sentences.get(str(i),[]), 2):
         edge_data = g.get_edge_data(*pair)
