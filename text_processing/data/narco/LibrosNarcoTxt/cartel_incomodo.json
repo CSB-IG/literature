@@ -639,20 +639,16 @@
         "Enrique Rumbos"
     ], 
     "303": [
-        "Mexico", 
-        "Herrera", 
-        "Profe", 
-        "Ingeniero"
+        "Otto Herrera Profe", 
+        "Otto Herrera Ingeniero"
     ], 
     "304": [
-        "Herrera", 
-        "Mexico"
+        "Herrera"
     ], 
     "307": [
-        "Herrera", 
+        "Otto Herrera", 
         "Poot", 
-        "Perez", 
-        "Gracia", 
+        "Perez Gracia", 
         "Profe"
     ], 
     "308": [
@@ -675,36 +671,16 @@
         "Sinaloa"
     ], 
     "314": [
-        "Mexico", 
-        "Guatemala", 
-        "Andres", 
-        "Guinea", 
-        "Africa", 
         "Carmelo Vazquez Guerra", 
         "Carmelo", 
-        "Miguel", 
-        "Carmen", 
-        "Campeche"
+        "Miguel"
     ], 
     "315": [
-        "Washington", 
         "Felipe Calderon", 
         "Alvaro Uribe"
     ], 
     "316": [
-        "Cali", 
-        "Chapo Guzman", 
-        "Sinaloa"
-    ], 
-    "318": [
-        "Pais", 
-        "Sinaloa"
-    ], 
-    "321": [
-        "Mexico", 
-        "Palma", 
-        "Puente Grande", 
-        "Jalisco"
+        "Chapo Guzman"
     ], 
     "322": [
         "Antonio Aguilar Garzon"
@@ -719,9 +695,8 @@
         "Enrique Camarena", 
         "Puente Grande", 
         "Chapo", 
-        "G\u00fcero Palma", 
+        "Güero Palma", 
         "Arturo Martinez Herrera", 
-        "Texas", 
         "Mariano Morales"
     ], 
     "325": [
@@ -741,17 +716,14 @@
     "333": [
         "Chapo", 
         "Yunes", 
-        "Enrique Perez Rodriguez", 
-        "Gobierno", 
-        "Veracruz"
+        "Enrique Perez Rodriguez"
     ], 
     "335": [
         "Guzman Loera"
     ], 
     "337": [
         "Yunes", 
-        "Perez Rodriguez", 
-        "Veracruz"
+        "Perez Rodriguez"
     ], 
     "338": [
         "Raymundo Jimenez"
@@ -765,23 +737,17 @@
         "Miguel Angel Yunes"
     ], 
     "344": [
-        "Puente Grande", 
         "Beltran", 
         "Chapo"
     ], 
     "345": [
         "Chapo", 
-        "Sinaloa", 
         "Damaso Lopez", 
         "Luis Francisco Fernandez Ruiz"
     ], 
-    "346": [
-        "Puente Grande"
-    ], 
     "347": [
-        "Como", 
         "Chapo", 
-        "G\u00fcero Palma", 
+        "Güero Palma", 
         "Texas Herrera"
     ], 
     "348": [
@@ -796,7 +762,6 @@
         "Joaquin"
     ], 
     "351": [
-        "Sinaloa", 
         "Brisa", 
         "Yolanda Gonzalez", 
         "Maria Elena Bonilla", 
@@ -821,8 +786,7 @@
         "Chapo Guzman"
     ], 
     "359": [
-        "Francisco Javier Camberos Rivera", 
-        "Chito"
+        "Francisco Javier Camberos Rivera Chito"
     ], 
     "360": [
         "Chito", 
@@ -905,7 +869,7 @@
         "Adolfo Aguilar"
     ], 
     "395": [
-        "Vicente", 
+        "Vicente Fox", 
         "Morfin", 
         "Aguilar"
     ], 
@@ -1628,10 +1592,9 @@
         "Gomez"
     ], 
     "728": [
-        "Vale", 
         "Vizcarra", 
         "Javier Usabiaga", 
-        "Vicente"
+        "Vicente Fox"
     ], 
     "729": [
         "Heraclio Bernal", 
@@ -2647,8 +2610,7 @@
     ], 
     "1142": [
         "Arturo Beltran Leyva", 
-        "Barbas", 
-        "Washington"
+        "Barbas"
     ], 
     "1145": [
         "Vale", 
@@ -2804,12 +2766,8 @@
         "Barbas", 
         "Armada"
     ], 
-    "1222": [
-        "Armada", 
-        "Mexico"
-    ], 
     "1223": [
-        "Vicente", 
+        "Vicente Fox", 
         "Felipe Calderon"
     ], 
     "1225": [
@@ -2857,8 +2815,6 @@
     "1237": [
         "Ramirez Mandujano", 
         "Calderon", 
-        "Washington", 
-        "Chihuahua", 
         "Jose Reyes Baeza"
     ], 
     "1245": [
@@ -2920,8 +2876,7 @@
         "Felipe Calderon Hinojosa"
     ], 
     "1305": [
-        "Mexico", 
-        "Vicente"
+        "Vicente Fox"
     ], 
     "1306": [
         "Felipe Calderon"
@@ -2955,10 +2910,6 @@
     ], 
     "1341": [
         "Felipe Calderon"
-    ], 
-    "1349": [
-        "Washington", 
-        "Merida"
     ], 
     "1358": [
         "Sinaloa", 
@@ -3084,8 +3035,7 @@
         "Beltran Leyva"
     ], 
     "1417": [
-        "Vicente", 
-        "Quesada"
+        "Vicente Fox Quesada"
     ], 
     "1420": [
         "Miguel Agustin", 
@@ -3093,10 +3043,7 @@
         "Felipe Calderon"
     ], 
     "1421": [
-        "Armada", 
-        "Mexico", 
-        "Arturo Beltran Leyva", 
-        "Washington"
+        "Arturo Beltran Leyva"
     ], 
     "1438": [
         "Alfredo Jimenez Mota"
@@ -4015,8 +3962,7 @@
         "Mario Villanueva Madrid"
     ], 
     "1995": [
-        "Villanueva", 
-        "Washington"
+        "Villanueva"
     ], 
     "1996": [
         "Damaso Lopez", 
