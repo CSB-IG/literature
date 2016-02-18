@@ -1,0 +1,6 @@
+#!/bin/sh
+ssam ",x y#'[^']*'# c#\n#" $@ | \
+	sort | \
+	uniq | \
+	tail -n +2 | \
+	ssam ',x#\n# c#, #'

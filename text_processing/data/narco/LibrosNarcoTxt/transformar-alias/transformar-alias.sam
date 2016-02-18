@@ -1,0 +1,6 @@
+#!/bin/sh
+while read line ; do
+        NOMBRE=$(echo "$line" | ssam ", y#^['\"][^'\"]*['\"]|\n# d")
+	EXPR=$(echo "$line" | extraer-corchetes.sam | ssam -e ", x#\[|\],?# d" | ssam -e ", x#, # c#|#" )
+        echo ssam \'"s#""${EXPR}""#""${NOMBRE}""#g"\' " | \\"
+done

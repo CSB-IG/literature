@@ -1,0 +1,5 @@
+#!/bin/sh
+while read line ; do
+	NOMBRE=$(echo "$line" | ssam ", y#^'[^']*'|\n# d")
+	echo $line | ssam "s#""${NOMBRE}"", ##"
+done

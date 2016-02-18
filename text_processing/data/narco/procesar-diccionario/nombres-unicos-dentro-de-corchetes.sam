@@ -1,0 +1,2 @@
+#!/bin/sh
+ssam ',x x#\[.*\]# y#\[|\]# |'`pwd`'/nombres-unicos.sam' $@
