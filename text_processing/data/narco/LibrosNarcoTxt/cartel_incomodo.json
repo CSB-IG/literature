@@ -2602,17 +2602,10 @@
     "1403": [
         "Alba"
     ], 
-    "1409": [
-        "Guamuchil", 
-        "Sinaloa", 
-        "Sinaloa"
-    ], 
     "1410": [
         "Beltran Leyva", 
         "Jaime Palma Valenzuela", 
-        "Miguel Beltran Uriarte", 
-        "Badiraguato", 
-        "Guamuchil"
+        "Miguel Beltran Uriarte"
     ], 
     "1412": [
         "Juan Heriberto Salinas Altes"
@@ -2628,12 +2621,9 @@
         "Cruz"
     ], 
     "1415": [
-        "Salinas Altes", 
-        "Guerrero"
+        "Salinas Altes"
     ], 
     "1416": [
-        "Guerrero", 
-        "Sinaloa", 
         "Beltran Leyva"
     ], 
     "1417": [
@@ -2641,7 +2631,6 @@
     ], 
     "1420": [
         "Miguel Agustin", 
-        "Juarez", 
         "Felipe Calderon"
     ], 
     "1421": [
@@ -2654,12 +2643,10 @@
         "Jimenez Mota"
     ], 
     "1441": [
-        "Alfredo Jimenez Mota", 
-        "Sonora"
+        "Alfredo Jimenez Mota"
     ], 
     "1442": [
-        "Alfredo", 
-        "Sonora"
+        "Alfredo"
     ], 
     "1445": [
         "Jimenez Mota"
@@ -2680,21 +2667,16 @@
         "Alfredo"
     ], 
     "1450": [
-        "Palma", 
-        "Sonora", 
         "Eduardo", 
         "Castelo", 
         "Alfredo Jimenez Mota"
     ], 
     "1451": [
-        "Tiempo", 
         "Saul Garcia Gaxiola", 
         "Rodolfo", 
         "Garcia Gaxiola", 
-        "Sonora", 
         "Federico Benitez Lopez", 
-        "Luis", 
-        "Colosio"
+        "Luis Colosio"
     ], 
     "1452": [
         "Saul", 
@@ -2716,8 +2698,7 @@
         "Saul Garcia Gaxiola"
     ], 
     "1460": [
-        "Pedro", 
-        "Hermosillo"
+        "Pedro"
     ], 
     "1461": [
         "Ignacio Garcia"
@@ -2735,10 +2716,6 @@
         "Chapito", 
         "Carlos Ramirez"
     ], 
-    "1482": [
-        "Leon", 
-        "Obregon"
-    ], 
     "1483": [
         "Sonora", 
         "Villa"
@@ -2746,8 +2723,7 @@
     "1486": [
         "Chapito Montoya", 
         "Raul Parra Enriquez", 
-        "Enriquez Parra", 
-        "Nueve"
+        "Enriquez Parra"
     ], 
     "1487": [
         "Chapito", 
@@ -2756,11 +2732,9 @@
         "Chapito"
     ], 
     "1494": [
-        "Raul Parra Enriquez", 
-        "Nueve"
+        "Raul Parra Enriquez"
     ], 
     "1498": [
-        "Como", 
         "Raul Parra Enriquez"
     ], 
     "1499": [
@@ -2768,8 +2742,7 @@
         "Valle"
     ], 
     "1500": [
-        "Parra", 
-        "Nueve"
+        "Parra"
     ], 
     "1502": [
         "Raul Parra", 
@@ -2781,27 +2754,17 @@
     "1511": [
         "Raul Parra Enriquez"
     ], 
-    "1513": [
-        "Nueve", 
-        "Sinaloa"
-    ], 
     "1516": [
         "Sanchez Lara"
-    ], 
-    "1517": [
-        "Nueve", 
-        "Sonora"
     ], 
     "1518": [
         "Raul Parra"
     ], 
     "1522": [
-        "Nueve", 
         "Hermosillo", 
         "Abel Murrieta"
     ], 
     "1523": [
-        "Como", 
         "Armando Coronado Zazueta", 
         "Villa"
     ], 
@@ -2813,7 +2776,6 @@
         "Luis Astorga"
     ], 
     "1550": [
-        "Creo", 
         "Cardenas"
     ], 
     "1554": [
@@ -2822,36 +2784,21 @@
         "Beltran Leyva", 
         "Astorga"
     ], 
-    "1564": [
-        "Chihuahua", 
-        "Juarez"
-    ], 
     "1568": [
         "Samuel Gonzalez Ruiz"
     ], 
     "1569": [
-        "Puesto", 
-        "Mexico", 
         "Samuel Gonzalez"
     ], 
     "1601": [
         "Jose Luis"
     ], 
     "1606": [
-        "Mexico", 
-        "Colegio", 
-        "Mexico", 
         "Arturo Alvarado", 
         "Monica Serrano"
     ], 
     "1622": [
         "Fernando Marti"
-    ], 
-    "1633": [
-        "Chihuahua", 
-        "Mexico", 
-        "Villas", 
-        "Juarez"
     ], 
     "1655": [
         "Sinaloa", 
@@ -2859,15 +2806,12 @@
         "Gabriel Garcia Marquez"
     ], 
     "1657": [
-        "Sinaloa", 
         "Melesio Cuen Ojeda"
     ], 
     "1658": [
         "Jesus Aguilar Padilla", 
         "Garcia Marquez", 
-        "Magdalena", 
-        "Sinaloa", 
-        "Mexico"
+        "Magdalena"
     ], 
     "1659": [
         "Hernan Cuevas Rivas"
@@ -2889,36 +2833,29 @@
     "1665": [
         "Gabriel", 
         "Mercedes", 
-        "Garcia Marquez", 
-        "Sinaloa"
+        "Garcia Marquez"
     ], 
     "1667": [
         "Antonio Sosa", 
-        "Salvador Alvarado", 
-        "Guamuchil"
+        "Salvador Alvarado"
     ], 
     "1671": [
         "Antonio Sosa"
     ], 
     "1674": [
         "Mora", 
-        "Luis", 
-        "Colosio"
+        "Luis Colosio"
     ], 
     "1675": [
         "Veracruz", 
         "Patricio Chirinos"
     ], 
     "1676": [
-        "Como", 
-        "Sinaloa", 
         "Sosa"
     ], 
     "1677": [
-        "Cuenta", 
         "Moro", 
         "Martinez", 
-        "Miguel", 
         "Miguel"
     ], 
     "1679": [
@@ -2929,38 +2866,14 @@
         "Atlas", 
         "Arturo Arango"
     ], 
-    "1721": [
-        "Juarez", 
-        "Chihuahua"
-    ], 
     "1725": [
         "Fernando", 
         "Cardoso", 
-        "Brasil", 
         "Ernesto Zedillo", 
-        "Mexico", 
         "Cesar"
     ], 
     "1730": [
-        "Como", 
-        "Federal", 
-        "Luis Cardenas Palomino", 
-        "Veracruz"
-    ], 
-    "1738": [
-        "Mexico", 
-        "Mexico"
-    ], 
-    "1740": [
-        "Oaxaca", 
-        "Veracruz", 
-        "Chihuahua"
-    ], 
-    "1741": [
-        "Durango", 
-        "Sinaloa", 
-        "Guerrero", 
-        "Quintana"
+        "Luis Cardenas Palomino"
     ], 
     "1758": [
         "Carlos Ortega Melo Samper", 
@@ -2968,21 +2881,16 @@
         "Jose Bladimir Antuna Garcia"
     ], 
     "1759": [
-        "Guerrero", 
         "Jean Paul Ibarra Ramirez", 
         "Juan Daniel Martinez Ortiz"
     ], 
     "1760": [
-        "Veracruz", 
         "Luis Daniel Mendez", 
         "Martin Javier Miranda", 
-        "Chihuahua", 
         "Norberto Miranda Madrid", 
-        "Jalisco", 
         "Jose Emilio Galindo", 
         "Quintana", 
         "Jose Alberto Velazquez", 
-        "Sinaloa", 
         "Jose Luis Romero"
     ], 
     "1763": [
@@ -2994,12 +2902,7 @@
         "Zamora"
     ], 
     "1766": [
-        "Aguilar", 
-        "Mexico"
-    ], 
-    "1767": [
-        "Zamora", 
-        "Mexico"
+        "Aguilar"
     ], 
     "1769": [
         "Marcos Camacho"
@@ -3012,25 +2915,20 @@
         "Meyer"
     ], 
     "1815": [
-        "Como", 
         "Alfredo Jimenez Mota", 
         "Hermosillo"
     ], 
     "1817": [
-        "Sonora", 
         "Beltran Leyva", 
         "Tres Caballeros", 
         "Joaquin", 
         "Chapo Guzman"
     ], 
     "1820": [
-        "Sonora", 
         "Ricardo Robinson", 
         "Castelo", 
-        "Cajeme", 
         "Eduardo", 
         "Roberto Tapia Chan", 
-        "Sonora", 
         "Abel Murrieta Gutierrez"
     ], 
     "1821": [
@@ -3053,14 +2951,9 @@
     "1840": [
         "Arizona", 
         "Juan Luis Guzman Enriquez", 
-        "Hermosillo", 
         "Joaquin Guzman Loera", 
         "Chapo", 
-        "Sonora", 
-        "Eduardo Santos Acosta Michel", 
-        "Nogales", 
-        "Arizona", 
-        "Mexico"
+        "Eduardo Santos Acosta Michel"
     ], 
     "1843": [
         "Ismael Zambada Garcia", 
@@ -3073,7 +2966,6 @@
     "1844": [
         "Alfredo", 
         "Carlos Beltran Leyva", 
-        "Tres", 
         "Salazar Ramirez", 
         "Adan Salazar Zamorano", 
         "Juan Diego Espinoza Ramirez", 
@@ -3092,11 +2984,8 @@
         "Güero"
     ], 
     "1846": [
-        "Tres", 
         "Rodolfo Garcia Gaxiola", 
-        "Sonora", 
-        "Arellano Felix", 
-        "Obregon", 
+        "Arellano Felix"
         "Cajeme"
     ], 
     "1848": [
@@ -3111,10 +3000,6 @@
         "Durango", 
         "Sinaloa", 
         "Sonora"
-    ], 
-    "1851": [
-        "Agua", 
-        "Nogales"
     ], 
     "1852": [
         "Alfredo", 
@@ -3153,10 +3038,8 @@
     ], 
     "1861": [
         "Durante", 
-        "California", 
         "Ignacio Allende", 
         "Miguel Hidalgo", 
-        "Santa Anita", 
         "Silvia Flores", 
         "Beltran Leyva"
     ], 
@@ -3165,35 +3048,26 @@
         "Beltran Leyva", 
         "Carlos Sanchez Rojas", 
         "Cajeme", 
-        "General", 
         "Roberto Tapia Chan"
     ], 
     "1863": [
         "Sanchez Rojas"
     ], 
     "1864": [
-        "Beltran Leyva", 
-        "Mexicano"
+        "Beltran Leyva"
     ], 
     "1865": [
         "Beltran Leyva", 
         "Manuel Madrid Salazar", 
-        "Pueblo", 
+
         "Cajeme"
     ], 
     "1867": [
         "Beltran Leyva", 
-        "Durazno", 
-        "Obregon", 
         "Cajeme"
     ], 
     "1868": [
-        "Hermosillo", 
-        "Beltran Leyva", 
-        "Chihuahua", 
-        "Durango", 
-        "Sinaloa", 
-        "Sonora"
+        "Beltran Leyva" 
     ], 
     "1870": [
         "Azucena Hermosillo Medina", 
@@ -3203,27 +3077,19 @@
     ], 
     "1873": [
         "Alfredo", 
-        "Carlos Beltran Leyva", 
-        "Tres"
+        "Carlos Beltran Leyva"
     ], 
     "1875": [
         "Carlos Beltran Leyva", 
         "Lerdo", 
-        "Tejada", 
-        "Culiacan"
+        "Tejada"
     ], 
     "1876": [
-        "Carlos Beltran Leyva", 
-        "General"
+        "Carlos Beltran Leyva"
     ], 
     "1877": [
         "Beltran Leyva", 
         "Silvia Flores Parra", 
-        "California", 
-        "Ignacio Allende", 
-        "Miguel Hidalgo", 
-        "Santa Anita", 
-        "Obregon", 
         "Cajeme"
     ], 
     "1878": [
@@ -3236,20 +3102,15 @@
     ], 
     "1881": [
         "Edmundo Taguada", 
-        "Villa Tizon", 
-        "Obregon", 
         "Cajeme"
     ], 
     "1882": [
         "Victor Manuel Lopez Ojeda"
     ], 
     "1885": [
-        "Lopez Ojeda", 
-        "Sonora", 
-        "Sonora"
+        "Lopez Ojeda"
     ], 
     "1886": [
-        "Pueblo", 
         "Cajeme"
     ], 
     "1887": [
@@ -3268,25 +3129,19 @@
     ], 
     "1891": [
         "Mayo", 
-        "Obregon", 
-        "Cajeme", 
-        "Sonora"
+        "Cajeme"
     ], 
     "1893": [
         "Garcia Morales", 
-        "Manga", 
-        "Hermosillo", 
-        "Sonora"
+        "Manga"
     ], 
     "1895": [
-        "General", 
         "Cajeme", 
         "Ricardo", 
         "Castelo"
     ], 
     "1896": [
         "Sostenes Valenzuela Miller", 
-        "Wenceslao Cota Montoya", 
         "Wenceslao Cota Montoya", 
         "Rolando Tavares Ibarra"
     ], 
@@ -3310,13 +3165,10 @@
         "Castelo"
     ], 
     "1904": [
-        "Hermano", 
-        "Sonora", 
         "Jose Eduardo Robinson", 
         "Castelo"
     ], 
     "1905": [
-        "Como", 
         "Cajeme", 
         "Roberto Tapia Chan", 
         "Rene Barranco Zarate", 
@@ -3325,19 +3177,14 @@
     ], 
     "1906": [
         "Roberto Tapia Chan", 
-        "General", 
         "Abel Murrieta Gutierrez", 
         "Guillermo Silva Montoya", 
-        "Gobierno", 
-        "Wenceslao Cota Montoya", 
-        "Gobierno"
+        "Wenceslao Cota Montoya"
     ], 
     "1909": [
         "Roberto Tapia Chan"
     ], 
     "1910": [
-        "Como", 
-        "General", 
         "Beltran Leyva"
     ], 
     "1911": [
@@ -3347,12 +3194,9 @@
         "Colorado", 
         "Luis Ortega Parra", 
         "Raul Guillen Rodriguez", 
-        "Nogales", 
         "Sergio Guevara Ontiveros", 
         "Ramon Ontamucha Ramirez", 
-        "Agua", 
-        "Trinidad Enrique Rodriguez Ayon", 
-        "Alamos"
+        "Trinidad Enrique Rodriguez Ayon"
     ], 
     "1912": [
         "Tapia Chan"
@@ -3370,8 +3214,7 @@
         "Gerardo Pozos Jimenez"
     ], 
     "1917": [
-        "Salazar Zamorano", 
-        "Chihuahua"
+        "Salazar Zamorano"
     ], 
     "1918": [
         "Enriquez Rosas"
@@ -3407,24 +3250,13 @@
         "Manuel Doblado", 
         "Toledo", 
         "Rincon", 
-        "Alfredo Salazar", 
         "Alfredo Salazar"
     ], 
     "1927": [
         "Abelardo Salazar Ramirez", 
-        "Agua", 
         "Abelardo Salazar"
     ], 
-    "1934": [
-        "Sonora", 
-        "General"
-    ], 
-    "1935": [
-        "General", 
-        "General"
-    ], 
     "1940": [
-        "General", 
         "Roberto Tapia Chan", 
         "Enriquez Parra"
     ], 
@@ -3435,12 +3267,9 @@
         "Colorado", 
         "Luis Ortega Parra", 
         "Raul Guillen Rodriguez", 
-        "Nogales", 
         "Sergio Guevara Ontiveros", 
         "Ramon Ontamucha Ramirez", 
-        "Agua", 
         "Trinidad Enrique Rodriguez Ayon", 
-        "Alamos", 
         "Tapia Chan"
     ], 
     "1942": [
@@ -3449,23 +3278,16 @@
         "Cajeme"
     ], 
     "1943": [
-        "General", 
-        "Sonora", 
         "Enriquez Parra", 
         "Raul", 
         "Alfredo Beltran Leyva", 
         "Mochomo", 
-        "Sinaloa", 
         "Joaquin Guzman Loera", 
         "Chapo", 
         "Ismael Zambada", 
-        "Mayo", 
-        "Sonora", 
-        "Chihuahua", 
-        "Sinaloa"
+        "Mayo"
     ], 
     "1944": [
-        "Junio", 
         "Gomez", 
         "Cajeme", 
         "Ramon Valles", 
@@ -3476,9 +3298,7 @@
         "Soria Cazarez", 
         "Cereso", 
         "Herrera", 
-        "Mario Luna Tapia", 
-        "Culiacan", 
-        "Sinaloa"
+        "Mario Luna Tapia"
     ], 
     "1946": [
         "Raul Enriquez Parra", 
@@ -3492,23 +3312,16 @@
         "Manuel Emilio Hoyos Sotelo"
     ], 
     "1947": [
-        "Cristobal Colon", 
-        "Chihuahua", 
         "Javier Valenzuela Mendoza", 
-        "Nogales", 
-        "Sonora", 
         "Jose Bernabe Enriquez Martinez"
     ], 
     "1950": [
         "Vidal Valenzuela Ortiz", 
         "Badiraguato", 
-        "Sinaloa", 
         "Ramon Castro Gutierrez", 
         "Ramon Enriquez Flores"
     ], 
     "1951": [
-        "Alamos", 
-        "Sinaloa", 
         "Martin", 
         "Aragon Panduro", 
         "Andres Gomez Salmeron", 
@@ -3531,26 +3344,9 @@
     "1960": [
         "Jose Reveles"
     ], 
-    "1967": [
-        "Miguel Hidalgo", 
-        "Mexico"
-    ], 
-    "1981": [
-        "America", 
-        "Mexico"
-    ], 
-    "1983": [
-        "America", 
-        "Europa"
-    ], 
     "1984": [
         "Collins", 
-        "Lumen", 
-        "Plaza"
-    ], 
-    "1989": [
-        "Mexico", 
-        "Federal"
+        "Lumen"
     ], 
     "1993": [
         "Mochomo", 
@@ -3581,14 +3377,12 @@
     ], 
     "1999": [
         "Avila", 
-        "Rodolfo Lopez Amavisca", 
-        "Hermosillo"
+        "Rodolfo Lopez Amavisca"
     ], 
     "2001": [
         "Rodolfo", 
         "Lopez Ibarra", 
-        "Nito", 
-        "Comandante"
+        "Nito"
     ], 
     "2002": [
         "Nito", 
