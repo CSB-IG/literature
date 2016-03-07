@@ -37,3 +37,7 @@ nosetests.xml
 
 # emacs backups
 *~
+
+# Other
+*.pickle
+.git*
